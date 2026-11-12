@@ -59,3 +59,5 @@
 - 22:31 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":357}},{"do":"mine","block":"oak_log","count":4}]}
 - 22:31 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":357}},{"do":"goto","target":{"x":-255,"y":67,"z":356}}],"say":"Kimberly, hold on — I'm having trouble moving but will try to reach you."}
 - 22:32 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":356}},{"do":"goto","target":{"x":-255,"y":67,"z":357}}]}
+- 22:33 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":347}}]}
+- 22:34 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":68,"z":350}}]}
