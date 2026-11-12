@@ -126,3 +126,4 @@
 - 23:37 act: {"actions":[{"do":"goto","target":{"x":-228,"y":59,"z":350}}],"reasoning":"Get clear of villager; move south-west away from it."}
 - 23:37 act: {"actions":[{"do":"goto","target":{"x":-232,"y":59,"z":354}}],"reasoning":"Keep moving away from villager in search of a way up."}
 - 23:37 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":59,"z":346}}],"reasoning":"Try unstick and one more move west to find a slope."}
+- 23:38 act: {"actions":[{"do":"goto","target":{"x":-215,"y":60,"z":348}}]}
