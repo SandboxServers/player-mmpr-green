@@ -21,3 +21,4 @@
 - 21:53 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"carrot","count":5}],"say":"Jason, I have carrots. Come to me at -238,68,350. Trini, I gave you 5 carrots."}
 - 22:05 act: {"intent":{"goal":"harvest_wheat","program":"gather","arguments":{"block":"wheat","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64
 - 22:07 act: {"actions":[{"do":"craft","item":"bread","count":1},{"do":"eat"}],"say":"Good morning."}
+- 22:08 act: {"actions":[{"do":"mine","block":"wheat","count":6}],"reasoning":"stock food"}
