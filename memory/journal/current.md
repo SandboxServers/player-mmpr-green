@@ -85,3 +85,5 @@
 - 22:59 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":64,"z":344}}]}
 - 22:59 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-224,"y":62,"z":347}}]}
 - 23:00 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-224,"y":62,"z":347}},{"do":"place","block":"dirt","at":{"x":-224,"y":61,"z":348}}],"say":"Kimberly,
+- 23:01 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}},{"do":"mine","block":"dirt","count":6}]}
+- 23:01 say: {"text":"Trini, Kimberly: I'm at the pit edge (-223,63,347). I see no one below; the pit seems filled. Call if still stuck."}
