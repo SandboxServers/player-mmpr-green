@@ -81,3 +81,5 @@
 - 22:47 say: {"text":"Kimberly, Trini: a dirt stair is at x-224, z347-348, y60-62. Step up it to (-223,63,346). I'm here."}
 - 22:50 act: {"say":"Kimberly, Trini: are you out of the pit? Say where you are."}
 - 22:58 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}},{"do":"sleep"}]}
+- 22:58 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}},{"do":"sleep"}]}
+- 22:59 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":64,"z":344}}]}
