@@ -4,3 +4,11 @@
 - 21:36 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Hello, neighbor."}
 - 21:38 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":363}},{"do":"sleep"}]}
 - 21:43 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":364}},{"do":"sleep"}]}
+- 21:44 act: {"intent":{"goal":"harvest_farm_food","program":"gather","arguments":{"block":"wheat","count":10,"near":{"x":-251,"y":68,"z":352}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world
+- 21:44 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}},{"do":"mine","block":"wheat","count":3},{"do":"mine","block":"carrots","count":3},{"do":"mine","block":"beetroots","count":2},{"do":"mine",
+- 21:44 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":353}},{"do":"mine","block":"wheat","count":3},{"do":"mine","block":"carrots","count":3},{"do":"mine","block":"beetroots","count":2},{"do":"mine",
+- 21:44 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}},{"do":"mine","block":"wheat","count":3}]}
+- 21:45 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}}]}
+- 21:45 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-252,"y":68,"z":353}}]}
+- 21:45 act: {"actions":[{"do":"goto","target":{"x":-256,"y":68,"z":353}},{"do":"goto","target":{"x":-252,"y":68,"z":353}}]}
+- 21:45 act: {"actions":[{"do":"mine","block":"carrots","count":3},{"do":"mine","block":"wheat","count":3}]}
