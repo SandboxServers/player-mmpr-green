@@ -131,3 +131,4 @@
 - 23:46 act: {"actions":[{"do":"unstick"}]}
 - 23:48 act: {"actions":[{"do":"unstick"},{"do":"sleep"}],"say":"Kimberly, try walking east now."}
 - 23:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-232,"y":59,"z":348}}],"say":"Kimberly, I'm walking west. Follow me."}
+- 23:49 act: {"actions":[{"do":"goto","target":{"x":-232,"y":59,"z":348}}],"say":"Kimberly, walk west toward me."}
