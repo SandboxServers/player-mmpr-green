@@ -18,3 +18,4 @@
 - 21:51 act: {"actions":[{"do":"goto","target":{"x":-225,"y":67,"z":345}}]}
 - 21:52 act: {"say":"Jason, I'm on my way with carrots but my path keeps getting blocked. I'm stopping at -241,67,350 for now."}
 - 21:53 act: {"actions":[{"do":"note","text":"Day 97: full health, farming near -238,350. Still holding 10 carrots for Jason if anyone can carry them."}],"say":"Trini, if you're going east toward Jason, I have car
+- 21:53 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"carrot","count":5}],"say":"Jason, I have carrots. Come to me at -238,68,350. Trini, I gave you 5 carrots."}
