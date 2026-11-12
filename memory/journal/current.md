@@ -49,3 +49,13 @@
 - 22:27 act: {"intent":{"goal":"help_kimberly","program":"travel","arguments":{"x":-223,"y":63,"z":350},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":50}}}
 - 22:27 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":350}}]}
 - 22:27 act: {"actions":[{"do":"mine","block":"carrots","count":4}]}
+- 22:27 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 22:27 act: {"actions":[{"do":"mine","block":"oak_log","count":6}]}
+- 22:28 act: {"actions":[{"do":"mine","block":"oak_log","count":6}]}
+- 22:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-254,"y":67,"z":357}},{"do":"mine","block":"oak_log","count":4}]}
+- 22:29 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":357}},{"do":"mine","block":"oak_log","count":4}]}
+- 22:30 act: {"actions":[{"do":"unstick"}]}
+- 22:30 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":357}},{"do":"mine","block":"oak_log","count":4}]}
+- 22:31 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":357}},{"do":"mine","block":"oak_log","count":4}]}
+- 22:31 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":357}},{"do":"goto","target":{"x":-255,"y":67,"z":356}}],"say":"Kimberly, hold on — I'm having trouble moving but will try to reach you."}
+- 22:32 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":356}},{"do":"goto","target":{"x":-255,"y":67,"z":357}}]}
