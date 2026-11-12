@@ -93,3 +93,4 @@
 - 23:07 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":345}},{"do":"mine","block":"stone","count":3}]}
 - 23:07 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-224,"y":59,"z":346}},{"do":"place","block":"dirt","at":{"x":-224,"y":60,"z":346}},{"do":"place","bl
 - 23:07 say: {"text":"Trini, Kimberly: I placed a dirt column at x-224, z346, y59-62. Try climbing it out."}
+- 23:09 act: {"actions":[{"do":"goto","target":{"x":-223,"y":60,"z":347}}],"say":"Trini, Kimberly: I'm coming down to you."}
