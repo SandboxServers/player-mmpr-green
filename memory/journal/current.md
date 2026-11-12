@@ -134,3 +134,4 @@
 - 23:49 act: {"actions":[{"do":"goto","target":{"x":-232,"y":59,"z":348}}],"say":"Kimberly, walk west toward me."}
 - 23:50 say: {"text":"Kimberly, I'm nearby. Trini is digging; tell us if you're free."}
 - 23:52 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
+- 23:58 act: {"say":"Kimberly, I'm right beside you, also boxed in. Dig up or out with whatever side you like; I'll rest till morning.","actions":[{"do":"sleep"}]}
