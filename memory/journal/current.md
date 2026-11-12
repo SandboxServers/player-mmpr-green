@@ -100,3 +100,4 @@
 - 23:12 say: {"text":"Glad you're both out. Jason: I don't know crafting yet either, sorry."}
 - 23:17 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
 - 23:18 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":600,"max_block_operation
+- 23:25 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":12},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operations
