@@ -116,3 +116,13 @@
 - 23:35 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-253,"y":62,"z":348}}],"reasoning":"North is blocked; try unstick then west 30 blocks."}
 - 23:35 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-224,"y":60,"z":345}},{"do":"unstick"}],"reasoning":"Stuck in a pit; try placing dirt to climb out north."}
 - 23:35 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-224,"y":60,"z":344}}]}
+- 23:36 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 23:36 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-224,"y":60,"z":344}}]}
+- 23:36 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Villager attacking nearby; pillar out with dirt."}
+- 23:36 act: {"actions":[{"do":"goto","target":{"x":-219,"y":59,"z":342}}],"reasoning":"Villager adjacent; try to get clear of it."}
+- 23:36 act: {"actions":[{"do":"attack","target":"villager"},{"do":"attack","target":"villager"},{"do":"attack","target":"villager"}],"reasoning":"Movement blocked; villager is attacking me. Fight it off."}
+- 23:36 act: {"actions":[{"do":"goto","target":{"x":-219,"y":59,"z":342}}],"reasoning":"Villager backed off; leave the pit."}
+- 23:36 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-219,"y":59,"z":342}}],"reasoning":"Stuck in pit; try unstick then walk out."}
+- 23:37 act: {"actions":[{"do":"goto","target":{"x":-228,"y":59,"z":350}}],"reasoning":"Get clear of villager; move south-west away from it."}
+- 23:37 act: {"actions":[{"do":"goto","target":{"x":-232,"y":59,"z":354}}],"reasoning":"Keep moving away from villager in search of a way up."}
+- 23:37 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":59,"z":346}}],"reasoning":"Try unstick and one more move west to find a slope."}
