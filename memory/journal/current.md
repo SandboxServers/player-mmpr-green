@@ -111,3 +111,8 @@
 - 23:31 act: {"actions":[{"do":"goto","target":{"x":-224,"y":59,"z":380}}]}
 - 23:32 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"sleep"}]}
 - 23:34 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations"
+- 23:35 act: {"actions":[{"do":"goto","target":{"x":-223,"y":59,"z":318}}],"reasoning":"Explore north 30 blocks to find trees, per errand."}
+- 23:35 act: {"actions":[{"do":"goto","target":{"x":-223,"y":59,"z":318}}],"reasoning":"Retry 30-block north trip to find trees; errand only."}
+- 23:35 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-253,"y":62,"z":348}}],"reasoning":"North is blocked; try unstick then west 30 blocks."}
+- 23:35 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-224,"y":60,"z":345}},{"do":"unstick"}],"reasoning":"Stuck in a pit; try placing dirt to climb out north."}
+- 23:35 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-224,"y":60,"z":344}}]}
