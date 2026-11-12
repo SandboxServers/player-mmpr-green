@@ -23,3 +23,20 @@
 - 22:07 act: {"actions":[{"do":"craft","item":"bread","count":1},{"do":"eat"}],"say":"Good morning."}
 - 22:08 act: {"actions":[{"do":"mine","block":"wheat","count":6}],"reasoning":"stock food"}
 - 22:08 act: {"actions":[{"do":"craft","item":"bread","count":1},{"do":"note","text":"Day98: have food; still need wool for bed; look for sheep."}]}
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":-200,"y":67,"z":380}}],"reasoning":"Villager is attacking nearby. Move away south-east toward grassland to look for sheep."}
+- 22:09 act: {"actions":[{"do":"attack","target":"villager"},{"do":"attack","target":"villager"},{"do":"attack","target":"villager"}],"reasoning":"Villager is hitting me; defend first, then go for sheep."}
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":-200,"y":67,"z":390}}],"reasoning":"Search grassland to the south-east for sheep."}
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":-210,"y":67,"z":390}}]}
+- 22:09 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-210,"y":67,"z":390}}]}
+- 22:09 act: {"intent":{"goal":"find_sheep_grassland","program":"travel","arguments":{"target":{"x":-210,"y":67,"z":390}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
+- 22:09 act: {"say":"Tommy here. I am stuck at (-234, 67, 364) and cannot move. No sheep found yet."}
+- 22:13 act: {"actions":[{"do":"unstick"}],"reasoning":"Errand says try unstick if needed. Start with it."}
+- 22:13 act: {"intent":{"goal":"find_sheep_se","program":"travel","arguments":{"target":{"x":-210,"y":67,"z":390},"look_for":"sheep","radius":100},"wake_on":["goal_completed","directly_addressed","unexpected_damag
+- 22:13 act: {"actions":[{"do":"goto","target":{"x":-210,"y":67,"z":390}}],"reasoning":"Intent was rejected on schema. Travel directly with goto instead."}
+- 22:14 act: {"actions":[{"do":"goto","target":{"x":-210,"y":67,"z":390}}],"reasoning":"Previous goto barely moved me. Retry."}
+- 22:14 act: {"actions":[{"do":"goto","target":{"x":-210,"y":67,"z":390}}],"reasoning":"Still short of target; keep heading SE."}
+- 22:15 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-210,"y":67,"z":390}}],"reasoning":"Movement keeps being interrupted. Unstick then retry the goto."}
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":-210,"y":67,"z":390}}],"reasoning":"Progress is slow but real. Keep heading SE."}
+- 22:16 act: {"actions":[{"do":"unstick"}],"reasoning":"Still falling and interrupted. One more unstick before reporting back."}
+- 22:17 act: {"actions":[{"do":"goto","target":{"x":-210,"y":67,"z":390}}],"reasoning":"Now on ground and free. One more try toward the SE target."}
+- 22:17 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
