@@ -40,3 +40,4 @@
 - 22:16 act: {"actions":[{"do":"unstick"}],"reasoning":"Still falling and interrupted. One more unstick before reporting back."}
 - 22:17 act: {"actions":[{"do":"goto","target":{"x":-210,"y":67,"z":390}}],"reasoning":"Now on ground and free. One more try toward the SE target."}
 - 22:17 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 22:20 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
