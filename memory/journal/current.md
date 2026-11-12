@@ -61,3 +61,9 @@
 - 22:32 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":356}},{"do":"goto","target":{"x":-255,"y":67,"z":357}}]}
 - 22:33 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":347}}]}
 - 22:34 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":68,"z":350}}]}
+- 22:35 act: {"actions":[{"do":"goto","target":{"x":-224,"y":64,"z":348}}]}
+- 22:35 act: {"actions":[{"do":"goto","target":{"x":-224,"y":64,"z":348}}]}
+- 22:36 say: {"text":"Kimberly, I'm here at the pit edge. Are you out and safe?"}
+- 22:36 act: {"actions":[{"do":"mine","block":"dirt","count":8},{"do":"goto","target":{"x":-223,"y":63,"z":347}},{"do":"place","block":"dirt","at":{"x":-223,"y":60,"z":347}},{"do":"place","block":"dirt","at":{"x":
+- 22:36 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-223,"y":62,"z":347}},{"do":"place","block":"dirt","at":{"x":-223,"y":62,"z":346}}]}
+- 22:36 say: {"text":"Kimberly, I dropped dirt blocks at (-223,62,346-347). Step up onto them and out. Are you out?"}
