@@ -128,3 +128,4 @@
 - 23:37 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":59,"z":346}}],"reasoning":"Try unstick and one more move west to find a slope."}
 - 23:38 act: {"actions":[{"do":"goto","target":{"x":-215,"y":60,"z":348}}]}
 - 23:43 act: {"say":"Kimberly, try the unstick action; I'm beside you. Rest if you can.","actions":[{"do":"sleep"}]}
+- 23:46 act: {"actions":[{"do":"unstick"}]}
