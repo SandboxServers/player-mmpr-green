@@ -12,3 +12,8 @@
 - 21:45 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-252,"y":68,"z":353}}]}
 - 21:45 act: {"actions":[{"do":"goto","target":{"x":-256,"y":68,"z":353}},{"do":"goto","target":{"x":-252,"y":68,"z":353}}]}
 - 21:45 act: {"actions":[{"do":"mine","block":"carrots","count":3},{"do":"mine","block":"wheat","count":3}]}
+- 21:46 act: {"intent":{"goal":"travel_to_jason","program":"travel","arguments":{"target":{"x":194,"y":58,"z":225},"avoid":[{"x":191,"y":53,"z":222}],"stages":"short"},"wake_on":["goal_completed","precondition_fai
+- 21:50 act: {"actions":[{"do":"goto","target":{"x":-150,"y":67,"z":330}}]}
+- 21:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-200,"y":67,"z":340}}]}
+- 21:51 act: {"actions":[{"do":"goto","target":{"x":-225,"y":67,"z":345}}]}
+- 21:52 act: {"say":"Jason, I'm on my way with carrots but my path keeps getting blocked. I'm stopping at -241,67,350 for now."}
