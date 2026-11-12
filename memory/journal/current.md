@@ -72,3 +72,5 @@
 - 22:40 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}},{"do":"sleep"}]}
 - 22:40 act: {"actions":[{"do":"goto","target":{"x":-223,"y":62,"z":346}},{"do":"wait","seconds":5}],"say":"Kimberly, are you out of the pit? Tell me where you are."}
 - 22:41 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-223,"y":62,"z":347}}],"say":"Kimberly, I'm at the pit edge. Are you still down there? Tell me your 
+- 22:42 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}},{"do":"mine","block":"dirt","count":3}]}
+- 22:42 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}],"say":"Kimberly, Trini: I'm at the pit edge. Are you still down there? Tell me where you stand."}
