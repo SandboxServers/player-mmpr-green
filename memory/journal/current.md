@@ -133,3 +133,4 @@
 - 23:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-232,"y":59,"z":348}}],"say":"Kimberly, I'm walking west. Follow me."}
 - 23:49 act: {"actions":[{"do":"goto","target":{"x":-232,"y":59,"z":348}}],"say":"Kimberly, walk west toward me."}
 - 23:50 say: {"text":"Kimberly, I'm nearby. Trini is digging; tell us if you're free."}
+- 23:52 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
