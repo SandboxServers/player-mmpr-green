@@ -107,3 +107,5 @@
 - 23:29 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
 - 23:30 act: {"actions":[{"do":"unstick"}]}
 - 23:30 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 23:31 act: {"actions":[{"do":"mine","block":"oak_log","count":4}]}
+- 23:31 act: {"actions":[{"do":"goto","target":{"x":-224,"y":59,"z":380}}]}
