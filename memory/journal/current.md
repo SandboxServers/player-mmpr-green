@@ -95,3 +95,6 @@
 - 23:07 say: {"text":"Trini, Kimberly: I placed a dirt column at x-224, z346, y59-62. Try climbing it out."}
 - 23:09 act: {"actions":[{"do":"goto","target":{"x":-223,"y":60,"z":347}}],"say":"Trini, Kimberly: I'm coming down to you."}
 - 23:10 act: {"say":"Kimberly, you're out! Is Trini okay?","actions":[{"do":"note","text":"Day101: Kimberly is near the pit edge, seems free."}]}
+- 23:11 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 23:12 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":346}},{"do":"mine","block":"dirt","count":1}],"say":"Trini, I'm coming to dig you a ramp."}
+- 23:12 say: {"text":"Glad you're both out. Jason: I don't know crafting yet either, sorry."}
