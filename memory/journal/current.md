@@ -74,3 +74,6 @@
 - 22:41 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-223,"y":62,"z":347}}],"say":"Kimberly, I'm at the pit edge. Are you still down there? Tell me your 
 - 22:42 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}},{"do":"mine","block":"dirt","count":3}]}
 - 22:42 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}],"say":"Kimberly, Trini: I'm at the pit edge. Are you still down there? Tell me where you stand."}
+- 22:44 act: {"say":"Kimberly, Trini, I'm at the pit edge and can't see anyone. If you're still down there, call out."}
+- 22:44 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-224,"y":62,"z":348}}]}
+- 22:45 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-224,"y":61,"z":348}},{"do":"place","block":"dirt","at":{"x":-224,"y":62,"z":347}},{"do":"place","block":"dirt","at":{"x":-224,"y":60,"z":348}}],"say
