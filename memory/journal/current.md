@@ -70,3 +70,4 @@
 - 22:37 act: {"say":"Kimberly, if you're out, good. I'm heading to bed.","intent":{"goal":"go_to_bed","program":"travel","arguments":{"x":-241,"y":69,"z":344},"wake_on":["goal_completed","unexpected_damage"],"limi
 - 22:39 act: {"actions":[{"do":"goto","target":{"x":-235,"y":66,"z":345}},{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}]}
 - 22:40 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}},{"do":"sleep"}]}
+- 22:40 act: {"actions":[{"do":"goto","target":{"x":-223,"y":62,"z":346}},{"do":"wait","seconds":5}],"say":"Kimberly, are you out of the pit? Tell me where you are."}
