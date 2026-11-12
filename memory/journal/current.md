@@ -19,3 +19,4 @@
 - 21:52 act: {"say":"Jason, I'm on my way with carrots but my path keeps getting blocked. I'm stopping at -241,67,350 for now."}
 - 21:53 act: {"actions":[{"do":"note","text":"Day 97: full health, farming near -238,350. Still holding 10 carrots for Jason if anyone can carry them."}],"say":"Trini, if you're going east toward Jason, I have car
 - 21:53 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"carrot","count":5}],"say":"Jason, I have carrots. Come to me at -238,68,350. Trini, I gave you 5 carrots."}
+- 22:05 act: {"intent":{"goal":"harvest_wheat","program":"gather","arguments":{"block":"wheat","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64
