@@ -67,3 +67,5 @@
 - 22:36 act: {"actions":[{"do":"mine","block":"dirt","count":8},{"do":"goto","target":{"x":-223,"y":63,"z":347}},{"do":"place","block":"dirt","at":{"x":-223,"y":60,"z":347}},{"do":"place","block":"dirt","at":{"x":
 - 22:36 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-223,"y":62,"z":347}},{"do":"place","block":"dirt","at":{"x":-223,"y":62,"z":346}}]}
 - 22:36 say: {"text":"Kimberly, I dropped dirt blocks at (-223,62,346-347). Step up onto them and out. Are you out?"}
+- 22:37 act: {"say":"Kimberly, if you're out, good. I'm heading to bed.","intent":{"goal":"go_to_bed","program":"travel","arguments":{"x":-241,"y":69,"z":344},"wake_on":["goal_completed","unexpected_damage"],"limi
+- 22:39 act: {"actions":[{"do":"goto","target":{"x":-235,"y":66,"z":345}},{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}]}
