@@ -83,3 +83,4 @@
 - 22:58 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}},{"do":"sleep"}]}
 - 22:58 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}},{"do":"sleep"}]}
 - 22:59 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":64,"z":344}}]}
+- 22:59 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-224,"y":62,"z":347}}]}
