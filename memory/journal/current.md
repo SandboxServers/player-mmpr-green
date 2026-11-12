@@ -98,3 +98,4 @@
 - 23:11 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
 - 23:12 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":346}},{"do":"mine","block":"dirt","count":1}],"say":"Trini, I'm coming to dig you a ramp."}
 - 23:12 say: {"text":"Glad you're both out. Jason: I don't know crafting yet either, sorry."}
+- 23:17 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
