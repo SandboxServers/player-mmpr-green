@@ -3,3 +3,4 @@
 - 21:36 act: {"actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"crafting_table","count":1}]}
 - 21:36 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Hello, neighbor."}
 - 21:38 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":363}},{"do":"sleep"}]}
+- 21:43 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":364}},{"do":"sleep"}]}
