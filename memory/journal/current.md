@@ -77,3 +77,4 @@
 - 22:44 act: {"say":"Kimberly, Trini, I'm at the pit edge and can't see anyone. If you're still down there, call out."}
 - 22:44 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-224,"y":62,"z":348}}]}
 - 22:45 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-224,"y":61,"z":348}},{"do":"place","block":"dirt","at":{"x":-224,"y":62,"z":347}},{"do":"place","block":"dirt","at":{"x":-224,"y":60,"z":348}}],"say
+- 22:46 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":347}}],"say":"Kimberly, are you out? Step up the dirt at x-224, z347-348 to the top."}
