@@ -278,3 +278,10 @@
 - 03:11 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"reasoning":"Daylight; go to the bed and sleep."}
 - 03:25 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"reasoning":"Dawn. Try the bed again."}
 - 03:27 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"reasoning":"Keep moving toward the bed."}
+- 03:34 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Stack cobblestone under me to climb out."}
+- 03:38 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-239,"y":52,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-238,"y":51,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-240,"
+- 03:46 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Dawn. Try to climb out and reach the bed."}
+- 03:49 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Mine a way up out of the pit toward the bed."}
+- 03:49 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Mining changed nothing. Try unstick and the bed once more."}
+- 03:49 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Stack up under my feet to climb toward the bed."}
+- 03:53 say: {"text":"Tommy here, still in the pit at -238,50,347. I have 18 cobblestone and 3 potatoes if anyone needs them. Still trying to climb."}
