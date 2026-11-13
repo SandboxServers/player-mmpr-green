@@ -295,3 +295,5 @@
 - 04:05 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":58,"z":348}}],"reasoning":"Placing was blocked by something in the way. Mine stone for side roo
 - 04:05 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":58,"z":348}}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-233,"y":58,"z":348}},"wake_on":["goal_
 - 04:09 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-233,"y":58,"z":348}}],"say":"Tommy: still in the pit at -239,50,345, healthy, with 18 cobblestone and 3 potatoe
+- 04:09 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-233,"y":58,"z":348}},"wake_on":["goal_completed","directly_addressed","unexpected_damag
+- 04:09 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":58,"z":348}}],"reasoning":"At y=51 again; one more stack-unstick-goto cycle."}
