@@ -905,3 +905,15 @@
 - 18:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Tommy here, at the white beds. No food on me either. I'll sleep here and search for wheat or animals at first light 
 - 18:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Goto blocked; bed is adjacent. Try sleep from here."}
 - 18:26 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_night_then_food","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":60
+- 18:27 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"intent":{"goal":"find_food_farm","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":353}},"wake_on":["goal_completed","unexpec
+- 18:28 act: {"actions":[{"do":"goto","target":{"x":-236,"y":68,"z":362}}],"intent":{"goal":"search_food_east","program":"travel","arguments":{"target":{"x":-236,"y":68,"z":362}},"wake_on":["goal_completed","unexp
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":340}}],"intent":{"goal":"search_food_northeast","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":340}},"wake_on":["goal_completed","
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-245,"y":67,"z":345}}],"reasoning":"Short hop south-west toward stripped oak logs, scanning for animals."}
+- 18:29 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-238,"y":67,"z":343}}],"reasoning":"Last hop barely moved me. Unstick, then a short hop southwest."}
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-234,"y":68,"z":339}}],"reasoning":"Two iron golems are closing from the south-west. I am backing off north-east rather than risk a fight."}
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-236,"y":68,"z":339}}],"reasoning":"Get clear of the iron golem to the west before reporting."}
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-255,"y":68,"z":334}}],"reasoning":"Move in short hop NW toward beds."}
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":336}}],"reasoning":"Still about 25 blocks from the white beds. Continue in a short hop west-north-west."}
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Finish the last 14 blocks west to the white beds."}
+- 18:29 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Progress was one block only, so clear any block and retry the goto."}
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"reasoning":"Two to three blocks left to the white beds."}
