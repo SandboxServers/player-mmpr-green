@@ -816,3 +816,22 @@
 - 16:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"Night, sheltered enough at the bed, no errands out. Make the stone pickaxe for Trini's gap at dawn. Sleep now.
 - 16:40 act: {"actions":[{"do":"sleep"}],"reasoning":"The bed is right beside me; the goto failed because I was already next to it. Sleep here."}
 - 16:41 say: {"text":"Trini, I'm awake with a stone pickaxe. Tell me when you can see daylight, and I'll dig your west gap now."}
+- 16:44 say: {"text":"Trini, still dark here. I'm by the beds at -262,67,354. I'll dig your west gap at first light."}
+- 16:48 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":354}}],"say":"Trini, it is light. I'm coming to the west side of your pit now.","reasoning":"Daylight; go to the west edge of Trini's pit to dig 
+- 16:49 act: {"actions":[{"do":"mine","block":"dirt","count":4}],"say":"Trini, the west side is walled off by the beds and terracotta, so I can't reach it. I'm digging a shaft down from right here instead.","reaso
+- 16:49 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"mine","block":"stone","count":1}],"say":"Trini, I'm cutting down to you from y64. Two more blocks and you can climb up."}
+- 16:49 act: {"actions":[{"do":"mine","block":"dirt","count":2}]}
+- 16:49 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"mine","block":"dirt","count":2}],"say":"Trini, still cutting down. I'm almost level with your pit."}
+- 16:50 act: {"actions":[{"do":"mine","block":"dirt","count":1}],"say":"Trini, one more block down and I should be level with you.","reasoning":"Keep the shaft going down toward Trini at y61. One dirt block at a t
+- 16:50 act: {"actions":[],"say":"Trini, you are level with me now and in reach. The shaft is open. Climb up if you can.","reasoning":"Trini is level and in reach. Let her climb out via the shaft, then confirm she
+- 16:50 say: {"text":"Billy, Kimberly and Zack are on their way to you. Trini first, then I can help."}
+- 16:51 act: {"actions":[{"do":"mine","block":"stone","count":4}],"say":"Trini, I'm tunnelling toward you now, not the shaft. Jason too if he's there.","reasoning":"Trini is at -257,61,351, a separate walled pit a
+- 16:53 act: {"actions":[{"do":"mine","block":"stone","count":4}],"reasoning":"Trini has left my view. Keep tunnelling toward where she was, in case she is still walled in."}
+- 16:53 say: {"text":"Trini, if you are out, good. If anyone is still walled in nearby, tell me the spot and I will dig to you."}
+- 16:53 act: {"actions":[{"do":"mine","block":"stone","count":4}],"say":"Trini, Jason, I'm digging east toward you from here now.","reasoning":"Trini and Jason are still walled at about -257,60,351. Tunnel east to
+- 16:54 act: {"actions":[{"do":"goto","target":{"x":-259,"y":60,"z":351}}],"reasoning":"Mining straight down drifted me to y58. Try walking toward Jason and Trini's pit to see the route."}
+- 16:54 say: {"text":"I'm in your pit now, at -259,60,351. Trini, Jason, the way should be open for you to walk out."}
+- 16:55 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-254,"y":61,"z":352}}],"say":"Trini, I'm mining east toward (-254,61,352) now. Stay put and I'll open the wall.","reasoni
+- 17:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"reasoning":"It is night. Head back toward my bed at (-263,67,354) through the shaft I dug, so I can sleep safely."}
+- 17:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"reasoning":"The first goto stopped partway. Try again toward the bed."}
+- 17:00 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-261,"y":58,"z":351}}],"reasoning":"The walk to the bed is blocked. I'll seal the air above me with cobblestone for a safe night spot here."}
