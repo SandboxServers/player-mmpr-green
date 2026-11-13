@@ -1228,3 +1228,17 @@
 - 23:27 say: {"text":"Kimberly, good. I'm at spawn by the beds. I have 2 wheat for you when you arrive."}
 - 23:27 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Night, at spawn beds, nothing attacking. Rest; give Kimberly the wheat at first light."}
 - 23:27 say: {"text":"Kimberly, it's dawn. I'm standing by the beds at spawn. Come to me and I'll hand you the wheat. I heard a bow north of here, so watch yourself."}
+- 23:29 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wheat","count":2}],"say":"Kimberly, here's my 2 wheat. Eat up.","reasoning":"Kimberly is at the beds and hungry; I promised her wheat. Give it no
+- 23:29 say: {"text":"Kimberly, I can't see you yet. Step into view by the beds and I'll give you the wheat right away."}
+- 23:30 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wheat","count":2}],"reasoning":"Kimberly is in reach now. Hand over the wheat."}
+- 23:30 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":356}},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":2}],"reasoning":"Too close to hand over; step back to open ground and try the giv
+- 23:30 say: {"text":"Kimberly, I can't see you. Step into view by the beds and I'll give you the wheat."}
+- 23:30 act: {"actions":[{"do":"goto","target":{"x":-261,"y":67,"z":353}}],"intent":{"goal":"hand_wheat_to_kimberly","program":"travel","arguments":{"target":{"x":-261,"y":67,"z":353}},"wake_on":["directly_address
+- 23:30 say: {"text":"Kimberly, I'm coming to the beds now with your wheat."}
+- 23:31 say: {"text":"Kimberly, I'm at the beds with your 2 wheat. Tell me where you are and I'll come to you."}
+- 23:31 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wheat","count":2}]}
+- 23:31 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":355}},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":2}]}
+- 23:31 say: {"text":"Kimberly, I'm at the beds with the wheat. Come back into view and I'll hand it to you."}
+- 23:33 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wheat","count":2}],"say":"Kimberly, handing over the 2 wheat now."}
+- 23:33 say: {"text":"Kimberly, I still can't see you from here. I'm standing just east of the yellow beds. Walk up to me and I'll give you the wheat."}
+- 23:34 act: {"actions":[{"do":"goto","target":{"x":-259,"y":66,"z":353}},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":2}]}
