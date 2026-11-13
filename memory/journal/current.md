@@ -135,3 +135,13 @@
 - 23:50 say: {"text":"Kimberly, I'm nearby. Trini is digging; tell us if you're free."}
 - 23:52 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
 - 23:58 act: {"say":"Kimberly, I'm right beside you, also boxed in. Dig up or out with whatever side you like; I'll rest till morning.","actions":[{"do":"sleep"}]}
+- 00:08 act: {"intent":{"goal":"gather_wood_logs","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":240
+- 00:09 act: {"actions":[{"do":"goto","target":{"x":-227,"y":62,"z":320}}]}
+- 00:10 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-227,"y":59,"z":320}}]}
+- 00:10 act: {"intent":{"goal":"gather_wood_logs","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":240
+- 00:11 act: {"intent":{"goal":"find_trees_northeast","program":"travel","arguments":{"target":{"x":-200,"y":62,"z":330}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
+- 00:12 act: {"actions":[{"do":"goto","target":{"x":-212,"y":60,"z":342}}],"reasoning":"Not enclosed, air above. Try walking northeast out of the pit first."}
+- 00:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-214,"y":61,"z":343}}],"reasoning":"Still at same spot; try unstick then walk northeast."}
+- 00:12 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":1
+- 00:14 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations"
+- 00:17 act: {"say":"Trini, I used unstick, then walked out east. Birch grove is northeast; I couldn't reach the logs yet.","actions":[{"do":"unstick"}]}
