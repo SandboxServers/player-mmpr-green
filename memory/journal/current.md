@@ -173,3 +173,4 @@
 - 00:41 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, I'm coming to the beds."}
 - 00:42 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":16}]}
 - 00:43 act: {"actions":[{"do":"note","text":"Night day105 at (-226,59,348). Sleep needs a bed; Billy is at the beds (location unknown). 8 oak planks only. Next: find Billy/beds or gather logs."},{"do":"wait","sec
+- 00:45 say: {"text":"Billy, thanks. What are the coordinates of the beds? I'll walk over."}
