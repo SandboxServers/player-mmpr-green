@@ -1215,3 +1215,11 @@
 - 23:08 act: {"say":"Trini, get clear of the wall. I'm grabbing the item north of me, then heading east.","actions":[{"do":"goto","target":{"x":-390,"y":65,"z":325}}]}
 - 23:08 act: {"intent":{"goal":"reach_spawn_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tick
 - 23:16 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 23:16 act: {"intent":{"goal":"reach_wheat_field","program":"travel","arguments":{"target":{"x":-294,"y":69,"z":290}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"l
+- 23:17 act: {"actions":[{"do":"goto","target":{"x":-276,"y":67,"z":349}}],"intent":{"goal":"reach_water_west_of_spawn","program":"travel","arguments":{"target":{"x":-276,"y":67,"z":349}},"wake_on":["goal_complete
+- 23:17 act: {"intent":{"goal":"reach_wheat_field","program":"travel","arguments":{"target":{"x":-294,"y":69,"z":290}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"l
+- 23:17 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":285}},{"do":"mine","block":"wheat","count":4}],"say":"I'm at the wheat field by the water. I'll take some ripe wheat for food, and leave the seed
+- 23:17 act: {"actions":[{"do":"craft","item":"bread","count":1}],"say":"Trini, I'm at your wheat field now. I got 2 wheat and 4 seeds, but the field is picked clean. I'm short one wheat to make bread."}
+- 23:17 act: {"say":"Tommy at the wheat field. I have 2 wheat, need one more for bread. Trini, if you have a spare wheat, I'd be grateful. I'm staying close."}
+- 23:20 act: {"intent":{"goal":"reach_spawn_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"lim
+- 23:21 act: {"actions":[{"do":"sleep"}]}
