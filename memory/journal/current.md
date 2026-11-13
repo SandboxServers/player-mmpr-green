@@ -150,3 +150,4 @@
 - 00:21 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1}]}
 - 00:21 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
 - 00:22 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2}]}
+- 00:22 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_wo
