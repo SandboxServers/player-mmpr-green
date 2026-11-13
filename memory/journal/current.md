@@ -945,3 +945,22 @@
 - 18:41 act: {"actions":[],"intent":{"goal":"get_beef_from_kimberly","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limit
 - 18:41 act: {"actions":[],"say":"Kimberly, I'm right next to you, Tommy. Could I have one beef, please? I'm at 18 hunger."}
 - 18:43 act: {"actions":[{"do":"wait","seconds":20}],"say":"Thanks Kimberly. I'm waiting here at the yellow bed for the beef. Zack, you can have a share too."}
+- 18:44 act: {"actions":[{"do":"note","text":"Night at the yellow bed (-262,67,353). Health 20, hunger 18. Beef is passing between Kimberly, Zack and Tommy; nobody in sight to me. Five days since sleep, so I am go
+- 18:44 act: {"actions":[{"do":"note","text":"Slept at the yellow bed (-263,67,353), day 159. Woke with days_since_sleep 0. Beef: Kimberly is holding shares for Zack, Jason and me. Next: go to Kimberly near the be
+- 18:44 act: {"actions":[{"do":"note","text":"Woke at the yellow bed, day 159, health 20, hunger 18. Nobody in sight. Kimberly holds beef for Zack, Jason and me."}],"say":"Kimberly, I'm at the yellow bed now. When
+- 18:44 act: {"actions":[{"do":"note","text":"Kimberly is at (-260,66,359) giving beef to Jason first. Billy also asked for a share. I'm at the bed, hunger 18, so I'll wait my turn."}],"say":"Kimberly, after Jason
+- 18:44 act: {"actions":[{"do":"note","text":"Trini says her beef was lost in the fighting, so she has none for me. Still waiting at the bed for Kimberly's share."}]}
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":-260,"y":66,"z":358}}],"say":"Kimberly, I'm coming over to stand next to you for my share of beef."}
+- 18:45 act: {"actions":[{"do":"note","text":"Standing next to Kimberly at (-260,66,357) with Billy, Zack and Jason close. Waiting for my beef share; hunger 18, health 20."}],"say":"Kimberly, I'm next to you now. 
+- 18:50 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"say":"Kimberly, the beef keeps failing to reach anyone, so I'm going to the old farm to find food myself. Trini, come along if you like."
+- 18:50 act: {"actions":[{"do":"note","text":"Day 160 morning. Kimberly's beef never reached anyone; I left the bed and came to the old farm at (-251,68,354). The farm is gone: water and logs only, no crops. Hunge
+- 18:50 act: {"actions":[{"do":"goto","target":{"x":-313,"y":81,"z":369}}],"say":"I'm heading west to the cows Billy spoke of, near -313, 81, 369.","intent":{"goal":"reach_cows_west","program":"travel","arguments"
+- 18:51 act: {"actions":[{"do":"note","text":"Midday day 160. At (-313,80,369), no cows here. Billy is beside me holding wheat; I asked him for some. Zack searching further west."}],"say":"Billy, I'm hungry too, h
+- 18:52 act: {"say":"Billy, thanks for telling me. I have no wheat and no cows in sight. I'll search south-west for cows and food.","actions":[{"do":"note","text":"Day 160 midday at (-313,80,369). Billy has 2 whea
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-340,"y":80,"z":395}}]}
+- 18:52 act: {"say":"Skeleton to the west is shooting me. I'm at 5 health and retreating east now.","actions":[{"do":"goto","target":{"x":-313,"y":80,"z":369}}]}
+- 18:53 act: {"say":"I died to a skeleton out west. I have nothing now. I'll stay near spawn and look for food with the group, not in the dark.","actions":[{"do":"note","text":"Died day 160 to a skeleton in the da
+- 18:53 act: {"say":"Kimberly, I'm Tommy. I died and have nothing, hunger 20. Could I have a share of the beef when I'm beside you? I'm coming to the beds now.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z
+- 18:54 act: {"say":"Kimberly, I'm at the beds now, standing still. Tommy, hungry, nothing in my hands. Please give me one beef when you see me.","actions":[{"do":"note","text":"Respawned and walked to the beds at
+- 18:58 act: {"say":"Kimberly, Tommy at the yellow beds, standing still, hungry with nothing. I'll come to you at the water if you can see me. One beef, please.","actions":[{"do":"note","text":"Waiting at yellow b
+- 18:58 act: {"say":"Night is coming. I'm staying by the yellow beds, away from the golem. Kimberly, I'll look for you in the morning for a beef.","actions":[{"do":"note","text":"Dusk day 160. Waiting at yellow be
