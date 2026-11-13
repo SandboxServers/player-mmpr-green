@@ -149,3 +149,4 @@
 - 00:19 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":12},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":
 - 00:21 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1}]}
 - 00:21 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
+- 00:22 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2}]}
