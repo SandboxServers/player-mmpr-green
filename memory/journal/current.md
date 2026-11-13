@@ -997,3 +997,4 @@
 - 19:37 act: {"intent":{"goal":"find_sheep_east","program":"travel","arguments":{"target":{"x":-215,"y":68,"z":390}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
 - 19:38 act: {"intent":{"goal":"find_sheep_southeast","program":"travel","arguments":{"target":{"x":-200,"y":68,"z":440}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
 - 19:38 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 19:43 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Night, monsters near. Get to the bed and try sleeping there.","intent":{"goal":"reach_bed_and_sleep","program"
