@@ -319,3 +319,6 @@
 - 05:15 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-239,"y":49,"z":344}}],"say":"Still in the pit at -237,48,346, healthy. Digging toward Jason's ledge.","reasoning":"Minin
 - 05:24 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"cobblestone","at":"feet"}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-237,"y":60,"z":
 - 05:29 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-237,"y":49,"z":345}},{"do":"place","block":"cobblestone","at":"feet"}],"intent":{"goal":"dig_out_of_pit","program":"trav
+- 05:35 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-237,"y":49,"z":345}}],"say":"Tommy here, still in the pit at -237,48,34
+- 05:35 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-236,"y":51,"z
+- 05:39 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-238,"y":48,"z":346}},{"do":"goto","target":{"x":-238,"y":49,"z":345}}],"reasoning":"Dig west and climb, using the same a
