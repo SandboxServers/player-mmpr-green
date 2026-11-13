@@ -307,3 +307,12 @@
 - 04:46 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":58,"z":348}}],"reasoning":"Dawn attempt: place, unstick, travel toward the rim."}
 - 04:47 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-239,"y":47,"z":343}},{"do":"mine","block":"stone","count":1}],"say":"Tommy here, still in the pit at -239,48,343, health 20. Trying a stone s
 - 04:51 act: {"actions":[{"do":"unstick"}],"say":"Tommy, still at -239,48,343 in the pit, health 20. Trying unstick now.","reasoning":"Previous placing and mining failed. Unstick is an untried verb meant for being
+- 05:00 act: {"intent":{"goal":"climb_out_of_pit","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wo
+- 05:01 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"The pillar build did not lift me. Try placing stone under my feet directly t
+- 05:01 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2}],"reasoning":"Placing is blocked. Try unstick and mine nearby stone to open a path out."}
+- 05:01 act: {"intent":{"goal":"dig_out_of_pit","program":"gather","arguments":{"block":"stone","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":1
+- 05:02 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"ma
+- 05:02 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"m
+- 05:05 act: {"intent":{"goal":"climb_out_of_pit","program":"gather","arguments":{"block":"stone","count":6},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations"
+- 05:05 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"reasoning":"Gathering stopped. Try a short mine and an unstick to get moving again."}
+- 05:07 act: {"intent":{"goal":"dig_out_of_pit","program":"gather","arguments":{"block":"stone","count":12},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations":
