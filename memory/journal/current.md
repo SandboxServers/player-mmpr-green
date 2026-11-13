@@ -796,3 +796,6 @@
 - 16:14 act: {"say":"Good that Zack is out of the water. I'm still at the farm bed with one wheat and 43 dirt, if anyone needs it."}
 - 16:18 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 16:18 act: {"actions":[{"do":"sleep"}]}
+- 16:23 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"The shelter build changed nothing. Night is here, so go to the bed one block away and sleep."}
+- 16:23 act: {"actions":[{"do":"unstick"},{"do":"sleep"}],"reasoning":"The goto moved me zero blocks, so I'm wedged. Unstick first, then try to sleep where I stand."}
