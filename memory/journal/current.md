@@ -225,3 +225,4 @@
 - 01:16 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2}],"reasoning":"Position did not change. Unstick and mine stone for the dig."}
 - 01:16 act: {"actions":[{"do":"note","text":"Day107: mining refused (would drop the bot). Holding position near crafting table at -234,58,349. Waiting for Trini/Kimberly/Billy to coordinate digging."}],"say":"Tri
 - 01:20 act: {"actions":[{"do":"note","text":"Night on Day107. Not enclosed at -231,58,349; health 20, hunger 19. Billy digging stair to Trini. Holding position, have stone pickaxe, 6 planks, 7 dirt."}],"reasoning
+- 01:25 act: {"say":"Tommy here. I have a stone pickaxe and 6 planks. I'll mine the coal next to me, then help dig toward Kimberly.","actions":[{"do":"mine","block":"coal_ore","count":2}],"intent":{"goal":"mine_co
