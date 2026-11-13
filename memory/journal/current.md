@@ -731,3 +731,6 @@
 - 14:59 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Kimberly, Trini: I'm out of the pit and at a bed near the surface. Going to sleep for the night."}
 - 15:01 act: {"say":"Kimberly, Trini, Jason, Zack: I'm out of the pit. I'm in a bed near the surface at about -262, 67, 353, health and food full.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
 - 15:01 act: {"actions":[{"do":"sleep"}]}
+- 15:05 act: {"actions":[{"do":"note","text":"Night day148. Sheltered-ish by two beds near -263,67,353. Kimberly is coming to me, has no food; I have 1 wheat to give."}],"say":"Kimberly, I'm here at the beds, -263
+- 15:05 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"It is night and I am at the beds with health and hunger full. Kimberly went to Billy instead, so I sleep here.
+- 15:05 act: {"actions":[{"do":"sleep"}],"reasoning":"The goto to the bed changed nothing, but I am already beside the bed. Try sleep from here."}
