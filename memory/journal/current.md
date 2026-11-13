@@ -510,3 +510,4 @@
 - 11:19 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Build plan failed. Try a single manual placement to see if water tiles accept blocks."}
 - 11:23 act: {"say":"Kimberly, I have 40 cobblestone and 23 dirt. Tell me where you are and I'll drop some blocks within reach.","reasoning":"Kimberly is unsheltered in water and I have spare blocks. Offer them."}
 - 11:24 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":12},{"do":"give","to":"ag_kimberly_01","item":"dirt","count":10}],"say":"Kimberly, sending you 12 cobblestone and 10 dirt. W
+- 11:25 act: {"say":"Trini, Kimberly was alive on the stone at -244,63,346 a little while ago, and she is still on her stone. The signs are old ones from day 134. I'm on the water at -244,62,348 and I'm fine.","re
