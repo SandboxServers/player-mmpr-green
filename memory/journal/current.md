@@ -964,3 +964,5 @@
 - 18:54 act: {"say":"Kimberly, I'm at the beds now, standing still. Tommy, hungry, nothing in my hands. Please give me one beef when you see me.","actions":[{"do":"note","text":"Respawned and walked to the beds at
 - 18:58 act: {"say":"Kimberly, Tommy at the yellow beds, standing still, hungry with nothing. I'll come to you at the water if you can see me. One beef, please.","actions":[{"do":"note","text":"Waiting at yellow b
 - 18:58 act: {"say":"Night is coming. I'm staying by the yellow beds, away from the golem. Kimberly, I'll look for you in the morning for a beef.","actions":[{"do":"note","text":"Dusk day 160. Waiting at yellow be
+- 19:03 act: {"actions":[{"do":"note","text":"Slept at the yellow beds. Woke to Kimberly's messages: beef at first light to whoever is in sight. Standing here waiting."}]}
+- 19:07 act: {"actions":[{"do":"note","text":"Dawn. Standing by the yellow beds in sight, waiting for Kimberly's beef."}],"say":"Tommy here, standing by the yellow beds in sight. Hunger 20, I'd be glad of beef whe
