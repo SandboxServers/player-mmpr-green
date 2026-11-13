@@ -773,3 +773,5 @@
 - 15:34 act: {"intent":{"goal":"travel_to_farm","program":"travel","arguments":{"target":{"x":-288,"y":69,"z":292},"stages":"short"},"wake_on":["goal_completed","unexpected_damage","directly_addressed","preconditi
 - 15:34 act: {"say":"Thanks, Billy. My path keeps stopping short, so I'm still by the beds at -262,69,352. I have 1 wheat. I'll try again toward the farm and wait for ripe crops."}
 - 15:38 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 15:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night is here. I'm going to the bed by the farm to sleep. Tomorrow: food, then sheep to the south-east.","reasoning"
+- 15:39 act: {"actions":[{"do":"sleep"}],"reasoning":"Already next to the bed; the goto was a no-op. Try sleep directly."}
