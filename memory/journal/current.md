@@ -586,3 +586,19 @@
 - 13:18 act: {"say":"Trini, Zack: I'm at -245,62,343 with a stone pickaxe, not sealed myself yet. It's dusk, so I'll stay put and dig out toward you at first light. I have one wheat and cobblestone if you can reac
 - 13:18 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"say":"Still closing the gap, Zack. I'll dig toward you at first light."}
 - 13:19 act: {"actions":[{"do":"note","text":"Sealed in at -245,63,343 on cobblestone; view shows solid all around."}],"say":"Sealed in for the night. Zack, I'll dig east toward you at first light."}
+- 13:19 act: {"intent":{"goal":"wait_for_first_light","program":"rest","arguments":{"until":"day"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_
+- 13:26 act: {"intent":{"goal":"meet_zack_east","program":"travel","arguments":{"target":{"x":-192,"y":64,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limi
+- 13:26 act: {"actions":[{"do":"goto","target":{"x":-240,"y":63,"z":343}}]}
+- 13:26 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"cobblestone","count":3}]}
+- 13:26 act: {"actions":[{"do":"goto","target":{"x":-238,"y":62,"z":343}}]}
+- 13:27 act: {"actions":[{"do":"mine","block":"dirt","count":4},{"do":"goto","target":{"x":-240,"y":61,"z":342}}]}
+- 13:27 act: {"actions":[{"do":"mine","block":"dirt","count":4},{"do":"goto","target":{"x":-238,"y":62,"z":343}}]}
+- 13:27 act: {"actions":[{"do":"mine","block":"dirt","count":2}]}
+- 13:27 act: {"actions":[{"do":"goto","target":{"x":-238,"y":62,"z":343}}]}
+- 13:27 act: {"actions":[{"do":"mine","block":"dirt","count":2}]}
+- 13:27 act: {"actions":[{"do":"goto","target":{"x":-238,"y":62,"z":341}}]}
+- 13:27 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-240,"y":62,"z":341}}],"reasoning":"Test whether mine clears the block ahead and goto steps into the hole."}
+- 13:27 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-240,"y":62,"z":341}}],"reasoning":"Keep one block east per try, watching moved distance."}
+- 13:28 act: {"actions":[{"do":"mine","block":"dirt","count":1}],"reasoning":"Single mine attempt now that queue is clear."}
+- 13:28 act: {"actions":[{"do":"goto","target":{"x":-242,"y":62,"z":340}}],"say":"Zack, Trini: I can't dig the 49 blocks to Zack; the tunnel stalls. I'm holding my 1 wheat at -242,62,340. Whoever has a clear route
+- 13:28 act: {"say":"Trini, Kimberly: I'm at -242,62,340 with 1 wheat. Zack is too far to reach. Trini, I'll bring the wheat to you if you can open a path toward me or tell me where to stand.","reasoning":"Trini i
