@@ -502,3 +502,7 @@
 - 11:10 act: {"say":"Kimberly, a reflex ate something just now, so the potato did reach me. Thank you. Send the rest when you can reach me safely.","intent":{"goal":"await_food_drop","program":"rest","arguments":{
 - 11:14 act: {"actions":[{"do":"note","text":"Day137 midday: still on stone at -245,62,348, no food in pack, hunger 17, health 9. Golem 2.5 NW. Kimberly is stuck in water with 11 potatoes for Trini."}]}
 - 11:16 act: {"actions":[{"do":"eat"},{"do":"note","text":"Day137 dusk: got 4 potatoes from Kimberly's drops; health 18, hunger 18. Kimberly lost her potatoes in the water. Trini is at -240,69,344 with no food."}]
+- 11:17 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-241,"y":69,"z":345}}],"say":"Trini, I'm bringing you a potato now. Hold still by the beds.","reasoning":"Hunger 19 and golem nearby. Eat one potato
+- 11:17 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":345}}],"reasoning":"Goto moved zero blocks; I am boxed in by water. Unstick, then retry."}
+- 11:17 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"potato","count":1}],"say":"Kimberly, sending you my last potato. Trini, Jason, I'm stuck in water with the golem attacking me.","reasoning":"Gole
+- 11:18 act: {"say":"Jason, Trini: I have no potatoes left. Kimberly has the last one I had. I'm still perched in water with the golem about 3 blocks west. I'll look for food once I can get out.","intent":{"goal":
