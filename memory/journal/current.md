@@ -1223,3 +1223,4 @@
 - 23:17 act: {"say":"Tommy at the wheat field. I have 2 wheat, need one more for bread. Trini, if you have a spare wheat, I'd be grateful. I'm staying close."}
 - 23:20 act: {"intent":{"goal":"reach_spawn_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"lim
 - 23:21 act: {"actions":[{"do":"sleep"}]}
+- 23:22 act: {"say":"Billy, Jason, I'm safe in my bed at the spawn. Stay sealed tonight. In the morning I'll find one more wheat for bread.","intent":{"goal":"wait_for_morning","program":"rest","arguments":{},"wak
