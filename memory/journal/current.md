@@ -1020,3 +1020,6 @@
 - 20:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"I am beside the bed now. Get on it and sleep."}
 - 20:00 act: {"actions":[{"do":"sleep"}],"reasoning":"Goto onto the bed block fails; I'm already next to it. Sleep here."}
 - 20:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"reasoning":"It is night and a yellow bed is next to me. Step onto the bed, then sleep.","say":"It's night. I'm going to sleep in the bed 
+- 20:02 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{"bed":{"x":-263,"y":67,"z":354}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"
+- 20:06 say: {"text":"Farm is near -251, 68, 353, west of the beds. Wheat, carrots and beetroot were there. Go in daylight and keep away from the bows to the north."}
+- 20:10 say: {"text":"Zack, the crops there were mine from earlier and may be gone now. I don't know of other food. Please check the sheep spot at -257, 66, 375 and any animals you find."}
