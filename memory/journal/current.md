@@ -347,3 +347,13 @@
 - 06:18 act: {"say":"Tommy: dirt at feet and unstick did nothing for me again, still at -239,48,348. Billy, are you on cobblestone? Can you tell me which block to mine to climb?","intent":{"goal":"wait_for_help_in
 - 06:18 act: {"say":"Tommy: dirt at feet and unstick did nothing for me again, still at -239,48,348. Billy, are you on cobblestone? Which block should I mine to climb?","intent":{"goal":"wait_for_help_in_pit","pro
 - 06:22 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Kimberly says one level up with this. Try once more and check the position."}
+- 06:22 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"unstick"}],"reasoning":"Placing is blocked, so mining an adjacent stone may open a route."}
+- 06:22 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"reasoning":"Mining works. Dig more stone to open a route out."}
+- 06:23 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"},{"do":"mine","block":"stone","count":2}],"reasoning":"Digging moved me one block. Keep digging toward open ground."}
+- 06:23 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"reasoning":"Unstick worked after digging. Repeat to climb further."}
+- 06:23 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max
+- 06:27 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"
+- 06:27 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"reasoning":"Pla
+- 06:28 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"reasoning":"Kee
+- 06:28 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"reasoning":"Kee
+- 06:28 act: {"actions":[{"do":"goto","target":{"x":-239,"y":48,"z":356}}],"reasoning":"Mining is moving me sideways, not up. Try walking north directly."}
