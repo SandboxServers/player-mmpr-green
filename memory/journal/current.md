@@ -803,3 +803,5 @@
 - 16:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Body awake now. Sleep in the adjacent bed."}
 - 16:26 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Trini, I'm in the bed here for the night. Stay safe in your pit."}
 - 16:26 act: {"actions":[{"do":"sleep"}]}
+- 16:28 act: {"say":"Morning. I'm heading south-east to look for sheep and wool. The farm near -251, 68, 353 had wheat, carrots and beetroot last I saw.","intent":{"goal":"explore_south_east_for_sheep","program":"
+- 16:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-255,"y":67,"z":362}}]}
