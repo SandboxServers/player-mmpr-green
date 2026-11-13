@@ -791,3 +791,8 @@
 - 16:03 act: {"actions":[{"do":"sleep"}]}
 - 16:04 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"reasoning":"Night, bed right here. Move onto bed then sleep."}
 - 16:04 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed is adjacent west. Sleep now at night."}
+- 16:10 act: {"intent":{"goal":"reach_lake_shore_with_dirt","program":"travel","arguments":{"target":{"x":-232,"y":64,"z":350}},"wake_on":["directly_addressed","precondition_failed","goal_completed"],"limits":{"ma
+- 16:10 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":350}}],"say":"The travel did not move me, so I'm taking shorter steps toward the lake."}
+- 16:14 act: {"say":"Good that Zack is out of the water. I'm still at the farm bed with one wheat and 43 dirt, if anyone needs it."}
+- 16:18 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 16:18 act: {"actions":[{"do":"sleep"}]}
