@@ -613,3 +613,13 @@
 - 13:46 act: {"say":"Kimberly, it's dawn. I'm coming to you with the wheat.","actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}],"intent":{"goal":"reach
 - 13:48 act: {"say":"Kimberly, coming to you now.","actions":[{"do":"goto","target":{"x":-244,"y":62,"z":344}},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}]}
 - 13:48 act: {"say":"Kimberly, the water blocks my walk; I moved zero blocks. I'm staying at -241,62,343 on the stone. Please come here, across the dry side, and I'll hand over the wheat."}
+- 13:50 act: {"intent":{"goal":"build_shelter_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addr
+- 13:51 act: {"actions":[{"do":"note","text":"Day145: shelter attempt finished but still open (not enclosed). Kimberly respawned with nothing; I hold 1 wheat for her."}],"say":"Kimberly, I'm at -241, 62, 343 on th
+- 13:51 act: {"actions":[{"do":"note","text":"Kimberly is coming to the dry side; wheat ready to hand over."}],"say":"Kimberly, come on up. I'm right here with your wheat."}
+- 13:52 act: {"actions":[{"do":"note","text":"Day145: path to Kimberly across the lake is blocked. She is at the sign on dry ground; I stay here at -242,62,343 and wait for her to come."}],"say":"Kimberly, the lak
+- 13:52 act: {"say":"Kimberly, don't swim further. I can't get onto the water safely. Tell me exactly where you are, which way the shore is, and I'll place dirt blocks for you to climb on."}
+- 13:52 act: {"actions":[{"do":"goto","target":{"x":-245,"y":63,"z":347}},{"do":"place","block":"dirt","at":{"x":-246,"y":62,"z":348}},{"do":"place","block":"dirt","at":{"x":-246,"y":61,"z":349}}],"say":"Kimberly,
+- 13:52 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-247,"y":61,"z":347}},{"do":"place","block":"cobblestone","at":{"x":-248,"y":60,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-248,"
+- 13:53 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":345}},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}],"say":"Kimberly, I'm coming to you with your wheat. Glad you're dry."}
+- 13:53 act: {"actions":[{"do":"note","text":"Day145: Kimberly is dry at about -239,68,345 but not in my sight; give failed. Holding her 1 wheat. Waiting for her to come close."}],"say":"Kimberly, I can't see you 
+- 13:53 act: {"actions":[{"do":"goto","target":{"x":-239,"y":68,"z":345}},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}],"say":"Kimberly, I'm climbing toward you at -239, 68, 345 with the wheat."}
