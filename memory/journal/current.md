@@ -209,3 +209,16 @@
 - 01:07 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
 - 01:08 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}]}
 - 01:08 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
+- 01:08 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
+- 01:08 act: {"actions":[{"do":"craft","item":"stone_pickaxe","count":1},{"do":"mine","block":"stone","count":3}]}
+- 01:09 act: {"actions":[{"do":"craft","item":"stone_pickaxe","count":1}]}
+- 01:09 act: {"intent":{"goal":"dig_out","program":"gather","arguments":{"block":"stone","count":6},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 01:10 act: {"intent":{"goal":"dig_out","program":"gather","arguments":{"block":"stone","count":12},"wake_on":["goal_completed"],"limits":{"max_world_ticks":6000,"max_block_operations":100}}}
+- 01:11 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"x":-283,"y":69,"z":371},"wake_on":["goal_completed"],"limits":{"max_world_ticks":6000,"max_block_operations":200}}}
+- 01:13 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-230,"y":58,"z":350}},{"do":"craft","item":"stone_pickaxe","count":1}],"say":"Trini, Kimberly: I'm Tommy, I'm stuck near the pit too. Makin
+- 01:13 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-230,"y":57,"z":349}},{"do":"craft","item":"stone_pickaxe","count":1}],"reasoning":"Table apparently not placed yet. Try a different adjace
+- 01:14 act: {"actions":[{"do":"unstick"},{"do":"craft","item":"stone_pickaxe","count":1}],"say":"Zack, I'm Tommy, near the pit at -231,57,350. I'm short on room to place blocks too. I'll bring you cobblestone if 
+- 01:14 act: {"actions":[{"do":"note","text":"Day107: stuck near pit at -233,58,349. Crafting table won't place (held, not placed); pickaxe craft timed out. Trini has cobblestone; Zack needs a pickaxe."}],"say":"T
+- 01:14 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-234,"y":58,"z":349}},{"do":"craft","item":"stone_pickaxe","count":1}],"say":"Thank you, Trini and Jason. I have the cobblestone now; makin
+- 01:15 act: {"actions":[{"do":"note","text":"Day107: placed crafting table at -234,58,349 (side block worked), crafted stone pickaxe from Trini's cobblestone. Next: help dig Trini/Kimberly/Zack out, then shelter 
+- 01:15 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-233,"y":57,"z":350}}],"say":"Trini, I'm digging toward you from the north. Hold still.","reasoning":"Trini is two blocks
