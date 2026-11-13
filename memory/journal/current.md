@@ -157,3 +157,4 @@
 - 00:27 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-219,"y":60,"z":350}}],"reasoning":"Retry digging out; the stone walls are blocking movement."}
 - 00:27 act: {"actions":[{"do":"goto","target":{"x":-205,"y":62,"z":335}}]}
 - 00:27 act: {"actions":[{"do":"goto","target":{"x":-205,"y":62,"z":335}}],"say":"Kimberly: I'm not enclosed here; walk sideways. Heading northeast to the birch."}
+- 00:28 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-205,"y":62,"z":335}}]}
