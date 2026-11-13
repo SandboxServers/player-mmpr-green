@@ -373,3 +373,20 @@
 - 06:47 act: {"reasoning":"Dawn now. Side placement failed too. Log it and wait for help to dig me out.","actions":[{"do":"note","text":"Day 124 dawn: still at -239,50,348. Side placement also blocked. Waiting for
 - 06:49 act: {"reasoning":"Kimberly is at the edge with planks. Tell her where I am so she can drop them within reach.","actions":[],"say":"Kimberly, I'm at -239, 50, 348, standing on cobblestone. Drop planks on t
 - 06:51 act: {"reasoning":"Kimberly's planks have not arrived. Try placing my own oak planks at feet once, to see if a different block works.","actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"unst
+- 06:53 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-239,"y":51,"z":348}}],"say":"Tommy here, still in the pit at -239,50,348. I'm trying to place cobblestone above me to climb."}
+- 06:53 act: {"actions":[{"do":"goto","target":{"x":-235,"y":52,"z":348}}],"say":"Trying the route Trini used: toward the ledge at -235,52,348."}
+- 06:53 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"say":"Trying Trini's method: mine, place at feet, unstick."}
+- 06:53 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"
+- 06:54 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"
+- 06:54 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"
+- 06:54 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"
+- 06:54 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"
+- 06:54 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"
+- 06:54 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"
+- 06:54 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":67,"z":349}}],"say":"I'm at y57, free of the pit walls. Heading to the north-east rim at -237,67,349."}
+- 06:55 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-237,"y":67,"z":349}}],"say":"Mining through the wall to get out north-east."}
+- 06:55 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"
+- 06:55 act: {"actions":[{"do":"note","text":"Day124: Tommy at -240,57,347 in pit column, free of trap but walled. Mining and placing now fail. Need a block drop or a ladder/dirt from Kimberly or Trini."}],"say":"
+- 06:56 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"I have dirt in my pack. Trying to build up from my feet."}
+- 06:57 act: {"actions":[],"say":"Trini, thank you. Drop 4 dirt at -240,58,347 (directly above my head) and 4 at -241,57,346 on my west side. I'm at -240,57,347."}
+- 07:00 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Night in the pit. I'm holding at -240,57,347 and will try again at dawn. Trini, drop dirt when you can reach."}
