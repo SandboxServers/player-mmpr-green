@@ -511,3 +511,9 @@
 - 11:23 act: {"say":"Kimberly, I have 40 cobblestone and 23 dirt. Tell me where you are and I'll drop some blocks within reach.","reasoning":"Kimberly is unsheltered in water and I have spare blocks. Offer them."}
 - 11:24 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":12},{"do":"give","to":"ag_kimberly_01","item":"dirt","count":10}],"say":"Kimberly, sending you 12 cobblestone and 10 dirt. W
 - 11:25 act: {"say":"Trini, Kimberly was alive on the stone at -244,63,346 a little while ago, and she is still on her stone. The signs are old ones from day 134. I'm on the water at -244,62,348 and I'm fine.","re
+- 11:28 act: {"intent":{"goal":"shelter_cobble","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wor
+- 11:29 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"say":"Kimberly, Billy, Zack, Jason: thank you. I'm still perched on water at -244,62,348, hunger 20. Drop blocks within reach and I'll wa
+- 11:29 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":61,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-245,"y":62,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-243,"
+- 11:29 act: {"actions":[{"do":"unstick"}],"say":"Still on the water at -244,62,348, unable to place blocks. Trying to unstick. Trini, I'm alive and fed enough."}
+- 11:29 act: {"intent":{"goal":"shelter_stone","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_worl
+- 11:29 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}}]}
