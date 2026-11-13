@@ -580,3 +580,7 @@
 - 13:03 act: {"intent":{"goal":"wait_out_night","program":"rest","arguments":{"seconds":300},"wake_on":["unexpected_damage","directly_addressed","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_o
 - 13:08 act: {"intent":{"goal":"shelter_day","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":
 - 13:12 act: {"say":"Jason, Tommy here. I'm about 27 blocks east of you at -245,62,343, not enclosed, and my moves keep getting interrupted. I can bring dirt if you tell me where you are.","reasoning":"Jason is bo
+- 13:13 act: {"intent":{"goal":"shelter_cobble","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wor
+- 13:14 act: {"actions":[{"do":"sleep"}]}
+- 13:14 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":62,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":63,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-244,"
+- 13:18 act: {"say":"Trini, Zack: I'm at -245,62,343 with a stone pickaxe, not sealed myself yet. It's dusk, so I'll stay put and dig out toward you at first light. I have one wheat and cobblestone if you can reac
