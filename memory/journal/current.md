@@ -328,3 +328,4 @@
 - 05:47 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":49,"z":345}}]}
 - 05:49 say: {"text":"Tommy here, still at -237,48,346. Same as Trini and Jason: placing fails after one or two blocks. I'll try planks next, then wait."}
 - 05:49 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}]}
+- 05:53 act: {"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":{"name":"climb_pillar","blocks":[{"block":"cobblestone","dx":0,"dy":1,"dz":0},{"block":"cobblestone","dx":0,"dy":2,"dz":0},
