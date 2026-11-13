@@ -668,3 +668,11 @@
 - 14:12 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Kimberly, I'm at 64 now and climbing. Halfway to you."}
 - 14:12 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Kimberly, I'm at 65 on the dirt stack and climbing tow
 - 14:12 act: {"actions":[],"say":"Kimberly, I'm out at level 68, at -244,68,345, on the grass. Where are you? I have your wheat."}
+- 14:18 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- 14:18 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 14:19 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom above me. I'm fighting it, then I'll get to Kimberly with the wheat."}
+- 14:19 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- 14:19 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["directly_addressed"
+- 14:19 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 14:19 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 14:20 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}]}
