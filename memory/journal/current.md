@@ -473,3 +473,15 @@
 - 09:44 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":372}}],"reasoning":"On stone, out of water. Continue to the beds."}
 - 09:44 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":372}}],"say":"Zack, Jason: I'm out of the water and on stone. I'm heading to the beds to rest. I'm holding 54 cobble if you need more.","reasonin
 - 09:45 act: {"actions":[{"do":"note","text":"Day132 night: drowned to air 0 in the golem pool, climbed out to stone at -250,62,348. Health 9, hunger 16. Zack is at the shaft rim placing cobble for Jason. I hold 5
+- 09:46 act: {"actions":[],"say":"Jason, I'm on stone at -250,62,348, off the pool. I have 54 cobble. Tell me if you need any dropped to you.","reasoning":"Jason is climbing. Offer cobble and wait for his word."}
+- 09:49 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":346}}],"say":"Jason, I'm heading to the rim with cobble now. Zack, if you're there, place at -239,56,345 too.","reasoning":"Jason needs cobble ab
+- 09:50 act: {"actions":[],"say":"Billy, you're nearest the stair. Place cobble at -239,56,345 for Jason. I'm boxed in by water at -245,62,348 and can't reach the rim safely.","reasoning":"I can't reach the rim th
+- 09:53 act: {"actions":[{"do":"note","text":"Day133: still on stone at -245,62,348, boxed by water. Health 9, hunger 16, no food. Billy says the shaft cell -239,56,345 still needs placing. Trini is stuck nearby a
+- 09:55 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":62,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":62,"z":349}}],"say":"Trini, I'm filling the water east of me with
+- 09:56 act: {"actions":[{"do":"note","text":"Day133 afternoon: placing cobble into water east of me failed (stone count unchanged). Still on stone at -245,62,348, safe. Trini is 2 blocks off, stuck at pool edge. 
+- 10:00 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":12}],"say":"Trini, I'm sending you 12 cobble so you can wall yourself in tonight. Hold tight; I'm staying on this stone."}
+- 10:02 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"say":"Trini, keep stacking. I'm right here on the stone; I'll drop more cobble if you need it."}
+- 10:03 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":12}],"say":"Trini, sending 12 more cobble now. Wall in and hold till dawn."}
+- 10:11 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":8}],"say":"Trini, sending 8 more cobble. Jason, Billy, I have no food; I'm still boxed in on stone."}
+- 10:13 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":61,"z":348}}],"say":"Trini, I tried the water east of me; it did not take. I'm trying again at -244,61,348."}
+- 10:17 act: {"actions":[{"do":"note","text":"Day134 dusk: placing cobble into water still fails from my stone. Staying put on stone, safe. Hunger 16, no food. Trini has cobble to wall in."}],"say":"Trini, placing
