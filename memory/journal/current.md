@@ -904,3 +904,4 @@
 - 18:24 act: {"actions":[{"do":"sleep"}]}
 - 18:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Tommy here, at the white beds. No food on me either. I'll sleep here and search for wheat or animals at first light 
 - 18:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Goto blocked; bed is adjacent. Try sleep from here."}
+- 18:26 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_night_then_food","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":60
