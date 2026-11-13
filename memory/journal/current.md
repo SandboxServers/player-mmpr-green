@@ -414,3 +414,6 @@
 - 07:43 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}]}
 - 07:49 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"say":"Tommy, still at y48 under Jason. Kimberly, drop dirt on -239,49,344 when you're in reach. Thank you."}
 - 07:53 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}]}
+- 07:58 act: {"actions":[{"do":"mine","block":"cobblestone","count":2},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-239,"y":50,"z":344}}],"say":"Jason, I'm at the bottom too. I'm di
+- 07:58 act: {"actions":[{"do":"unstick"},{"do":"wait","seconds":60}],"say":"Kimberly, Jason: I'm still at the bottom of the shaft at -239,48,344. Please drop dirt straight down when you can reach it.","reasoning"
+- 07:58 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-239,"y":49,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-239,"y":48,"z":343}}],"reasoning":"Open the walls wi
