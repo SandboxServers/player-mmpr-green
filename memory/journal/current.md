@@ -765,3 +765,4 @@
 - 15:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 15:19 act: {"actions":[{"do":"sleep"}]}
 - 15:21 say: {"text":"Tommy here. Night at the yellow beds, fed and healthy. I'm going to sleep beside the bed now."}
+- 15:22 say: {"text":"Tommy here, back at the yellow beds. Fed and healthy. Tomorrow I'm looking for sheep for wool and food."}
