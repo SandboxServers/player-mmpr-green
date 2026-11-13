@@ -276,3 +276,5 @@
 - 03:07 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, here are 3 potatoes. Thanks for the dirt.","reasoning":"Zack is helping the pit group and is hungry. Give him the po
 - 03:08 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"dirt","count":5}],"say":"Trini, sending you 5 dirt to stack up.","reasoning":"Help Trini climb out with dirt."}
 - 03:11 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"reasoning":"Daylight; go to the bed and sleep."}
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"reasoning":"Dawn. Try the bed again."}
+- 03:27 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"reasoning":"Keep moving toward the bed."}
