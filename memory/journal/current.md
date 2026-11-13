@@ -574,3 +574,7 @@
 - 12:56 act: {"actions":[{"do":"sleep"}],"reasoning":"Shelter build reported done; test whether it counts as enclosed by trying to rest."}
 - 12:56 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-240,"y":62,"z":341}},{"do":"place","block":"dirt","at":{"x":-242,"y":62,"z":341}},{"do":"place","block":"dirt","at":{"x":-241,"y":62,"z":340}},{"do"
 - 12:56 act: {"actions":[{"do":"sleep"}]}
+- 12:57 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_
+- 13:02 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-240,"y":62,"z":341}},{"do":"place","block":"dirt","at":{"x":-242,"y":62,"z":341}},{"do":"place","block":"dirt","at":{"x":-241,"y":62,"z":340}},{"do"
+- 13:03 act: {"actions":[{"do":"sleep"}],"say":"Tommy: no shelter yet and the blocks won't place. Trying to rest here at night.","reasoning":"Shelter attempts failing; health full, hunger full. Try sleep; check af
+- 13:03 act: {"intent":{"goal":"wait_out_night","program":"rest","arguments":{"seconds":300},"wake_on":["unexpected_damage","directly_addressed","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_o
