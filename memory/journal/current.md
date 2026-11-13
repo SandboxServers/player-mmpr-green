@@ -602,3 +602,8 @@
 - 13:28 act: {"actions":[{"do":"mine","block":"dirt","count":1}],"reasoning":"Single mine attempt now that queue is clear."}
 - 13:28 act: {"actions":[{"do":"goto","target":{"x":-242,"y":62,"z":340}}],"say":"Zack, Trini: I can't dig the 49 blocks to Zack; the tunnel stalls. I'm holding my 1 wheat at -242,62,340. Whoever has a clear route
 - 13:28 act: {"say":"Trini, Kimberly: I'm at -242,62,340 with 1 wheat. Zack is too far to reach. Trini, I'll bring the wheat to you if you can open a path toward me or tell me where to stand.","reasoning":"Trini i
+- 13:37 act: {"say":"Kimberly, I'm at -242, 62, 340, by the water. I have 1 wheat and plenty of dirt, so keep yours. Come close and I'll hand you the wheat, since you have no food.","actions":[{"do":"note","text":
+- 13:38 act: {"say":"Kimberly, I'm coming to you now with the wheat. I'll stand by the stone wall.","actions":[{"do":"goto","target":{"x":-238,"y":62,"z":346}}]}
+- 13:38 act: {"say":"Tommy here at -241, 62, 343. I have a stone pickaxe and wheat. I'm digging toward Trini from the east now.","actions":[{"do":"goto","target":{"x":-233,"y":56,"z":350}}],"intent":{"goal":"reach
+- 13:38 act: {"say":"Kimberly, my walk toward Trini failed; I didn't move. I'm still at -241, 62, 343 with the wheat. Tell me when you can see me and I'll walk over.","actions":[{"do":"note","text":"Goto toward Tr
+- 13:38 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
