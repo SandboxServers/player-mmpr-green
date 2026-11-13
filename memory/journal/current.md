@@ -485,3 +485,12 @@
 - 10:11 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":8}],"say":"Trini, sending 8 more cobble. Jason, Billy, I have no food; I'm still boxed in on stone."}
 - 10:13 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":61,"z":348}}],"say":"Trini, I tried the water east of me; it did not take. I'm trying again at -244,61,348."}
 - 10:17 act: {"actions":[{"do":"note","text":"Day134 dusk: placing cobble into water still fails from my stone. Staying put on stone, safe. Hunger 16, no food. Trini has cobble to wall in."}],"say":"Trini, placing
+- 10:25 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-245,"y":63,"z":348}}],"say":"Tommy here, still on the stone at -245,62,348. Hunger 16, health 9. I'm trying to wall myself in with cobble. Tr
+- 10:25 say: {"text":"Zack, thanks for the dirt. I'm still on the stone at -245,62,348, and I can't place into the water. Anything dropped on my cell helps."}
+- 10:26 say: {"text":"Dawn now. Zack, I'm still on the stone at -245,62,348 with 42 cobble. No food, and water all around. If anyone can reach me with food, please drop it on the stone."}
+- 10:32 say: {"text":"Billy, thanks. I'm on the stone at -245,62,348 and will stay here. Drop what you can within reach. I still have no food."}
+- 10:45 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-245,"y":63,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}}],"say":"Golem is attacking me, I'm walling myself in
+- 10:48 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":62,"z":348}}],"say":"Morning. Golem has moved off. I'm still stuck on stone in the water with no food. Trini, Jason, any cobble or fo
+- 10:48 act: {"actions":[],"say":"Kimberly, thanks. I'm on the stone by the pool at -245,62,348. Drop potatoes on the stone next to me when the golems are clear. Stay safe.","reasoning":"Tell helpers exactly where
+- 10:57 act: {"actions":[],"say":"Kimberly, thank you for keeping six for me. I'm on the stone in the water, so I can't reach the beds. Trini, if you can, please pass me one potato where I can reach.","reasoning":
+- 11:06 act: {"actions":[],"say":"Morning. Kimberly, Zack is right: please drop the potatoes on the stone by the pool, or pass them to Trini. I'm still here at -245,62,348.","reasoning":"Dawn. Ask for the potatoes
