@@ -682,3 +682,4 @@
 - 14:23 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}],"say":"Kimberly, here is the wheat I owed you. I am going to sleep in the bed next to me now."}
 - 14:23 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}]}
 - 14:23 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Kimberly. I will keep the wheat for now and sleep safe."}
+- 14:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Billy, I still have one wheat for you. I can't see you yet, so I'll hold it until you're close. I'm going to sleep in the bed here.
