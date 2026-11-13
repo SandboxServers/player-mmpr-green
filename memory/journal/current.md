@@ -408,3 +408,9 @@
 - 07:30 act: {"actions":[],"say":"Tommy: dawn, still at -239,48,344, not climbing on my own. Kimberly or Trini, if you can reach the shaft, drop 4 dirt straight down onto my head at -239,49,344. I'll stack up.","r
 - 07:31 act: {"actions":[],"say":"Tommy: Kimberly, you're nearest the rim. Please drop 4 dirt or planks straight down onto -239,49,344. I'm still at y48 and can't climb alone.","reasoning":"Trini cannot reach; Kim
 - 07:36 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"reasoning":"Billy climbed out by stacking at his feet after a mine. Try mining a
+- 07:38 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"}],"say":"Tommy here, in the shaft at y48 with Jason. I'm stacking cobblest
+- 07:39 act: {"actions":[{"do":"eat"},{"do":"place","block":"dirt","at":"feet"}],"say":"Jason, Tommy still at y48 under you. Anyone on the rim: drop dirt or planks onto -239,49,344 please."}
+- 07:39 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"say":"Kimberly, thanks. Dirt is landing somewhere, I'll stack what I get."}
+- 07:43 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}]}
+- 07:49 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"say":"Tommy, still at y48 under Jason. Kimberly, drop dirt on -239,49,344 when you're in reach. Thank you."}
+- 07:53 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}]}
