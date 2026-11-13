@@ -304,3 +304,4 @@
 - 04:30 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-238,"y":49,"z":343}},{"do":"place","block":"cobblestone","at":"feet"}],"say":"Tommy: at -239,48,344 in the pit, healthy.
 - 04:30 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-233,"y":58,"z":348}},"wake_on":["goal_completed
 - 04:34 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":10},{"do":"give","to":"ag_billy_01","item":"dirt","count":8}],"say":"Billy, sending you 10 cobblestone and 8 dirt to stack up w
+- 04:46 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":58,"z":348}}],"reasoning":"Dawn attempt: place, unstick, travel toward the rim."}
