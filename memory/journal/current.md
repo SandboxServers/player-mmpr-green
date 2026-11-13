@@ -683,3 +683,4 @@
 - 14:23 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}]}
 - 14:23 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Kimberly. I will keep the wheat for now and sleep safe."}
 - 14:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Billy, I still have one wheat for you. I can't see you yet, so I'll hold it until you're close. I'm going to sleep in the bed here.
+- 14:25 act: {"say":"Billy, I have 1 wheat for you when you're near. I'm at the beds.","actions":[{"do":"note","text":"Waking 188: at beds near -263,67,352, night, health 20, hunger 20. Holding 1 wheat for Billy; 
