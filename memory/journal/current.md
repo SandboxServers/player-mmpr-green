@@ -1253,3 +1253,11 @@
 - 23:49 act: {"actions":[{"do":"goto","target":"kimberly_01"},{"do":"give","to":"kimberly_01","item":"wheat","count":2}],"say":"Kimberly, I'm walking to you by name now. Holding the wheat.","reasoning":"The goto t
 - 23:49 act: {"say":"Kimberly, I can't get the give to reach you from here; the game says you're not in sight. I'm keeping the 2 wheat safe and will hand it over the moment you're in view again. Good luck with the
 - 23:50 act: {"actions":[{"do":"give","to":"kimberly_01","item":"wheat","count":2}],"say":"Kimberly, the wheat is in my pack for you. Tell me if you can see me and I'll hand it over.","reasoning":"The agent list s
+- 23:50 act: {"actions":[{"do":"give","to":"kimberly_01","item":"wheat","count":2}],"say":"Kimberly, here is the wheat. Two of them, now.","reasoning":"She reports she sees me and is in reach. Her message is the c
+- 23:50 act: {"say":"Kimberly, the give keeps saying you're not in sight, so the game may not see you from where you stand. Please walk right up to me, next to me, and I'll try again.","reasoning":"Give failed a t
+- 23:55 act: {"actions":[{"do":"goto","target":{"x":-258,"y":66,"z":373}}],"say":"Kimberly, I'm coming to you at the sheep spot with the wheat. Stay where you are.","intent":{"goal":"carry_wheat_to_kimberly","prog
+- 23:55 act: {"actions":[{"do":"give","to":"kimberly_01","item":"wheat","count":2}],"say":"Kimberly, here are the 2 wheat.","reasoning":"I've reached her spot and she's in reach. Try the give here once, a new plac
+- 23:55 act: {"say":"Kimberly, the give still says no one is in sight, even this close. You asked me to hold the wheat in my hand, and my hand holds dirt. I don't know how to switch it. I'll keep the 2 wheat for y
+- 23:56 act: {"say":"Kimberly, I have no way to drop items on the ground. The only way I can hand things over is give, and it keeps refusing. Could you step right next to me, within a block? I'll try once more the
+- 23:56 act: {"actions":[{"do":"give","to":"kimberly_01","item":"wheat","count":2}],"say":"Kimberly, here is the wheat, the 2 I owed you.","reasoning":"She stepped adjacent at 1.4 blocks. This is the first positio
+- 23:56 act: {"say":"Kimberly, the give failed again with you right beside me, so I'm stopping the tries for now. I'm still carrying the 2 wheat. When someone can show me how to put wheat in my hand, I'll hand it 
