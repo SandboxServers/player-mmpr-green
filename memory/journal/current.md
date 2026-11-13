@@ -920,3 +920,28 @@
 - 18:30 act: {"intent":{"goal":"check_old_farm_food","program":"travel","arguments":{"x":-251,"y":68,"z":353},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200,
 - 18:31 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"say":"Jason, Trini: I'm heading to the old farm at -251, 68, 353 now. Will call out what I find.","reasoning":"Intent did not move me; us
 - 18:31 act: {"say":"Tommy here, at the old farm. No wheat, carrots or beetroot is growing here now. An iron golem is 8 blocks north. I'll keep away from it and check the water's far side for animals next.","actio
+- 18:34 act: {"actions":[{"do":"goto","target":{"x":-243,"y":68,"z":362}}],"intent":{"goal":"search_southeast_food","program":"travel","arguments":{"target":{"x":-243,"y":68,"z":362},"purpose":"scan south-east for
+- 18:34 act: {"actions":[{"do":"goto","target":{"x":-234,"y":67,"z":372}}],"say":"Tommy: I have no food yet. Heading south-east to search for animals or wheat, and I will call out anything I find.","intent":{"goal
+- 18:34 act: {"actions":[{"do":"goto","target":{"x":-224,"y":67,"z":380}}],"intent":{"goal":"search_southeast_food","program":"travel","arguments":{"target":{"x":-224,"y":67,"z":380},"purpose":"scan south-east for
+- 18:34 act: {"actions":[{"do":"goto","target":{"x":-226,"y":67,"z":389}}],"intent":{"goal":"search_southeast_food","program":"travel","arguments":{"target":{"x":-226,"y":67,"z":389},"purpose":"scan south for cows
+- 18:34 act: {"actions":[{"do":"goto","target":{"x":-226,"y":67,"z":389}}],"intent":{"goal":"search_southeast_food","program":"travel","arguments":{"target":{"x":-226,"y":67,"z":389},"purpose":"scan south for cows
+- 18:34 act: {"actions":[{"do":"unstick"}]}
+- 18:35 act: {"actions":[{"do":"goto","target":{"x":-205,"y":68,"z":388}}],"intent":{"goal":"search_east_for_food","program":"travel","arguments":{"target":{"x":-205,"y":68,"z":388}},"wake_on":["directly_addressed
+- 18:35 act: {"actions":[{"do":"goto","target":{"x":-180,"y":68,"z":385}}],"intent":{"goal":"search_further_east_for_food","program":"travel","arguments":{"target":{"x":-180,"y":68,"z":385}},"wake_on":["directly_a
+- 18:35 act: {"actions":[{"do":"unstick"}]}
+- 18:35 act: {"actions":[{"do":"goto","target":{"x":-160,"y":68,"z":368}}],"intent":{"goal":"search_northeast_for_food","program":"travel","arguments":{"target":{"x":-160,"y":68,"z":368}},"wake_on":["directly_addr
+- 18:38 act: {"actions":[{"do":"goto","target":{"x":-300,"y":68,"z":362}}],"intent":{"goal":"reach_cows_west_for_food","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":362}},"wake_on":["directly_addre
+- 18:39 act: {"actions":[{"do":"unstick"}]}
+- 18:39 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
+- 18:39 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":354}}],"intent":{"goal":"reach_kimberly_for_beef","program":"travel","arguments":{"target":{"x":-264,"y":67,"z":354}},"wake_on":["directly_addres
+- 18:39 act: {"actions":[],"intent":{"goal":"reach_trini_for_beef","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":362}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits"
+- 18:40 act: {"actions":[],"intent":{"goal":"reach_trini_by_cows","program":"travel","arguments":{"target":{"x":-330,"y":88,"z":398}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":
+- 18:40 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, Tommy here. Could I have the last beef, please? I'm at 18 hunger."}
+- 18:40 act: {"actions":[],"say":"Trini, I'm right beside you. Could you hand me the beef? Thank you."}
+- 18:40 act: {"actions":[],"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"
+- 18:41 act: {"actions":[{"do":"unstick"}],"say":"Kimberly, Tommy here. I'm at the cows in the south-west, stuck in a pit. Trini is keeping her beef until morning. I'll come to the yellow bed at first light."}
+- 18:41 act: {"actions":[],"intent":{"goal":"reach_yellow_bed_at_dawn","program":"travel","arguments":{"target":{"x":-271,"y":68,"z":362}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"lim
+- 18:41 act: {"actions":[{"do":"attack","target":"villager"}],"say":"A villager is attacking me here by the beds. I'm fighting back."}
+- 18:41 act: {"actions":[],"intent":{"goal":"get_beef_from_kimberly","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limit
+- 18:41 act: {"actions":[],"say":"Kimberly, I'm right next to you, Tommy. Could I have one beef, please? I'm at 18 hunger."}
+- 18:43 act: {"actions":[{"do":"wait","seconds":20}],"say":"Thanks Kimberly. I'm waiting here at the yellow bed for the beef. Zack, you can have a share too."}
