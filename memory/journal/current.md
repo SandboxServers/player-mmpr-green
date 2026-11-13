@@ -1023,3 +1023,17 @@
 - 20:02 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{"bed":{"x":-263,"y":67,"z":354}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"
 - 20:06 say: {"text":"Farm is near -251, 68, 353, west of the beds. Wheat, carrots and beetroot were there. Go in daylight and keep away from the bows to the north."}
 - 20:10 say: {"text":"Zack, the crops there were mine from earlier and may be gone now. I don't know of other food. Please check the sheep spot at -257, 66, 375 and any animals you find."}
+- 20:11 act: {"intent":{"goal":"reach_sheep_spot","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 20:11 act: {"say":"I'm at the sheep spot too, and see no sheep yet. Kimberly, I'll search the east side while you take the south.","intent":{"goal":"search_east_for_animals","program":"travel","arguments":{"targ
+- 20:11 act: {"intent":{"goal":"search_far_east_for_animals","program":"travel","arguments":{"target":{"x":-220,"y":66,"z":382}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
+- 20:11 act: {"actions":[{"do":"unstick"}],"say":"Kimberly, thank you for the cow tip. I'm in a pit at -220, 67, 382 and getting out now. I'll head to the cow after."}
+- 20:11 act: {"intent":{"goal":"reach_cow_kimberly_saw","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":444}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 20:12 act: {"say":"I'm at -250, 68, 444 and don't see the cow from here. Kimberly and Zack, you're closer to it, so it's yours. I'll keep searching nearby and call out if I find more."}
+- 20:13 act: {"intent":{"goal":"reach_kimberly_for_beef","program":"travel","arguments":{"target":{"x":-245,"y":69,"z":424}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 20:13 act: {"say":"Kimberly, thanks for offering. My hunger is still full, so keep the beef for Zack, who lost everything. I'll help carry things to the beds with him."}
+- 20:14 act: {"say":"Jason, I'll search southeast, away from the blast site, and call out if I find a cow or sheep. Billy, thanks for bringing Zack his things."}
+- 20:14 act: {"intent":{"goal":"search_southeast_for_food","program":"travel","arguments":{"target":{"x":-232,"y":68,"z":440}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 20:14 act: {"say":"Kimberly, I'm at the south-east edge now too. There are some dropped items on the ground here; I'll check them and keep looking for cows and sheep."}
+- 20:18 act: {"say":"Trini has a pickaxe and is freeing Zack. I'm heading to the yellow beds now for the night and will help break anything in the way.","intent":{"goal":"reach_yellow_beds_for_night","program":"tr
+- 20:19 act: {"intent":{"goal":"reach_beds_nearby","program":"travel","arguments":{"target":{"x":-260,"y":67,"z":358}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
+- 20:19 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}]}
