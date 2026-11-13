@@ -552,3 +552,12 @@
 - 12:47 act: {"actions":[{"do":"unstick"}],"reasoning":"Free space check failed; unstick may open a way to place dirt."}
 - 12:47 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
 - 12:47 act: {"intent":{"goal":"wall_dirt","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,
+- 12:47 act: {"actions":[{"do":"goto","target":{"x":-236,"y":63,"z":345}}],"reasoning":"Leave the dirt pocket and scan for animals or crops.","say":"Heading out to look for food. Will report coordinates."}
+- 12:47 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-236,"y":63,"z":345}}],"reasoning":"Still boxed in; clear dirt and try again."}
+- 12:48 act: {"actions":[{"do":"goto","target":{"x":-232,"y":63,"z":345}}],"reasoning":"Moved toward water by mistake; head east away from deep water."}
+- 12:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-238,"y":63,"z":345}}],"reasoning":"Try once more eastward after unstick."}
+- 12:53 act: {"actions":[{"do":"goto","target":{"x":-234,"y":63,"z":345}}],"say":"Tommy, I'm at the pit and heading east, away from the water, to look for food."}
+- 12:53 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-238,"y":63,"z":345}}]}
+- 12:53 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-238,"y":62,"z":345}}]}
+- 12:53 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-238,"y":62,"z":345}}]}
+- 12:53 act: {"actions":[{"do":"goto","target":{"x":-236,"y":62,"z":344}}]}
