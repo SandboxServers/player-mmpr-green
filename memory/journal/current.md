@@ -1177,3 +1177,8 @@
 - 22:26 say: {"text":"Kimberly, I have no food myself, Jason has not brought my pumpkins yet. I am sorry. I will ask him for them and share."}
 - 22:27 act: {"actions":[{"do":"goto","target":{"x":-242,"y":69,"z":343}}],"say":"Jason, I am coming to the table now. Thank you."}
 - 22:27 say: {"text":"Jason, I am at the crafting table now. I do not see you yet. Please come within reach."}
+- 22:31 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"mutton","count":1}],"say":"Kimberly, I have one mutton from Trini. Here, it's yours. Jason, the pumpkins are still needed for Billy and Kimberly.
+- 22:31 act: {"say":"Trini, I already gave the mutton to Kimberly, who is hungry. Kimberly, please keep it, or give it back to Trini if you think it was meant for you two. Jason, I still need my 3 pumpkins when yo
+- 22:31 act: {"say":"Jason, you gave the pumpkins to Billy. I'm still waiting for my 3 when you can reach me here by the table.","intent":{"goal":"wait_for_jason_pumpkins","program":"rest","arguments":{},"wake_on"
+- 22:32 act: {"say":"Jason, I'm right here at the crafting table, and I see no one in sight yet. Walk up to me and I'll take the 3 pumpkins.","intent":{"goal":"wait_for_jason_pumpkins","program":"rest","arguments"
+- 22:33 act: {"say":"Thank you, Jason. I have the 3 pumpkins. Kimberly, Trini, I'm keeping mine for when I need food; if either of you is hungry, ask me.","intent":{"goal":"stay_by_table_and_hold_food","program":"
