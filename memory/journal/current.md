@@ -810,3 +810,8 @@
 - 16:28 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":362}}]}
 - 16:39 act: {"say":"Trini, I'm at the bed right above your pit, at -262, 67, 354. I have no pickaxe, so I can't dig you out tonight. I'll try in the morning.","actions":[{"do":"note","text":"Dusk day 153: at bed 
 - 16:39 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"sleep"}]}
+- 16:40 act: {"actions":[{"do":"goto","target":{"x":-261,"y":68,"z":353}},{"do":"craft","item":"stone_pickaxe","count":1}],"say":"Trini, I'm awake. I'm making a stone pickaxe now, then I'll come dig your gap on th
+- 16:40 act: {"actions":[{"do":"craft","item":"stick","count":1},{"do":"craft","item":"stone_pickaxe","count":1}],"reasoning":"Missing one stick. Craft sticks from planks, then the pickaxe."}
+- 16:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Trini, I have a stone pickaxe now. It's night, so I'll sleep in the bed here and dig your west gap at first light.","reasoning":"Pi
+- 16:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"Night, sheltered enough at the bed, no errands out. Make the stone pickaxe for Trini's gap at dawn. Sleep now.
+- 16:40 act: {"actions":[{"do":"sleep"}],"reasoning":"The bed is right beside me; the goto failed because I was already next to it. Sleep here."}
