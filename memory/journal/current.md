@@ -357,3 +357,5 @@
 - 06:28 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"reasoning":"Kee
 - 06:28 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"reasoning":"Kee
 - 06:28 act: {"actions":[{"do":"goto","target":{"x":-239,"y":48,"z":356}}],"reasoning":"Mining is moving me sideways, not up. Try walking north directly."}
+- 06:29 say: {"text":"Tommy: I'm still in the pit at -239,48,351. Mining only moves me sideways. Kimberly, if you can reach the pit edge, please tell me which way to dig."}
+- 06:30 say: {"text":"Tommy: Kimberly, I'm at -239,48,351, a few blocks north of Jason. If your path reaches him, a short dig north-east to me would help too."}
