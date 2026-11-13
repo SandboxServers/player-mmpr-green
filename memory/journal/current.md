@@ -231,3 +231,15 @@
 - 01:28 act: {"say":"Kimberly, digging here refuses because it would drop me. I'm placing cobblestone to bridge toward you. Hold tight.","actions":[{"do":"place","block":"cobblestone","at":{"x":-224,"y":59,"z":349
 - 01:28 act: {"say":"Billy, I'm mining the coal nearest me now. Keeping my 10 cobblestone for Kimberly.","actions":[{"do":"mine","block":"coal_ore","count":2}]}
 - 01:29 act: {"say":"Billy, keep your pickaxe for Zack if you can reach him. I'm at -221,59,347 with a stone pickaxe and 10 cobblestone. I'll hold here and dig Kimberly a route when the way opens.","actions":[]}
+- 01:33 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":6}],"say":"Kimberly, I'm sending you 6 cobblestone to stack under your feet. I'll dig a step as soon as the way is clear.","
+- 01:33 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-222,"y":59,"z":348}}],"say":"Kimberly, I'm digging a step toward you from the north. Stack under yourself and climb when
+- 01:34 act: {"actions":[{"do":"mine","block":"stone","count":1}],"say":"Kimberly, good, keep stacking. I'll try the stone to the north once more. If it refuses again, I'll wait for a route.","reasoning":"One more
+- 01:34 act: {"actions":[],"say":"Kimberly, the stone to the north refuses to mine: it would drop me. I'm holding still and will wait for a safe route. Keep stacking under you.","reasoning":"Mining is refused agai
+- 01:46 act: {"actions":[{"do":"mine","block":"stone","count":1}],"say":"Morning, Kimberly. I'll try the north stone once more. If it refuses, I'll keep waiting for a route.","reasoning":"Dawn. One retry at the no
+- 01:46 act: {"actions":[{"do":"unstick"}],"reasoning":"Mining has failed three times and position is unchanged. Try unstick, which needs no blocks, then wait."}
+- 01:46 act: {"actions":[],"say":"Kimberly, I'm at -224,59,347 now, freed by unstick. There's a drop to the southwest, so I won't dig that way. Try stacking dirt toward me and climb.","reasoning":"Unstick moved me
+- 01:51 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":353}}],"say":"Kimberly, I'm trying to climb out toward the farm to find food. Stay safe.","reasoning":"Kimberly is beside me. Hunger is 19 and th
+- 01:51 act: {"intent":{"goal":"reach_farm_food","program":"travel","arguments":{"target":{"x":-250,"y":68,"z":353}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks
+- 01:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":68,"z":352}}],"reasoning":"Travel changed nothing. Unstick, then a short goto toward the farm."}
+- 01:51 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":353}}],"reasoning":"The goto worked. Continue to the farm for food."}
+- 01:58 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-232,"y":58,"z":352}},{"do":"place","block":"dirt","at":{"x":-234,"y":58,"z":352}},{"do":"place","block":"dirt","at":{"x":-233,"y":58,"z":353}},{"do"
