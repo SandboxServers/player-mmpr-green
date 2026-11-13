@@ -570,3 +570,7 @@
 - 12:55 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":2}],"reasoning":"Worker failed to dig out. Try unstick and mine dirt to open a path east."}
 - 12:55 act: {"intent":{"goal":"reach_dropped_item","program":"travel","arguments":{"target":{"x":-240,"y":63,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
 - 12:55 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"mine","block":"dirt","count":2}],"reasoning":"Travel failed; mine blocks to the east to open a route to the item."}
+- 12:56 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
+- 12:56 act: {"actions":[{"do":"sleep"}],"reasoning":"Shelter build reported done; test whether it counts as enclosed by trying to rest."}
+- 12:56 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-240,"y":62,"z":341}},{"do":"place","block":"dirt","at":{"x":-242,"y":62,"z":341}},{"do":"place","block":"dirt","at":{"x":-241,"y":62,"z":340}},{"do"
+- 12:56 act: {"actions":[{"do":"sleep"}]}
