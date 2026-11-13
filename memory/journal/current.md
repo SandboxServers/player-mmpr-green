@@ -1019,3 +1019,4 @@
 - 20:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Zack, I have no food; the pig is at -192,70,419 and Jason is heading there. I'm getting into the bed now.","reasonin
 - 20:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"I am beside the bed now. Get on it and sleep."}
 - 20:00 act: {"actions":[{"do":"sleep"}],"reasoning":"Goto onto the bed block fails; I'm already next to it. Sleep here."}
+- 20:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"reasoning":"It is night and a yellow bed is next to me. Step onto the bed, then sleep.","say":"It's night. I'm going to sleep in the bed 
