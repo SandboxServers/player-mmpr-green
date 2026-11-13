@@ -917,3 +917,6 @@
 - 18:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Finish the last 14 blocks west to the white beds."}
 - 18:29 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Progress was one block only, so clear any block and retry the goto."}
 - 18:29 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"reasoning":"Two to three blocks left to the white beds."}
+- 18:30 act: {"intent":{"goal":"check_old_farm_food","program":"travel","arguments":{"x":-251,"y":68,"z":353},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200,
+- 18:31 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"say":"Jason, Trini: I'm heading to the old farm at -251, 68, 353 now. Will call out what I find.","reasoning":"Intent did not move me; us
+- 18:31 act: {"say":"Tommy here, at the old farm. No wheat, carrots or beetroot is growing here now. An iron golem is 8 blocks north. I'll keep away from it and check the water's far side for animals next.","actio
