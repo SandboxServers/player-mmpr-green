@@ -754,3 +754,10 @@
 - 15:13 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"unstick"},{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
 - 15:16 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
 - 15:16 act: {"actions":[{"do":"sleep"}]}
+- 15:18 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Billy, I'm Tommy, down in a pit at -262,61,354. I'm climbing toward the beds at -263,67 and will hold my spot there.
+- 15:18 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"unstick"}],"reasoning":"I am enclosed by dirt and the goto failed. Dig a way out first, then look again."}
+- 15:18 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"I moved out of the enclosed cell; try the bed route again."}
+- 15:18 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-264,"y":61,"z":353}},{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-265,"y":62,"z":353}}],"reasoning"
+- 15:18 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-265,"y":62,"z":352}}],"reasoning":"Goto will not jump. Test whether placing dirt under my feet lets me rise by stackin
+- 15:18 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block
+- 15:18 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"I'm up out of the pit on a dirt stack and heading to the yellow beds now.","reasoning":"I'm at y66, one block below 
