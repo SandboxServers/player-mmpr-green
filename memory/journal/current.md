@@ -1000,3 +1000,5 @@
 - 19:43 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Night, monsters near. Get to the bed and try sleeping there.","intent":{"goal":"reach_bed_and_sleep","program"
 - 19:44 act: {"say":"Going to sleep in my bed. Food at first light, the pig to the south-west.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 19:44 act: {"actions":[{"do":"sleep"}]}
+- 19:45 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Tommy here, awake at the beds. I have no food to spare, only dirt. The pig is southeast near -192, 70, 419. Going to
+- 19:45 act: {"actions":[{"do":"sleep"}],"reasoning":"The goto failed because I was already at the bed. Sleep directly now."}
