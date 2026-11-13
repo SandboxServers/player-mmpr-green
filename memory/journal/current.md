@@ -699,3 +699,28 @@
 - 14:28 act: {"actions":[{"do":"note","text":"Give to Billy failed 5 times (not in sight) though he is listed at 0.1. Stopping the give for now; asking around for food instead."}],"say":"Billy isn't taking the whe
 - 14:29 act: {"actions":[{"do":"note","text":"Billy said to keep the wheat since I need food too. The wheat is mine now; I'll look for animals or seeds."}],"say":"Thanks Billy, I'll keep the wheat. Zack, I'll look
 - 14:30 act: {"actions":[{"do":"note","text":"Jason is bringing 2 wheat to the yellow beds. Zack is hungriest at 17; I am at 20."}],"say":"Jason, Zack is the hungriest, at 17. I'm at 20, so give him the wheat firs
+- 14:38 act: {"say":"Dusk is coming and I have no food yet. I'll wall myself in for the night, then look for food and animals at first light.","intent":{"goal":"shelter_for_night","program":"build","arguments":{"b
+- 14:39 act: {"intent":{"goal":"rest_for_night","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":16}},"a
+- 14:39 act: {"say":"Jason, Zack: I'm inside a mostly closed shelter by the beds with no food but 1 wheat. I'll hold here until first light.","actions":[{"do":"wait","seconds":60}]}
+- 14:44 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"stone_sword","count":1}],"say":"Zombies are out. I'm making a stone sword here so I can defend myself until mornin
+- 14:47 act: {"say":"Morning all. Billy, I still have my 1 wheat for you. I can't see you from here, so walk over where I can see you and I'll hand it across."}
+- 14:48 act: {"intent":{"goal":"find_sheep_north","program":"travel","arguments":{"target":{"x":-235,"y":67,"z":300}},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_failed"],"li
+- 14:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"give","to":"ag_billy_01","item":"wheat","count":1}],"say":"Billy, I'm beside you now. Here is my 1 wheat."}
+- 14:49 act: {"say":"Thanks Billy, I'll keep the wheat for whoever is hungriest. I'm heading north to Trini's sheep now.","intent":{"goal":"reach_sheep_north","program":"travel","arguments":{"target":{"x":-235,"y"
+- 14:49 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-258,"y":67,"z":345}}]}
+- 14:49 act: {"actions":[{"do":"mine","block":"oak_planks","count":2}]}
+- 14:49 act: {"actions":[{"do":"mine","block":"oak_planks","count":1},{"do":"goto","target":{"x":-235,"y":67,"z":274}}]}
+- 14:49 act: {"actions":[{"do":"mine","block":"oak_planks","count":3},{"do":"goto","target":{"x":-258,"y":68,"z":348}}]}
+- 14:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-226,"y":68,"z":276}}]}
+- 14:50 act: {"actions":[{"do":"mine","block":"oak_planks","count":4},{"do":"unstick"}]}
+- 14:51 act: {"say":"I haven't got the sheep, I'm still boxed in by my own planks and just dug out. Heading north to the sheep spot now. I have 1 wheat for whoever is hungriest.","intent":{"goal":"reach_sheep_spot
+- 14:51 act: {"actions":[{"do":"mine","block":"oak_planks","count":6},{"do":"unstick"},{"do":"goto","target":{"x":-258,"y":67,"z":348}}]}
+- 14:51 act: {"say":"Billy, Kimberly: I'm out of the pit now at -262,66,353 and heading north to you. I'll give my wheat to whoever is hungriest once I can see you.","intent":{"goal":"reach_billy_kimberly","progra
+- 14:51 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"oak_planks","count":3}]}
+- 14:52 act: {"intent":{"goal":"reach_billy_kimberly","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":278}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 14:52 act: {"say":"I'm still stuck near the bed pit at -261,69,352, boxed in by my own planks. Billy, Kimberly, if you can get here I'll give my wheat. I'm digging out north now.","actions":[{"do":"mine","block"
+- 14:53 act: {"say":"I'm free of the pit now, heading north toward the sheep spot with my wheat for whoever is hungriest.","intent":{"goal":"reach_sheep_spot","program":"travel","arguments":{"target":{"x":-227,"y"
+- 14:53 act: {"say":"Billy, Kimberly, I'm boxed in with dirt. Digging out now. I'll come to you at the sheep spot.","actions":[{"do":"mine","block":"dirt","count":3}]}
+- 14:54 act: {"intent":{"goal":"reach_sheep_spot","program":"travel","arguments":{"target":{"x":-227,"y":68,"z":278}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 14:54 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"mine","block":"dirt","count":4}]}
+- 14:54 act: {"say":"I'm stuck at the bottom of a dirt pit near -262,62,353. My digging keeps failing and I can't get north yet. I'm sorry, Billy and Kimberly. Jason or Zack, if you can reach me, I still have my 1
