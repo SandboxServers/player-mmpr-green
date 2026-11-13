@@ -1103,3 +1103,22 @@
 - 20:56 act: {"actions":[{"do":"unstick"}]}
 - 20:56 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}]}
 - 20:57 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-145,"y":69,"z":420}}]}
+- 21:02 say: {"text":"Tommy here, at -144,68,420, in a pit, enclosed and safe for now. No food. I'll wait for first light, then look for cows or sheep. Billy, Kimberly, Trini, I'll join the search."}
+- 21:10 say: {"text":"Morning. Tommy here, climbing out at -143,68,420. Heading west-northwest to join the group near -270,67,330 for the cow and sheep search."}
+- 21:10 act: {"intent":{"goal":"join_animal_search","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":330}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 21:11 say: {"text":"Tommy here with the group at -270,66,330. I'm going west to the pig spot near -380,336 to look for food. Call out if you see any pigs or cows."}
+- 21:11 act: {"intent":{"goal":"find_pigs_west","program":"travel","arguments":{"target":{"x":-375,"y":78,"z":336}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 21:11 act: {"actions":[{"do":"goto","target":{"x":-320,"y":67,"z":336}}],"say":"Tommy here, at -283,66,334. My last path was blocked, so I'm going west in shorter hops. Kimberly, come along if you like."}
+- 21:11 act: {"actions":[{"do":"goto","target":{"x":-345,"y":74,"z":332}}],"say":"Tommy here at -320,68,336, with no food yet. Heading toward the pigs near -361,73,327. Billy and Trini, save one for me if you can 
+- 21:12 act: {"actions":[{"do":"goto","target":{"x":-321,"y":73,"z":336}}]}
+- 21:12 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Tommy: I'm at -321,73,336 with 4 health and something keeps hitting me. Retreating east to -262,67,352. Stay away from the west sid
+- 21:13 say: {"text":"Tommy: I'm back at the spawn beds at -262,67,353, health 20. Something west kept hitting me, so I won't go back there. Kimberly, could you bring a pumpkin here? Thank you."}
+- 21:13 say: {"text":"Tommy at the spawn beds, -262,67,353. Billy, Zack: if you can spare the last porkchop or a pumpkin, I'd be grateful. Come here; I'm staying put."}
+- 21:23 say: {"text":"Kimberly, I'm here at the beds. Bring the pumpkins over, I'm hungry-ish and glad of them. Sleep safe."}
+- 21:24 say: {"text":"Kimberly, thank you. Zack, Jason: stay in the hole, cover the top, and hold on till light."}
+- 21:24 say: {"text":"Kimberly, my pack shows nothing yet. Please hand me the pumpkins directly. Zack, come here to the beds too, it's safer than the west."}
+- 21:29 say: {"text":"Morning. Kimberly, I still have nothing in my pack, so please give the pumpkins to me straight. Zack, I'll share my spare wood too. Jason, Trini, meet at the beds when you can."}
+- 21:29 act: {"actions":[{"do":"goto","target":{"x":-253,"y":67,"z":363}}],"say":"Moving east to Kimberly, away from the golem."}
+- 21:30 say: {"text":"Kimberly, I'm beside you at -253,62. Please give me the pumpkins now."}
+- 21:31 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, I'm coming to you for the pumpkins.","intent":{"goal":"reach_kimberly","program":"travel","arguments":{"target":"ag_kimberly_01"},
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"intent":{"goal":"rest_at_beds","program":"rest","arguments":{},"wake_on":["goal_completed","unexpected_damage","directly_a
