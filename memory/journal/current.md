@@ -525,3 +525,5 @@
 - 11:59 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-245,"y":63,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-247,"
 - 12:03 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}}],"say":"Still stuck in the pit at night. I'll keep trying to get out and wall in."}
 - 12:07 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-245,"y":63,"z":348}},{"do":"unstick"}],"say":"Morning. Still in the pit a
+- 12:11 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-246,"y":63,"z":347}},{"do":"place","block":"dirt","at":{"x":-247,"y":63,"z":348}},{"do":"unstick"}]}
+- 12:15 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}}],"say":"Trini, I'm also in a pit at -246,62,348 and can't place blocks. If you have spare cobblestone, please drop some 
