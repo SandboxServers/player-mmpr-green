@@ -316,3 +316,4 @@
 - 05:05 act: {"intent":{"goal":"climb_out_of_pit","program":"gather","arguments":{"block":"stone","count":6},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations"
 - 05:05 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"reasoning":"Gathering stopped. Try a short mine and an unstick to get moving again."}
 - 05:07 act: {"intent":{"goal":"dig_out_of_pit","program":"gather","arguments":{"block":"stone","count":12},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations":
+- 05:15 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-239,"y":49,"z":344}}],"say":"Still in the pit at -237,48,346, healthy. Digging toward Jason's ledge.","reasoning":"Minin
