@@ -684,3 +684,18 @@
 - 14:23 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Kimberly. I will keep the wheat for now and sleep safe."}
 - 14:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Billy, I still have one wheat for you. I can't see you yet, so I'll hold it until you're close. I'm going to sleep in the bed here.
 - 14:25 act: {"say":"Billy, I have 1 wheat for you when you're near. I'm at the beds.","actions":[{"do":"note","text":"Waking 188: at beds near -263,67,352, night, health 20, hunger 20. Holding 1 wheat for Billy; 
+- 14:25 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"wheat","count":1}],"say":"Billy, I'm bringing you my last wheat. Here it is.","reasoning":"Billy is near the be
+- 14:25 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":345}}],"reasoning":"Billy is not in sight by name, but he said he is at the yellow bed near -240,69,344. Walk to that spot, then look for him."}
+- 14:25 act: {"actions":[],"say":"Billy, Kimberly, I'm at the yellow beds. I have 1 wheat for you. Where are you?","reasoning":"I reached the bed area but nobody is in sight. Call out so Billy can come close to ha
+- 14:26 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wheat","count":1}],"say":"Billy, here is the wheat. I'm right by you.","reasoning":"Billy says he is one block east of the bed and asks for the whea
+- 14:26 act: {"actions":[],"say":"Billy, I'm boxed in by logs and stone at the beds. I can't see you. Step into the open where I can see you, and I'll hand it over.","reasoning":"Give failed because Billy is out o
+- 14:27 act: {"actions":[{"do":"mine","block":"dirt","count":1}],"say":"Billy, I'm digging out the dirt on my east side to open a view. Stand still.","reasoning":"Billy can see the sky by the bed. I am walled in, 
+- 14:27 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":345}},{"do":"give","to":"ag_billy_01","item":"wheat","count":1}],"reasoning":"I am out in the open now. Walk to the spot Billy named, next to the
+- 14:27 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wheat","count":1}],"say":"Billy, here's the wheat. It's my last one.","reasoning":"Billy is in reach at distance 0.1 now. Give the wheat."}
+- 14:27 act: {"actions":[],"say":"Billy, Trini, I'm right beside you, Billy. The give didn't go through. Please move a step so we're both on open planks, and I'll try again.","reasoning":"The give to Billy failed 
+- 14:28 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wheat","count":1}],"reasoning":"Billy has stepped onto open planks, so the position has changed. One fresh try."}
+- 14:28 act: {"actions":[{"do":"give","to":"Billy","item":"wheat","count":1}],"say":"Billy, let me try handing it over by your plain name.","reasoning":"Three identical gives to ag_billy_01 failed. Change the way:
+- 14:28 act: {"actions":[{"do":"give","to":"Billy","item":"wheat","count":1}],"say":"Billy, Trini, Zack: has anyone seen food or an animal nearby? I have one wheat for Billy, and I need food too.","intent":{"goal"
+- 14:28 act: {"actions":[{"do":"note","text":"Give to Billy failed 5 times (not in sight) though he is listed at 0.1. Stopping the give for now; asking around for food instead."}],"say":"Billy isn't taking the whe
+- 14:29 act: {"actions":[{"do":"note","text":"Billy said to keep the wheat since I need food too. The wheat is mine now; I'll look for animals or seeds."}],"say":"Thanks Billy, I'll keep the wheat. Zack, I'll look
+- 14:30 act: {"actions":[{"do":"note","text":"Jason is bringing 2 wheat to the yellow beds. Zack is hungriest at 17; I am at 20."}],"say":"Jason, Zack is the hungriest, at 17. I'm at 20, so give him the wheat firs
