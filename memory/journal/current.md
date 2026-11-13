@@ -343,3 +343,7 @@
 - 06:13 act: {"reasoning":"Billy escaped with unstick then walking north. Try the same.","actions":[{"do":"unstick"},{"do":"goto","target":{"x":-238,"y":49,"z":345}}],"say":"Thanks Billy. Trying unstick, then nort
 - 06:14 act: {"reasoning":"Billy got out by stacking dirt under his feet, then unstick. Try with my 8 dirt.","actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-238,"y
 - 06:17 act: {"reasoning":"Not out yet. Tell Billy honestly, try unstick once more.","say":"Billy, not out. I'm still at -239,48,348. Unstick and dirt at my feet both report blocked. Still safe, health 20.","actio
+- 06:18 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Tommy: trying Billy's way out. Dirt under my feet, then unstic
+- 06:18 act: {"say":"Tommy: dirt at feet and unstick did nothing for me again, still at -239,48,348. Billy, are you on cobblestone? Can you tell me which block to mine to climb?","intent":{"goal":"wait_for_help_in
+- 06:18 act: {"say":"Tommy: dirt at feet and unstick did nothing for me again, still at -239,48,348. Billy, are you on cobblestone? Which block should I mine to climb?","intent":{"goal":"wait_for_help_in_pit","pro
+- 06:22 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Kimberly says one level up with this. Try once more and check the position."}
