@@ -799,3 +799,5 @@
 - 16:23 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
 - 16:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"The shelter build changed nothing. Night is here, so go to the bed one block away and sleep."}
 - 16:23 act: {"actions":[{"do":"unstick"},{"do":"sleep"}],"reasoning":"The goto moved me zero blocks, so I'm wedged. Unstick first, then try to sleep where I stand."}
+- 16:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"Night, bed adjacent, safe. Sleep, then reflect."}
+- 16:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Body awake now. Sleep in the adjacent bed."}
