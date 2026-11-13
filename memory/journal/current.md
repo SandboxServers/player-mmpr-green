@@ -1242,3 +1242,4 @@
 - 23:33 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wheat","count":2}],"say":"Kimberly, handing over the 2 wheat now."}
 - 23:33 say: {"text":"Kimberly, I still can't see you from here. I'm standing just east of the yellow beds. Walk up to me and I'll give you the wheat."}
 - 23:34 act: {"actions":[{"do":"goto","target":{"x":-259,"y":66,"z":353}},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":2}]}
+- 23:40 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
