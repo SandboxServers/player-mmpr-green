@@ -1002,3 +1002,16 @@
 - 19:44 act: {"actions":[{"do":"sleep"}]}
 - 19:45 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Tommy here, awake at the beds. I have no food to spare, only dirt. The pig is southeast near -192, 70, 419. Going to
 - 19:45 act: {"actions":[{"do":"sleep"}],"reasoning":"The goto failed because I was already at the bed. Sleep directly now."}
+- 19:50 act: {"intent":{"goal":"check_farm_food","program":"travel","arguments":{"x":-251,"y":68,"z":353},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max
+- 19:52 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"say":"Zack, Trini, Jason: I have no food, only dirt. I'm checking the old wheat farm to the east for anything ready to eat."}
+- 19:52 act: {"actions":[{"do":"attack","target":"villager"},{"do":"attack","target":"villager"},{"do":"attack","target":"villager"}],"say":"Jason, the farm is empty, I ate the last of it earlier. A villager is at
+- 19:53 act: {"intent":{"goal":"search_food_southeast","program":"travel","arguments":{"x":-210,"y":67,"z":390},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":240
+- 19:53 act: {"intent":{"goal":"search_food_southeast","program":"travel","arguments":{"x":-210,"y":67,"z":390},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":240
+- 19:53 act: {"actions":[{"do":"goto","target":{"x":-210,"y":67,"z":390}}],"say":"Still looking for food. Heading south-east toward the grassland to find sheep or animals."}
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":-250,"y":66,"z":375}}],"say":"Zack, I'm heading toward the sheep too. I'll look for other food on the way."}
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":385}}],"say":"Zack, I'm here at the sheep spot but see no sheep. I have no tools, only dirt. I'm searching south-west for animals; I'll report ba
+- 19:54 act: {"actions":[{"do":"unstick"}]}
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":405}}],"say":"I'm out of the pit. Still no sheep or animals in sight here. Searching further south-west."}
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":396}}]}
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":-195,"y":70,"z":415}}],"say":"Thanks, Zack. I'll check the old pig spot to the south-east and report back."}
+- 19:59 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":356}}],"say":"It's getting dark and I found no food near the old pig spot. I'm going back to the yellow beds to be with Zack and the others for t
