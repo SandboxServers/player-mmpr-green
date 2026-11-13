@@ -607,3 +607,9 @@
 - 13:38 act: {"say":"Tommy here at -241, 62, 343. I have a stone pickaxe and wheat. I'm digging toward Trini from the east now.","actions":[{"do":"goto","target":{"x":-233,"y":56,"z":350}}],"intent":{"goal":"reach
 - 13:38 act: {"say":"Kimberly, my walk toward Trini failed; I didn't move. I'm still at -241, 62, 343 with the wheat. Tell me when you can see me and I'll walk over.","actions":[{"do":"note","text":"Goto toward Tr
 - 13:38 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
+- 13:40 act: {"say":"Kimberly, I'm at -241,62,343 by the water. I'm building a stone shelter now. Come by and I'll give you the wheat.","intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"
+- 13:40 act: {"say":"Kimberly, I'm at -241,62,343 on the stone. Come to me and I'll hand you the wheat.","intent":{"goal":"night_shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"
+- 13:41 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-240,"y":62,"z":343}},{"do":"place","block":"cobblestone","at":{"x":-242,"y":62,"z":343}},{"do":"place","block":"cobblestone","at":{"x":-241,"
+- 13:46 act: {"say":"Kimberly, it's dawn. I'm coming to you with the wheat.","actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}],"intent":{"goal":"reach
+- 13:48 act: {"say":"Kimberly, coming to you now.","actions":[{"do":"goto","target":{"x":-244,"y":62,"z":344}},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}]}
+- 13:48 act: {"say":"Kimberly, the water blocks my walk; I moved zero blocks. I'm staying at -241,62,343 on the stone. Please come here, across the dry side, and I'll hand over the wheat."}
