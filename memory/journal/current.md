@@ -579,3 +579,4 @@
 - 13:03 act: {"actions":[{"do":"sleep"}],"say":"Tommy: no shelter yet and the blocks won't place. Trying to rest here at night.","reasoning":"Shelter attempts failing; health full, hunger full. Try sleep; check af
 - 13:03 act: {"intent":{"goal":"wait_out_night","program":"rest","arguments":{"seconds":300},"wake_on":["unexpected_damage","directly_addressed","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_o
 - 13:08 act: {"intent":{"goal":"shelter_day","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":
+- 13:12 act: {"say":"Jason, Tommy here. I'm about 27 blocks east of you at -245,62,343, not enclosed, and my moves keep getting interrupted. I can bring dirt if you tell me where you are.","reasoning":"Jason is bo
