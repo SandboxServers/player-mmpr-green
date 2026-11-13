@@ -787,3 +787,5 @@
 - 15:57 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Dusk is here. Zack, Kimberly, keep building toward him; I am going to the bed to rest for the night."}
 - 16:02 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Zack, Jason, Kimberly: it is night, I am going to rest in the bed here. I still have 1 wheat for food.","reasoning":
 - 16:02 act: {"actions":[{"do":"sleep"}],"reasoning":"The goto failed only because I already stand beside the bed. Try sleep alone, the one retry for this attempt."}
+- 16:03 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"It is night. I am going to bed by the yellow beds here."}
+- 16:03 act: {"actions":[{"do":"sleep"}]}
