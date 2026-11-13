@@ -801,3 +801,5 @@
 - 16:23 act: {"actions":[{"do":"unstick"},{"do":"sleep"}],"reasoning":"The goto moved me zero blocks, so I'm wedged. Unstick first, then try to sleep where I stand."}
 - 16:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"Night, bed adjacent, safe. Sleep, then reflect."}
 - 16:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Body awake now. Sleep in the adjacent bed."}
+- 16:26 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Trini, I'm in the bed here for the night. Stay safe in your pit."}
+- 16:26 act: {"actions":[{"do":"sleep"}]}
