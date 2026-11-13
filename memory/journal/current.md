@@ -805,3 +805,8 @@
 - 16:26 act: {"actions":[{"do":"sleep"}]}
 - 16:28 act: {"say":"Morning. I'm heading south-east to look for sheep and wool. The farm near -251, 68, 353 had wheat, carrots and beetroot last I saw.","intent":{"goal":"explore_south_east_for_sheep","program":"
 - 16:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-255,"y":67,"z":362}}]}
+- 16:28 act: {"actions":[{"do":"goto","target":{"x":-259,"y":67,"z":357}}]}
+- 16:28 act: {"actions":[{"do":"unstick"}]}
+- 16:28 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":362}}]}
+- 16:39 act: {"say":"Trini, I'm at the bed right above your pit, at -262, 67, 354. I have no pickaxe, so I can't dig you out tonight. I'll try in the morning.","actions":[{"do":"note","text":"Dusk day 153: at bed 
+- 16:39 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"sleep"}]}
