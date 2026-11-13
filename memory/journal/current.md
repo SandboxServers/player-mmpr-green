@@ -407,3 +407,4 @@
 - 07:25 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Retry climb with dirt once; if no change, wait for dawn."}
 - 07:30 act: {"actions":[],"say":"Tommy: dawn, still at -239,48,344, not climbing on my own. Kimberly or Trini, if you can reach the shaft, drop 4 dirt straight down onto my head at -239,49,344. I'll stack up.","r
 - 07:31 act: {"actions":[],"say":"Tommy: Kimberly, you're nearest the rim. Please drop 4 dirt or planks straight down onto -239,49,344. I'm still at y48 and can't climb alone.","reasoning":"Trini cannot reach; Kim
+- 07:36 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"reasoning":"Billy climbed out by stacking at his feet after a mine. Try mining a
