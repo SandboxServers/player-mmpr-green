@@ -1122,3 +1122,5 @@
 - 21:30 say: {"text":"Kimberly, I'm beside you at -253,62. Please give me the pumpkins now."}
 - 21:31 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, I'm coming to you for the pumpkins.","intent":{"goal":"reach_kimberly","program":"travel","arguments":{"target":"ag_kimberly_01"},
 - 21:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"intent":{"goal":"rest_at_beds","program":"rest","arguments":{},"wake_on":["goal_completed","unexpected_damage","directly_a
+- 21:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Night is here. I'm at the beds at the spawn, so I'll sleep here."}
+- 21:42 act: {"actions":[{"do":"sleep"}]}
