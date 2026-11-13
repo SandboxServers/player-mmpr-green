@@ -1197,3 +1197,7 @@
 - 22:50 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-244,"y":69,"z":340}}],"say":"Billy, Trini, I'm still walled in. I'm digging out through the dirt and will follow west.","
 - 22:50 act: {"intent":{"goal":"follow_group_west","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":330}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
 - 22:50 act: {"intent":{"goal":"search_sheep_west","program":"travel","arguments":{"target":{"x":-340,"y":66,"z":322}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 22:55 act: {"say":"Billy, Kimberly, Jason, Zack, Trini: Tommy here, I'm at -339, 67, 321, coming to join you. I have no food, and I'm looking for sheep or cows too.","intent":{"goal":"join_group_west","program":
+- 22:56 act: {"actions":[{"do":"goto","target":{"x":-393,"y":67,"z":331}}],"say":"Billy, I'm here with 5 dirt, 4 cobblestone and 3 planks. Tell me which side to place them on, and I'll place them myself."}
+- 22:58 act: {"actions":[{"do":"goto","target":{"x":-394,"y":67,"z":332}}],"say":"Billy, Trini, Zack, Jason, Kimberly: Tommy here, close by. Night is coming. Tell me the exact open gap and I'll place my 6 dirt and
+- 22:58 act: {"actions":[{"do":"sleep"}],"say":"Night. I'm inside the wall with Billy, Zack and Kimberly, and it's sealed on my side."}
