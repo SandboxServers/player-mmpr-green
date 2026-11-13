@@ -1084,3 +1084,22 @@
 - 20:35 act: {"actions":[{"do":"goto","target":{"x":-212,"y":67,"z":439}},{"do":"attack","target":"sheep"}],"intent":{"goal":"hunt_sheep_for_food","program":"travel","arguments":{"target":{"x":-212,"y":67,"z":439}
 - 20:38 act: {"intent":{"goal":"build_cobblestone_wall_for_cover","program":"build","arguments":{"blueprint":"wall","block":"cobblestone"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"lim
 - 20:38 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-212,"y":67,"z":439}},{"do":"place","block":"cobblestone","at":{"x":-212,"y":67,"z":441}},{"do":"place","block":"cobblestone","at":{"x":-211,"
+- 20:48 act: {"intent":{"goal":"find_sheep_for_wool","program":"travel","arguments":{"target":{"x":-210,"y":67,"z":390}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_t
+- 20:48 act: {"intent":{"goal":"search_sheep_further_se","program":"travel","arguments":{"target":{"x":-190,"y":67,"z":420}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
+- 20:48 act: {"actions":[{"do":"unstick"}]}
+- 20:48 act: {"actions":[{"do":"unstick"}]}
+- 20:49 act: {"actions":[{"do":"mine","block":"granite","count":1},{"do":"unstick"}]}
+- 20:49 act: {"intent":{"goal":"search_sheep_east","program":"travel","arguments":{"target":{"x":-175,"y":67,"z":425}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 20:49 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-175,"y":68,"z":428}}],"say":"Skeleton's to the west. I'm sealing myself in here for the night.","intent":{"goal":"rest_sealed_night","program
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":-175,"y":67,"z":432}},{"do":"attack","target":"skeleton"},{"do":"attack","target":"skeleton"},{"do":"attack","target":"skeleton"}],"say":"Skeleton to the south i
+- 20:50 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-175,"y":68,"z":428}},{"do":"place","block":"cobblestone","at":{"x":-176,"y":67,"z":428}},{"do":"place","block":"cobblestone","at":{"x":-174,"
+- 20:50 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-176,"y":68,"z":428}},{"do":"place","block":"torch","at":{"x":-176,"y":68,"z":427}}],"intent":{"goal":"rest_sealed_night","program":"rest","ar
+- 20:51 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-175,"y":68,"z":428}},{"do":"place","block":"cobblestone","at":{"x":-175,"y":68,"z":427}},{"do":"place","block":"cobblestone","at":{"x":-175,"
+- 20:55 act: {"say":"Tommy here, at -175,67,428. I have no food and I saw no sheep yet. I'm heading east to look for sheep and cows. Shout if you see one.","intent":{"goal":"search_sheep_east","program":"travel","
+- 20:55 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-162,"y":72,"z":425}},{"do":"place","block":"cobblestone","at":{"x":-160,"y":72,"z":425}},{"do":"place","block":"cobblestone","at":{"x":-161,"
+- 20:55 act: {"actions":[{"do":"mine","block":"dirt","count":3}],"intent":{"goal":"shelter_wall","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"
+- 20:56 act: {"actions":[{"do":"unstick"}]}
+- 20:56 act: {"actions":[{"do":"goto","target":{"x":-145,"y":67,"z":420}}],"say":"I'm out of the pit, no food either. I'll search east and north for cows and sheep.","intent":{"goal":"search_food_east","program":"
+- 20:56 act: {"actions":[{"do":"unstick"}]}
+- 20:56 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}]}
+- 20:57 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-145,"y":69,"z":420}}]}
