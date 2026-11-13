@@ -196,3 +196,13 @@
 - 01:03 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-225,"y":60,"z":348}}]}
 - 01:04 act: {"intent":{"goal":"walk_to_beds","program":"travel","arguments":{"target":{"x":-283,"y":69,"z":371}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":
 - 01:04 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"craft","item":"stick","count":2},{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"stone_pickaxe","count":1}]}
+- 01:04 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 01:04 act: {"actions":[{"do":"craft","item":"stick","count":2},{"do":"craft","item":"stone_pickaxe","count":1}]}
+- 01:04 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"x":-283,"y":69,"z":371},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations":200}}}
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
+- 01:04 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-230,"y":59,"z":350}},{"do":"craft","item":"stone_pickaxe","count":1}]}
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
+- 01:06 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":6}]}
+- 01:06 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
+- 01:07 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-283,"y":69,"z":371}}],"reasoning":"Errand is to climb out and reach the beds. 
+- 01:07 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-231,"y":62,"z":346}}]}
