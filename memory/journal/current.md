@@ -436,3 +436,10 @@
 - 09:16 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Not moving; my own column may be walling me in. Unstick then retry."}
 - 09:17 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-240,"y":60,"z":341}}],"reasoning":"Enclosed on all sides; mine a way out to the north and step through."}
 - 09:18 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-240,"y":60,"z":341}}],"reasoning":"Mining gained nothing; unstick, mine one block, then step north."}
+- 09:26 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-240,"y":60,"z":341}}],"reasoning":"Dawn; dig a way out to the north."}
+- 09:26 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"intent":{"goal":"reach_bed","program":"travel","arguments":{"target":{"x":-240,"y":69,"z":344}},"wake_on":["goal_completed","precondition
+- 09:27 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":60,"z":343}},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Travel stalled; unstick then step toward bed."}
+- 09:28 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"cobblestone","count":10}],"say":"Jason, I'm stuck at -240,59,342 and can't reach your shaft. Kimberly has the dirt; I'll keep trying out.","reasonin
+- 09:28 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-240,"y":62,"z":342}},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Pillar up with cobblestone 
+- 09:29 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Keep pillaring up toward th
+- 09:29 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":
