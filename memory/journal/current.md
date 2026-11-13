@@ -170,3 +170,6 @@
 - 00:34 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-205,"y":62,"z":335}}]}
 - 00:35 act: {"actions":[{"do":"goto","target":{"x":-205,"y":62,"z":335}}]}
 - 00:36 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 00:41 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, I'm coming to the beds."}
+- 00:42 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":16}]}
+- 00:43 act: {"actions":[{"do":"note","text":"Night day105 at (-226,59,348). Sleep needs a bed; Billy is at the beds (location unknown). 8 oak planks only. Next: find Billy/beds or gather logs."},{"do":"wait","sec
