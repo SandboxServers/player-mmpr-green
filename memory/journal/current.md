@@ -401,3 +401,9 @@
 - 07:10 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"
 - 07:13 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
 - 07:19 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}]}
+- 07:25 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"}],"say":"Tommy here, still at y48 in the shaft. Placing cobblestone at my 
+- 07:25 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Previous placements did nothing; position unchanged. Try unstick then place once more and check the result."
+- 07:25 act: {"actions":[],"say":"Tommy: still at y48, placing at my feet is not raising me. Jason, I'm right beside you. Trini, if you're near at dawn, drop dirt straight down onto my head. I'll keep trying.","in
+- 07:25 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Retry climb with dirt once; if no change, wait for dawn."}
+- 07:30 act: {"actions":[],"say":"Tommy: dawn, still at -239,48,344, not climbing on my own. Kimberly or Trini, if you can reach the shaft, drop 4 dirt straight down onto my head at -239,49,344. I'll stack up.","r
+- 07:31 act: {"actions":[],"say":"Tommy: Kimberly, you're nearest the rim. Please drop 4 dirt or planks straight down onto -239,49,344. I'm still at y48 and can't climb alone.","reasoning":"Trini cannot reach; Kim
