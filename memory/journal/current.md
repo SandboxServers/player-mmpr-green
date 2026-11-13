@@ -766,3 +766,10 @@
 - 15:19 act: {"actions":[{"do":"sleep"}]}
 - 15:21 say: {"text":"Tommy here. Night at the yellow beds, fed and healthy. I'm going to sleep beside the bed now."}
 - 15:22 say: {"text":"Tommy here, back at the yellow beds. Fed and healthy. Tomorrow I'm looking for sheep for wool and food."}
+- 15:25 act: {"say":"Billy, I'm Tommy. I'm fed and well. Do you know where sheep or food are nearby? I need wool and something to eat."}
+- 15:30 act: {"intent":{"goal":"gather_farm_food","program":"gather","arguments":{"block":"beetroots","count":6,"near":{"x":-288,"y":69,"z":292}},"wake_on":["goal_completed","unexpected_damage","directly_addressed
+- 15:34 act: {"actions":[{"do":"goto","target":{"x":-288,"y":69,"z":292}}]}
+- 15:34 act: {"actions":[{"do":"goto","target":{"x":-288,"y":69,"z":292}}]}
+- 15:34 act: {"intent":{"goal":"travel_to_farm","program":"travel","arguments":{"target":{"x":-288,"y":69,"z":292},"stages":"short"},"wake_on":["goal_completed","unexpected_damage","directly_addressed","preconditi
+- 15:34 act: {"say":"Thanks, Billy. My path keeps stopping short, so I'm still by the beds at -262,69,352. I have 1 wheat. I'll try again toward the farm and wait for ripe crops."}
+- 15:38 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
