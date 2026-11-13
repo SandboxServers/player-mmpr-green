@@ -734,3 +734,23 @@
 - 15:05 act: {"actions":[{"do":"note","text":"Night day148. Sheltered-ish by two beds near -263,67,353. Kimberly is coming to me, has no food; I have 1 wheat to give."}],"say":"Kimberly, I'm here at the beds, -263
 - 15:05 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"It is night and I am at the beds with health and hunger full. Kimberly went to Billy instead, so I sleep here.
 - 15:05 act: {"actions":[{"do":"sleep"}],"reasoning":"The goto to the bed changed nothing, but I am already beside the bed. Try sleep from here."}
+- 15:05 act: {"say":"Kimberly, I'm here by the beds. I'll give you the wheat when you're close enough to hand it over."}
+- 15:06 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}],"say":"Kimberly, here is my one wheat. Billy, I'm sorry I have nothing more; I'm full myself."}
+- 15:06 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":350}},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}],"say":"Kimberly, I'm walking north to you with the wheat."}
+- 15:06 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wheat","count":1}],"say":"Kimberly says she's full, so my wheat goes to Billy. Billy, if you can see me, I'm at the beds."}
+- 15:07 act: {"actions":[{"do":"goto","target":{"x":-264,"y":66,"z":331}}],"say":"Billy, I'm coming to you with my last wheat. Jason, I hope you get out of the pit."}
+- 15:07 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-264,"y":66,"z":331}}]}
+- 15:07 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}],"say":"Billy, I could not reach you; the way was blocked. I'm going to the beds for the night. My last wheat is still with 
+- 15:07 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-262,"y":67,"z":353}}]}
+- 15:07 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
+- 15:08 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}],"say":"Billy, I'm still stuck in a stone hole near the beds. My wheat stays with me until someone can reach me."}
+- 15:08 act: {"actions":[{"do":"unstick"},{"do":"sleep"}]}
+- 15:08 act: {"actions":[{"do":"mine","block":"dirt","count":2}]}
+- 15:08 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}]}
+- 15:10 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 15:10 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
+- 15:10 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"mine","block":"dirt","count":3},{"do":"unstick"}]}
+- 15:13 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 15:13 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"unstick"},{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 15:16 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
+- 15:16 act: {"actions":[{"do":"sleep"}]}
