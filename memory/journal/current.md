@@ -524,3 +524,4 @@
 - 11:58 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":{"name":"night_shelter","blocks":[{"block":"cobblestone","dx":0,"dy":1,"dz":0}]},"block":"
 - 11:59 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-245,"y":63,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-247,"
 - 12:03 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}}],"say":"Still stuck in the pit at night. I'll keep trying to get out and wall in."}
+- 12:07 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-245,"y":63,"z":348}},{"do":"unstick"}],"say":"Morning. Still in the pit a
