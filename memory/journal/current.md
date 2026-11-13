@@ -1182,3 +1182,18 @@
 - 22:31 act: {"say":"Jason, you gave the pumpkins to Billy. I'm still waiting for my 3 when you can reach me here by the table.","intent":{"goal":"wait_for_jason_pumpkins","program":"rest","arguments":{},"wake_on"
 - 22:32 act: {"say":"Jason, I'm right here at the crafting table, and I see no one in sight yet. Walk up to me and I'll take the 3 pumpkins.","intent":{"goal":"wait_for_jason_pumpkins","program":"rest","arguments"
 - 22:33 act: {"say":"Thank you, Jason. I have the 3 pumpkins. Kimberly, Trini, I'm keeping mine for when I need food; if either of you is hungry, ask me.","intent":{"goal":"stay_by_table_and_hold_food","program":"
+- 22:33 act: {"say":"I'm Tommy. I have 3 pumpkins and I'm staying by the beds. Trini, I don't have your mutton anymore; Kimberly has it. I'll sleep in the yellow bed when night comes.","actions":[{"do":"goto","tar
+- 22:33 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"pumpkin","count":3}],"say":"Jason, you're hungry, so here are my 3 pumpkins. Eat them and tell me if you need more."}
+- 22:33 act: {"actions":[{"do":"note","text":"Day 171 (day): gave my 3 pumpkins to Jason, who was hungry. I have no food now. Staying by the yellow bed at (-241,69,343) until night, then sleeping in it."}]}
+- 22:38 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"say":"Night is coming. I'm going to sleep in the yellow bed by the beds. Stay safe, everyone."}
+- 22:41 act: {"actions":[{"do":"sleep"}]}
+- 22:41 act: {"intent":{"goal":"wall_in_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_
+- 22:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Walls mostly built or blocked; try sleep again to see if monsters have cleared."}
+- 22:44 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"say":"I'll try the yellow bed itself.","reasoning":"Sleep failed from here. Change the place: move onto the bed and try ag
+- 22:44 act: {"actions":[{"do":"unstick"}],"reasoning":"Goto moved zero blocks; I may be boxed in. Get free first, then wait for dawn."}
+- 22:48 act: {"intent":{"goal":"find_sheep_west","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":330}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks
+- 22:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-236,"y":69,"z":344}}],"say":"Trini, Billy, I'm boxed in by logs. I'll try to get out east first, then go round to the west.","reasoning":"Trave
+- 22:49 act: {"actions":[{"do":"mine","block":"oak_log","count":2},{"do":"mine","block":"dirt","count":2}],"reasoning":"View says I'm sealed in by solid blocks; only a gap ahead. Mine out through logs and dirt, th
+- 22:50 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-244,"y":69,"z":340}}],"say":"Billy, Trini, I'm still walled in. I'm digging out through the dirt and will follow west.","
+- 22:50 act: {"intent":{"goal":"follow_group_west","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":330}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 22:50 act: {"intent":{"goal":"search_sheep_west","program":"travel","arguments":{"target":{"x":-340,"y":66,"z":322}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
