@@ -206,3 +206,6 @@
 - 01:06 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
 - 01:07 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-283,"y":69,"z":371}}],"reasoning":"Errand is to climb out and reach the beds. 
 - 01:07 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-231,"y":62,"z":346}}]}
+- 01:07 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
+- 01:08 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}]}
+- 01:08 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
