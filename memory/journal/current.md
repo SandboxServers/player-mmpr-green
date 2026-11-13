@@ -297,3 +297,6 @@
 - 04:09 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-233,"y":58,"z":348}}],"say":"Tommy: still in the pit at -239,50,345, healthy, with 18 cobblestone and 3 potatoe
 - 04:09 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-233,"y":58,"z":348}},"wake_on":["goal_completed","directly_addressed","unexpected_damag
 - 04:09 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":58,"z":348}}],"reasoning":"At y=51 again; one more stack-unstick-goto cycle."}
+- 04:13 act: {"actions":[{"do":"goto","target":{"x":-240,"y":49,"z":345}},{"do":"unstick"}],"say":"Tommy: safe at health 20 in the pit near -238,51,346. I have 17 cobblestone, 8 dirt and 3 potatoes for anyone who 
+- 04:13 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-233,"y":58,"z":348}},"wake_on":["goal_
+- 04:17 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-238,"y":48,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-240,"y":48,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-239,"
