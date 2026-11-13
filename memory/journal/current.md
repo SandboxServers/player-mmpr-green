@@ -547,3 +547,8 @@
 - 12:41 act: {"actions":[{"do":"goto","target":{"x":-244,"y":65,"z":346}}]}
 - 12:45 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":12
 - 12:45 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-244,"y":64,"z":345}},{"do":"place","block":"dirt","at":{"x":-244,"y":64,"z":347}},{"do":"place","block":"dirt","at":{"x":-243,"y":64,"z":346}},{"do"
+- 12:46 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-244,"y":65,"z":346}}],"say":"Tommy here. Sealing my pit with dirt; still need food, and I'll bring Zack's wheat question to Kimberly.","reasoning":"
+- 12:47 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-244,"y":65,"z":346}}],"reasoning":"Retry sealing above feet; if it fails, read why."}
+- 12:47 act: {"actions":[{"do":"unstick"}],"reasoning":"Free space check failed; unstick may open a way to place dirt."}
+- 12:47 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
+- 12:47 act: {"intent":{"goal":"wall_dirt","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,
