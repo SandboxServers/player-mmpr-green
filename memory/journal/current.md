@@ -520,3 +520,4 @@
 - 11:29 act: {"say":"Zack, thanks. I have 30 cobblestone and 23 dirt, so I don't need blocks. Jason is the one who needs food most. I'm in a pit on stone at -246,62,348, full health and hunger."}
 - 11:34 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-245,"y":62,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-247,"
 - 11:38 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}}]}
+- 11:46 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}}]}
