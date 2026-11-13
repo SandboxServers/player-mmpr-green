@@ -761,3 +761,6 @@
 - 15:18 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-265,"y":62,"z":352}}],"reasoning":"Goto will not jump. Test whether placing dirt under my feet lets me rise by stackin
 - 15:18 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block
 - 15:18 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"I'm up out of the pit on a dirt stack and heading to the yellow beds now.","reasoning":"I'm at y66, one block below 
+- 15:19 act: {"say":"Hello Billy, thanks. I'm Tommy, holding 1 wheat if anyone is hungry. I'm going to my bed now.","intent":{"goal":"reach_bed_and_rest","program":"travel","arguments":{"target":{"x":-263,"y":67,"
+- 15:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 15:19 act: {"actions":[{"do":"sleep"}]}
