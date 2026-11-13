@@ -1037,3 +1037,34 @@
 - 20:18 act: {"say":"Trini has a pickaxe and is freeing Zack. I'm heading to the yellow beds now for the night and will help break anything in the way.","intent":{"goal":"reach_yellow_beds_for_night","program":"tr
 - 20:19 act: {"intent":{"goal":"reach_beds_nearby","program":"travel","arguments":{"target":{"x":-260,"y":67,"z":358}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
 - 20:19 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}]}
+- 20:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Dusk, and I'm at the yellow bed with hunger at 20. I'm sleeping here tonight; cow and sheep hunting comes in the mor
+- 20:20 act: {"actions":[{"do":"note","text":"Day 164 dusk: slept at yellow bed (-263,67,353), sleep worked. Hunger 20, health 20. Food plan at dawn: cow near -252,68,447 (avoid blast site ~-251,68,444 until clear
+- 20:22 act: {"actions":[{"do":"sleep"}],"say":"Trini, good. At first light we go for the cow near -252,68,447 and the sheep to the south-east, keeping clear of the blast site. Goodnight.","reasoning":"It is night
+- 20:23 act: {"intent":{"goal":"find_cow_sheep_se","program":"travel","arguments":{"target":{"x":-225,"y":67,"z":385}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 20:23 act: {"actions":[{"do":"unstick"}],"reasoning":"I dug into a pit from a panic reflex and am trapped. Get out first, then look for food."}
+- 20:23 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":353}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":360}}],"say":"Trini, I'm at -241,67,370 on the grass, and my path to the beds keeps getting interrupted. I'm trying a different route west. Wait 
+- 20:24 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}],"say":"I'm at the yellow beds now and going to sleep. Morning cow and sheep hunt with Trini and Kimberly.","reasoning":"Nea
+- 20:24 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":355}},{"do":"sleep"}],"say":"On my way in to the beds, Trini and Zack. Going to sleep.","reasoning":"Still a bit north of the beds. Try a differe
+- 20:24 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-242,"y":69,"z":342}},{"do":"sleep"}],"reasoning":"I am perched at night, outside the beds, and the last goto failed as busy. Unstick, walk to t
+- 20:24 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"reasoning":"Sleep failed with a timeout and I am away from the beds. Walk to the yellow bed at -241,69,344 and try sleep o
+- 20:24 act: {"intent":{"goal":"escape_golems","program":"flee","arguments":{"from":"iron_golem"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_operations":20}},"reaso
+- 20:25 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":338}}],"reasoning":"A golem is 6 blocks south. Move north-east away from it to a quieter spot, then wait for light."}
+- 20:25 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":326}}],"reasoning":"Health 5.8 and falling, hit from behind repeatedly. Move hard north-east, away from the golem to the south-west."}
+- 20:25 act: {"actions":[{"do":"goto","target":{"x":-214,"y":68,"z":316}}],"reasoning":"Still taking hits with no visible attacker. Keep moving away from the bed area toward the north-east, then wait out the night
+- 20:26 act: {"actions":[{"do":"note","text":"At (-214,68,316) in the open, health 11.8, hunger 17, no items. Waiting for light."}],"say":"Kimberly, Billy, I am at (-214,68,316), out east of the beds. I lost every
+- 20:27 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, I'm coming to you. Wait for me by the cow.","reasoning":"Trini is going to the cow with Kimberly. Join her, since a group is safer and f
+- 20:27 act: {"actions":[{"do":"goto","target":{"x":-236,"y":68,"z":400}}],"say":"Dawn. I'm heading south toward the cow field now. Kimberly, Billy, tell me where you are.","reasoning":"Dawn has come. Move south t
+- 20:28 act: {"intent":{"goal":"reach_cow_field_with_group","program":"travel","arguments":{"target":{"x":-240,"y":68,"z":420}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 20:28 act: {"intent":{"goal":"check_dropped_items_near_cow_field","program":"travel","arguments":{"target":{"x":-246,"y":69,"z":429}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","go
+- 20:28 act: {"intent":{"goal":"join_group_at_trini_spot","program":"travel","arguments":{"target":{"x":-276,"y":69,"z":379}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
+- 20:29 act: {"intent":{"goal":"hold_with_group_until_cow_hunt","program":"trade_wait","arguments":{"reason":"waiting for Billy, Zack and Kimberly before the cow hunt"},"wake_on":["directly_addressed","unexpected_
+- 20:29 act: {"intent":{"goal":"reach_ripe_wheat_near_billy","program":"travel","arguments":{"target":{"x":-294,"y":69,"z":292}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":-302,"y":69,"z":299}},{"do":"attack","target":"chicken"}],"say":"Billy, I see a chicken to the west. I'll try for it now. I'll trade my leather for bread after."
+- 20:30 act: {"actions":[{"do":"eat"}],"say":"I got a chicken. Eating it now. Thank you, Billy and Kimberly, for the bread plan."}
+- 20:30 act: {"actions":[{"do":"eat"}]}
+- 20:30 act: {"intent":{"goal":"get_bread_at_billys_table","program":"travel","arguments":{"target":{"x":-295,"y":69,"z":297}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 20:30 act: {"say":"Billy, I'm right below your table at -295,67,297. Can you drop me some bread? I can give leather or feathers in return."}
+- 20:31 act: {"intent":{"goal":"collect_bread_from_billy","program":"travel","arguments":{"target":{"x":-292,"y":68,"z":281}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
+- 20:31 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"leather","count":3}],"say":"Billy, I'm at your table. I've given you 3 leather for the bread. Could you spare one bread for me? I'm at hunger 17."}
+- 20:31 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"leather","count":3}],"say":"Billy, I'm right next to you now. Here are the 3 leather for one bread, please. I'm
