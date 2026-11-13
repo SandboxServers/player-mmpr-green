@@ -456,3 +456,20 @@
 - 09:39 act: {"actions":[{"do":"sleep"}],"reasoning":"It is night now. Try sleep again at the beds."}
 - 09:39 act: {"actions":[{"do":"sleep"}],"reasoning":"I'm standing by a white bed at night. Try sleeping here."}
 - 09:40 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}],"reasoning":"Sleep timed out here. Move onto the nearest white bed and try again at night.","say":"Going to the bed to slee
+- 09:41 act: {"say":"Jason, I'm sending cobblestone down your shaft at -239,69,345 now. Stay put and tell me when you have it.","reasoning":"Jason is trapped; cobblestone is the help he needs. Worker is delivering
+- 09:41 act: {"actions":[{"do":"goto","target":{"x":-239,"y":68,"z":345}}],"say":"Tommy here, bringing cobblestone to Jason's shaft now."}
+- 09:41 act: {"actions":[{"do":"note","text":"Day132 night: at beds -283,69,372, full health. Sent worker to drop cobblestone down Jason's shaft (-239,69,345). Holding 54 cobblestone, 19 dirt for others."}]}
+- 09:41 act: {"actions":[{"do":"goto","target":{"x":-239,"y":68,"z":345}}]}
+- 09:41 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-239,"y":69,"z":345}}],"say":"Tommy at the shaft rim, I'm not in the shaft. Jason, I can't drop items down; I can only place blocks next to me
+- 09:41 act: {"actions":[{"do":"note","text":"Worker could not drop cobblestone at shaft rim (-239,69,345): placement blocked. Jason safe and fed. Holding 54 cobblestone."}],"say":"Jason, Zack, Billy: I'm Tommy at
+- 09:42 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-239,"y":55,"z":345}}],"say":"Jason, I'm at the shaft rim now. I'm trying to place cobblestone toward you. Tell me if any block reaches you.",
+- 09:42 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-239,"y":69,"z":345}}],"reasoning":"In deep water near the golem pool. Get out to the rim before anything else."}
+- 09:42 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Air is low and I'm perched in water. Build dirt under me
+- 09:42 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-238,"y":69,"z":345}}],"reasoning":"Drowning at 0 air. Stack stone under me an
+- 09:43 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-283,"y":69,"z":372}}],"reasoning":"Still in water, perched. Get clear of the pool toward the b
+- 09:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-283,"y":69,"z":372}}],"reasoning":"Still in water. Clear the stuck state and head for the beds."}
+- 09:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-243,"y":69,"z":345}}],"say":"I'm stuck in deep water at the golem pool. Can someone help?","reasoning":"Repeated gotos fail in the water. Ask f
+- 09:43 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":372}}],"reasoning":"On solid ground now. Get away from the pool to the beds."}
+- 09:44 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":372}}],"reasoning":"On stone, out of water. Continue to the beds."}
+- 09:44 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":372}}],"say":"Zack, Jason: I'm out of the water and on stone. I'm heading to the beds to rest. I'm holding 54 cobble if you need more.","reasonin
+- 09:45 act: {"actions":[{"do":"note","text":"Day132 night: drowned to air 0 in the golem pool, climbed out to stone at -250,62,348. Health 9, hunger 16. Zack is at the shaft rim placing cobble for Jason. I hold 5
