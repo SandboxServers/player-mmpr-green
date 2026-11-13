@@ -229,3 +229,5 @@
 - 01:26 act: {"say":"Kimberly, I have 10 cobblestone from Trini and a pickaxe. I'm digging a step toward you from the west now.","actions":[{"do":"goto","target":{"x":-224,"y":58,"z":349}}],"intent":{"goal":"dig_k
 - 01:28 act: {"say":"Kimberly, I'm at -225,59,349, two blocks west of you. Digging the stone between us now.","actions":[{"do":"mine","block":"stone","count":2}]}
 - 01:28 act: {"say":"Kimberly, digging here refuses because it would drop me. I'm placing cobblestone to bridge toward you. Hold tight.","actions":[{"do":"place","block":"cobblestone","at":{"x":-224,"y":59,"z":349
+- 01:28 act: {"say":"Billy, I'm mining the coal nearest me now. Keeping my 10 cobblestone for Kimberly.","actions":[{"do":"mine","block":"coal_ore","count":2}]}
+- 01:29 act: {"say":"Billy, keep your pickaxe for Zack if you can reach him. I'm at -221,59,347 with a stone pickaxe and 10 cobblestone. I'll hold here and dig Kimberly a route when the way opens.","actions":[]}
