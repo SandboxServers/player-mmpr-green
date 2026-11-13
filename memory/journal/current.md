@@ -623,3 +623,11 @@
 - 13:53 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":345}},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}],"say":"Kimberly, I'm coming to you with your wheat. Glad you're dry."}
 - 13:53 act: {"actions":[{"do":"note","text":"Day145: Kimberly is dry at about -239,68,345 but not in my sight; give failed. Holding her 1 wheat. Waiting for her to come close."}],"say":"Kimberly, I can't see you 
 - 13:53 act: {"actions":[{"do":"goto","target":{"x":-239,"y":68,"z":345}},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}],"say":"Kimberly, I'm climbing toward you at -239, 68, 345 with the wheat."}
+- 13:54 act: {"say":"Zack, I'm at -241, 62, 343, too far to dig to you safely right now. Keep digging north-east toward open ground and call out if you see daylight."}
+- 13:54 act: {"say":"Billy, I have no food to trade, only the one wheat I'm holding for Kimberly. I'm sorry. Try Trini or Kimberly once you're near the dry side."}
+- 13:55 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":1}],"say":"Trini, here is the wheat. Kimberly is out of my reach, so you are hungry and right here. Kimberly, I'll find you food when
+- 13:55 act: {"say":"Nobody is in sight now. It is dark and I am not enclosed, so I am building a shelter from my dirt.","intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","b
+- 13:55 act: {"say":"Trini, I still have the wheat in my hand. I'm sealed in the dirt shelter at -241,62,343. Climb to me and I'll hand it over."}
+- 13:56 act: {"say":"Trini, understood, I'll keep the wheat for Kimberly or Zack. I'm closing my shelter again.","intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"d
+- 13:56 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-242,"y":63,"z":343}}]}
+- 13:56 act: {"say":"Trini, thank you. Kimberly, I'm holding one wheat for you. I'm at -243,62,343 and will bring it when I can see you.","actions":[{"do":"note","text":"Holding 1 wheat for Kimberly. Shelter still
