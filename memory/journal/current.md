@@ -775,3 +775,15 @@
 - 15:38 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 15:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night is here. I'm going to the bed by the farm to sleep. Tomorrow: food, then sheep to the south-east.","reasoning"
 - 15:39 act: {"actions":[{"do":"sleep"}],"reasoning":"Already next to the bed; the goto was a no-op. Try sleep directly."}
+- 15:41 say: {"text":"Trini, I'm here by the beds. Are you hurt? I have bread-making wheat and 43 dirt if you need blocks."}
+- 15:49 act: {"intent":{"goal":"harvest_farm_food","program":"gather","arguments":{"block":"wheat","count":8,"near":{"x":-251,"y":68,"z":352}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],
+- 15:50 say: {"text":"Good, Zack. I'm heading to the farm now too. I'll share whatever wheat I can harvest."}
+- 15:52 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 15:52 act: {"intent":{"goal":"reach_farm","program":"travel","arguments":{"x":-251,"y":68,"z":353},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200,"max_bloc
+- 15:52 act: {"actions":[{"do":"goto","target":{"x":-290,"y":69,"z":286}}],"say":"Billy, I'm heading to the fence field to get ripe wheat for Zack. I'll take a path past the water."}
+- 15:52 act: {"actions":[{"do":"goto","target":{"x":-290,"y":69,"z":286}}]}
+- 15:52 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-270,"y":69,"z":340}}]}
+- 15:52 say: {"text":"I'm boxed in by water near the beds and the way out is blocked. I have 1 wheat and 43 dirt. Zack, Billy: if either of you can reach me, I'll hand over the wheat."}
+- 15:57 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Dusk is here. Zack, Kimberly, keep building toward him; I am going to the bed to rest for the night."}
+- 16:02 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Zack, Jason, Kimberly: it is night, I am going to rest in the bed here. I still have 1 wheat for food.","reasoning":
+- 16:02 act: {"actions":[{"do":"sleep"}],"reasoning":"The goto failed only because I already stand beside the bed. Try sleep alone, the one retry for this attempt."}
