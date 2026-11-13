@@ -151,3 +151,8 @@
 - 00:21 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
 - 00:22 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2}]}
 - 00:22 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_wo
+- 00:24 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-224,"y":59,"z":352}}],"reasoning":"Stuck in a pit at night. Try unstick, then move northeast toward the birch."}
+- 00:24 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":16},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":
+- 00:27 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-218,"y":61,"z":352}}],"reasoning":"Enclosed in stone; dig out toward northeast."}
+- 00:27 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-219,"y":60,"z":350}}],"reasoning":"Retry digging out; the stone walls are blocking movement."}
+- 00:27 act: {"actions":[{"do":"goto","target":{"x":-205,"y":62,"z":335}}]}
