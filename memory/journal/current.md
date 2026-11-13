@@ -584,3 +584,5 @@
 - 13:14 act: {"actions":[{"do":"sleep"}]}
 - 13:14 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":62,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":63,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-244,"
 - 13:18 act: {"say":"Trini, Zack: I'm at -245,62,343 with a stone pickaxe, not sealed myself yet. It's dusk, so I'll stay put and dig out toward you at first light. I have one wheat and cobblestone if you can reac
+- 13:18 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"say":"Still closing the gap, Zack. I'll dig toward you at first light."}
+- 13:19 act: {"actions":[{"do":"note","text":"Sealed in at -245,63,343 on cobblestone; view shows solid all around."}],"say":"Sealed in for the night. Zack, I'll dig east toward you at first light."}
