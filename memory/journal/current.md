@@ -417,3 +417,8 @@
 - 07:58 act: {"actions":[{"do":"mine","block":"cobblestone","count":2},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-239,"y":50,"z":344}}],"say":"Jason, I'm at the bottom too. I'm di
 - 07:58 act: {"actions":[{"do":"unstick"},{"do":"wait","seconds":60}],"say":"Kimberly, Jason: I'm still at the bottom of the shaft at -239,48,344. Please drop dirt straight down when you can reach it.","reasoning"
 - 07:58 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-239,"y":49,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-239,"y":48,"z":343}}],"reasoning":"Open the walls wi
+- 08:03 say: {"text":"Kimberly, I'm still at the bottom. Jason and I are waiting for dirt. Get free when you can."}
+- 08:50 act: {"actions":[{"do":"goto","target":{"x":-240,"y":48,"z":344}},{"do":"wait","seconds":5}],"reasoning":"Dropped dirt landed at -240,48,344; pick it up and use it to climb."}
+- 08:51 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Dirt has not arrived. Mine nearby stone to open a path, then try to build up with my 
+- 08:52 act: {"actions":[{"do":"goto","target":{"x":-239,"y":52,"z":344}}],"reasoning":"Block above feet is air now; try to climb straight up."}
+- 08:52 act: {"actions":[{"do":"unstick"}],"reasoning":"Still stuck at bottom; unstick and wait for drops."}
