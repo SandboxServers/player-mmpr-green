@@ -1141,3 +1141,39 @@
 - 21:54 act: {"actions":[{"do":"goto","target":{"x":-243,"y":67,"z":366}}],"say":"Kimberly, I'm back at the spawn beds with an empty pack. I'm coming east to you for the pumpkins."}
 - 21:54 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":370}}],"say":"Jason, thank you, but my pack is still empty; the porkchop didn't reach me. Kimberly, I'm here by you now."}
 - 21:54 act: {"actions":[],"say":"Kimberly, I'm within reach and my pack is empty. Could I have the 3 pumpkins you offered? Thank you."}
+- 22:09 act: {"intent":{"goal":"reach_old_farm","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 22:09 say: {"text":"The old farm here is gone; only water and logs now. Does anyone know where wheat, carrots, or animals are? I'll search south-east for sheep or cows."}
+- 22:09 act: {"intent":{"goal":"search_southeast_for_food","program":"travel","arguments":{"target":{"x":-235,"y":67,"z":370}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
+- 22:09 act: {"intent":{"goal":"search_south_for_animals","program":"travel","arguments":{"target":{"x":-236,"y":67,"z":400}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 22:09 act: {"intent":{"goal":"search_southwest_for_animals","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":420}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"ma
+- 22:10 say: {"text":"Billy, where is the pig? I have no food and no tools, so I'll come and help you hunt it, or wait for any leftover meat you can spare."}
+- 22:10 say: {"text":"Thanks Billy, that pig is too far for me to reach. Jason, if the cow is near, I'd gladly take a share if you have extra. Meanwhile I'll gather wood here."}
+- 22:10 act: {"intent":{"goal":"gather_birch_logs","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1
+- 22:11 act: {"intent":{"goal":"gather_oak_logs","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,
+- 22:11 say: {"text":"Thanks Zack, I'll take you up on the wood. I have 3 logs so far. I'm heading back toward the beds near spawn, the yellow ones at (-262, 67, 354)."}
+- 22:11 act: {"intent":{"goal":"return_to_spawn_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 22:11 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"say":"Kimberly, I'm back at the beds. I'm turning my logs into planks here at the table. I still have no food, but I'll share wood with whoev
+- 22:11 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 22:12 say: {"text":"Pickaxe is made. I have no food yet. Does anyone near have pumpkins or seeds to spare?"}
+- 22:12 say: {"text":"Kimberly, thank you. I will look for animals east of here and come back to the beds."}
+- 22:12 act: {"intent":{"goal":"search_food_east","program":"travel","arguments":{"target":{"x":-236,"y":67,"z":345}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 22:12 act: {"intent":{"goal":"search_food_further_east","program":"travel","arguments":{"target":{"x":-214,"y":67,"z":345}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 22:12 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"climb_out_and_check","program":"travel","arguments":{"target":{"x":-214,"y":68,"z":345}},"wake_on":["goal_completed","directly_addressed","unexpected_da
+- 22:12 act: {"intent":{"goal":"search_food_north","program":"travel","arguments":{"target":{"x":-214,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 22:13 act: {"intent":{"goal":"search_food_far_north","program":"travel","arguments":{"target":{"x":-200,"y":67,"z":290}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world
+- 22:13 act: {"intent":{"goal":"reach_jason_for_pumpkin","program":"travel","arguments":{"target":{"x":-265,"y":66,"z":327}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 22:13 say: {"text":"Jason, I am on my way to you for a pumpkin. I am hungry. Thank you."}
+- 22:13 say: {"text":"Jason, I am in reach. Could I have one pumpkin, please? I have no food at all."}
+- 22:14 act: {"intent":{"goal":"clear_of_golem_then_pumpkin","program":"travel","arguments":{"target":{"x":-250,"y":67,"z":352}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max
+- 22:14 act: {"intent":{"goal":"get_away_from_attacker","program":"travel","arguments":{"target":{"x":-236,"y":67,"z":345}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_worl
+- 22:14 say: {"text":"Jason, I am at (-236, 68, 345), east of the beds and away from the golems. Could you come within reach, or tell me where you are? I can come to you."}
+- 22:16 say: {"text":"Jason, I am at -236, 68, 345 by the oak logs. I can see you close by at the table. Please hand over the pumpkins, 3 to me. Thank you."}
+- 22:18 act: {"intent":{"goal":"reach_jason_for_pumpkins","program":"travel","arguments":{"target":{"x":-239,"y":68,"z":341}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 22:18 say: {"text":"Jason, I am at the crafting table, -239, 68, 340, with Kimberly beside me. I have not received the pumpkins yet. Could you hand me the 3 for Tommy here?"}
+- 22:19 act: {"intent":{"goal":"meet_jason_pumpkins","program":"travel","arguments":{"target":"ag_jason_01"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":600,"m
+- 22:19 say: {"text":"Jason, I still cannot see you, and night is coming. Please leave my 3 pumpkins with Kimberly at the bed, or put them on the ground at the crafting table. I will come for them at first light. 
+- 22:19 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-240,"y":68,"z":343}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- 22:20 say: {"text":"Morning, Jason. I am awake at the beds, by -240, 68, 343. Please come within arm's reach and hand me my 3 pumpkins."}
+- 22:26 say: {"text":"Kimberly, I have no food myself, Jason has not brought my pumpkins yet. I am sorry. I will ask him for them and share."}
+- 22:27 act: {"actions":[{"do":"goto","target":{"x":-242,"y":69,"z":343}}],"say":"Jason, I am coming to the table now. Thank you."}
+- 22:27 say: {"text":"Jason, I am at the crafting table now. I do not see you yet. Please come within reach."}
