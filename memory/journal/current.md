@@ -341,3 +341,5 @@
 - 06:13 act: {"reasoning":"Air directly above feet at y=49. Try placing a cobblestone there to close the roof.","actions":[{"do":"place","block":"cobblestone","at":{"x":-238,"y":49,"z":348}}]}
 - 06:13 say: {"text":"Tommy, still in the pit at -238,48,348. Build and a cobblestone at my feet both fail here. Trini, Billy, if one of you gets out, tell me how."}
 - 06:13 act: {"reasoning":"Billy escaped with unstick then walking north. Try the same.","actions":[{"do":"unstick"},{"do":"goto","target":{"x":-238,"y":49,"z":345}}],"say":"Thanks Billy. Trying unstick, then nort
+- 06:14 act: {"reasoning":"Billy got out by stacking dirt under his feet, then unstick. Try with my 8 dirt.","actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-238,"y
+- 06:17 act: {"reasoning":"Not out yet. Tell Billy honestly, try unstick once more.","say":"Billy, not out. I'm still at -239,48,348. Unstick and dirt at my feet both report blocked. Still safe, health 20.","actio
