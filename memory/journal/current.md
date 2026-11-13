@@ -243,3 +243,19 @@
 - 01:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":68,"z":352}}],"reasoning":"Travel changed nothing. Unstick, then a short goto toward the farm."}
 - 01:51 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":353}}],"reasoning":"The goto worked. Continue to the farm for food."}
 - 01:58 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-232,"y":58,"z":352}},{"do":"place","block":"dirt","at":{"x":-234,"y":58,"z":352}},{"do":"place","block":"dirt","at":{"x":-233,"y":58,"z":353}},{"do"
+- 02:02 act: {"intent":{"goal":"wait_for_daylight","program":"rest","arguments":{"reason":"night, sealed in pit, hunger 19"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 02:05 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"say":"Morning. I'm out of the pit and heading to the farm at -251,68,353 for food. Kimberly, Zack, I'll meet you there."
+- 02:06 act: {"intent":{"goal":"reach_farm_food","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":353}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks
+- 02:10 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":352}}],"say":"Zack, Kimberly: I'm still at the pit edge, -233,58,352, hunger 19. If you have spare potatoes, bring a few to me or tell me where t
+- 02:10 act: {"actions":[{"do":"eat"}],"say":"Thank you, Kimberly, Zack. I'll eat now and keep heading to the farm to help look for ripe potatoes.","reasoning":"Potatoes are coming from Kimberly. Try to eat whatev
+- 02:13 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":352}}],"say":"Kimberly, I haven't received the potatoes yet, so I'm walking to the farm now. Jason, Trini, I'm with you.","reasoning":"No food ar
+- 02:14 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-250,"y":68,"z":352}},{"do":"eat"}],"say":"Thanks Kimberly. The potatoes haven't shown up in my pack yet. I'm trying to get out to the farm.","r
+- 02:18 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-248,"y":68,"z":352}}],"say":"Still boxed in at -235,57,350. I'm digging a way out toward the farm.","re
+- 02:22 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"say":"Going to the yellow bed at -241,69,343 to sleep. Still hungry, will look for food at first light.","reasoning":"Nigh
+- 02:23 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Zack, I'm coming to the bed at -241,69,343. I'd gladly take the potato and wheat; I'm very hungry.","reasoning":"Movement is possib
+- 02:24 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Thank you, Zack. Eating now.","reasoning":"Zack's potato and wheat should be here. Eat to bring hunger down."}
+- 02:26 act: {"actions":[{"do":"goto","target":{"x":-237,"y":55,"z":349}},{"do":"eat"}],"say":"Jason, thanks. Something dropped next to me; I'm picking it up and eating.","reasoning":"A dropped item lies at -237,5
+- 02:26 act: {"actions":[{"do":"eat"},{"do":"eat"}],"reasoning":"I hold 5 potatoes now. Eat them to bring hunger down."}
+- 02:27 act: {"say":"Eaten, I'm full now. Thank you Jason, Zack, Kimberly. I'm keeping 4 potatoes for later and will share when someone needs them.","reasoning":"Hunger restored. Thank the group and hold spare foo
+- 02:27 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"potato","count":2}],"say":"Kimberly, I'm sending you 2 potatoes for your trouble. I also have 7 dirt if you need a way up; say where you are.","r
+- 02:28 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"potato","count":1}],"say":"Billy, here is a potato. Climb up carefully.","reasoning":"Billy is hungry and asked for food. Give one of my spare potat
