@@ -728,3 +728,4 @@
 - 14:57 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"fee
 - 14:57 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
 - 14:58 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 14:59 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Kimberly, Trini: I'm out of the pit and at a bed near the surface. Going to sleep for the night."}
