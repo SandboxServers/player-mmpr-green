@@ -902,3 +902,5 @@
 - 18:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 18:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"I'm going to sleep in the bed here. I have no food, so at first light I'll look for wheat or animals."}
 - 18:24 act: {"actions":[{"do":"sleep"}]}
+- 18:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Tommy here, at the white beds. No food on me either. I'll sleep here and search for wheat or animals at first light 
+- 18:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Goto blocked; bed is adjacent. Try sleep from here."}
