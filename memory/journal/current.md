@@ -359,3 +359,17 @@
 - 06:28 act: {"actions":[{"do":"goto","target":{"x":-239,"y":48,"z":356}}],"reasoning":"Mining is moving me sideways, not up. Try walking north directly."}
 - 06:29 say: {"text":"Tommy: I'm still in the pit at -239,48,351. Mining only moves me sideways. Kimberly, if you can reach the pit edge, please tell me which way to dig."}
 - 06:30 say: {"text":"Tommy: Kimberly, I'm at -239,48,351, a few blocks north of Jason. If your path reaches him, a short dig north-east to me would help too."}
+- 06:36 act: {"reasoning":"Stuck in pit at y48, 30 cobblestone. Try placing cobblestone at feet, then unstick, and check height.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":
+- 06:36 act: {"reasoning":"Last cycle lifted me 1 block (48 to 49). Keep repeating place-at-feet then unstick.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"c
+- 06:36 act: {"reasoning":"Last batch placed nothing (cobblestone still 29, still y49). Try dirt at feet, then unstick, and check.","actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"plac
+- 06:36 act: {"reasoning":"Body is back at y50, standing on cobblestone. Keep the place-at-feet and unstick cycle going.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place",
+- 06:37 act: {"reasoning":"Still at y50, placement not lifting me now. Trini climbed by unstick then small steps north. Try that.","actions":[{"do":"unstick"},{"do":"goto","target":{"x":-239,"y":50,"z":347}},{"do"
+- 06:37 act: {"reasoning":"Unstick is blocked now. Retry place-at-feet with cobblestone once more, then wait for Kimberly's dig or Zack's blocks.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":
+- 06:37 act: {"reasoning":"Zack sent blocks and it is dusk. Retry place-at-feet and unstick cycles.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone"
+- 06:37 act: {"reasoning":"Feet placement is blocked. Try placing a block directly above my head, at y51, to start a roof. Dusk is near.","actions":[{"do":"place","block":"cobblestone","at":{"x":-239,"y":51,"z":34
+- 06:42 act: {"reasoning":"Night now, health steady. One more place-at-feet and unstick attempt, then keep waiting.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","bloc
+- 06:42 act: {"reasoning":"Placement and unstick keep failing at y50. Stop retrying; ask for help and wait for Kimberly's dig or Zack's blocks.","actions":[{"do":"note","text":"Day 123 night: stuck at -239,50,348.
+- 06:43 act: {"reasoning":"Kimberly will dig at dawn; Zack's suggestion to place on a side face is worth one try at night before waiting.","actions":[{"do":"place","block":"cobblestone","at":{"x":-238,"y":50,"z":3
+- 06:47 act: {"reasoning":"Dawn now. Side placement failed too. Log it and wait for help to dig me out.","actions":[{"do":"note","text":"Day 124 dawn: still at -239,50,348. Side placement also blocked. Waiting for
+- 06:49 act: {"reasoning":"Kimberly is at the edge with planks. Tell her where I am so she can drop them within reach.","actions":[],"say":"Kimberly, I'm at -239, 50, 348, standing on cobblestone. Drop planks on t
+- 06:51 act: {"reasoning":"Kimberly's planks have not arrived. Try placing my own oak planks at feet once, to see if a different block works.","actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"unst
