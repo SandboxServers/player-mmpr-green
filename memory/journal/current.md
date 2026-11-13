@@ -1015,3 +1015,7 @@
 - 19:54 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":396}}]}
 - 19:55 act: {"actions":[{"do":"goto","target":{"x":-195,"y":70,"z":415}}],"say":"Thanks, Zack. I'll check the old pig spot to the south-east and report back."}
 - 19:59 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":356}}],"say":"It's getting dark and I found no food near the old pig spot. I'm going back to the yellow beds to be with Zack and the others for t
+- 20:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"I'm at the yellow beds for the night. No food for me yet; a pig was seen at -192,70,419 for whoever is hungry.","rea
+- 20:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Zack, I have no food; the pig is at -192,70,419 and Jason is heading there. I'm getting into the bed now.","reasonin
+- 20:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"I am beside the bed now. Get on it and sleep."}
+- 20:00 act: {"actions":[{"do":"sleep"}],"reasoning":"Goto onto the bed block fails; I'm already next to it. Sleep here."}
