@@ -161,3 +161,4 @@
 - 00:29 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-205,"y":62,"z":335}}]}
 - 00:29 act: {"actions":[{"do":"goto","target":{"x":-205,"y":62,"z":335}}]}
 - 00:29 act: {"actions":[{"do":"unstick"},{"do":"wait","seconds":20}]}
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":-205,"y":62,"z":335}}]}
