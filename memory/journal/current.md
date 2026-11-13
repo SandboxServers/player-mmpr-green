@@ -452,3 +452,7 @@
 - 09:32 act: {"actions":[],"say":"Tommy: Jason, my mine only takes a block type, not a cell, so I can't carve that exact column reliably. I'll stay here with 64 cobblestone. If anyone can reach you, I'll place blo
 - 09:32 act: {"actions":[],"say":"Tommy: Jason, -238,55,345 is 13 blocks below me, so I can't place there from the top. I can only place within arm's reach. Zack or Billy would need to be at the bottom rim or in t
 - 09:37 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":10}],"say":"Kimberly, I'm sending you 10 cobblestone for a shelter. Stay off the pool.","reasoning":"Kimberly's pack is empt
+- 09:37 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}},{"do":"sleep"}],"reasoning":"Dusk, at the beds, nothing half-done. Sleep now."}
+- 09:39 act: {"actions":[{"do":"sleep"}],"reasoning":"It is night now. Try sleep again at the beds."}
+- 09:39 act: {"actions":[{"do":"sleep"}],"reasoning":"I'm standing by a white bed at night. Try sleeping here."}
+- 09:40 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}],"reasoning":"Sleep timed out here. Move onto the nearest white bed and try again at night.","say":"Going to the bed to slee
