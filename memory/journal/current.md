@@ -1124,3 +1124,20 @@
 - 21:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"intent":{"goal":"rest_at_beds","program":"rest","arguments":{},"wake_on":["goal_completed","unexpected_damage","directly_a
 - 21:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Night is here. I'm at the beds at the spawn, so I'll sleep here."}
 - 21:42 act: {"actions":[{"do":"sleep"}]}
+- 21:43 say: {"text":"Back at the spawn beds. I have an empty pack, but health and hunger are full. At first light I will look for food and sheep."}
+- 21:51 act: {"actions":[{"do":"goto","target":{"x":-210,"y":67,"z":390}}],"say":"Morning. I'm fed but my pack is empty. I'm heading south-east to the grassland to look for sheep.","intent":{"goal":"find_sheep_se"
+- 21:51 act: {"actions":[{"do":"goto","target":{"x":-241,"y":67,"z":366}}],"say":"Kimberly, thank you. I'm coming east to you for the pumpkins."}
+- 21:51 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"An iron golem struck me and I died, so I respawned at the beds. I'm moving away from the golem now. Kimberly, I'll come back for th
+- 21:51 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":330}}],"say":"Jason, I'm coming west to your pumpkin patch. Something east of the beds keeps hitting me, so I am leaving it behind."}
+- 21:52 act: {"actions":[{"do":"goto","target":{"x":-340,"y":66,"z":322}}],"say":"Jason, I'm heading to your pumpkin patch. I have an empty pack and would be grateful for some food."}
+- 21:53 act: {"actions":[{"do":"goto","target":{"x":-364,"y":64,"z":319}}],"intent":{"goal":"reach_jason_pumpkin_patch","program":"travel","arguments":{"target":{"x":-364,"y":64,"z":319}},"wake_on":["directly_addr
+- 21:53 act: {"actions":[{"do":"goto","target":{"x":-243,"y":67,"z":366}}],"intent":{"goal":"reach_kimberly_pumpkins","program":"travel","arguments":{"target":{"x":-243,"y":67,"z":366}},"wake_on":["directly_addres
+- 21:53 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":335}}]}
+- 21:53 act: {"actions":[{"do":"goto","target":{"x":-340,"y":66,"z":318}}],"say":"Jason, I'm coming west toward your patch, away from the golem. I have no food and an empty pack."}
+- 21:53 act: {"actions":[{"do":"goto","target":{"x":-352,"y":65,"z":319}}],"say":"Jason, I'm nearly at your patch. Please tell me where you are."}
+- 21:53 act: {"actions":[{"do":"goto","target":{"x":-362,"y":64,"z":319}}]}
+- 21:54 act: {"actions":[{"do":"goto","target":{"x":-363,"y":64,"z":318}}],"say":"Jason, I'm right here, I'm hungry and my pack is empty. Could you give me a porkchop or some pumpkins, please?"}
+- 21:54 act: {"actions":[],"say":"Jason, I'm in reach now. Could you give me the porkchop? My pack is empty."}
+- 21:54 act: {"actions":[{"do":"goto","target":{"x":-243,"y":67,"z":366}}],"say":"Kimberly, I'm back at the spawn beds with an empty pack. I'm coming east to you for the pumpkins."}
+- 21:54 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":370}}],"say":"Jason, thank you, but my pack is still empty; the porkchop didn't reach me. Kimberly, I'm here by you now."}
+- 21:54 act: {"actions":[],"say":"Kimberly, I'm within reach and my pack is empty. Could I have the 3 pumpkins you offered? Thank you."}
