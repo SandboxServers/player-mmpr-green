@@ -517,3 +517,6 @@
 - 11:29 act: {"actions":[{"do":"unstick"}],"say":"Still on the water at -244,62,348, unable to place blocks. Trying to unstick. Trini, I'm alive and fed enough."}
 - 11:29 act: {"intent":{"goal":"shelter_stone","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_worl
 - 11:29 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}}]}
+- 11:29 act: {"say":"Zack, thanks. I have 30 cobblestone and 23 dirt, so I don't need blocks. Jason is the one who needs food most. I'm in a pit on stone at -246,62,348, full health and hunger."}
+- 11:34 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-245,"y":62,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-247,"
+- 11:38 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}}]}
