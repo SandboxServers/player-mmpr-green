@@ -1201,3 +1201,17 @@
 - 22:56 act: {"actions":[{"do":"goto","target":{"x":-393,"y":67,"z":331}}],"say":"Billy, I'm here with 5 dirt, 4 cobblestone and 3 planks. Tell me which side to place them on, and I'll place them myself."}
 - 22:58 act: {"actions":[{"do":"goto","target":{"x":-394,"y":67,"z":332}}],"say":"Billy, Trini, Zack, Jason, Kimberly: Tommy here, close by. Night is coming. Tell me the exact open gap and I'll place my 6 dirt and
 - 22:58 act: {"actions":[{"do":"sleep"}],"say":"Night. I'm inside the wall with Billy, Zack and Kimberly, and it's sealed on my side."}
+- 23:00 act: {"say":"Tommy here. I'm at -394, 68, 332 with Zack. I have no food, but I'm not hungry yet. I'll stay close to the group tonight and go west with you at first light.","intent":{"goal":"hold_near_group
+- 23:05 act: {"say":"Something is shooting at me from the north. I'm putting dirt up between us.","actions":[{"do":"place","block":"dirt","at":{"x":-394,"y":68,"z":331}},{"do":"place","block":"dirt","at":{"x":-393
+- 23:05 act: {"say":"Skeleton to the north with a bow. I'm moving out of its line, south-east.","actions":[{"do":"goto","target":{"x":-388,"y":67,"z":338}}]}
+- 23:05 act: {"say":"Skeleton shooting me from the north-east. I'm going to close in and fight it.","actions":[{"do":"goto","target":{"x":-391,"y":66,"z":327}},{"do":"attack","target":"skeleton"},{"do":"attack","t
+- 23:05 act: {"say":"Health 8. Skeleton is two blocks south-east of me. Zack, hit it with me.","actions":[{"do":"goto","target":{"x":-394,"y":68,"z":331}},{"do":"attack","target":"skeleton"},{"do":"attack","target
+- 23:06 act: {"say":"I'm back at spawn with nothing. I'm going to my bed to sleep through the night.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 23:06 act: {"say":"Zack, Trini: I'm back with nothing after dying. I'm heading east to my bed now, away from the skeleton.","actions":[{"do":"goto","target":{"x":-300,"y":68,"z":340}}]}
+- 23:06 act: {"actions":[{"do":"goto","target":{"x":-398,"y":68,"z":334}}]}
+- 23:07 act: {"say":"Skeletons are shooting me, health 7. I'm running south out of their line.","actions":[{"do":"goto","target":{"x":-398,"y":68,"z":348}}]}
+- 23:07 act: {"say":"Health 3. I'm pinned by a skeleton to the north. Trying to get clear.","actions":[{"do":"unstick"},{"do":"goto","target":{"x":-400,"y":67,"z":340}}]}
+- 23:08 act: {"intent":{"goal":"reach_bed_area","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
+- 23:08 act: {"say":"Trini, get clear of the wall. I'm grabbing the item north of me, then heading east.","actions":[{"do":"goto","target":{"x":-390,"y":65,"z":325}}]}
+- 23:08 act: {"intent":{"goal":"reach_spawn_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tick
+- 23:16 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
