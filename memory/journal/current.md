@@ -1261,3 +1261,4 @@
 - 23:56 act: {"say":"Kimberly, I have no way to drop items on the ground. The only way I can hand things over is give, and it keeps refusing. Could you step right next to me, within a block? I'll try once more the
 - 23:56 act: {"actions":[{"do":"give","to":"kimberly_01","item":"wheat","count":2}],"say":"Kimberly, here is the wheat, the 2 I owed you.","reasoning":"She stepped adjacent at 1.4 blocks. This is the first positio
 - 23:56 act: {"say":"Kimberly, the give failed again with you right beside me, so I'm stopping the tries for now. I'm still carrying the 2 wheat. When someone can show me how to put wheat in my hand, I'll hand it 
+- 23:57 act: {"say":"Kimberly, Trini, thanks. I'll keep the 2 wheat for now. Whoever finds sheep first, tell me and I'll help.","intent":{"goal":"find_shelter_before_night","program":"travel","arguments":{"x":-258
