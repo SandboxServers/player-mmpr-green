@@ -306,3 +306,4 @@
 - 04:34 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":10},{"do":"give","to":"ag_billy_01","item":"dirt","count":8}],"say":"Billy, sending you 10 cobblestone and 8 dirt to stack up w
 - 04:46 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":58,"z":348}}],"reasoning":"Dawn attempt: place, unstick, travel toward the rim."}
 - 04:47 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-239,"y":47,"z":343}},{"do":"mine","block":"stone","count":1}],"say":"Tommy here, still in the pit at -239,48,343, health 20. Trying a stone s
+- 04:51 act: {"actions":[{"do":"unstick"}],"say":"Tommy, still at -239,48,343 in the pit, health 20. Trying unstick now.","reasoning":"Previous placing and mining failed. Unstick is an untried verb meant for being
