@@ -226,3 +226,6 @@
 - 01:16 act: {"actions":[{"do":"note","text":"Day107: mining refused (would drop the bot). Holding position near crafting table at -234,58,349. Waiting for Trini/Kimberly/Billy to coordinate digging."}],"say":"Tri
 - 01:20 act: {"actions":[{"do":"note","text":"Night on Day107. Not enclosed at -231,58,349; health 20, hunger 19. Billy digging stair to Trini. Holding position, have stone pickaxe, 6 planks, 7 dirt."}],"reasoning
 - 01:25 act: {"say":"Tommy here. I have a stone pickaxe and 6 planks. I'll mine the coal next to me, then help dig toward Kimberly.","actions":[{"do":"mine","block":"coal_ore","count":2}],"intent":{"goal":"mine_co
+- 01:26 act: {"say":"Kimberly, I have 10 cobblestone from Trini and a pickaxe. I'm digging a step toward you from the west now.","actions":[{"do":"goto","target":{"x":-224,"y":58,"z":349}}],"intent":{"goal":"dig_k
+- 01:28 act: {"say":"Kimberly, I'm at -225,59,349, two blocks west of you. Digging the stone between us now.","actions":[{"do":"mine","block":"stone","count":2}]}
+- 01:28 act: {"say":"Kimberly, digging here refuses because it would drop me. I'm placing cobblestone to bridge toward you. Hold tight.","actions":[{"do":"place","block":"cobblestone","at":{"x":-224,"y":59,"z":349
