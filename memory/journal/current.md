@@ -641,3 +641,5 @@
 - 14:01 act: {"say":"Kimberly, Trini, Zack: I'm sealed in stone at -244,61,343 and digging out slowly. I still hold the wheat for Kimberly.","actions":[{"do":"goto","target":"ag_kimberly_01"}]}
 - 14:01 act: {"say":"Trini, Zack: I'm sealed in stone at -244,61,343 and safe for now. I'll stay until morning, then dig out and bring Kimberly the wheat."}
 - 14:04 say: {"text":"Goodnight, Trini. I'm sealed in stone at -244,61,343 with the wheat still on me. I'll find Kimberly and Zack in the morning."}
+- 14:05 act: {"say":"Kimberly, I have your wheat, 1 piece. I'm in the stone at -244,61,342 and it's night. I'll seal myself in before I come up.","intent":{"goal":"night_shelter","program":"build","arguments":{"bl
+- 14:05 act: {"actions":[{"do":"sleep"}]}
