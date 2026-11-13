@@ -333,3 +333,4 @@
 - 06:03 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_
 - 06:03 act: {"intent":{"goal":"shelter_for_night_retry","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":
 - 06:07 act: {"actions":[{"do":"unstick"}],"say":"Tommy, morning. Still in the pit at -237,48,346, not enclosed. Trying unstick now.","reasoning":"It is day. Unstick may free me from the pit before I try building 
+- 06:08 act: {"intent":{"goal":"shelter_in_pit","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wor
