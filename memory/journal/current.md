@@ -815,3 +815,4 @@
 - 16:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Trini, I have a stone pickaxe now. It's night, so I'll sleep in the bed here and dig your west gap at first light.","reasoning":"Pi
 - 16:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"Night, sheltered enough at the bed, no errands out. Make the stone pickaxe for Trini's gap at dawn. Sleep now.
 - 16:40 act: {"actions":[{"do":"sleep"}],"reasoning":"The bed is right beside me; the goto failed because I was already next to it. Sleep here."}
+- 16:41 say: {"text":"Trini, I'm awake with a stone pickaxe. Tell me when you can see daylight, and I'll dig your west gap now."}
