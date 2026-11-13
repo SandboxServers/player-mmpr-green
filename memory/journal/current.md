@@ -222,3 +222,6 @@
 - 01:14 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-234,"y":58,"z":349}},{"do":"craft","item":"stone_pickaxe","count":1}],"say":"Thank you, Trini and Jason. I have the cobblestone now; makin
 - 01:15 act: {"actions":[{"do":"note","text":"Day107: placed crafting table at -234,58,349 (side block worked), crafted stone pickaxe from Trini's cobblestone. Next: help dig Trini/Kimberly/Zack out, then shelter 
 - 01:15 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-233,"y":57,"z":350}}],"say":"Trini, I'm digging toward you from the north. Hold still.","reasoning":"Trini is two blocks
+- 01:16 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2}],"reasoning":"Position did not change. Unstick and mine stone for the dig."}
+- 01:16 act: {"actions":[{"do":"note","text":"Day107: mining refused (would drop the bot). Holding position near crafting table at -234,58,349. Waiting for Trini/Kimberly/Billy to coordinate digging."}],"say":"Tri
+- 01:20 act: {"actions":[{"do":"note","text":"Night on Day107. Not enclosed at -231,58,349; health 20, hunger 19. Billy digging stair to Trini. Holding position, have stone pickaxe, 6 planks, 7 dirt."}],"reasoning
