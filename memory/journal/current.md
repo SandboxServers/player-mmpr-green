@@ -631,3 +631,12 @@
 - 13:56 act: {"say":"Trini, understood, I'll keep the wheat for Kimberly or Zack. I'm closing my shelter again.","intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"d
 - 13:56 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-242,"y":63,"z":343}}]}
 - 13:56 act: {"say":"Trini, thank you. Kimberly, I'm holding one wheat for you. I'm at -243,62,343 and will bring it when I can see you.","actions":[{"do":"note","text":"Holding 1 wheat for Kimberly. Shelter still
+- 14:00 act: {"say":"Kimberly, I'm coming to you with the wheat. Then I'll find a bed for the night.","actions":[{"do":"goto","target":{"x":-240,"y":68,"z":344}}]}
+- 14:00 act: {"say":"Kimberly, I'm coming up to you on the grass with the wheat. Stay where you are.","actions":[{"do":"goto","target":"ag_kimberly_01"}]}
+- 14:00 act: {"actions":[{"do":"goto","target":{"x":-242,"y":64,"z":344}},{"do":"goto","target":{"x":-239,"y":68,"z":345}}]}
+- 14:00 act: {"say":"Kimberly, I'm boxed in by my own dirt wall. I'm digging out toward you.","actions":[{"do":"unstick"}]}
+- 14:00 act: {"say":"Kimberly, I'm stuck in a pit I dug. I'm mining out through the dirt now.","actions":[{"do":"mine","block":"dirt","count":2}]}
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":-239,"y":68,"z":345}}]}
+- 14:01 act: {"actions":[{"do":"mine","block":"stone","count":2}]}
+- 14:01 act: {"say":"Kimberly, Trini, Zack: I'm sealed in stone at -244,61,343 and digging out slowly. I still hold the wheat for Kimberly.","actions":[{"do":"goto","target":"ag_kimberly_01"}]}
+- 14:01 act: {"say":"Trini, Zack: I'm sealed in stone at -244,61,343 and safe for now. I'll stay until morning, then dig out and bring Kimberly the wheat."}
