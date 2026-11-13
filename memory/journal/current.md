@@ -545,3 +545,5 @@
 - 12:40 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-244,"y":64,"z":346}}]}
 - 12:41 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":{"x":-246,"y":61,"z":345}}]}
 - 12:41 act: {"actions":[{"do":"goto","target":{"x":-244,"y":65,"z":346}}]}
+- 12:45 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":12
+- 12:45 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-244,"y":64,"z":345}},{"do":"place","block":"dirt","at":{"x":-244,"y":64,"z":347}},{"do":"place","block":"dirt","at":{"x":-243,"y":64,"z":346}},{"do"
