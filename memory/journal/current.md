@@ -972,3 +972,28 @@
 - 19:13 act: {"intent":{"goal":"find_sheep_southeast","program":"travel","arguments":{"target":{"x":-210,"y":67,"z":390}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
 - 19:20 act: {"intent":{"goal":"flee_to_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2
 - 19:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"I'm at the yellow beds for the night. I have no food, but I'm not in danger here."}
+- 19:21 say: {"text":"I have no food, hunger 17. Does anyone have spare food? I'll wait here by the beds until morning, then go for the cow."}
+- 19:22 say: {"text":"Thank you Kimberly. I'll stay by the beds and wait for you at first light."}
+- 19:31 say: {"text":"Zack first, that's right. Kimberly, I'm at the beds; I'll go for the cow near -256, 67, 351 that Jason spotted, and I'll come to you if the beef is still spare."}
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":351}}],"intent":{"goal":"find_cow_food","program":"travel","arguments":{"target":{"x":-256,"y":67,"z":351}},"wake_on":["goal_completed","unexpect
+- 19:31 act: {"actions":[{"do":"attack","target":"villager"},{"do":"attack","target":"villager"},{"do":"attack","target":"villager"}]}
+- 19:32 act: {"actions":[{"do":"attack","target":"villager"},{"do":"attack","target":"villager"},{"do":"attack","target":"villager"}],"say":"Trini, good. Zack is next for the other beef. I'm still hungry and have 
+- 19:32 act: {"intent":{"goal":"reach_cow_food","program":"travel","arguments":{"target":{"x":-194,"y":67,"z":407}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 19:32 say: {"text":"I'm at the cow spot near -195, 67, 407 and there is no cow here now. I'll search close by. Anyone who sees a cow or sheep, please say where."}
+- 19:32 act: {"actions":[{"do":"goto","target":{"x":-200,"y":67,"z":420}}],"intent":{"goal":"search_cow_south","program":"travel","arguments":{"target":{"x":-200,"y":67,"z":420}},"wake_on":["goal_completed","unexp
+- 19:32 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-192,"y":70,"z":419}}]}
+- 19:32 act: {"actions":[{"do":"attack","target":"pig"},{"do":"attack","target":"pig"},{"do":"attack","target":"pig"}]}
+- 19:33 act: {"actions":[{"do":"eat"}],"say":"I have three porkchops now, so I'm eating one. The pig I found was near -192, 70, 419.","intent":{"goal":"eat_and_hold_near_beds","program":"travel","arguments":{"targ
+- 19:33 act: {"actions":[],"say":"Ate a porkchop; hunger is 20 now. I'm back at the beds. One porkchop is left."}
+- 19:35 act: {"actions":[],"say":"Jason, I'm at the beds, -262, 67, 353. I have one porkchop and I'm full (20). Come here and I'll hand it to you. There may be more pig near -192, 70, 419."}
+- 19:35 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":1}],"say":"Jason, here's the porkchop. Zack, I'm out of food after this, but the pig near -192, 70, 419 is still there."}
+- 19:36 act: {"actions":[{"do":"goto","target":{"x":-259,"y":67,"z":357}},{"do":"give","to":"ag_jason_01","item":"porkchop","count":1}]}
+- 19:36 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":1}],"say":"Jason, here it is."}
+- 19:36 act: {"actions":[{"do":"unstick"}]}
+- 19:36 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":1}],"say":"Jason, I'm stuck up on a torch by the beds. I'm passing you the porkchop now."}
+- 19:36 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":1}]}
+- 19:37 say: {"text":"Jason, glad you ate. Food-wise, I saw a pig to the south-east near x=-192, z=419 if anyone is hungry."}
+- 19:37 act: {"intent":{"goal":"find_sheep_for_wool","program":"travel","arguments":{"target":{"x":-240,"y":68,"z":380}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- 19:37 act: {"intent":{"goal":"find_sheep_east","program":"travel","arguments":{"target":{"x":-215,"y":68,"z":390}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 19:38 act: {"intent":{"goal":"find_sheep_southeast","program":"travel","arguments":{"target":{"x":-200,"y":68,"z":440}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 19:38 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
