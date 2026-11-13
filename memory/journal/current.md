@@ -835,3 +835,68 @@
 - 17:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"reasoning":"It is night. Head back toward my bed at (-263,67,354) through the shaft I dug, so I can sleep safely."}
 - 17:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"reasoning":"The first goto stopped partway. Try again toward the bed."}
 - 17:00 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-261,"y":58,"z":351}}],"reasoning":"The walk to the bed is blocked. I'll seal the air above me with cobblestone for a safe night spot here."}
+- 17:01 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_worl
+- 17:01 act: {"actions":[{"do":"sleep"}]}
+- 17:04 act: {"actions":[{"do":"sleep"}]}
+- 17:09 act: {"intent":{"goal":"find_food_and_bed_material","program":"travel","arguments":{"target":{"x":-261,"y":68,"z":352}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_
+- 17:09 act: {"actions":[{"do":"unstick"}],"say":"My path is blocked. I'm getting out of this hole and will go around to the farm."}
+- 17:09 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
+- 17:09 act: {"intent":{"goal":"reach_farm_for_food","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":353}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_t
+- 17:09 act: {"actions":[{"do":"mine","block":"stone","count":6}]}
+- 17:10 act: {"actions":[{"do":"unstick"}]}
+- 17:10 act: {"actions":[{"do":"mine","block":"stone","count":4}],"say":"Jason, I'm stuck in a stone pit at -257,56,348. If you pass by, can you dig a way up for me? I'll keep digging too."}
+- 17:10 act: {"intent":{"goal":"follow_out_through_opening","program":"travel","arguments":{"target":{"x":-254,"y":61,"z":352}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_
+- 17:10 act: {"actions":[{"do":"mine","block":"stone","count":8}]}
+- 17:10 act: {"say":"Thank you, Jason. I'm at -260,54,348 now and I'll wait while you dig. I'll mine north to rise if the way opens."}
+- 17:13 act: {"intent":{"goal":"climb_out_with_dirt_pillar","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_
+- 17:14 act: {"intent":{"goal":"climb_out_second_pillar","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_wor
+- 17:14 act: {"intent":{"goal":"reach_farm_for_food","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":353}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_t
+- 17:14 act: {"intent":{"goal":"climb_out_third_pillar","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_worl
+- 17:14 act: {"intent":{"goal":"reach_farm_for_food","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":353}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_t
+- 17:14 act: {"actions":[{"do":"goto","target":{"x":-261,"y":68,"z":352}}]}
+- 17:14 act: {"actions":[{"do":"mine","block":"dirt","count":4}],"say":"Still boxed in at -260,63,348. Digging sideways through the dirt to get out."}
+- 17:14 act: {"intent":{"goal":"reach_farm_for_food","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":353}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_t
+- 17:18 say: {"text":"Tommy here, stuck in a stone pit at -258,62,349. I have 1 wheat and no way to the farm yet. Does anyone have spare food or a way out?"}
+- 17:19 act: {"actions":[],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"l
+- 17:19 say: {"text":"Billy, yes. I'm sealed in at -258,62,349 with 1 wheat. Pool them at the crafting table near -261,68,352 once one of us can reach it. I'll dig out at first light."}
+- 17:27 act: {"actions":[{"do":"unstick"}]}
+- 17:28 say: {"text":"Morning, Trini. I'm out of the pit now at -258,60,350. I'm heading to the crafting table at -261,68,352 to pool wheat with Billy for bread."}
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":-261,"y":68,"z":352}}]}
+- 17:28 act: {"intent":{"goal":"raise_out_of_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_tic
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":-261,"y":68,"z":352}}]}
+- 17:28 say: {"text":"Trini, I got out by building a dirt pillar under me, then digging sideways through dirt. The goto is still stuck for me at -259,60,350. Going to dig a path north-east next, then I'll tell you
+- 17:28 act: {"actions":[{"do":"mine","block":"dirt","count":4}]}
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":-261,"y":68,"z":352}}]}
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":-261,"y":68,"z":352}}]}
+- 17:28 act: {"actions":[{"do":"mine","block":"dirt","count":4}]}
+- 17:29 act: {"actions":[{"do":"goto","target":{"x":-261,"y":68,"z":352}}]}
+- 17:33 say: {"text":"Trini, not yet. I'm perched at -260,58,351 and the walk keeps moving zero. Hunger is still 20 for me. Once you reach the farm, send any wheat or beetroot my way, and I'll bring my wheat to th
+- 17:33 act: {"actions":[{"do":"goto","target":{"x":-261,"y":68,"z":352}}]}
+- 17:33 say: {"text":"I'm at the crafting table now, -261,68,352, with 1 wheat. There are two yellow beds three blocks west at -263,67,353 and -263,67,354. Billy, Trini, bring your wheat here and we'll pool it for
+- 17:35 say: {"text":"Trini, the farm is east, past a water strip at -253 to -248, y 67, z 353. I don't know a safe crossing yet. Look for a dirt bridge across the water or go around by the north side."}
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Night is here. I'm heading to the yellow bed three blocks west to sleep. Trini, I have 1 wheat for the bread pool if you bring your
+- 17:40 act: {"actions":[{"do":"sleep"}]}
+- 17:41 say: {"text":"Trini, first light is good. I have 1 wheat for the bread pool. If you find any wheat or beetroot, bring it to the table at -261,68,352."}
+- 17:49 say: {"text":"Zack, I have 1 wheat. That makes 3 with yours for bread. I'm coming toward you now from the beds; I'll give it when I can see you."}
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":-200,"y":64,"z":351}}]}
+- 17:49 say: {"text":"Jason, you are in reach. Zack has 2 wheat, so one more makes bread; please give him yours when he is in view. Billy, I have 1 wheat for you once you can be reached; say when you're out of the
+- 17:50 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":1}],"say":"Zack, here is my 1 wheat, so you have 3 for bread. Make it at the table at -202,58,351. Billy, Jason's 2 wheat are for you.
+- 17:50 say: {"text":"Zack, Billy, Jason: my pack shows no wheat now, so I can't add mine. Jason, your 2 wheat did not reach me; I have none. Keep them for Zack and Billy. I have spare cobblestone and dirt if you 
+- 17:50 act: {"actions":[{"do":"mine","block":"cobblestone","count":2}],"say":"Billy, I'm above you at -199,64,351 with a pickaxe. I'm opening the stone below me now, so you can pillar up to me."}
+- 17:51 say: {"text":"Billy, you're free now, so no need to dig. Jason, Zack has 1 wheat from you, and Billy gets your last 2. I'm standing at -200,64,353 and can see Jason and Kimberly."}
+- 17:52 act: {"say":"Jason, Billy is the hungriest. Please drop the wheat at his feet. Billy, I can see you're boxed in. Say when you're in reach.","intent":{"goal":"hold_for_billy","program":"rest","arguments":{}
+- 17:52 act: {"say":"Billy, I'm right above you at -200, 64, 353. Dig or pillar toward me and Jason's wheat can reach you."}
+- 17:52 act: {"say":"Billy, Zack has passed you his wheat and you're in reach now. I'll mine toward your gap at -199,62,352 next."}
+- 17:57 act: {"say":"I have 3 wheat now, Jason's, it reached my pack. Billy, Zack, Trini: who is hungriest and can reach me? I'll give it, or walk to the table at -261,68,352 and craft bread there."}
+- 17:58 act: {"actions":[{"do":"goto","target":{"x":-260,"y":68,"z":352}},{"do":"craft","item":"bread","count":1}],"say":"Zack, Trini, I'm walking to the table at -261,68,352 to craft bread now. Come there and I'l
+- 17:58 act: {"actions":[{"do":"goto","target":{"x":-202,"y":58,"z":351}},{"do":"craft","item":"bread","count":1}],"say":"The west route is blocked. I'll use Zack's table at -202,58,351 instead, close to where I a
+- 17:58 act: {"say":"I made one bread at Zack's table. Trini, come to me at -202,58,350 and I'll give it to you. Zack, you're next."}
+- 17:59 act: {"say":"Zack, you're building close by and you were the hungriest nearby. I'll give you the bread when you're in reach. Trini, I'll bring the next food to your beds."}
+- 18:00 act: {"say":"Night is here. I'm holding one bread. Zack or Kimberly, if you're in reach, say so and I'll hand it over. Trini, I'll bring it to your beds at first light if no one takes it."}
+- 18:01 act: {"say":"Zack, I'm 3 blocks away at -202,58,350 with the bread. If you open a gap toward me, I'll hand it through. Otherwise I'll bring it at first light."}
+- 18:11 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":363}}],"say":"Tommy here, coming to the beds with my 1 bread. Billy, Zack, tell me who is in sight and I'll hand it over.","intent":{"goal":"reac
+- 18:12 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"bread","count":1}],"say":"Zack, here is my bread. Billy has 2 wheat and needs one more for bread, so I'll look for wheat for him."}
+- 18:12 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"bread","count":1}],"say":"Zack, I'm holding one bread and I'm handing it to you now."}
+- 18:16 act: {"actions":[],"say":"Tommy here, at the beds with no food, hunger full. Zack, you have the bread. Billy, if I find wheat or an animal I'll bring it here."}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"say":"Tommy going to bed at the beds. No food on me. At first light I'll search for wheat or animals with the group."}
+- 18:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
