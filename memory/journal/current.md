@@ -186,3 +186,5 @@
 - 00:51 act: {"actions":[{"do":"mine","block":"stone","count":6},{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
 - 00:53 act: {"say":"I'm boxed in a pit at -228,59,350 and can't path out. Could someone with a pickaxe dig me out? Thanks Billy for the coordinates.","actions":[{"do":"unstick"}]}
 - 00:53 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
+- 00:53 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
+- 00:54 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":8},{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
