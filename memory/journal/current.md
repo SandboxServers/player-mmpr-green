@@ -390,3 +390,13 @@
 - 06:56 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"I have dirt in my pack. Trying to build up from my feet."}
 - 06:57 act: {"actions":[],"say":"Trini, thank you. Drop 4 dirt at -240,58,347 (directly above my head) and 4 at -241,57,346 on my west side. I'm at -240,57,347."}
 - 07:00 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Night in the pit. I'm holding at -240,57,347 and will try again at dawn. Trini, drop dirt when you can reach."}
+- 07:06 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"say":"Tommy: I have 41 cobblestone and 9 dirt on me, so I'm climbing by placing at my feet. Trini, no need to drop more 
+- 07:07 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}]}
+- 07:07 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":{"x":-240,"y":56,"z":347}},{"do":"unstick"}]}
+- 07:07 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
+- 07:08 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"dirt","at":"feet"},{"do":"
+- 07:08 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"
+- 07:08 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"
+- 07:09 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Tommy: Jason, I'm at -239,48,344 under you. I
+- 07:10 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"
+- 07:13 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
