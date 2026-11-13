@@ -966,3 +966,9 @@
 - 18:58 act: {"say":"Night is coming. I'm staying by the yellow beds, away from the golem. Kimberly, I'll look for you in the morning for a beef.","actions":[{"do":"note","text":"Dusk day 160. Waiting at yellow be
 - 19:03 act: {"actions":[{"do":"note","text":"Slept at the yellow beds. Woke to Kimberly's messages: beef at first light to whoever is in sight. Standing here waiting."}]}
 - 19:07 act: {"actions":[{"do":"note","text":"Dawn. Standing by the yellow beds in sight, waiting for Kimberly's beef."}],"say":"Tommy here, standing by the yellow beds in sight. Hunger 20, I'd be glad of beef whe
+- 19:11 say: {"text":"Kimberly, Tommy here. I'm by the yellow beds at -262, 67, 354. My hunger is 20 and I carry nothing, so I'm fine for now. Thanks for the beef for Jason."}
+- 19:13 act: {"intent":{"goal":"reach_old_farm","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 19:13 say: {"text":"Zack, I'm at the old farm, -251, 68, 353. I see water and logs here but no crops left that I can find. I have no food to give."}
+- 19:13 act: {"intent":{"goal":"find_sheep_southeast","program":"travel","arguments":{"target":{"x":-210,"y":67,"z":390}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
+- 19:20 act: {"intent":{"goal":"flee_to_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2
+- 19:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"I'm at the yellow beds for the night. I have no food, but I'm not in danger here."}
