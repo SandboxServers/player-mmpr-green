@@ -285,3 +285,13 @@
 - 03:49 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Mining changed nothing. Try unstick and the bed once more."}
 - 03:49 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Stack up under my feet to climb toward the bed."}
 - 03:53 say: {"text":"Tommy here, still in the pit at -238,50,347. I have 18 cobblestone and 3 potatoes if anyone needs them. Still trying to climb."}
+- 04:02 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":3}],"say":"Tommy here, still in the pit at -238,50,347. I have 18 cobblestone and 3 potatoes; trying to stack up now
+- 04:02 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-239,"y":50,"z":347}},{"do":"place","block":"cobblestone","at":{"x":-237,"y":50,"z":347}},{"do":"goto","target":{"x":-238,"y":51,"z":347}}],"r
+- 04:02 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1}],"reasoning":"Placement and movement fail. The unstick verb is meant for this. Try it, then mine."}
+- 04:02 act: {"actions":[{"do":"goto","target":{"x":-233,"y":51,"z":347}}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-233,"y":58,"z":348}},"wake_on":["goal_completed","preco
+- 04:02 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"mine","block":"stone","count":2},{"do":"place","block":"cobblestone","at":"feet"}],"intent":{"goal":"climb_out_of_pit","program":"tr
+- 04:04 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":58,"z":348}}],"say":"Tommy: still in the pit near -239,50,346 with 18 cobblestone. Trying unstick and climbing again.","reasoning":"Uns
+- 04:05 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":58,"z":348}}],"reasoning":"Got one step up (y 51). Repeat stack-unstick-goto to keep c
+- 04:05 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":58,"z":348}}],"reasoning":"Placing was blocked by something in the way. Mine stone for side roo
+- 04:05 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":58,"z":348}}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-233,"y":58,"z":348}},"wake_on":["goal_
+- 04:09 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-233,"y":58,"z":348}}],"say":"Tommy: still in the pit at -239,50,345, healthy, with 18 cobblestone and 3 potatoe
