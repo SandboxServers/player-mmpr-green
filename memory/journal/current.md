@@ -764,3 +764,4 @@
 - 15:19 act: {"say":"Hello Billy, thanks. I'm Tommy, holding 1 wheat if anyone is hungry. I'm going to my bed now.","intent":{"goal":"reach_bed_and_rest","program":"travel","arguments":{"target":{"x":-263,"y":67,"
 - 15:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 15:19 act: {"actions":[{"do":"sleep"}]}
+- 15:21 say: {"text":"Tommy here. Night at the yellow beds, fed and healthy. I'm going to sleep beside the bed now."}
