@@ -325,3 +325,6 @@
 - 05:40 act: {"intent":{"goal":"shelter_cobble","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wor
 - 05:42 act: {"intent":{"goal":"shelter_cobble_2","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_w
 - 05:45 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"dirt","at":{"x":-237,"y":48,"z":345}},{"do":"goto","target":{"x":-237,"y":49,"z":345}}],"say":"Tommy, still in the pit at daw
+- 05:47 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":49,"z":345}}]}
+- 05:49 say: {"text":"Tommy here, still at -237,48,346. Same as Trini and Jason: placing fails after one or two blocks. I'll try planks next, then wait."}
+- 05:49 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}]}
