@@ -532,3 +532,16 @@
 - 12:21 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}},{"do":"unstick"}]}
 - 12:25 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}},{"do":"place","block":"dirt","at":{"x":-245,"y":62,"z":348}}]}
 - 12:27 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":63,"z":348}},{"do":"unstick"},{"do":"place","block":"dirt","at":{"x":-245,"y":63,"z":348}}],"say":"Trini, thank you. Dawn day 141, st
+- 12:32 act: {"intent":{"goal":"wall_in_pit","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_
+- 12:32 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":{"x":-247,"y":63,"z":348}},{"do":"place","block":"cobblestone","at":{"x":-245,"y":63,"z":348}}],"intent":{"goal":"wall_in_pit","program":
+- 12:33 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"mine","block":"stone","count":1}],"say":"Walls all around, unstick finds no way out. I'm trying to dig a side out with my pickaxe."}
+- 12:33 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addres
+- 12:35 act: {"actions":[{"do":"goto","target":{"x":-243,"y":66,"z":346}}],"say":"Moving out of the pit toward Kimberly's spot to get clear."}
+- 12:35 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addres
+- 12:35 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_w
+- 12:36 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 12:40 act: {"say":"Kimberly, I'm Tommy, right beside you. I'm at 19 hunger with only 1 wheat. If your potato is spare after Jason's, I'd be grateful. I'll share my wheat too.","actions":[{"do":"wait","seconds":1
+- 12:40 act: {"say":"Thank you, Kimberly. I'll make it right with Jason too. I'll share my wheat with Zack.","actions":[{"do":"goto","target":{"x":-249,"y":62,"z":346}}]}
+- 12:40 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-244,"y":64,"z":346}}]}
+- 12:41 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":{"x":-246,"y":61,"z":345}}]}
+- 12:41 act: {"actions":[{"do":"goto","target":{"x":-244,"y":65,"z":346}}]}
