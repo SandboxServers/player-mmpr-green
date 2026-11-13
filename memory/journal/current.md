@@ -494,3 +494,11 @@
 - 10:48 act: {"actions":[],"say":"Kimberly, thanks. I'm on the stone by the pool at -245,62,348. Drop potatoes on the stone next to me when the golems are clear. Stay safe.","reasoning":"Tell helpers exactly where
 - 10:57 act: {"actions":[],"say":"Kimberly, thank you for keeping six for me. I'm on the stone in the water, so I can't reach the beds. Trini, if you can, please pass me one potato where I can reach.","reasoning":
 - 11:06 act: {"actions":[],"say":"Morning. Kimberly, Zack is right: please drop the potatoes on the stone by the pool, or pass them to Trini. I'm still here at -245,62,348.","reasoning":"Dawn. Ask for the potatoes
+- 11:08 act: {"say":"Kimberly, I'm on the stone at -245,62,348. Please drop the potatoes on the ground next to me, one at a time.","intent":{"goal":"receive_food_from_kimberly","program":"rest","arguments":{"note"
+- 11:08 act: {"actions":[{"do":"goto","target":{"x":-244,"y":63,"z":346}}],"say":"Thank you Kimberly. Picking up the potatoes now.","intent":{"goal":"pick_up_potatoes","program":"travel","arguments":{"target":{"x"
+- 11:09 act: {"actions":[{"do":"note","text":"Day137 morning: on stone at -245,62,348, hunger 16, health 9. Kimberly said she dropped 6 potatoes near me; they did not reach my pack. Golem 5 blocks NW. Waiting for 
+- 11:09 act: {"say":"Kimberly, I have no potatoes in my pack. Please give them to me directly, or drop them on the ground at -244,63,346. Check whether they are still on the ground there.","intent":{"goal":"await_
+- 11:10 act: {"say":"Kimberly, still nothing in my pack. Please drop the potatoes on the stone at -245,62,348 or on the spot next to me.","actions":[{"do":"note","text":"Day137 midday: Kimberly reports potatoes se
+- 11:10 act: {"say":"Kimberly, a reflex ate something just now, so the potato did reach me. Thank you. Send the rest when you can reach me safely.","intent":{"goal":"await_food_drop","program":"rest","arguments":{
+- 11:14 act: {"actions":[{"do":"note","text":"Day137 midday: still on stone at -245,62,348, no food in pack, hunger 17, health 9. Golem 2.5 NW. Kimberly is stuck in water with 11 potatoes for Trini."}]}
+- 11:16 act: {"actions":[{"do":"eat"},{"do":"note","text":"Day137 dusk: got 4 potatoes from Kimberly's drops; health 18, hunger 18. Kimberly lost her potatoes in the water. Trini is at -240,69,344 with no food."}]
