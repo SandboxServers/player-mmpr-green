@@ -729,3 +729,5 @@
 - 14:57 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
 - 14:58 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 14:59 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Kimberly, Trini: I'm out of the pit and at a bed near the surface. Going to sleep for the night."}
+- 15:01 act: {"say":"Kimberly, Trini, Jason, Zack: I'm out of the pit. I'm in a bed near the surface at about -262, 67, 353, health and food full.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 15:01 act: {"actions":[{"do":"sleep"}]}
