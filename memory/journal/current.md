@@ -724,3 +724,7 @@
 - 14:54 act: {"intent":{"goal":"reach_sheep_spot","program":"travel","arguments":{"target":{"x":-227,"y":68,"z":278}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
 - 14:54 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"mine","block":"dirt","count":4}]}
 - 14:54 act: {"say":"I'm stuck at the bottom of a dirt pit near -262,62,353. My digging keeps failing and I can't get north yet. I'm sorry, Billy and Kimberly. Jason or Zack, if you can reach me, I still have my 1
+- 14:57 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"I'm stuck in a dirt pit at dusk. I'll try building up with blocks."}
+- 14:57 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"fee
+- 14:57 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 14:58 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
