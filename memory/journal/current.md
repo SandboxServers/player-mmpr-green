@@ -789,3 +789,5 @@
 - 16:02 act: {"actions":[{"do":"sleep"}],"reasoning":"The goto failed only because I already stand beside the bed. Try sleep alone, the one retry for this attempt."}
 - 16:03 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"It is night. I am going to bed by the yellow beds here."}
 - 16:03 act: {"actions":[{"do":"sleep"}]}
+- 16:04 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"reasoning":"Night, bed right here. Move onto bed then sleep."}
+- 16:04 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed is adjacent west. Sleep now at night."}
