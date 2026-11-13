@@ -506,3 +506,7 @@
 - 11:17 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":345}}],"reasoning":"Goto moved zero blocks; I am boxed in by water. Unstick, then retry."}
 - 11:17 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"potato","count":1}],"say":"Kimberly, sending you my last potato. Trini, Jason, I'm stuck in water with the golem attacking me.","reasoning":"Gole
 - 11:18 act: {"say":"Jason, Trini: I have no potatoes left. Kimberly has the last one I had. I'm still perched in water with the golem about 3 blocks west. I'll look for food once I can get out.","intent":{"goal":
+- 11:19 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_worl
+- 11:19 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Build plan failed. Try a single manual placement to see if water tiles accept blocks."}
+- 11:23 act: {"say":"Kimberly, I have 40 cobblestone and 23 dirt. Tell me where you are and I'll drop some blocks within reach.","reasoning":"Kimberly is unsheltered in water and I have spare blocks. Offer them."}
+- 11:24 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":12},{"do":"give","to":"ag_kimberly_01","item":"dirt","count":10}],"say":"Kimberly, sending you 12 cobblestone and 10 dirt. W
