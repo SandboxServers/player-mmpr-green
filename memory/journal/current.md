@@ -259,3 +259,20 @@
 - 02:27 act: {"say":"Eaten, I'm full now. Thank you Jason, Zack, Kimberly. I'm keeping 4 potatoes for later and will share when someone needs them.","reasoning":"Hunger restored. Thank the group and hold spare foo
 - 02:27 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"potato","count":2}],"say":"Kimberly, I'm sending you 2 potatoes for your trouble. I also have 7 dirt if you need a way up; say where you are.","r
 - 02:28 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"potato","count":1}],"say":"Billy, here is a potato. Climb up carefully.","reasoning":"Billy is hungry and asked for food. Give one of my spare potat
+- 02:33 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":8}],"say":"Kimberly, sending you 8 dirt to build your step. Keep climbing.","reasoning":"Kimberly is stuck and needs dirt. I have 1
+- 02:37 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"say":"Dusk. Going to the bed at -241,69,343 for the night. I have 3 potatoes for anyone hungry in the morning.","reasoning
+- 02:37 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"say":"The bed route was blocked. Trying again.","reasoning":"Sleep failed because the way was blocked. Un
+- 02:39 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"reasoning":"Retry the bed; if blocked, sleep here."}
+- 02:48 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Morning. I'm in the pit too. I have 9 dirt and 3 potatoes. Stacking up n
+- 02:53 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Dig a side step, stack dir
+- 02:53 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Keep digging and stacking to get out."}
+- 02:53 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Continue the dig-out."}
+- 02:54 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"reasoning":"Try the bed now that I've moved."}
+- 02:56 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Dig further toward the bed."}
+- 02:56 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Keep digging."}
+- 02:56 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"reasoning":"I'm perched out of the pit. Try the bed."}
+- 03:06 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":2},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Zack, I'm sending you 2 potatoes. Eat them, then bring dirt to Billy and 
+- 03:07 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"say":"Zack, I'll hold my 3 potatoes until you're near me. Kimberly, I'm out, standing on dirt next to you.","reasoning":"R
+- 03:07 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, here are 3 potatoes. Thanks for the dirt.","reasoning":"Zack is helping the pit group and is hungry. Give him the po
+- 03:08 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"dirt","count":5}],"say":"Trini, sending you 5 dirt to stack up.","reasoning":"Help Trini climb out with dirt."}
+- 03:11 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"reasoning":"Daylight; go to the bed and sleep."}
