@@ -643,3 +643,28 @@
 - 14:04 say: {"text":"Goodnight, Trini. I'm sealed in stone at -244,61,343 with the wheat still on me. I'll find Kimberly and Zack in the morning."}
 - 14:05 act: {"say":"Kimberly, I have your wheat, 1 piece. I'm in the stone at -244,61,342 and it's night. I'll seal myself in before I come up.","intent":{"goal":"night_shelter","program":"build","arguments":{"bl
 - 14:05 act: {"actions":[{"do":"sleep"}]}
+- 14:06 act: {"actions":[{"do":"sleep"}]}
+- 14:06 act: {"actions":[{"do":"unstick"}],"say":"Morning. Kimberly, I'm climbing out of my stone shelter now with your wheat."}
+- 14:06 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
+- 14:06 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}],"say":"Morning, Kimberly. Here is your wheat. Sorry it took so long, the bed was taken
+- 14:06 act: {"actions":[{"do":"goto","target":{"x":-239,"y":68,"z":345}}]}
+- 14:06 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":2}]}
+- 14:06 act: {"actions":[{"do":"mine","block":"cobblestone","count":3}]}
+- 14:06 act: {"actions":[{"do":"goto","target":{"x":-239,"y":68,"z":345}}]}
+- 14:06 act: {"actions":[{"do":"mine","block":"cobblestone","count":4},{"do":"unstick"}]}
+- 14:06 act: {"actions":[{"do":"goto","target":{"x":-239,"y":68,"z":345}}]}
+- 14:07 act: {"actions":[{"do":"mine","block":"dirt","count":3}],"say":"Kimberly, I'm still in the stone pit at -244,61,343, dug out but boxed in. Dirt is above me. Can you see me? I have your wheat."}
+- 14:07 act: {"actions":[{"do":"goto","target":{"x":-239,"y":68,"z":345}}]}
+- 14:07 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"mine","block":"dirt","count":4},{"do":"goto","target":{"x":-240,"y":64,"z":344}}],"say":"Kimberly, digging east and up now. I'll tell you whe
+- 14:08 act: {"actions":[{"do":"mine","block":"dirt","count":2}],"say":"Kimberly, I'm still boxed in with water close by. Digging dirt on the east side to get through."}
+- 14:08 act: {"actions":[{"do":"unstick"}],"say":"Kimberly, water is next to every wall I dig. I'm trying to get free without letting it in."}
+- 14:08 act: {"actions":[{"do":"goto","target":{"x":-239,"y":68,"z":345}}],"say":"Kimberly, I'm out of the pit at -242,62,345. Coming to you now with the wheat."}
+- 14:08 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"mine","block":"dirt","count":1}],"say":"Kimberly, digging east through the dirt toward you."}
+- 14:08 act: {"actions":[{"do":"goto","target":{"x":-239,"y":68,"z":345}}]}
+- 14:08 act: {"actions":[{"do":"unstick"}],"say":"Kimberly, I'm still in the dirt pit at -242,62,345. Water is on the west side. I'm trying to climb out toward you."}
+- 14:11 act: {"actions":[],"say":"Kimberly, I still have your wheat and I'm stuck in the pit at -244,61,345. Tell me if you can reach me and I'll hand it over."}
+- 14:12 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Kimberly, I'm stacking dirt under me to climb toward you one block at a time."}
+- 14:12 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 14:12 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Kimberly, I'm at 64 now and climbing. Halfway to you."}
+- 14:12 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Kimberly, I'm at 65 on the dirt stack and climbing tow
+- 14:12 act: {"actions":[],"say":"Kimberly, I'm out at level 68, at -244,68,345, on the grass. Where are you? I have your wheat."}
