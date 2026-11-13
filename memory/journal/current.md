@@ -1224,3 +1224,4 @@
 - 23:20 act: {"intent":{"goal":"reach_spawn_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"lim
 - 23:21 act: {"actions":[{"do":"sleep"}]}
 - 23:22 act: {"say":"Billy, Jason, I'm safe in my bed at the spawn. Stay sealed tonight. In the morning I'll find one more wheat for bread.","intent":{"goal":"wait_for_morning","program":"rest","arguments":{},"wak
+- 23:26 act: {"actions":[{"do":"sleep"}],"say":"Kimberly, Jason: I'm in my bed at spawn for the night. I have 2 wheat left; I'll bring it to you at first light if you're still short."}
