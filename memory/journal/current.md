@@ -174,3 +174,15 @@
 - 00:42 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":16}]}
 - 00:43 act: {"actions":[{"do":"note","text":"Night day105 at (-226,59,348). Sleep needs a bed; Billy is at the beds (location unknown). 8 oak planks only. Next: find Billy/beds or gather logs."},{"do":"wait","sec
 - 00:45 say: {"text":"Billy, thanks. What are the coordinates of the beds? I'll walk over."}
+- 00:46 act: {"intent":{"goal":"go_to_beds","program":"travel","arguments":{"x":-282,"y":69,"z":371},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations":100}}}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 00:47 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 00:48 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 00:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 00:48 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 00:49 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 00:49 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"unstick"},{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 00:50 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 00:51 act: {"actions":[{"do":"mine","block":"stone","count":6},{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
+- 00:53 act: {"say":"I'm boxed in a pit at -228,59,350 and can't path out. Could someone with a pickaxe dig me out? Thanks Billy for the coordinates.","actions":[{"do":"unstick"}]}
+- 00:53 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
