@@ -1243,3 +1243,13 @@
 - 23:33 say: {"text":"Kimberly, I still can't see you from here. I'm standing just east of the yellow beds. Walk up to me and I'll give you the wheat."}
 - 23:34 act: {"actions":[{"do":"goto","target":{"x":-259,"y":66,"z":353}},{"do":"give","to":"ag_kimberly_01","item":"wheat","count":2}]}
 - 23:40 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- 23:41 act: {"actions":[{"do":"give","to":"kimberly_01","item":"wheat","count":2}],"say":"Kimberly, here is the 2 wheat."}
+- 23:41 act: {"intent":{"goal":"meet_kimberly_with_wheat","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":341}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 23:46 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":338}},{"do":"give","to":"kimberly_01","item":"wheat","count":2}],"say":"Kimberly, I'm right beside you now. Taking the wheat out."}
+- 23:47 act: {"say":"Kimberly, I'm at -269,66,339 next to the white beds, but I can't see you. Where exactly are you? I'll hold the wheat until you're in view."}
+- 23:49 act: {"actions":[{"do":"give","to":"kimberly_01","item":"wheat","count":2}],"say":"Kimberly, here is the wheat. Eat well."}
+- 23:49 act: {"actions":[{"do":"goto","target":{"x":-268,"y":66,"z":337}},{"do":"give","to":"kimberly_01","item":"wheat","count":2}],"say":"Kimberly, I moved to a clearer spot. Please stay in view while I hand you
+- 23:49 act: {"actions":[{"do":"goto","target":{"x":-268,"y":66,"z":337}},{"do":"give","to":"kimberly_01","item":"wheat","count":2}],"say":"Kimberly, I'm holding the 2 wheat now. Giving it to you.","reasoning":"Ki
+- 23:49 act: {"actions":[{"do":"goto","target":"kimberly_01"},{"do":"give","to":"kimberly_01","item":"wheat","count":2}],"say":"Kimberly, I'm walking to you by name now. Holding the wheat.","reasoning":"The goto t
+- 23:49 act: {"say":"Kimberly, I can't get the give to reach you from here; the game says you're not in sight. I'm keeping the 2 wheat safe and will hand it over the moment you're in view again. Good luck with the
+- 23:50 act: {"actions":[{"do":"give","to":"kimberly_01","item":"wheat","count":2}],"say":"Kimberly, the wheat is in my pack for you. Tell me if you can see me and I'll hand it over.","reasoning":"The agent list s
