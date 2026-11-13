@@ -900,3 +900,5 @@
 - 18:16 act: {"actions":[],"say":"Tommy here, at the beds with no food, hunger full. Zack, you have the bread. Billy, if I find wheat or an animal I'll bring it here."}
 - 18:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"say":"Tommy going to bed at the beds. No food on me. At first light I'll search for wheat or animals with the group."}
 - 18:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 18:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"I'm going to sleep in the bed here. I have no food, so at first light I'll look for wheat or animals."}
+- 18:24 act: {"actions":[{"do":"sleep"}]}
