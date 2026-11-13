@@ -300,3 +300,7 @@
 - 04:13 act: {"actions":[{"do":"goto","target":{"x":-240,"y":49,"z":345}},{"do":"unstick"}],"say":"Tommy: safe at health 20 in the pit near -238,51,346. I have 17 cobblestone, 8 dirt and 3 potatoes for anyone who 
 - 04:13 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-233,"y":58,"z":348}},"wake_on":["goal_
 - 04:17 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-238,"y":48,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-240,"y":48,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-239,"
+- 04:26 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-233,"y":58,"z":348}},"wake_on":["goal_
+- 04:30 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-238,"y":49,"z":343}},{"do":"place","block":"cobblestone","at":"feet"}],"say":"Tommy: at -239,48,344 in the pit, healthy.
+- 04:30 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-233,"y":58,"z":348}},"wake_on":["goal_completed
+- 04:34 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":10},{"do":"give","to":"ag_billy_01","item":"dirt","count":8}],"say":"Billy, sending you 10 cobblestone and 8 dirt to stack up w
