@@ -334,3 +334,10 @@
 - 06:03 act: {"intent":{"goal":"shelter_for_night_retry","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":
 - 06:07 act: {"actions":[{"do":"unstick"}],"say":"Tommy, morning. Still in the pit at -237,48,346, not enclosed. Trying unstick now.","reasoning":"It is day. Unstick may free me from the pit before I try building 
 - 06:08 act: {"intent":{"goal":"shelter_in_pit","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wor
+- 06:09 act: {"reasoning":"Need 23 of one block for shelter; have 21 cobblestone. Mine 2 more stone nearby, then run build program.","say":"Awake in the pit, unenclosed. Mining two more stone, then the shelter bui
+- 06:09 act: {"reasoning":"Intent was rejected; retry with the shelter blueprint name as Billy described.","intent":{"goal":"shelter_cobblestone","program":"build","arguments":{"blueprint":"shelter","block":"cobbl
+- 06:11 act: {"reasoning":"Now have 23 cobblestone. Earlier build didn't run. Retry shelter build with cobblestone.","intent":{"goal":"shelter_cobblestone_2","program":"build","arguments":{"blueprint":"shelter","b
+- 06:11 act: {"reasoning":"Build placed 9 of the shelter; 14 cobblestone left. Run it again to finish the enclosure.","intent":{"goal":"shelter_cobblestone_3","program":"build","arguments":{"blueprint":"shelter","
+- 06:13 act: {"reasoning":"Air directly above feet at y=49. Try placing a cobblestone there to close the roof.","actions":[{"do":"place","block":"cobblestone","at":{"x":-238,"y":49,"z":348}}]}
+- 06:13 say: {"text":"Tommy, still in the pit at -238,48,348. Build and a cobblestone at my feet both fail here. Trini, Billy, if one of you gets out, tell me how."}
+- 06:13 act: {"reasoning":"Billy escaped with unstick then walking north. Try the same.","actions":[{"do":"unstick"},{"do":"goto","target":{"x":-238,"y":49,"z":345}}],"say":"Thanks Billy. Trying unstick, then nort
