@@ -146,3 +146,6 @@
 - 00:14 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations"
 - 00:17 act: {"say":"Trini, I used unstick, then walked out east. Birch grove is northeast; I couldn't reach the logs yet.","actions":[{"do":"unstick"}]}
 - 00:17 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 00:19 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":12},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":
+- 00:21 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1}]}
+- 00:21 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
