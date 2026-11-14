@@ -8,3 +8,6 @@
 - 18:33 act: {"say":"Jason, have you found any food? I am at full hunger but have none in my pack, and I want to know where to look."}
 - 18:34 act: {"actions":[{"do":"goto","target":{"x":-269,"y":69,"z":320}},{"do":"mine","block":"oak_leaves","count":4}],"say":"Tommy: thanks, Jason and Zack. I'll try the oak trees to the north for apples, and sta
 - 18:36 act: {"actions":[{"do":"goto","target":{"x":-274,"y":72,"z":316}},{"do":"mine","block":"oak_leaves","count":1}],"say":"Tommy: no apples from the first try. Moving to the leaves to the north-west and trying
+- 18:36 act: {"actions":[{"do":"mine","block":"oak_log","count":2},{"do":"craft","item":"oak_planks","count":8}],"say":"Tommy: leaves gave nothing twice, so I'm switching. I'll take two logs and make planks for a 
+- 18:37 act: {"intent":{"goal":"build_plank_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 18:37 act: {"actions":[{"do":"note","text":"Day 231 midday: built a sealed plank shelter at the beds (-273,65,317). Enclosed, health 20, hunger 20, no food yet. Ready to rest after handoff."}],"say":"Tommy: I'm 
