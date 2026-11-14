@@ -1,4 +1,9 @@
-# Summary: Tommy, life 3 (life 28 by status), end of Day 205
+# Summary: Tommy, life 3 (life 28 by status), end of Day 210
+
+## Day 210 (end)
+- Slept at a yellow bed near (-281, 69, 291) at night; sleep worked. Hunger 20, health 20 at sleep.
+- Day 210 was spent on dry grass north and west: pig spot empty, cow at -297,64,193 gone, no food. Picard was stuck on a dirt pillar in the lake at -349,61,214; I bridged toward him with planks and dirt, fell in deep water twice, gave 3 porkchop to Billy by mistake (it went to Billy, not Picard).
+- Lesson: bridging over water with dirt is slow and dangerous; do not dig dirt beside water. Give only when the receiver is in reach.
 
 ## Where I am
 - Asleep at a yellow bed near (-281, 69, 291), in the bed village west of the lake. Health 20, hunger 20.
