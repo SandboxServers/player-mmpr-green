@@ -56,3 +56,6 @@
 - 07:00 act: {"say":"Trini, Jason is the hungriest, so give the mutton to him first. Then, if any is left, I'll take one.","intent":{"goal":"hold_at_sign_through_night","program":"rest","arguments":{},"wake_on":["
 - Night 196: Zack ate porkchop (health 5.7). Trini got 3 mutton and went to Jason; a grave sign now says Trini burned (Day 197). I have no food, health 3.3, hunger 17. Holding at the sign through the night, no bed.
 - 07:00 act: {"say":"There is a grave sign for Trini, burned. Everyone, stay away from fire and open flames tonight. I'm still at the sign, staying still.","intent":{"goal":"hold_at_sign_through_night","program":"
+- 07:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":363}}],"say":"Jason, sleep well. Trini, stay away from the zombie. I'm going to the yellow bed at -271, 68, 364 to rest, and I'll share any food 
+- 07:03 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"say":"I'm at the yellow bed by the signs. Health 3.3, hunger 17, two rotten flesh saved for when hunger drops. Jason and T
+- 07:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Adjacent to bed at -282,69,371. Try sleep directly rather than stepping onto the block."}
