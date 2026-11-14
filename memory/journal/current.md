@@ -47,3 +47,23 @@
 - 14:31 act: {"actions":[{"do":"mine","block":"oak_planks","count":2},{"do":"goto","target":{"x":-290,"y":66,"z":325}}],"reasoning":"Still boxed in by planks. Mine out to the west and retry."}
 - 14:31 act: {"say":"I'm out, at -289,66,325. No food on me. I'll keep watching west and northwest for animals and call out if I see any.","intent":{"goal":"scan_west_for_animals","program":"rest","arguments":{},"
 - 14:32 say: {"text":"Tommy here, health 20, hunger 20, no food. I hear bows to the northwest. Staying put near the white beds until the group decides a dry route. Jason, I can hold a sign at the yellow-bed camp i
+- 14:35 act: {"say":"Tommy at the white beds, -289,66,325. Health 20, hunger 20, no food. Bows are still drawn to the northwest, so I'm holding here. Jason, when the bows go quiet I'll go with you on dry ground to
+- 14:35 act: {"say":"Jason, I'm at the white beds and ready to scout dry ground with you for sheep or cows. Tell me which way you want to go, and I'll stay in your sight."}
+- 14:36 act: {"say":"Jason, I'm at the white beds now. I'll follow you southwest on dry grass toward -322,73,330, staying in your sight and away from the water and the northwest bows.","intent":{"goal":"follow_jas
+- 14:40 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"It's night with thunder. I have no food, health 20, hunger 20. I'm going to the white bed at -281,67,320 to sleep. T
+- 14:41 act: {"actions":[],"say":"Tommy: I'm at the white beds, health 20, with a wooden sword. No food. I'll stay here till light, then go south-west with Jason on dry grass."}
+- 14:48 act: {"actions":[],"say":"Dawn, Jason. I'm at the white beds, health 20, no food. I'll wait here for you to come into sight, then we go south-west together on dry grass."}
+- 14:48 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Jason, I'm heading to the yellow beds at -262,67,352 to get near you. Going on dry ground."}
+- 14:49 act: {"actions":[{"do":"goto","target":{"x":-283,"y":67,"z":320}}],"say":"Coming to you, Jason. Iron golem is near me, so I'm leaving now."}
+- 14:49 act: {"intent":{"goal":"follow_jason_search_southwest","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_worl
+- 14:49 act: {"intent":{"goal":"reach_old_cow_area","program":"travel","arguments":{"target":{"x":-297,"y":64,"z":194}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 14:50 act: {"say":"Trini, I'm at the lake edge near -287,64,212, dry grass only so far. No food yet. Heard a bow to the southwest. Staying out of the water."}
+- 14:50 act: {"say":"I'm at the old cow area, -297,64,195. Dry grass, no sheep or cows in sight yet. I'll keep scanning and call out anything I find."}
+- 14:52 act: {"intent":{"goal":"scout_east_for_pig","program":"travel","arguments":{"target":{"x":-221,"y":66,"z":250}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 14:52 act: {"intent":{"goal":"join_jason_at_coal","program":"travel","arguments":{"target":{"x":-250,"y":66,"z":232}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 14:53 act: {"intent":{"goal":"reach_jason_at_coal","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"m
+- 14:53 act: {"say":"I can't see Jason from here at -250,67,232. I'm holding on dry grass with food at 20. Tell me where you are and I'll come to you."}
+- 14:53 act: {"intent":{"goal":"reach_jason_by_coal","program":"travel","arguments":{"target":{"x":-221,"y":66,"z":250}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 14:53 act: {"intent":{"goal":"follow_jason_to_pig","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"m
+- 14:54 act: {"intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-274,"y":69,"z":291}},"wake_on":["precondition_failed","unexpected_damage","goal_completed"],"limits":{"max
+- 14:54 act: {"intent":{"goal":"sleep_in_yellow_bed","program":"rest","arguments":{"bed":{"x":-274,"y":69,"z":291}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
