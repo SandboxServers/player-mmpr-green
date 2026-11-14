@@ -137,3 +137,15 @@
 - 21:08 act: {"say":"Tommy: dawn, health 20, hunger 20, no food, no weapon. I'll go north with Wesley, Data and Troi to the sheep field, and Trini first for any mutton. Wesley, Data, wait for me in sight.","intent
 - 21:08 act: {"say":"Tommy: follow failed again, Troi is out of my sight. I'll stay at the beds with Laforge, Zack and Worf for now. Whoever finds mutton, pork or an apple, call my name and I'll come. Trini first.
 - 21:11 act: {"intent":{"goal":"follow_worf_north_sheep","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks
+- 21:15 act: {"say":"Tommy here at (-272, 67, 327), health 20, hunger 20, empty pack. Worf, I can't see you, so I'm waiting here. If you find mutton, bring it to Trini first.","intent":{"goal":"stay_in_sight_of_wo
+- 21:15 act: {"actions":[{"do":"goto","target":{"x":-274,"y":68,"z":306}}],"say":"Worf, I'm coming north toward you from the beds. I have no food either. Trini, which way is the sheep field?"}
+- 21:15 act: {"say":"Tommy here with Trini and Worf, at the oak logs north of the beds. I still have no food. I'll stay in sight and go with whoever finds mutton or meat first.","intent":{"goal":"stay_with_trini_a
+- 21:15 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":289}}],"say":"Tommy: I'm going to Zack's spot at -274,67,289 to join the group. Nothing on me. Trini, if anyone brings mutton, it's yours."}
+- 21:15 act: {"say":"Tommy here with Zack, Jason, Trini and Troi at -274,67,289. Nothing on me. I haven't scouted north-west past the lake yet. I'll go there with anyone who wants to come, and stay in sight. Trini
+- 21:15 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":268}}],"say":"Tommy: scouting north-west toward -290,67,268 for sheep or cow. Anyone with me, come along. I'll call out what I see."}
+- 21:15 act: {"actions":[{"do":"goto","target":{"x":-310,"y":67,"z":250}},{"do":"note","text":"Day 239: reached -290,67,269 with Jason. No animals seen. Continuing north-west to -310,67,250."}],"say":"Tommy and Ja
+- 21:16 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":256}}],"say":"Tommy: I'm in deep water at the lake edge. Getting back to dry land at -300,66,256 with Zack. Salmon are too far out to reach from 
+- 21:16 act: {"actions":[{"do":"unstick"}]}
+- 21:16 act: {"actions":[{"do":"goto","target":{"x":-298,"y":66,"z":262}}]}
+- 21:16 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"I'm out of the lake water on dry land. No food found from the shore. Any mutton goes to Trini first."}
+- 21:16 act: {"actions":[],"intent":{"goal":"rejoin_group_and_scout_food","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","unexpected_damage","new_agent_within_10"],"limits":
