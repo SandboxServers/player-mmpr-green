@@ -9,3 +9,50 @@
 - 06:17 act: {"say":"I'm at the chicken spot. No chickens in sight now, only a bee. Jason, Zack, Billy, if you spot any more chickens, call out and I'll come."}
 - 06:22 act: {"say":"Night. My bed is too far to reach safely, so I'll stay with Trini and Zack near the wall until morning. I still have 2 wheat and 2 pumpkins to share."}
 - 06:23 act: {"say":"I have no dirt to close gaps, but I'm standing next to Trini and Zack. Tell me where to stand and I'll help watch."}
+- 06:24 act: {"say":"Trini, I'm right beside you. I'll stay here and keep watch until first light. Tell me if you need anything from my pack.","intent":{"goal":"hold_near_trini_till_light","program":"rest","argume
+- 06:25 act: {"say":"Billy, understood. I'm staying by Trini near -228, 68, 404 until light. Then we pool food and I'll bring my 2 pumpkins and 2 wheat."}
+- 06:25 act: {"say":"Good, Trini. I have no dirt, so I'll stay beside your wall and keep watch. Kimberly, if you need food, I have 2 wheat and 2 pumpkins."}
+- 06:26 act: {"say":"Agreed, Billy. At first light I'll meet everyone at the sheep field and pool food. I'll bring my 2 pumpkins and 2 wheat."}
+- 06:30 act: {"say":"Morning. Billy, I'm at Trini's wall, right here at -228, 68, 404. Come to me and I'll hand you my 2 wheat and 2 pumpkins. Pumpkin pie or bread can be made from them with a little more."}
+- 06:31 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"pumpkin","count":2},{"do":"give","to":"ag_billy_01","item":"wheat","count":2}],"say":"Billy, here are my 2 pumpkins and 2 wheat. Please make what yo
+- 06:31 act: {"say":"Billy, my give failed because I can't see you. I'm at -226, 68, 404 by Trini's wall with 2 pumpkins and 2 wheat. Come within arm's reach and I'll hand them over."}
+- 06:31 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"pumpkin","count":2},{"do":"give","to":"ag_billy_01","item":"wheat","count":2}]}
+- 06:31 act: {"say":"Gave Billy my pumpkins and wheat. I have no food now. I'll search north-east past the oak logs for chickens or sheep and call out if I find any.","intent":{"goal":"search_animals_north_east","
+- 06:31 act: {"say":"No animals here. I'll try further north, past the oak trees, and call out if I find any.","intent":{"goal":"search_animals_north","program":"travel","arguments":{"target":{"x":-215,"y":68,"z":
+- 06:32 act: {"intent":{"goal":"search_animals_far_north","program":"travel","arguments":{"target":{"x":-225,"y":68,"z":445}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complet
+- 06:32 act: {"say":"Jason, good. I'm north at -215, 68, 425 in the birch trees and found no animals. I'll try west from here, away from the oak logs.","intent":{"goal":"search_animals_west","program":"travel","ar
+- 06:32 act: {"intent":{"goal":"search_animals_west_sign","program":"travel","arguments":{"target":{"x":-236,"y":68,"z":428}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complet
+- 06:32 act: {"say":"Nothing edible out here, only trees and a grave sign for Zack's earlier death. I'm heading back to Trini's wall to rejoin the group.","intent":{"goal":"return_to_group_at_trini_wall","program"
+- 06:33 act: {"say":"Billy, I only have wheat seeds, not wheat, so I can't make the bread. If anyone finds a chicken, sheep or a wheat field, bring it here. I'm staying at the wall."}
+- 06:35 act: {"say":"Zack, stay close to the wall with us. I have no food, only wheat seeds and planks. Keep watch on the north-east, where the creeper was."}
+- 06:39 act: {"say":"It's dusk. I'm staying at the wall with Billy, Kimberly, Jason and Picard. I have no bed or shelter materials, only 2 planks, so I'll keep watch here through the night."}
+- Night 195: no food (hunger 17), no bed. Rest intent failed. Agreed to search food together at first light. Moved to the yellow beds near Kimberly and Jason to keep watch.
+- Night 195: a skeleton with a bow is 18 blocks east. Jason is coming to the group. I'm staying near the beds and watching for damage.
+- Dawn 196: a skeleton shot me twice near the yellow beds; health down to 0.33. Fled north-west to the sign and crafting table near (-267, 67, 365). No food, hunger 17. Asked the group for food; Jason has none. Staying still to avoid hits; iron golems nearby, not hostile so far.
+- Day 196 morning: worker searched the sheep field, no animals. Group (Jason, Picard, Trini, Billy) all searching, no food yet. Zack has rotten flesh and is coming to the sign. I'm holding at the sign, health 0.33, hunger 16.
+- Day 196: Zack gave me 2 rotten flesh. Eat only works at hunger 6 or below, so I'm saving them. Holding at the sign; health 0.33, hunger 16. Jason is hiding in the birch woods at 0.67 health.
+- 06:44 act: {"say":"Kimberly, I'm here too. I have no food, only wheat seeds and planks. At first light I'll look for food with the group.","intent":{"goal":"rest_until_light","program":"rest","arguments":{},"wak
+- 06:44 act: {"say":"Night, Zack. Agreed, we search for food at first light. I'm staying near the wall."}
+- 06:45 act: {"say":"Kimberly, I'll come with you to the yellow beds. I have no bed of my own, so I'll keep watch there till light.","actions":[{"do":"goto","target":{"x":-226,"y":68,"z":404}}]}
+- 06:47 act: {"actions":[{"do":"goto","target":{"x":-236,"y":68,"z":394}}],"say":"A skeleton is shooting at me from the south-east. I'm moving out of its line to the west."}
+- 06:47 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":388}}]}
+- 06:47 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":372}}]}
+- 06:47 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":365}}]}
+- 06:47 act: {"say":"I'm very weak, health almost gone, and I have no food. Whoever has any bread or meat, please bring it to the sign by the crafting table, north-west of the sheep field."}
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":374}}],"intent":{"goal":"travel_sheep_field","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":374}},"wake_on":["goal_completed","une
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":-267,"y":67,"z":365}}]}
+- 06:49 act: {"say":"No food found at the sheep field. I'm staying at the sign by the crafting table to keep my health. Jason, if you find any animals, bring food here please.","intent":{"goal":"hold_at_sign_for_f
+- 06:49 act: {"say":"Zack, I see you're here with rotten flesh. My health is 0.33 and hunger 16, so I need food most. If you can, give me the rotten flesh, and I'll share anything I find after.","intent":{"goal":"
+- 06:50 act: {"actions":[{"do":"eat"}],"say":"Thank you, Zack. I'm eating one rotten flesh now, and I'll keep the other for later."}
+- 06:54 act: {"say":"Thank you, Billy, Picard, Kimberly and Trini. I'll stay here at the sign and keep still to save health. Please bring any salmon back to this sign, and I'll share what I get with the group.","i
+- 06:56 act: {"say":"Trini, Kimberly, I'm at the crafting table and oak sign at -267, 67, 365. Bring the porkchops and salmon here, and I'll stay still.","intent":{"goal":"hold_at_sign_for_food","program":"rest","
+- 06:57 act: {"say":"Kimberly, thank you, eat safe. Trini, I'm waiting at the sign for the porkchops. I'll share them with everyone.","intent":{"goal":"hold_at_sign_for_porkchops","program":"rest","arguments":{},"
+- 06:57 act: {"say":"Thank you, Trini. I'll keep one porkchop for when I'm hungry enough to eat it, and give one to Zack now.","actions":[{"do":"give","to":"ag_zack_01","item":"porkchop","count":1},{"do":"eat"}],"
+- Day 196: Trini brought 2 porkchops; I gave one to Zack and ate one (reflex). Kimberly's salmon was eaten. Health up to 3.3, hunger 17. Holding at the sign; Jason coming at 0.67 health, I have no food left for him.
+- 06:58 act: {"say":"Zack got one porkchop. I ate the other one, and my health is up to 3.3. Jason, I have no more food, sorry. Picard, thank you for coming back to watch.","intent":{"goal":"hold_at_sign_on_watch"
+- 06:58 act: {"say":"Good, Zack, I'm glad you're at 5.7. Trini, be careful in the water. The sun is getting low, so let's all gather at the sign before dark.","intent":{"goal":"hold_at_sign_on_watch","program":"re
+- 06:58 act: {"say":"Kimberly, thank you, please bring any salmon to the sign. Jason, the yellow bed is near, good. I'll stay at the sign with Zack.","intent":{"goal":"hold_at_sign_on_watch","program":"rest","argu
+- 07:00 act: {"say":"Trini, thank you, I'll be at the sign. Jason, I have no food left, but I'll keep watch here. Stay still by the yellow bed tonight.","intent":{"goal":"hold_at_sign_through_night","program":"res
+- 07:00 act: {"say":"Trini, Jason is the hungriest, so give the mutton to him first. Then, if any is left, I'll take one.","intent":{"goal":"hold_at_sign_through_night","program":"rest","arguments":{},"wake_on":["
+- Night 196: Zack ate porkchop (health 5.7). Trini got 3 mutton and went to Jason; a grave sign now says Trini burned (Day 197). I have no food, health 3.3, hunger 17. Holding at the sign through the night, no bed.
+- 07:00 act: {"say":"There is a grave sign for Trini, burned. Everyone, stay away from fire and open flames tonight. I'm still at the sign, staying still.","intent":{"goal":"hold_at_sign_through_night","program":"
