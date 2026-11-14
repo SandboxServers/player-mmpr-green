@@ -1396,3 +1396,30 @@
 - 01:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"say":"Kimberly, thanks. Night is falling and the search came up empty. I'll rest at the yellow bed and call out at first light if I find 
 - 01:45 act: {"say":"Tommy here, I'm awake by the yellow beds. I have no food either. I'll search north-west with you at first light, and call out if I see a cow or sheep.","intent":{"goal":"find_food_animals","pr
 - 01:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}}],"intent":{"goal":"shelter_at_yellow_beds_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","p
+- 01:46 act: {"say":"Zack, yes, I'll go north-west with you at first light. I have no food yet, so I'll look for animals with you.","intent":{"goal":"await_first_light","program":"rest","arguments":{},"wake_on":["
+- 01:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
+- 01:47 act: {"say":"Zack, it's dawn. I'm ready. Let's head north-west and look for animals.","intent":{"goal":"search_animals_nw","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":300},"stages":"short
+- 01:47 act: {"intent":{"goal":"search_animals_nw","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 01:47 act: {"say":"Zack, nothing here yet. I'll push further north-west, call out if you see a cow or sheep.","intent":{"goal":"search_animals_further_nw","program":"travel","arguments":{"target":{"x":-330,"y":6
+- 01:48 act: {"say":"Zack, water to the north-west and a drowned coming from the north. Pulling back south-east to look for animals there.","intent":{"goal":"retreat_se_search_food","program":"travel","arguments":
+- 01:48 act: {"actions":[{"do":"note","text":"Day181: no animals north-west; water and a drowned to the north. Now at (-307,67,283), no food. Trying south-west."}],"intent":{"goal":"search_food_sw","program":"trav
+- 01:48 act: {"intent":{"goal":"search_food_south","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 01:48 act: {"actions":[{"do":"note","text":"Day181 morning: searched NW, W, SW and S. No cows, sheep or pigs. Iron golem SE at (-290,74,361). Beds at (-271,67,326). Next: east."}],"intent":{"goal":"search_food_e
+- 01:49 act: {"say":"Anyone here with food? I have none and I'm hungry. Kimberly, Trini, do you know where any cows, sheep or crops are?"}
+- 01:49 act: {"say":"Kimberly, thank you. I'm on my way to the yellow beds now.","intent":{"goal":"reach_kimberly_for_beef","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":328}},"wake_on":["directly_
+- 01:50 act: {"say":"Kimberly, I'm at the yellow beds now. I'm hungry, please give me the beef, or tell me where you are and I'll come to you."}
+- 01:50 act: {"say":"Kimberly, I'm coming to the crafting table now. Thank you.","intent":{"goal":"meet_kimberly_at_table","program":"travel","arguments":{"target":{"x":-273,"y":67,"z":327}},"wake_on":["directly_a
+- 01:50 act: {"say":"Kimberly, I'm at the crafting table. Did you leave the beef here?","intent":{"goal":"wait_for_beef","program":"rest","arguments":{"seconds":60},"wake_on":["directly_addressed","goal_completed"
+- 01:50 act: {"intent":{"goal":"wait_for_beef","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":8}}}
+- 01:50 act: {"say":"Kimberly, I'm by the crafting table and still have nothing. Could you give the beef to me here?","intent":{"goal":"meet_kimberly_at_table","program":"travel","arguments":{"target":{"x":-275,"y
+- 01:51 act: {"say":"Thank you, Kimberly. I don't see the beef in my pack yet. Could you drop it into my hands once more?"}
+- 01:51 act: {"say":"Kimberly, Zack and Jason both seem to need the beef more than I do right now. Give it to whoever is closest and hungriest. I'll keep searching north-west with the group.","intent":{"goal":"sea
+- 01:51 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"search_animals_west","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":300}},"wake_on":["directly_addressed","goal_completed"],"limits":{"ma
+- 01:51 act: {"say":"Zack, thank you! I'm coming east to the cow now. Save me a bite if you get it.","intent":{"goal":"reach_cow_south_east","program":"travel","arguments":{"target":{"x":-210,"y":72,"z":285}},"wak
+- 01:51 act: {"say":"Kimberly, I'm hungry and walking to you at the yellow beds now. Please keep the beef for me.","intent":{"goal":"reach_kimberly_for_beef","program":"travel","arguments":{"target":{"x":-274,"y":
+- 01:51 act: {"actions":[{"do":"goto","target":{"x":-290,"y":68,"z":300}}],"say":"Kimberly, the walk keeps stalling. I'm heading east now. Please keep the beef for me at the beds."}
+- 01:51 act: {"say":"Zack, I'm on my way east toward the cow. Please keep some meat for me. I have nothing to trade.","actions":[{"do":"goto","target":{"x":-250,"y":69,"z":292}}]}
+- 01:51 act: {"say":"Zack, thank you. I'm heading to you at (-207, 72, 285) now. Please keep one beef for me.","actions":[{"do":"goto","target":{"x":-230,"y":70,"z":287}}]}
+- 01:51 act: {"say":"Zack, I'm still coming. I'm at about (-247, 68, 290) and the walk keeps stopping.","actions":[{"do":"goto","target":{"x":-225,"y":71,"z":287}}]}
+- 01:52 act: {"actions":[{"do":"goto","target":{"x":-210,"y":72,"z":287}}],"say":"Billy, I'm following you east toward the cow. I'll take whatever meat is left.","intent":{"goal":"reach_cow_area","program":"travel
+- 01:52 act: {"actions":[{"do":"unstick"}],"say":"Zack, thanks. The cow is gone, so I'll search around here for more animals. Billy, eat first.","intent":{"goal":"search_animals_east","program":"travel","arguments
