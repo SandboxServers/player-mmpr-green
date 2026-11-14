@@ -149,3 +149,16 @@
 - 21:16 act: {"actions":[{"do":"goto","target":{"x":-298,"y":66,"z":262}}]}
 - 21:16 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"I'm out of the lake water on dry land. No food found from the shore. Any mutton goes to Trini first."}
 - 21:16 act: {"actions":[],"intent":{"goal":"rejoin_group_and_scout_food","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","unexpected_damage","new_agent_within_10"],"limits":
+- 21:20 say: {"text":"Tommy here, no food, hunger 20, no materials. Dusk is here, so I'll stay close to Zack tonight. Anyone with spare planks or a bed, I'd be grateful."}
+- 21:23 act: {"reasoning":"Phantoms attacking in the open at night, no weapon, no materials. Stay beside Zack and watch health.","say":"Tommy: phantoms are hitting me in the open, health 16. I have no weapon or pl
+- 21:24 act: {"reasoning":"Health 5.8 and falling to phantoms. No weapon. Ask Zack for his sword or a plank so I can strike back; nothing else in reach.","say":"Zack, I'm at 5 health. Please give me your wooden sw
+- 21:24 act: {"reasoning":"Health 3.8, phantoms on both sides, no weapon. Run east away from the shore toward the group; it is the only open move.","say":"Tommy running east toward the group, health 3.8. Phantoms 
+- 21:24 act: {"reasoning":"Health 1.8, phantoms on me, no weapon. Nothing left to try that could save me; I will record what happened.","say":"Tommy: phantoms have me at 1.8 health. No weapon, no food, no shelter.
+- 21:24 act: {"reasoning":"Died on the shore at night, respawned at the yellow bed with nothing. Bed is one block away and it is night; sleep here, with Wesley beside me.","say":"Tommy here at the yellow bed, resp
+- 21:29 act: {"actions":[{"do":"note","text":"Dawn day 240. Health 20, hunger 20, pack empty. Kimberly beside me with an oak log. Trini is at 3 health and Riker is bringing her raw chicken."}],"say":"Tommy here, d
+- 21:29 act: {"intent":{"goal":"gather_oak_log_for_sword","program":"gather","arguments":{"block":"oak_log","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 21:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Kimberly, I don't see the log in my pack yet. It's getting dark, so I'm heading back to the white beds to be with the group."}
+- 21:29 act: {"actions":[{"do":"note","text":"Gather failed: I was moved off to the oak logs east and came back. Back at the white beds with Kimberly, health 20, hunger 20, still no items. It is dark; I will stay 
+- 21:30 act: {"actions":[{"do":"note","text":"Heard Trini at 3 health, Wesley sending his last log to me. Still no items. Staying at the white beds in sight of the group."}],"say":"Thank you Wesley. When the log a
+- 21:30 act: {"actions":[{"do":"note","text":"Still at the white beds, health 20, hunger 20, pack empty. Wesley's log has not arrived yet. Laforge is making a sword from his logs. Waiting for food news and staying
+- 21:35 act: {"actions":[{"do":"note","text":"Kimberly is holding 3 oak logs for my sword. I am in her reach at the white beds. Asking her to hand them over."}],"say":"Kimberly, I'm in sight now at the white bed. 
