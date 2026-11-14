@@ -162,3 +162,5 @@
 - 18:11 say: {"text":"Tommy here at the west line, no animals or apples in sight. Zack, I'm holding here for you. Hunger still 20."}
 - 18:12 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Tommy trying the oak leaves here for apples, like Wesley. Will call out any apple."}
 - 18:13 act: {"actions":[{"do":"unstick"}]}
+- 18:14 act: {"say":"Tommy here. I'm staying close. Any apple goes to Kimberly first, then whoever is weakest.","intent":{"goal":"hold_near_group_for_food","program":"travel","arguments":{"target":"ag_riker_01"},"
+- 18:18 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":319}}],"intent":{"goal":"reach_white_bed_before_night","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":319}},"wake_on":["directly_a
