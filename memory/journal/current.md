@@ -1382,3 +1382,6 @@
 - 01:34 act: {"say":"Billy, I'm on my way to the yellow beds. Kimberly and Trini should get the beef first; I'll wait my turn.","intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-2
 - 01:34 act: {"say":"Billy, I'm here at the yellow beds. Trini and Kimberly get the beef first; I'll take whatever is left. I also found no food in the east, only trees.","actions":[{"do":"note","text":"Midday day
 - 01:35 act: {"say":"Billy, I'm full right now, so give the beef to Kimberly and Zack first. Kimberly, I'm at the yellow beds, in sight of Billy."}
+- 01:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Tommy here. It's dusk and I'm at the yellow beds with empty hands. I'm full, so I'm going to sleep here. Kimberly an
+- 01:39 act: {"actions":[],"say":"Tommy: I'm full, so I'll leave the beef for Kimberly and Trini. I'm staying at the beds and will sleep once it's night."}
+- 01:42 act: {"actions":[{"do":"sleep"}]}
