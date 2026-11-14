@@ -13,3 +13,9 @@
 - 22:17 act: {"actions":[{"do":"note","text":"At the white beds with Billy, day 242 afternoon. Sleep needs night; waiting here in sight of the group until dusk, then sleeping in the bed."}],"intent":{"goal":"hold_
 - 22:22 act: {"actions":[{"do":"sleep"}]}
 - 22:23 act: {"say":"Tommy here, night of day 242, at the white beds with the group. Health 20, no food yet. Going to bed now."}
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at the white bed, night of day 242. Hearing bows to the east and southeast, so I'm going to sleep in the bed w
+- 22:24 act: {"actions":[{"do":"sleep"}]}
+- 22:24 act: {"intent":{"goal":"hold_bed_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":3000,"ma
+- 22:28 act: {"say":"Tommy: dawn of day 243, health 20, hunger 20. I still have no food. I'll stay near the white beds in sight of the group and look on the grass for animals. Any food goes to Trini first.","inten
+- 22:28 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy: dusk again, day 242 into night. Back in the white bed by the group. No food found on the grass."}
+- Day 243 dawn: slept in white bed with group (sleep worked, days_since_sleep 1). Health 20, hunger 20, still no food. Next: look on grass near beds for animals, give food to Trini first.
