@@ -1423,3 +1423,25 @@
 - 01:51 act: {"say":"Zack, I'm still coming. I'm at about (-247, 68, 290) and the walk keeps stopping.","actions":[{"do":"goto","target":{"x":-225,"y":71,"z":287}}]}
 - 01:52 act: {"actions":[{"do":"goto","target":{"x":-210,"y":72,"z":287}}],"say":"Billy, I'm following you east toward the cow. I'll take whatever meat is left.","intent":{"goal":"reach_cow_area","program":"travel
 - 01:52 act: {"actions":[{"do":"unstick"}],"say":"Zack, thanks. The cow is gone, so I'll search around here for more animals. Billy, eat first.","intent":{"goal":"search_animals_east","program":"travel","arguments
+- 01:52 act: {"actions":[{"do":"unstick"}],"say":"Zack, Billy, I'm Tommy, in the water at -205,53,286. Zombies are coming from the north-east. I'm getting to shore.","reasoning":"In deep water and perched; zombies
+- 01:53 act: {"actions":[{"do":"goto","target":{"x":-206,"y":59,"z":284}}],"reasoning":"Land is north at stone near coal ore. Head there out of water, away from the zombies to the north-east."}
+- 01:53 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-207,"y":60,"z":286}}],"say":"Zack, I'm trying to climb out of the water now.","reasoning":"Still in water with zombies east. Get out first."}
+- 01:53 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-206,"y":58,"z":286}},{"do":"unstick"}],"reasoning":"Still in water, way blocked. Keep working out with unstick and short hops north."}
+- 01:53 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"reasoning":"Zombies are close and I cannot climb out of the water column. Fight them
+- 01:53 act: {"actions":[{"do":"attack","target":"drowned"},{"do":"attack","target":"drowned"},{"do":"attack","target":"drowned"}],"reasoning":"A drowned is attacking from the north. Fight it."}
+- 01:53 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-213,"y":60,"z":296}}],"reasoning":"Enemies out of sight. Keep trying to get out of the water."}
+- 01:54 act: {"actions":[],"say":"Kimberly, Tommy here. I died in the water and respawned at the yellow beds with nothing. I'm right here at -270,67,327. Please hand over the beef.","reasoning":"Respawned with no 
+- 01:54 act: {"actions":[],"say":"Kimberly, I'm at -270,67,327, right next to the yellow beds. I see you. Please give the beef.","reasoning":"Kimberly is close. Tell her exactly where I am so she can hand it over.
+- 01:55 act: {"actions":[],"say":"Kimberly, I don't have the beef yet. My pack is empty. Please walk up next to me and give it, I'm at -270,67,327.","reasoning":"She is 13 blocks away and nothing arrived. Ask her 
+- 01:56 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":327}}],"say":"Kimberly, I'm out in the open at -268,67,327 now, on the planks. I can't see you yet. Please come to me and give the beef.","reason
+- 01:56 act: {"actions":[],"say":"Kimberly, you're in reach now, but I still have nothing in my pack and your hands show empty. Did the beef drop? Please give it to me directly.","reasoning":"Kimberly is in reach 
+- 01:57 act: {"actions":[],"say":"Got the beef, thank you Kimberly. My hunger is full right now, so I'll save it for when it drops. Let's keep the group fed.","reasoning":"I hold one beef. Hunger is at 20, so eati
+- 02:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}},{"do":"sleep"}],"say":"Night. I'm at the yellow beds with the beef. Zack and Kimberly, I'll give it to whoever is closest at first light, s
+- 02:03 act: {"actions":[],"say":"Zack, I'm at the white beds, 10 blocks south of you. I'll bring the beef to you at first light. Hold on.","reasoning":"Zack is hungry at 17 and asked for the beef. Promise to brin
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":328}}],"say":"Dawn. Heading to the yellow beds with the beef for Zack.","intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"tar
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":-298,"y":66,"z":327}}],"say":"I'm at the yellow beds. Zack is not here, so I'm following Kimberly west with the beef. Zack, tell me where you are and I will brin
+- 02:08 act: {"actions":[],"say":"Tommy at -297,66,327, with one beef for whoever is hungriest. Zack, Kimberly, call out where you are and I'll come."}
+- 02:09 act: {"actions":[],"say":"Kimberly, thanks, I won't go near the north-west edge. Zack, where are you? I hold the beef and will give it to you first when I can see you."}
+- 02:09 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Zack, here is the beef. Eat it. Billy found a pig near -249,68,460, so we have a lead."}
+- 02:09 act: {"actions":[],"say":"Zack ate the beef, I hope. Billy's pig is south near -249,68,460. Let's all go that way and share it."}
+- 02:10 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":452}}],"say":"Going to Billy's pig at -252,68,456 with Kimberly and Zack. I have no food, so I'll help find it.","intent":{"goal":"join_pig_hunt"
