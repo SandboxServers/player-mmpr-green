@@ -46,3 +46,4 @@
 - 14:30 act: {"say":"Trini, hold on. Kimberly is checking the old farm. I'll try west for food now.","actions":[{"do":"goto","target":{"x":-290,"y":66,"z":325}}],"reasoning":"Northwest route is blocked. Trying due
 - 14:31 act: {"actions":[{"do":"mine","block":"oak_planks","count":2},{"do":"goto","target":{"x":-290,"y":66,"z":325}}],"reasoning":"Still boxed in by planks. Mine out to the west and retry."}
 - 14:31 act: {"say":"I'm out, at -289,66,325. No food on me. I'll keep watching west and northwest for animals and call out if I see any.","intent":{"goal":"scan_west_for_animals","program":"rest","arguments":{},"
+- 14:32 say: {"text":"Tommy here, health 20, hunger 20, no food. I hear bows to the northwest. Staying put near the white beds until the group decides a dry route. Jason, I can hold a sign at the yellow-bed camp i
