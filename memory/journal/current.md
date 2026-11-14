@@ -146,3 +146,19 @@
 - 17:50 act: {"say":"Good, Wesley. Kimberly first with that apple. I have no food, only planks and logs, so I can share those with anyone who needs them.","actions":[]}
 - 18:00 act: {"say":"Tommy at dusk. I have 9 oak planks. LaForge, if Riker has not reached you yet, I can bring you some; say where you stand. I am going to the yellow bed to try sleep.","actions":[{"do":"goto","t
 - 18:00 act: {"actions":[{"do":"sleep"}]}
+- 18:06 act: {"actions":[{"do":"sleep"}],"say":"Tommy here, at the white bed by Billy and Zack. Health 20, hunger 20, no food yet. Looking for animals at first light."}
+- 18:08 act: {"actions":[{"do":"goto","target":{"x":-284,"y":67,"z":336}}],"say":"Morning. Tommy going west with Billy and Zack to look for animals on the grass. Calling out anything I see.","intent":{"goal":"scou
+- 18:08 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":336}}],"say":"Tommy moving west, away from the golems, to join Billy and Zack at the west grass edge."}
+- 18:08 act: {"actions":[{"do":"goto","target":{"x":-310,"y":67,"z":330}}],"say":"Tommy following Zack west, watching for cows, sheep or pigs."}
+- 18:08 act: {"actions":[{"do":"unstick"}],"say":"I'm stuck in a pit at the west edge, no animals in sight yet. Getting out now."}
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":-306,"y":67,"z":340}}],"say":"Tommy out of the pit, heading south-west toward Zack and Billy. Still no animals in sight."}
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":-306,"y":68,"z":336}}]}
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":-318,"y":70,"z":340}}],"say":"Tommy is out on the grass at the west edge, heading south-west toward Zack. Still no animals."}
+- 18:09 act: {"actions":[],"say":"Trader, I have 9 oak planks and bones. Do you have any food to trade? I'd give planks for bread or meat."}
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":322}}],"say":"LaForge, I'm bringing you 8 planks for the shelter now."}
+- 18:09 act: {"actions":[{"do":"goto","target":"ag_laforge_01"},{"do":"give","to":"ag_laforge_01","item":"oak_planks","count":8}],"say":"LaForge, here are 8 planks for the shelter. Food first if anyone finds some.
+- 18:10 act: {"intent":{"goal":"join_zack_search","program":"travel","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 18:11 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":320}}],"say":"Tommy heading west in the line with Zack, watching the grass. Will call out any animal or apple."}
+- 18:11 say: {"text":"Tommy here at the west line, no animals or apples in sight. Zack, I'm holding here for you. Hunger still 20."}
+- 18:12 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Tommy trying the oak leaves here for apples, like Wesley. Will call out any apple."}
+- 18:13 act: {"actions":[{"do":"unstick"}]}
