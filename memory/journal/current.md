@@ -30,3 +30,11 @@
 - 22:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at the white bed, night of day 243. Health 20, hunger 20, no food. Going to sleep."}
 - 22:47 act: {"actions":[{"do":"wait","seconds":20},{"do":"sleep"}]}
 - 22:47 act: {"actions":[{"do":"sleep"}],"say":"Tommy at the white bed, night of day 243. Trying to sleep now."}
+- 22:49 act: {"say":"Tommy at the white beds, dawn of day 244. Health 20, no food, still holding two swords and six planks. Riker and Trini first for any salmon. I'll stay here with Billy and watch for the golem t
+- Day 244 dawn: heard from Riker, Worf, Zack, Beverly that they go to the north-west lake for salmon. Billy and I hold at the beds; Riker at health ~2 is first for fish. Iron golem 11 blocks south. Next: wait for the group, then go with them in sight.
+- 22:49 act: {"say":"Tommy here, daylight, day 244. Health 20, no food. Jason, Riker is low, so fish goes to him first, then Trini. I can go to the north lake with whoever is leaving, if they keep me in sight and 
+- 22:50 act: {"say":"Tommy: I'll stay at the beds with Jason, out of deep water, and keep to the group. Fish goes to Riker and Data first, then Trini.","intent":{"goal":"hold_at_beds_with_jason","program":"rest","
+- Day 244 daytime: lake trip found no fish reachable. Riker was struck down and woke at spawn; his pile is at -274,68,318. Trini at health 3. I have no food. Plan: scout west grass in sight of the group.
+- Day 244 midday: following Beverly failed (not in sight). Held at the beds. West grass had no animals (Wesley, Worf). Group weak: Trini 3, Data 3, Jason 6. I hold swords and planks, no food. Staying at beds and calling out any animal.
+- 22:54 act: {"say":"Tommy at the beds. Riker, I'm sorry you lost your things; your pile is at -274, 68, 318. I have no food. Trini, you are first for anything I find. I'll walk the west grass in sight of the grou
+- 22:54 act: {"say":"Tommy: following Beverly failed, so I'll hold at the beds. Zack is 16 blocks east. Anyone who finds an animal, call it out and I'll come.","intent":{"goal":"hold_at_beds_for_calls","program":"
