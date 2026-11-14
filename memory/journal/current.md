@@ -84,3 +84,4 @@
 - 11:39 act: {"actions":[{"do":"wait","seconds":60}],"intent":{"goal":"rest_for_night_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"m
 - 11:40 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}]}
 - 11:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, beside a yellow bed, hunger full, no errand out. Sleep here.","say":"Night. I'm sleeping in the yellow bed. First light, I'll go for the pig by dry land
+- 11:43 act: {"say":"Billy, I'm at the yellow bed, and it's night. I'm going to sleep here. Picard, I heard you. Stay off the water, and we'll search for the pig at first light.","actions":[{"do":"sleep"}]}
