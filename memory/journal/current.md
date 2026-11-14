@@ -1,4 +1,5 @@
 # Journal
+- Day 206 summary: searched dry grass for pig and chicken with Billy, Jason, Kimberly and Picard; no food found, lake was a danger again. Slept sheltered at the yellow beds. Jason holds a chicken for Picard. Next: first light, feed Picard first, stay in sight of the group, go around the lake on dry land.
 - 10:07 act: {"say":"Tommy here, awake by the yellow beds. Health and hunger are full. I'll stay here through the night and hunt at first light with the group.","intent":{"goal":"rest_until_first_light","program":
 - 10:08 act: {"say":"Morning. I'm heading for the pig at -353, 65, 227, going around the lake on dry land. Join me if you're close.","intent":{"goal":"reach_pig_at_dawn","program":"travel","arguments":{"target":{"
 - 10:08 act: {"say":"Tommy at the pig spot, -352,65,227. No pig or animal in sight. Billy's sign says he was shot on day 205. Scanning the grass here."}
