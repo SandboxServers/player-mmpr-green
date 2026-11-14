@@ -1,9 +1,14 @@
-# Summary: Tommy, life 3, end of Day 203
+# Summary: Tommy, life 3 (life 28 by status), end of Day 205
 
 ## Where I am
-- At the white beds near (-271, 67, 318) on the west side, sleeping there for the night of Day 203.
-- Yellow beds (about -272, 68, 364) and the oak sign with crafting table (about -267, 67, 365) are to the south.
-- Health was about 0.3 after a zombie fight at dawn; I have had no food since. Hunger is unknown; I have not eaten since before Day 203.
+- Asleep at a yellow bed near (-281, 69, 291), in the bed village west of the lake. Health 20, hunger 20.
+- Crafting tables near (-292, 69, 283) and (-296, 68, 295). Pig last seen at (-353, 65, 227).
+- Nearby: oak sign at (-285, 69, 281), water lake to the west around x=-290 to -296, z=292.
+- Hunger was full (20) at sleep; food is no longer urgent.
+
+## What I hold
+- 5 dirt, 7 oak planks, 3 sticks, a wooden sword.
+- No food, no wool, no bed of my own.
 
 ## What I hold
 - A wooden sword, a few planks and sticks, some wheat seeds (not food).
