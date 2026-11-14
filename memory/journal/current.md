@@ -112,3 +112,10 @@
 - 12:04 act: {"actions":[{"do":"note","text":"Night 211, at yellow beds (-273,69,291). Health and hunger full. Holding one mutton; staying sheltered until daylight."}],"say":"Picard, Tommy here. I'm at the yellow 
 - 12:09 act: {"intent":{"goal":"reach_dry_grass_waypoint","program":"travel","arguments":{"target":{"x":-301,"y":66,"z":270}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
 - 12:09 act: {"actions":[{"do":"goto","target":"jason"}],"say":"Jason, Trini: I'm coming to the white beds now with my one mutton. Whoever is hungriest and close, say so and I'll hand it over."}
+- 12:09 act: {"intent":{"goal":"walk_grass_to_kimberly","program":"travel","arguments":{"target":{"x":-302,"y":64,"z":201}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 12:09 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, I'm coming to you at the beds. Let's go together on the grass to Kimberly, and I'll give my mutton to Kimberly once we reach her."}
+- 12:09 act: {"actions":[{"do":"note","text":"Day 212 morning at (-282,68,284) on grass by the beds. Travel to Kimberly and Trini failed (no agent in sight). Holding here with one mutton; Kimberly is on sand at -3
+- 12:10 act: {"say":"Tommy at -282,68,284 by the yellow beds, holding my one mutton. Jason, Trini, Billy: come here on the grass. Kimberly first, then Zack.","intent":{"goal":"hold_for_companions","program":"rest"
+- 12:10 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I'm coming to you at the beds. I'll hand you my mutton for Kimberly."}
+- 12:10 act: {"intent":{"goal":"walk_to_jason_at_beds","program":"travel","arguments":{"target":{"x":-281,"y":68,"z":297}},"wake_on":["directly_addressed","precondition_failed","goal_completed"],"limits":{"max_wor
+- 12:10 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":1}],"say":"Jason, here is my mutton. Take it to Kimberly first, on dry ground, then Zack."}
