@@ -1,2 +1,11 @@
 # Journal
 - 06:03 act: {"say":"Night, and I'm by the yellow bed. I'll sleep here and look for food at first light.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 06:04 act: {"say":"Morning soon. I'm by the yellow bed with 2 pumpkins and 2 wheat. I'll wait for first light, then look for food with the group.","intent":{"goal":"await_first_light","program":"rest","arguments
+- 06:07 act: {"say":"Morning, Jason. I'm Tommy. I have 2 pumpkins and 2 wheat. Where exactly is the shore? I'll come join you for food."}
+- 06:09 act: {"say":"I'm Tommy. I have 2 wheat and 2 pumpkins, not enough for bread alone. Let's pool it: whoever gets food first, we share. I'll come with the group."}
+- 06:09 act: {"say":"Heading to the sheep field near -257, 66, 375. Save some food for everyone.","actions":[{"do":"goto","target":{"x":-257,"y":66,"z":374}}]}
+- 06:09 act: {"say":"I'm here with you, Jason. No sheep in sight yet. I'll keep my 2 wheat for whoever can make bread with it."}
+- 06:16 act: {"say":"Good news, Jason. I'm heading to the chicken spot at -229, 68, 404 to look for more, and I'll share.","actions":[{"do":"goto","target":{"x":-229,"y":68,"z":404}}]}
+- 06:17 act: {"say":"I'm at the chicken spot. No chickens in sight now, only a bee. Jason, Zack, Billy, if you spot any more chickens, call out and I'll come."}
+- 06:22 act: {"say":"Night. My bed is too far to reach safely, so I'll stay with Trini and Zack near the wall until morning. I still have 2 wheat and 2 pumpkins to share."}
+- 06:23 act: {"say":"I have no dirt to close gaps, but I'm standing next to Trini and Zack. Tell me where to stand and I'll help watch."}
