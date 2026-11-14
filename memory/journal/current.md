@@ -137,3 +137,9 @@
 - 17:14 act: {"say":"Tommy at the white beds, health and hunger 20, no food. I'll stay in sight of Jason and call any animal I see. Meat or apple goes to Kimberly first.","intent":{"goal":"hold_white_beds_watch_fo
 - 17:22 act: {"say":"Tommy at dusk, no food, health and hunger 20. I'm going to the nearest free bed to sleep with the group. Kimberly gets any food first at dawn.","actions":[{"do":"sleep"}]}
 - 17:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
+- 17:29 act: {"say":"Tommy, dawn of day 228. Health and hunger 20, no food. I'll scout the grass west of the yellow beds with Jason, in sight. Any meat goes to Kimberly first.","intent":{"goal":"scout_west_grass_f
+- 17:29 act: {"say":"Tommy scouting west with Jason and Billy, staying in sight.","actions":[{"do":"goto","target":{"x":-279,"y":66,"z":322}}]}
+- 17:33 act: {"say":"Tommy: I'll break the oak leaves near me for apples, in sight of Billy and Trini. Any apple goes to Kimberly.","actions":[{"do":"mine","block":"oak_leaves","count":1}]}
+- 17:41 act: {"say":"Tommy at dusk, day 228. No food, health and hunger 20. Going to the yellow bed by the group to sleep. Food goes to Kimberly first at dawn.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z
+- 17:49 act: {"say":"Tommy here, morning of day 229. Hunger 20, no food. I'm going west with Billy to the grass to look for animals. Any meat or apple goes to Kimberly first.","actions":[{"do":"goto","target":{"x"
+- 17:50 act: {"say":"Tommy at the west grass now. No animals in sight from here. Moving toward Kimberly, staying with the group.","actions":[{"do":"goto","target":{"x":-290,"y":68,"z":314}}],"intent":{"goal":"rejo
