@@ -93,3 +93,4 @@
 - 19:57 act: {"intent":{"goal":"reach_wheat_farm_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
 - 19:57 act: {"say":"Kimberly, I'm here by the beds. Seven iron golems are to the west, so I'll stay put by the beds until they move off.","intent":{"goal":"wait_by_beds_for_safe_path","program":"rest","arguments"
 - 20:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night. Going to the yellow bed to sleep."}
+- 20:02 say: {"text":"Tommy here, awake at the yellow beds. Nothing in my pack. Night is falling, so I'll stay here in the bed until morning, then look for food."}
