@@ -8,3 +8,4 @@
 - 10:14 act: {"say":"Tommy: my travel stopped at -339,64,232, on grass. Billy, Picard, come to me, I'm holding here. Then we go on together toward Jason."}
 - 10:15 act: {"say":"Tommy: going to Jason at the chicken spot, -261,64,266. Billy, meet me there. Picard, come to Jason too.","intent":{"goal":"meet_jason_chicken_spot","program":"travel","arguments":{"target":{"
 - 10:15 act: {"say":"Tommy: I'm at -265,64,262, on grass with deep water 2 blocks east. Jason and Kimberly, I see you 5 blocks away. Holding here. Come west to me, away from the water."}
+- 10:20 act: {"say":"Tommy: Agreed, we sleep sheltered near the beds. Heading south to the yellow beds now with Billy, Jason and Kimberly. Picard, stay with us.","intent":{"goal":"reach_beds_sheltered","program":"
