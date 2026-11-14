@@ -1445,3 +1445,11 @@
 - 02:09 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Zack, here is the beef. Eat it. Billy found a pig near -249,68,460, so we have a lead."}
 - 02:09 act: {"actions":[],"say":"Zack ate the beef, I hope. Billy's pig is south near -249,68,460. Let's all go that way and share it."}
 - 02:10 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":452}}],"say":"Going to Billy's pig at -252,68,456 with Kimberly and Zack. I have no food, so I'll help find it.","intent":{"goal":"join_pig_hunt"
+- 05:13 act: {"intent":{"goal":"reach_farm_for_food","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":353}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_
+- 05:13 say: {"text":"Tommy here, at the old farm (-250, 68, 353). I have no food either. Looking for crops now."}
+- 05:14 say: {"text":"Good plan, let's plant wheat here. I'll get wood from the oak trees nearby and make a hoe to till the soil."}
+- 05:14 act: {"actions":[{"do":"goto","target":{"x":-247,"y":67,"z":353}},{"do":"mine","block":"oak_log","count":4}]}
+- 05:14 act: {"actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_hoe","count":1}]}
+- 05:14 say: {"text":"I made a wooden hoe and a crafting table. I can till soil for the farm. Trini, please send me some wheat seeds, and we can plant near the water here."}
+- 05:15 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":355}},{"do":"place","block":"wheat_seeds","at":"feet"}],"say":"Thank you Trini and Zack. I will plant the seeds by the water now."}
+- 05:15 say: {"text":"Seeds need farmland below them, and I have no way to till dirt yet. Has anyone tilled soil here before? Kimberly, Trini, how did you do it?"}
