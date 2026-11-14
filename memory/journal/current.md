@@ -123,3 +123,7 @@
 - 16:33 act: {"say":"Tommy here, health 20, no food. I'm following Trini south-west on dry grass to look for animals. I'll call any I see.","intent":{"goal":"follow_trini_scout_sw","program":"follow","arguments":{
 - 16:33 act: {"say":"Trini is out of my sight, so my follow failed. I'm going to the dry grass south-west at -285,66,339 where Trini said she would scout. Calling any animal I see.","actions":[{"do":"goto","target
 - 16:33 act: {"say":"Iron golems are close to the south-east of me. I'm backing off to the white beds with the group, and I'll scout again when the golems are gone.","intent":{"goal":"return_to_white_beds_group","
+- 16:35 act: {"say":"Tommy here, at the white beds, health 20, hunger 20, no food. I'll scout the dry grass south-west with the group and call out any animal. Meat goes to Kimberly first.","intent":{"goal":"find_f
+- 16:35 act: {"intent":{"goal":"find_food_on_dry_grass","program":"travel","arguments":{"target":{"x":-285,"y":66,"z":338}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 16:35 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-280,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 16:35 act: {"say":"Trini, I'm back at the white beds, -278,67,319, with Billy and Picard in view. I'm not going south while the golems are there. Come back to the beds and we scout together when it's clear.","in
