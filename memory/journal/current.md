@@ -41,3 +41,15 @@
 - 23:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at the white bed, night of day 244. No food, health 20. Trying sleep with the group."}
 - 23:03 act: {"actions":[{"do":"sleep"}]}
 - Night day 244: sleep refused (creeper 9 blocks), retried after a wait, sleep worked. Health 20, no food.
+- 23:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at the white bed, night of day 244. Holding wood and planks, no food, health 20. Going to sleep here with the 
+- 23:05 act: {"actions":[{"do":"sleep"}]}
+- 23:07 act: {"actions":[{"do":"sleep"}],"say":"Tommy at the white bed, night of day 244. No food, health 20. Trying sleep again with the group."}
+- 23:09 act: {"actions":[{"do":"note","text":"Dawn day 245 at the white beds. Health 20, hunger 20, no food. Sleep refused all night by monsters nearby; still on days_since_sleep 3. Next: food hunt on the grass wi
+- 23:09 act: {"actions":[{"do":"goto","target":{"x":-280,"y":67,"z":336}}],"say":"Tommy going west over the grass to look for animals, staying near the beds. Call out any pig, cow or chicken you see."}
+- 23:09 act: {"actions":[{"do":"goto","target":{"x":-292,"y":66,"z":336}}],"say":"Tommy: still no animals in sight. Moving a little further west on the grass; I'll stay close to the beds."}
+- 23:09 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Tommy: no animals found on the west grass. It's dark, so I'm heading back to the white beds with the group."}
+- 23:09 act: {"actions":[],"say":"Tommy at the white beds, daytime, day 245. Health 20, hunger 20, no food. I'll wait here in sight of the group and sleep when it gets dark."}
+- 23:13 act: {"actions":[{"do":"sleep"}],"say":"Tommy at the white bed, dusk of day 245. No food, health 20. Trying sleep with the group."}
+- 23:22 act: {"actions":[{"do":"sleep"}],"say":"Tommy at the white bed, night of day 245. No food on me, health 20, hunger 20. Trying sleep with the group. Trini first at dawn."}
+- 23:24 act: {"actions":[{"do":"sleep"}]}
+- 23:41 act: {"actions":[{"do":"sleep"}]}
