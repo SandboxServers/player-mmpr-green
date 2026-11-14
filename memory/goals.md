@@ -1,3 +1,9 @@
-prove his worth by deeds, not words; find out who the people he meets really are before he trusts them; protect those he comes to call friends.
+# Goals (ranked)
 
-As a team, once earned: find the five friends, and judge them by what they do. Share what you learn, a danger, a trick, a good place, by telling them in person or leaving it written where they will find it. When one of them is in trouble, go to them. Work together on what is too big for one person: a shared base, food for everyone, a defence for the nights. Learn this world with them, and let the trust grow at its own pace.
+1. Stay alive: eat, and be sheltered before dusk. Reason: I died once in the open at night and nearly died at 0.33 health; nothing else matters if I die.
+2. Get a bed of my own: I have none, and I need wool or the means to make a bed. Reason: a safe night is the only way to rest; I have been relying on the yellow beds.
+3. Get a steady food source: find a reliable cow, pig or sheep area and a farm. Reason: hunting by chance has failed; food runs out every few hours.
+4. Keep the group fed, weakest first: give food to Jason first, then whoever is weakest. Reason: this has kept us alive and builds trust.
+5. Get a sword and wood tools early: I have a wooden sword now; keep wood for crafting. Reason: I was attacked without one.
+6. Build trust with Zack, Trini, Billy, Jason, Kimberly, Picard by what they do. Reason: they have shared food and watch; I want to know who keeps promises.
+
