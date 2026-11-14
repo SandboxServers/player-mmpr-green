@@ -44,3 +44,4 @@
 - 08:58 act: {"actions":[{"do":"goto","target":{"x":-288,"y":66,"z":204}}]}
 - 08:58 say: {"text":"Tommy: no sheep in sight at -276,208 or the west shore, and a creeper is east of me. Dusk now, no blocks to build with. I'm holding near -288,64,204 for the night."}
 - 08:59 say: {"text":"Zack: agreed. I'm holding at -288,64,204 through the night, no sheep in sight. At first light, call and I'll meet you north. Any meat goes to Jason and Billy first."}
+- 09:02 act: {"actions":[{"do":"goto","target":{"x":-295,"y":69,"z":350}},{"do":"sleep"}],"say":"Tommy respawned at the beds with nothing after a creeper killed me. Going into the bed now; Zack, I'm near you."}
