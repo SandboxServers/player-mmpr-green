@@ -119,3 +119,7 @@
 - 12:10 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I'm coming to you at the beds. I'll hand you my mutton for Kimberly."}
 - 12:10 act: {"intent":{"goal":"walk_to_jason_at_beds","program":"travel","arguments":{"target":{"x":-281,"y":68,"z":297}},"wake_on":["directly_addressed","precondition_failed","goal_completed"],"limits":{"max_wor
 - 12:10 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":1}],"say":"Jason, here is my mutton. Take it to Kimberly first, on dry ground, then Zack."}
+- 12:11 act: {"say":"Jason has my mutton and his own. Go north-west on the grass to -301,66,270, then Kimberly on the sand at -316,62,219. Keep off the water. I have nothing left to carry, so I'll stay here and wa
+- 12:19 act: {"intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-281,"y":69,"z":291}},"wake_on":["directly_addressed","precondition_failed","goal_completed"],"limits":{"ma
+- Handoff (day 212 dusk): sheltered at the yellow bed -281,69,291, no errand half-done. Mutton given to Jason for Kimberly. Kimberly is cut off by lake on sand at -316,62,219; no dry route yet. Picard is here with a porkchop. Next: first light, find a dry line to Kimberly with Jason and Trini.
+- 12:19 act: {"say":"Picard, you're here with the porkchop. Kimberly is cut off by deep water. Don't go in the lake; Jason has a mutton for her. I'm going to sleep in this bed now."}
