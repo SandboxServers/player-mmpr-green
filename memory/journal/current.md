@@ -106,3 +106,5 @@
 - 11:59 act: {"intent":{"goal":"reach_bed_village","program":"travel","arguments":{"target":{"x":-280,"y":69,"z":291}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"l
 - 12:00 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Tommy here, awake at the bed village. Hunger and health are full, but my pack is empty. Billy, do you still have the mutton? Zack and Picard ne
 - 12:00 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Night is here. I am going to sleep in a bed at the village. Billy, I hope you will give the mutton to Zack in the morning."}
+- 12:01 act: {"say":"Morning-ish, Picard. I'm at the yellow beds with one mutton, health and hunger full. Kimberly is stuck on sand by water at -316,62,219, so I'll go to her at first light if the way is dry.","ac
+- 12:01 act: {"actions":[{"do":"sleep"}],"say":"Billy, thanks. I'm in the yellow bed here at -274,69,291 and going to sleep. Kimberly, I'll look for you at first light."}
