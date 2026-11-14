@@ -133,3 +133,7 @@
 - 16:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy: trying the white bed at -271,67,336 for the night. Health 20, hunger 20."}
 - 16:50 act: {"actions":[{"do":"goto","target":{"x":-298,"y":66,"z":318}}],"say":"Tommy: dawn. No food, health 20, hunger 20. I'm scouting the dry grass west of the beds, close to the group. Any meat I see goes to
 - 17:01 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":319}},{"do":"sleep"}],"say":"Tommy: night, heading to the group's white bed near -281,67,320. Health 20, hunger 20. Kimberly, the next food is yo
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":322}}],"say":"Tommy: dawn, day 227. No food, health 20, hunger 20. Moving to the white beds to join Jason and Trini. I'll scout the grass south o
+- 17:14 act: {"say":"Tommy at the white beds, health and hunger 20, no food. I'll stay in sight of Jason and call any animal I see. Meat or apple goes to Kimberly first.","intent":{"goal":"hold_white_beds_watch_fo
+- 17:22 act: {"say":"Tommy at dusk, no food, health and hunger 20. I'm going to the nearest free bed to sleep with the group. Kimberly gets any food first at dawn.","actions":[{"do":"sleep"}]}
+- 17:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
