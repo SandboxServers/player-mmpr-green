@@ -129,3 +129,7 @@
 - 12:20 act: {"say":"Understood, Jason. I'm holding at the yellow beds with Picard. No water for me until a dry line shows.","intent":{"goal":"hold_at_yellow_beds","program":"rest","arguments":{},"wake_on":["direc
 - 12:21 act: {"say":"Billy, good, come to the beds. I'm in the yellow bed here with Picard. Nobody goes near the water tonight.","actions":[{"do":"sleep"}]}
 - 12:22 say: {"text":"Tommy: I'm at the yellow bed, safe, hunger and health full. I'm sleeping now; Kimberly's errand waits for first light."}
+- 12:28 act: {"say":"Picard, morning. I know no dry route to Kimberly yet; every line I tried ended in water. I hold nothing. I'll stay on the grass by the yellow beds until Jason and Billy report a dry line. Don'
+- 12:28 act: {"say":"Picard, I already answered: I know no dry route to Kimberly. I'm still at the yellow beds with nothing in hand. Stay on the dry platform and don't swim. If Jason or Trini find a line, I'll tel
+- 12:41 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"say":"Night is here. I'm going to the yellow bed to sleep. Billy, any cow spot found goes to Kimberly first.","reasoning":
+- 12:41 act: {"actions":[{"do":"sleep"}],"reasoning":"The goto to the bed changed nothing; I'm already next to the bed at -281,69,291. Try sleeping from here."}
