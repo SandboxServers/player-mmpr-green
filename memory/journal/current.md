@@ -1,4 +1,6 @@
 # Journal
+- Night 212: follow intent failed (Jason out of sight); held at beds, Billy and Trini came in. Slept in yellow bed. Reflect done in summary; day file not written (no write tool for new files).
+- Day 212 waking (305): woke at the yellow bed at -281,69,291, health and hunger 20, pack empty. Picard is beside me with a porkchop. Kimberly is still on sand at -316,62,219; Jason is on grass by the yellow beds with 2 mutton, Trini and Billy with him. Set intent: follow Jason on dry grass toward Kimberly. Never enter deep water.
 - Day 210 (end): Woke at dusk, walked to the yellow beds with Billy, who was there. No food; hold 3 sticks and a wooden sword. Jason coming to the beds too. Slept in a bed at night; the sleep worked. Next: at first light find food by dry land (the pig at -353,65,227 is the only known food), go around the lake, stay in sight of the group, and ask Billy or Jason where they last saw animals.
 - Day 206 summary: searched dry grass for pig and chicken with Billy, Jason, Kimberly and Picard; no food found, lake was a danger again. Slept sheltered at the yellow beds. Jason holds a chicken for Picard. Next: first light, feed Picard first, stay in sight of the group, go around the lake on dry land.
 - 10:07 act: {"say":"Tommy here, awake by the yellow beds. Health and hunger are full. I'll stay here through the night and hunt at first light with the group.","intent":{"goal":"rest_until_first_light","program":
@@ -123,3 +125,6 @@
 - 12:19 act: {"intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-281,"y":69,"z":291}},"wake_on":["directly_addressed","precondition_failed","goal_completed"],"limits":{"ma
 - Handoff (day 212 dusk): sheltered at the yellow bed -281,69,291, no errand half-done. Mutton given to Jason for Kimberly. Kimberly is cut off by lake on sand at -316,62,219; no dry route yet. Picard is here with a porkchop. Next: first light, find a dry line to Kimberly with Jason and Trini.
 - 12:19 act: {"say":"Picard, you're here with the porkchop. Kimberly is cut off by deep water. Don't go in the lake; Jason has a mutton for her. I'm going to sleep in this bed now."}
+- 12:20 act: {"say":"Tommy here, awake at the yellow beds, health and hunger full, pack empty. Jason, I'm with you for Kimberly on dry grass. Tell me the route and I'll walk it behind you.","intent":{"goal":"hold_
+- 12:20 act: {"say":"Understood, Jason. I'm holding at the yellow beds with Picard. No water for me until a dry line shows.","intent":{"goal":"hold_at_yellow_beds","program":"rest","arguments":{},"wake_on":["direc
+- 12:21 act: {"say":"Billy, good, come to the beds. I'm in the yellow bed here with Picard. Nobody goes near the water tonight.","actions":[{"do":"sleep"}]}

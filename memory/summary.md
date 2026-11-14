@@ -1,4 +1,9 @@
-# Summary: Tommy, life 3 (life 28 by status), end of Day 212
+# Summary: Tommy, life 3 (life 29 by status), end of Day 212, asleep
+
+## Now (waking 305, night of Day 212)
+- Asleep in the yellow bed at -281,69,291 with Picard beside me (he holds a porkchop). Health 20, hunger 20, pack empty.
+- Kimberly still on sand at -316,62,219, cut off by deep water. Jason holds 2 mutton for her. Zack on pillar at -266,35,196. Trini, Billy with the group at the beds.
+- Next: at first light, follow Jason on dry grass to Kimberly. Never enter deep water. Stay in sight of the group.
 
 ## Day 212 (end)
 - Mattered: I gave my last mutton to Jason for Kimberly. Kimberly is still cut off on sand at -316,62,219 by deep water; no dry route found. Jason, Trini and Billy scouted north and west and found only lake. Zack is on his stone pillar at -266,35,196, hungry; Jason carries 14 dirt for him.
