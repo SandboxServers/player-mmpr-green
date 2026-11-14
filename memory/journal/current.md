@@ -120,3 +120,4 @@
 - 20:31 act: {"actions":[{"do":"note","text":"Day 237 dawn at the white beds (-270,67,327). Health 20, pack empty. Trini is weakest, then Riker and me. Staying in reach of the group and watching the golems to the 
 - 20:32 act: {"actions":[{"do":"note","text":"Day 237 morning: stayed at the white beds with the group. Still no food. Kimberly says the wheat at -263,66,321 is unripe; Troi is scouting west. Watching for ripe whe
 - 20:32 act: {"actions":[{"do":"note","text":"Day 237 late morning: still at the white beds, health 20, hunger 20, pack empty. Riker is low (health 1.8) and went south-east for food; Wesley went west. Holding here
+- 20:36 say: {"text":"Tommy here, health 20, hunger 20, no food. Riker is lowest, so any food goes to him first, then Trini. I'll stay at the beds and keep watch while bows are about."}
