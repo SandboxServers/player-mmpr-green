@@ -127,3 +127,5 @@
 - 16:35 act: {"intent":{"goal":"find_food_on_dry_grass","program":"travel","arguments":{"target":{"x":-285,"y":66,"z":338}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
 - 16:35 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-280,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
 - 16:35 act: {"say":"Trini, I'm back at the white beds, -278,67,319, with Billy and Picard in view. I'm not going south while the golems are there. Come back to the beds and we scout together when it's clear.","in
+- 16:38 act: {"say":"Tommy here, back at the beds. Hunger is full, but I have no food. Who has seen animals on dry ground?"}
+- 16:39 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Dusk. I'm going into the white bed at -281,67,320 for the night. Health 20, hunger 20, no food. Kimberly, you're wea
