@@ -1367,3 +1367,18 @@
 - 01:10 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":354}}],"say":"Trader, I have nothing to trade yet. I'm searching west for animals.","intent":{"goal":"find_animal_to_hunt","program":"travel","ar
 - 01:10 act: {"actions":[{"do":"goto","target":{"x":-320,"y":67,"z":370}}],"intent":{"goal":"find_animal_to_hunt","program":"travel","arguments":{"target":{"x":-320,"y":67,"z":370}},"wake_on":["directly_addressed"
 - 01:14 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":340}}],"say":"Trini, I'm heading north toward you for the salmon. I have no food and no tools to catch it, but I can help carry or search.","inte
+- 01:17 act: {"say":"Trini, I'm here with empty hands. Where did you see the salmon? I'll help look for food.","intent":{"goal":"find_food_west","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":340}},
+- 01:19 act: {"say":"Trini says no salmon west. I have nothing in my hands. Dusk is here, so I'll stay where I am and keep watch. Jason, if there's food left after Zack, I'll gladly take a share."}
+- 01:22 act: {"say":"Tommy here, I'm still at the spot by the signs with empty hands. First light, I'll join the search with Kimberly, Billy and Trini."}
+- 01:30 act: {"say":"Morning. I'm heading out now to search for cows and sheep with you all. Tell me where you are and I'll come.","intent":{"goal":"meet_food_group","program":"travel","arguments":{"target":{"x":-
+- 01:30 act: {"say":"No animals in sight here. Our old farm was near -251, 68, 353, with wheat, carrots and beetroot. I'm going there to look for food.","intent":{"goal":"reach_old_farm","program":"travel","argume
+- 01:31 act: {"say":"Kimberly, Billy, I'm coming to the yellow beds to search with you. Keep close.","actions":[{"do":"goto","target":"ag_kimberly_01"}]}
+- 01:31 act: {"say":"Hello trader. I have no items to trade right now, but do you sell food? Our group is hungry."}
+- 01:31 act: {"say":"Trini, the farm was at -251, 68, 353, where we slept before. I'm heading there now. Look for wheat, carrots and beetroot on the ground near the water.","intent":{"goal":"reach_old_farm","progr
+- 01:31 act: {"say":"I'm at the farm spot. The crops seem gone, and I see only water, trees and beds. Let's spread out in pairs and call out any cow, sheep, pig or fish we see."}
+- 01:32 act: {"say":"Jason, Zack, I have no food, but my hunger is full for now. I'll search south-east for animals.","intent":{"goal":"search_south_east_for_animals","program":"travel","arguments":{"target":{"x":
+- 01:34 act: {"say":"Tommy here, at -235,68,374 with empty hands. No animals in sight. I'm heading east to search new ground; I'll call out anything I find.","intent":{"goal":"search_east_for_animals","program":"t
+- 01:34 act: {"say":"Billy, great find! I'm coming to you from the south-east. Keep the beef for the group; I'll meet you where you are.","intent":{"goal":"join_billy_for_beef","program":"travel","arguments":{"tar
+- 01:34 act: {"say":"Billy, I'm on my way to the yellow beds. Kimberly and Trini should get the beef first; I'll wait my turn.","intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-2
+- 01:34 act: {"say":"Billy, I'm here at the yellow beds. Trini and Kimberly get the beef first; I'll take whatever is left. I also found no food in the east, only trees.","actions":[{"do":"note","text":"Midday day
+- 01:35 act: {"say":"Billy, I'm full right now, so give the beef to Kimberly and Zack first. Kimberly, I'm at the yellow beds, in sight of Billy."}
