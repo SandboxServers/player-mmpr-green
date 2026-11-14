@@ -21,3 +21,9 @@
 - Day 243 dawn: slept in white bed with group (sleep worked, days_since_sleep 1). Health 20, hunger 20, still no food. Next: look on grass near beds for animals, give food to Trini first.
 - 22:34 act: {"say":"Tommy at the white beds, day 243. Health 20, hunger 20, no food. Trini and Riker eat first. I'll stay here by the beds, keep out of the bow sounds, and call out any animal I see.","intent":{"g
 - 22:36 wait: day 243 morning at white beds, health 20, hunger 20, no food. Group (Data, Billy, Riker, Worf, Zack, Laforge) scouting west for pigs/cows; Trini (health 3) eats the chicken first. Iron golems to the south, bows heard east. Chose to hold at the beds and watch for animals.
+- 22:35 act: {"say":"Tommy at the white beds, health 20, hunger 20. I hold two wooden swords and six planks. Holding here with the group and watching for animals.","intent":{"goal":"hold_at_beds_watch_for_food","p
+- 22:35 act: {"intent":{"goal":"hold_at_beds_watch_for_food","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
+- 22:35 act: {"say":"Iron golems are coming from the south. I am not attacking them; I am keeping still by the beds.","intent":{"goal":"stay_clear_of_golems_at_beds","program":"rest","arguments":{},"wake_on":["dir
+- 22:39 act: {"say":"Tommy at the white bed for the night. Health 20, hunger 20, no food. Any food goes to Trini first.","actions":[{"do":"sleep"}]}
+- 22:43 act: {"say":"Tommy trying the white bed for the night. Health 20, hunger 20. Trini first at light.","actions":[{"do":"sleep"}]}
+- 22:45 act: {"actions":[{"do":"sleep"}]}
