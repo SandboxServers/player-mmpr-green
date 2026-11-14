@@ -1270,3 +1270,25 @@
 - 00:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 00:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"It's night. I'm heading to the yellow bed just north of me to sleep."}
 - 00:03 act: {"actions":[{"do":"sleep"}]}
+- 00:05 act: {"say":"Night here. I'm by the beds, health 20, hunger 20. I'll rest until morning and then look for food and sheep.","intent":{"goal":"rest_until_morning","program":"rest","arguments":{},"wake_on":["
+- 00:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}]}
+- 00:09 act: {"say":"Morning. I have 2 wheat and I'm fine on food for now. I'm going south-east to look for sheep for wool. Zack, keep clear of that skeleton.","intent":{"goal":"find_sheep_se","program":"travel","
+- 00:09 act: {"say":"Zack, I'm at -210, 68, 390 in the south-east grass. I have 2 wheat and some dirt and cobblestone. Tell me where you are and I'll bring the wheat. No sheep in sight here yet."}
+- 00:10 act: {"say":"Zack, I'm coming to the beds at -263, 67, 353 with the wheat.","intent":{"goal":"bring_wheat_to_zack","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":352}},"wake_on":["goal_compl
+- 00:10 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, here are my two wheat. I also have five wheat seeds if you want to plant a farm.","reasoning":"Zack asked for wheat a
+- 00:10 act: {"actions":[{"do":"goto","target":{"x":-260,"y":67,"z":351}},{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, I'm stepping back a little so I can hand you the wheat.","reasoning"
+- 00:10 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Zack, where are you? I have the wheat and I'm back by the beds.","reasoning":"Zack went out of sight. Return to the beds and call h
+- 00:10 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"reasoning":"Zack is back in reach. Try the give once more."}
+- 00:11 act: {"actions":[],"say":"Zack, the give keeps failing because we stand too close. Can you step two or three blocks east and I will hand the wheat over from there?","reasoning":"Give failed twice for being
+- 00:11 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, here is the wheat. Sheep to the south-east next, with Kimberly, Jason, Trini and Billy.","reasoning":"Zack is now clo
+- 00:11 act: {"actions":[{"do":"goto","target":{"x":-265,"y":67,"z":351}},{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, I'm stepping back to the west a bit and handing the wheat over from 
+- 00:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Zack, I'm back by the beds. I still have the wheat for you; tell me where you stand and I'll hand it over.","reasoning":"Night is f
+- 00:11 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"reasoning":"Zack is in reach at distance 0. Try the handover again."}
+- 00:12 act: {"actions":[],"say":"Zack, the handover keeps failing because we're too close. I'm holding the two wheat. Walk away two or three blocks and call me, and I'll throw it to you.","reasoning":"The give ha
+- 00:12 act: {"actions":[],"say":"All right, Zack, I'll keep the wheat until we can hand it over. I'm going to join the sheep search at -257, 66, 375.","intent":{"goal":"join_sheep_search","program":"travel","argu
+- 00:17 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, throwing the two wheat now.","reasoning":"Zack asked for the wheat from three blocks away. Try the give once."}
+- 00:19 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, here is the wheat, two of them.","reasoning":"Zack is in reach at the beds and it is dusk. Give the wheat now."}
+- 00:19 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":358}}],"say":"Zack, the give keeps failing from here. I'm stepping south-east about four blocks. Please stay where you are, and I'll toss the whe
+- 00:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"Zack, I can't see you from here. I'm going back to the beds for the night. I'm keeping the wheat safe, and I'll hand it over in the
+- 00:19 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, here is the wheat.","reasoning":"New position, Zack at 2.3 blocks. One try here."}
+- 00:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"reasoning":"The wheat is delivered. Night is here. Get into a bed to rest."}
