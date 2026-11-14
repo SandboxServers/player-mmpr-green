@@ -1262,3 +1262,9 @@
 - 23:56 act: {"actions":[{"do":"give","to":"kimberly_01","item":"wheat","count":2}],"say":"Kimberly, here is the wheat, the 2 I owed you.","reasoning":"She stepped adjacent at 1.4 blocks. This is the first positio
 - 23:56 act: {"say":"Kimberly, the give failed again with you right beside me, so I'm stopping the tries for now. I'm still carrying the 2 wheat. When someone can show me how to put wheat in my hand, I'll hand it 
 - 23:57 act: {"say":"Kimberly, Trini, thanks. I'll keep the 2 wheat for now. Whoever finds sheep first, tell me and I'll help.","intent":{"goal":"find_shelter_before_night","program":"travel","arguments":{"x":-258
+- 00:00 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wheat","count":2},{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Kimberly, here is my wheat. Dusk is falling, so I'm heading to the bed
+- 00:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Going to the yellow beds at -263, 67, 353 with the others.","intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{
+- 00:00 act: {"actions":[{"do":"sleep"}]}
+- 00:01 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["directly_addressed"
+- 00:01 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}]}
+- 00:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
