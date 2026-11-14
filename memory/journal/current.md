@@ -139,3 +139,30 @@
 - 12:43 act: {"actions":[{"do":"sleep"}],"reasoning":"The goto to the bed failed with zero movement, but the bed is one block away. Try sleeping from here rather than repeating the same walk."}
 - 12:45 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}],"say":"Tommy here, at the yellow bed for the night. Health and hunger full. I have an empty pack. At first light I'll look 
 - 12:45 act: {"actions":[{"do":"sleep"}]}
+- 12:46 say: {"text":"Tommy here, at the yellow beds, health and hunger full, pack empty. I have nothing to give tonight. At first light I'll go for food and dirt or planks for Zack."}
+- 12:50 act: {"actions":[{"do":"mine","block":"oak_log","count":4}],"say":"Morning. I'm gathering oak logs by the beds for planks, to bring to Zack's pillar on dry ground."}
+- 12:51 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}]}
+- 12:51 say: {"text":"Tommy: I have 16 planks for Zack. Zack, where is the closest dry ground to your pillar? I'll go there by grass if the route is clear, and I'll stay off the water."}
+- 12:51 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":252}}],"say":"Zack, going north-east toward you on grass with the planks. I'll stop and report before any water."}
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":220}}]}
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":-254,"y":66,"z":205}}]}
+- 12:52 say: {"text":"Zack, I'm at -255,66,205 on dry grass, with 16 planks. Water is west of me. Can you see a drop or dry step on your east side that I can reach? Tell me the spot and I'll go there."}
+- 12:52 say: {"text":"Zack, I can't reach your pillar from up here: it is a 30-block drop and no dry step. I'll keep the 16 planks and hold here, and I'll bring them as soon as anyone finds a way down."}
+- 12:56 act: {"say":"Trini, I'm at -255,66,205 on grass with 16 planks, holding them for Zack. Kimberly and Zack get the mutton first. I'll wait here for a dry route to the pillar.","actions":[]}
+- 12:57 act: {"say":"Zack, I'm at -255,66,205, about 30 blocks above you and well off your pillar. I can't reach a block edge within 2 of you from here. I'm keeping the planks. If a dry step or a helper shows up n
+- 12:57 act: {"say":"Trini, thank you. I can't reach Zack's pillar from here either, so keep the mutton with you for now. Give it to whoever can get to him. I'm staying on the grass at -255,66,205 holding the plan
+- 12:58 act: {"intent":{"goal":"reach_yellow_beds_before_night","program":"travel","arguments":{"target":{"x":-281,"y":69,"z":291}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"
+- 12:58 act: {"say":"Tommy at the yellow beds, -280,69,291, on planks. Trini, come here and stay next to me. Billy, the beds are here if you reach them. I'll sleep in the yellow bed when it is dark.","actions":[]}
+- 13:11 act: {"intent":{"goal":"join_bridge_group_north_grass","program":"travel","arguments":{"target":{"x":-275,"y":69,"z":306}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"m
+- 13:11 act: {"say":"Trini, I'm here on the grass with 16 oak planks. Where should they go for Zack's bridge? Tell me the dry step and I'll hand them over.","intent":{"goal":"hold_planks_for_bridge","program":"res
+- 13:12 act: {"say":"Jason, Trini: I hold 16 planks and will keep them until Trini calls the dry step. I'll follow on the grass and stay in reach of Trini."}
+- 13:17 act: {"say":"Tommy: pillagers to the south, so I'm holding close to Kimberly here on grass with my 16 planks. I'll move toward Trini's group if she calls a spot."}
+- 13:17 act: {"actions":[{"do":"goto","target":{"x":-267,"y":68,"z":291}}],"say":"Tommy: moving to the group spot at -267,68,291 on grass, staying in sight.","intent":{"goal":"join_group_spot","program":"travel","
+- 13:22 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}],"say":"Tommy: night, I'm going to the yellow bed at -281,69,291 if it's free, staying in sight of the group."}
+- 13:22 act: {"actions":[{"do":"goto","target":{"x":-277,"y":69,"z":292}}],"say":"Tommy: my sleep failed and I'm alone out at -281,67,319. Walking back to the group near the yellow beds.","intent":{"goal":"return_
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}],"say":"Tommy: back near the group. Trying the yellow bed at -281,69,292."}
+- 13:23 act: {"actions":[{"do":"sleep"}]}
+- 13:23 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 13:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"say":"Tommy: the wall spot failed, so I'm going to the white bed near you, Trini, to sleep."}
+- 13:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"say":"Night, Trini. I'm heading to the white bed by the others now and staying in sight."}
+- 13:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}},{"do":"sleep"}],"say":"Tommy: I'm going to the yellow bed at -271,67,326 to sleep."}
