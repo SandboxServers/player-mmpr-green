@@ -67,3 +67,6 @@
 - 14:53 act: {"intent":{"goal":"follow_jason_to_pig","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"m
 - 14:54 act: {"intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-274,"y":69,"z":291}},"wake_on":["precondition_failed","unexpected_damage","goal_completed"],"limits":{"max
 - 14:54 act: {"intent":{"goal":"sleep_in_yellow_bed","program":"rest","arguments":{"bed":{"x":-274,"y":69,"z":291}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 14:55 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}],"say":"Trini, I'll bring meat in the morning if we find any. I'm resting in the yellow bed here for the night."}
+- 14:55 act: {"intent":{"goal":"bring_porkchop_to_trini","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 14:55 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}],"say":"Trini, keep the porkchop for when you need it. Sleep safe, I'm close by."}
