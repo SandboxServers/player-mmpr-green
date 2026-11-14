@@ -135,3 +135,29 @@
 - 08:05 act: {"say":"Tommy here. I died in the open at night, so I'm back at the spawn bed. I'll sleep here now and look for cows at dawn.","actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
 - 08:05 act: {"actions":[{"do":"sleep"}]}
 - 08:05 act: {"actions":[{"do":"sleep"}]}
+- 08:09 act: {"say":"Morning. I'm going back for my dropped things at -265, 69, 304, then the cow at -285, 65, 235. Billy, hold for me there.","intent":{"goal":"recover_dropped_items","program":"travel","arguments
+- 08:09 act: {"say":"Tommy: the water stopped me. I'm heading by the grass toward you, Billy, at -262, 64, 256.","intent":{"goal":"join_billy_cow_hunt","program":"travel","arguments":{"target":"ag_billy_01"},"wake
+- 08:09 act: {"intent":{"goal":"reach_billy_cow_spot","program":"travel","arguments":{"target":{"x":-262,"y":65,"z":256}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
+- 08:09 act: {"actions":[{"do":"goto","target":{"x":-265,"y":69,"z":304}}],"say":"Tommy: I'm grabbing my dropped tools here, then joining Billy at the cow."}
+- 08:09 act: {"actions":[{"do":"goto","target":{"x":-268,"y":69,"z":301}},{"do":"goto","target":{"x":-271,"y":69,"z":304}}]}
+- 08:09 act: {"say":"Billy, I have my things back. I'm heading north toward the sheep at -276, 66, 212.","intent":{"goal":"join_sheep_hunt","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":212}},"wake
+- 08:10 act: {"intent":{"goal":"join_billy_sheep","program":"travel","arguments":{"target":{"x":-276,"y":65,"z":214}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 08:10 act: {"say":"Billy, I'm at -276, 65, 229. Going to you now, then west to the cow with the group.","intent":{"goal":"rejoin_billy","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":238}},"wake_o
+- 08:10 act: {"say":"I'm with Billy now. We'll go to Trini at -278, 66, 246, then west to the cow together.","intent":{"goal":"gather_with_group_at_trini","program":"travel","arguments":{"target":{"x":-278,"y":66,
+- 08:10 act: {"say":"Trini, I'm with you. Heading west to the cow at -363, 69, 230 with Billy.","intent":{"goal":"reach_west_cow","program":"travel","arguments":{"target":{"x":-363,"y":69,"z":230}},"wake_on":["goa
+- 08:10 act: {"say":"There's a pig right next to me, north-east. I'm going for it now.","actions":[{"do":"attack","target":"pig"}]}
+- 08:11 act: {"say":"I got 2 porkchop from a pig at -353, 65, 227. I'm holding them for whoever is hungriest. Jason, you're at 16: tell me where you are and I'll bring you one."}
+- 08:11 act: {"say":"Trini, I'm coming to you at -295, 64, 245 with a porkchop for Jason and one for you.","intent":{"goal":"bring_porkchop_to_trini","program":"travel","arguments":{"target":{"x":-295,"y":64,"z":2
+- 08:11 act: {"say":"The water is in my way. I'm going around to Trini's spot now.","intent":{"goal":"porkchop_to_trini","program":"travel","arguments":{"target":{"x":-299,"y":64,"z":243}},"wake_on":["goal_complet
+- 08:11 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}],"say":"Trini, here is a porkchop. Eat it when you're ready. I'm keeping the other one for Jason."}
+- 08:12 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":1}],"say":"Jason, here's the porkchop. Billy has beef coming too, so the group is fed soon."}
+- 08:12 act: {"actions":[],"say":"Jason has the porkchop now. Billy, bring the beef here when you can, and we'll split it between Trini and Jason."}
+- 08:14 act: {"actions":[],"say":"Jason, I'm glad you're eating. I have no food left, but I'll stay on the shore and help look for the next cow with Billy and Zack."}
+- 08:15 act: {"actions":[],"say":"Billy, I'm on the shore and won't go into the water with a drowned there. Get out toward the grass, to the east. I'll meet you on land."}
+- 08:17 act: {"actions":[],"say":"Zack, I'm going to you on the grass to help find the cow. I have a wooden sword.","intent":{"goal":"join_zack_cow_hunt","program":"travel","arguments":{"target":{"x":-286,"y":65,"
+- 08:17 act: {"actions":[],"say":"Zack, I'm with you now. I see only a donkey to the east, and donkeys aren't food. I'll search north-east with you for the cow."}
+- 08:18 act: {"actions":[],"say":"Zack, night is close and I have no bed, so I'm going to the white beds at -298,68,295 with Billy. Good luck with the cow.","intent":{"goal":"reach_white_beds_for_night","program":
+- 08:18 act: {"actions":[],"intent":{"goal":"reach_white_beds_for_night","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"l
+- 08:18 act: {"actions":[],"say":"Zack, I'm stuck at the drop near -286,67,258. I'll try a different path south-west toward the beds.","intent":{"goal":"reach_beds_by_west_route","program":"travel","arguments":{"t
+- 08:18 act: {"actions":[],"say":"Got past the drop. Heading to the bed at -298, 68, 295 now. Billy, stay close.","intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-298,"y"
+- 08:18 act: {"actions":[{"do":"sleep"}],"say":"I'm at the white bed for the night. Zack, Billy, we hunt at first light."}
