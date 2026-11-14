@@ -137,3 +137,5 @@
 - 12:42 act: {"actions":[{"do":"sleep"}]}
 - 12:43 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}],"say":"Night again. I'm going to the yellow bed to sleep. Food at first light.","reasoning":"It is night, I have no food an
 - 12:43 act: {"actions":[{"do":"sleep"}],"reasoning":"The goto to the bed failed with zero movement, but the bed is one block away. Try sleeping from here rather than repeating the same walk."}
+- 12:45 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}],"say":"Tommy here, at the yellow bed for the night. Health and hunger full. I have an empty pack. At first light I'll look 
+- 12:45 act: {"actions":[{"do":"sleep"}]}
