@@ -1,5 +1,5 @@
 # Picard
 
-- Impression: little known. He has asked for food and been told I had none to give.
-- Trust: 40 (0 to 100)
-- Why: I have had few direct dealings with him, so this is a low, unsure score and not a judgement.
+- Impression: hungry at the beds, and he took food from me when I could reach him.
+- Trust: 45 (0 to 100), up from 40.
+- Why: I gave him a porkchop (Day 236). He was next on the list for my spare, and I could not confirm it reached him. Still few direct dealings.

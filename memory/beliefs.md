@@ -1,19 +1,19 @@
 # Beliefs
 
-What I hold to be true about the world and the people in it, as of Day 229.
+What I hold to be true about the world and the people in it, as of Day 240.
 
 ## Methods that worked
-- Pooling food with the group and giving it to the weakest first kept people alive (Kimberly first, Days 227 to 229).
-- Sleeping in a white or yellow bed at night, with the group near, worked on most nights when a bed was free. If a monster is close, sleep fails: move away and try another bed.
-- Eating a held food with eat worked for porkchop, mutton and rotten flesh. The hunger rule is still unclear: a reflex eat happened at hunger 17.
+- Sleeping in a white or yellow bed at night, with the group near, worked on most nights when a bed was free. If a monster is close, sleep fails: move to another bed, or wait until the monsters clear.
+- Eating a held food with eat worked for porkchop and mutton (Days 231 to 240).
+- Hunting a pig in the west (near -338, 64, 223, Days 231 to 240) gave three porkchops in one trip. Hunting a pig near (-353, 65, 227) gave two (Day 197 or earlier).
 - Attacking a sheep gave two mutton (Day 229, northwest of the beds).
 - Crafting worked: 4 oak planks from logs, sticks from planks, and a wooden sword, with a crafting table at my feet.
 - Mining oak planks opened a way out when planks boxed me in (Day 229).
-- Unstick got me out of a pit four times (Day 229). Use it when goto fails in a pit.
+- Unstick got me out of a pit many times (Days 229 to 236). Use it when goto fails in a pit.
 - Moving as one group in sight of each other, on dry ground, kept everyone together.
 - Breaking oak leaves gave Wesley an apple (Day 229). My four tries gave nothing, so this is luck, not a plan.
+- Splitting a found food among the weakest, in a set order, kept the group alive (Days 231 to 240).
 - Placing dirt on water one block at a time from solid grass reached a person (Day 210). Slow and risky.
-- Hunting a pig near (-353, 65, 227) gave two porkchops in one trip (Day 197 or earlier).
 
 ## Methods that failed, and why
 - ~~Sleeping or resting out in the open near the yellow beds~~: skeletons shot me down to 0.33 health at dawn.
@@ -30,6 +30,10 @@ What I hold to be true about the world and the people in it, as of Day 229.
 - Digging dirt beside water: water flows into the hole, and I fell in deep water (Day 210). Dig only on solid dry ground.
 - Walking routes that bend toward water: I fell into the lake on Day 212. Stop at any water edge.
 - Giving a food item to a person who is not in arm's reach: the porkchop went to Billy, not Picard (Day 210).
+- ~~Giving items through "give" from a distance~~ and ~~a follow program on a person out of sight~~ failed again (Days 231 to 240).
+- Going out at night with no weapon and no shelter: died to phantoms on the lake shore (Day 239).
+- Sleeping out in the open with the group, instead of inside a bed: sleep was refused or failed with monsters close (Days 236 to 238).
+- Waiting for a promised mutton or log to arrive: it came late or not at all (Days 231 to 240).
 - Holding a plan that depends on a route no one has found: nothing reached Kimberly on the sand until she got back to the beds herself.
 
 ## Things I believe about the world
