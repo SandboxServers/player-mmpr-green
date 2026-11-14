@@ -1453,3 +1453,6 @@
 - 05:14 say: {"text":"I made a wooden hoe and a crafting table. I can till soil for the farm. Trini, please send me some wheat seeds, and we can plant near the water here."}
 - 05:15 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":355}},{"do":"place","block":"wheat_seeds","at":"feet"}],"say":"Thank you Trini and Zack. I will plant the seeds by the water now."}
 - 05:15 say: {"text":"Seeds need farmland below them, and I have no way to till dirt yet. Has anyone tilled soil here before? Kimberly, Trini, how did you do it?"}
+- 05:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Heading to the old bed for the night. I'll look for food in the morning.","reasoning":"Dusk, no food, long since sleep. Bed first, 
+- 05:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Night, bed here, 11 days unslept. Sleep then reflect."}
+- 05:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"First bed blocked; second bed tile is adjacent."}
