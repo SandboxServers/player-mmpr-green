@@ -27,3 +27,6 @@
 - 22:39 act: {"say":"Tommy at the white bed for the night. Health 20, hunger 20, no food. Any food goes to Trini first.","actions":[{"do":"sleep"}]}
 - 22:43 act: {"say":"Tommy trying the white bed for the night. Health 20, hunger 20. Trini first at light.","actions":[{"do":"sleep"}]}
 - 22:45 act: {"actions":[{"do":"sleep"}]}
+- 22:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at the white bed, night of day 243. Health 20, hunger 20, no food. Going to sleep."}
+- 22:47 act: {"actions":[{"do":"wait","seconds":20},{"do":"sleep"}]}
+- 22:47 act: {"actions":[{"do":"sleep"}],"say":"Tommy at the white bed, night of day 243. Trying to sleep now."}

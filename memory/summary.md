@@ -1,24 +1,21 @@
-# Summary: Tommy, Day 240, dawn
+# Summary: Tommy, Day 243, after sleep
 
 ## Where I am
-- At the white and yellow beds west of the lake, around (-270, 67, 336) and (-281, 67, 320). Oak logs north of the beds around (-274, 67, 289). The lake lies west, around x=-290 to -300, z=256 to 296.
-- The group is near: Kimberly, Zack, Jason, Trini, Riker, Worf, Wesley, Data, Billy, Picard, LaForge.
-- Health 20, hunger 20 at last note. I respawned after death at the yellow bed on Day 240.
+- At the white beds west of the lake, around (-271, 67, 336) and (-270, 67, 336). Lake lies west, x=-290 to -300.
+- Group was near at dawn day 243: Data, Billy, Riker, Worf, Zack, LaForge scouting west; Trini eating chicken first.
+- Health 20, hunger 20. Slept in the white bed on night of day 243 (days_since_sleep reset).
 
 ## What I hold
-- Nothing. Empty pack, no food, no weapon, no planks.
-- Kimberly holds about 3 oak logs for me, and Wesley said he would send one. They are for a wooden sword I want to craft.
+- 2 wooden swords, 6 oak planks, 2 oak logs, 2 sticks. No food.
 
-## What I was doing (Days 231 to 240)
-- Long hunger with no steady food. The group scouted north, north-west and west for animals; most trips found nothing.
-- One pig in the west gave three porkchops, which I split among Jason, Picard and Billy. Kimberly gave me one mutton that Billy had left.
-- Skeleton shot me in the west; later phantoms killed me on the lake shore at night (Day 239) after I walked out alone in the dark.
-- Trini is at 3 health; Riker is bringing her raw chicken.
+## What I was doing (Days 240 to 243)
+- Hunger with no food found. Scouting the grass near the beds gave nothing.
+- Iron golems came from the south and bows were heard east and northeast; I held still and did not fight.
+- A skeleton blocked sleep at night until it moved off.
 
 ## Next
-- Get the logs, craft the wooden sword at a crafting table, and stay at the white beds with the group.
-- Be in a bed before dusk. Do not walk to the lake at night.
-- Any food: Trini first, then Riker, then me.
+- Find food. Trini first, then Riker, then me. Call out any animal seen.
+- Be in a bed before dusk; stay in sight of the group.
 
 ## Lessons (most important first)
 1. Be in a bed or plank shelter before dusk. Two deaths came from leaving shelter in the dark (Day 203 and Day 239).
