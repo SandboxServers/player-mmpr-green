@@ -117,3 +117,6 @@
 - 20:22 act: {"actions":[{"do":"sleep"}],"reasoning":"On the white bed with Trini, Worf and Kimberly close. Try sleep again."}
 - 20:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Tommy moving to the white bed with the group. Trying sleep once golems clear."}
 - 20:25 act: {"actions":[{"do":"sleep"}]}
+- 20:31 act: {"actions":[{"do":"note","text":"Day 237 dawn at the white beds (-270,67,327). Health 20, pack empty. Trini is weakest, then Riker and me. Staying in reach of the group and watching the golems to the 
+- 20:32 act: {"actions":[{"do":"note","text":"Day 237 morning: stayed at the white beds with the group. Still no food. Kimberly says the wheat at -263,66,321 is unripe; Troi is scouting west. Watching for ripe whe
+- 20:32 act: {"actions":[{"do":"note","text":"Day 237 late morning: still at the white beds, health 20, hunger 20, pack empty. Riker is low (health 1.8) and went south-east for food; Wesley went west. Holding here
