@@ -5,3 +5,7 @@
 - 13:38 act: {"intent":{"goal":"plank_wall_at_group_for_night","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directl
 - 13:39 act: {"say":"Picard, please step a block aside so I can close the south wall. Then I'll finish the last two planks.","intent":{"goal":"finish_plank_wall_for_night","program":"build","arguments":{"blueprint
 - 13:39 say: {"text":"Tommy: the south wall is still open because Picard is standing in the gap. Picard, please move one block. Otherwise I'm sleeping here by the 13-block wall with Jason and you close by."}
+- 13:48 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"intent":{"goal":"reach_picard_for_food","program":"travel","arguments":{"target":"ag_picard_01"},"wake_on":["goal_completed","directly_addressed","u
+- 13:48 act: {"actions":[],"say":"Picard, I have no food. Could you give me one porkchop? I'll keep Zack's share in mind."}
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-267,"y":68,"z":300}}],"intent":{"goal":"join_group_spot","program":"travel","arguments":{"target":{"x":-267,"y":68,"z":300}},"wake_on":["goal_completed","direct
+- 13:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["goal_completed","di
