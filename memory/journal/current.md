@@ -1,2 +1,10 @@
 # Journal
 - 10:07 act: {"say":"Tommy here, awake by the yellow beds. Health and hunger are full. I'll stay here through the night and hunt at first light with the group.","intent":{"goal":"rest_until_first_light","program":
+- 10:08 act: {"say":"Morning. I'm heading for the pig at -353, 65, 227, going around the lake on dry land. Join me if you're close.","intent":{"goal":"reach_pig_at_dawn","program":"travel","arguments":{"target":{"
+- 10:08 act: {"say":"Tommy at the pig spot, -352,65,227. No pig or animal in sight. Billy's sign says he was shot on day 205. Scanning the grass here."}
+- 10:10 act: {"say":"Tommy: Billy and Picard, we stay together on the grass here. No animal yet. I'll scan south-west, slowly, and stay in sight. Zack, hold on the pillar."}
+- 10:14 act: {"say":"Tommy: everyone, stay out of the deep water. Trini, stay on the sand at -338,63,252 and don't move into the lake. Jason, Kimberly, come to the sand. I'm on dry grass at the pig spot with Billy
+- 10:14 act: {"say":"Tommy: no food here yet. Picard, Billy, we go to Jason on the dry grass at -301,66,270, and search for chicken or cow from there. Stay in sight of me.","intent":{"goal":"join_jason_dry_grass",
+- 10:14 act: {"say":"Tommy: my travel stopped at -339,64,232, on grass. Billy, Picard, come to me, I'm holding here. Then we go on together toward Jason."}
+- 10:15 act: {"say":"Tommy: going to Jason at the chicken spot, -261,64,266. Billy, meet me there. Picard, come to Jason too.","intent":{"goal":"meet_jason_chicken_spot","program":"travel","arguments":{"target":{"
+- 10:15 act: {"say":"Tommy: I'm at -265,64,262, on grass with deep water 2 blocks east. Jason and Kimberly, I see you 5 blocks away. Holding here. Come west to me, away from the water."}
