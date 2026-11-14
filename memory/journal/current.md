@@ -101,3 +101,21 @@
 - 15:56 act: {"say":"Tommy: holding with you, Kimberly. Zack, come south-west to us on the grass. Still no animal in sight.","intent":{"goal":"hold_with_group_watch_for_animals","program":"rest","arguments":{},"wa
 - 16:00 act: {"say":"Tommy: dusk. I'm heading to the white bed at -270,67,336 with Trini and the group. Zack, come to the beds.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
 - 16:00 act: {"actions":[{"do":"sleep"}]}
+- 16:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Tommy here, at the yellow beds for the night with Picard. No food yet. First light, I'll scout with the group.","int
+- 16:09 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":330}}],"say":"Tommy here, morning. Coming to the south-west grass to scout with the group. Any cow, pig or sheep: call it out, meat to Kimberly f
+- 16:11 act: {"actions":[{"do":"goto","target":{"x":-292,"y":66,"z":330}}],"say":"Tommy: moving west to Trini's spot at -292,66,330, still in sight. Calling any cow, pig or sheep.","intent":{"goal":"scout_west_wit
+- 16:11 act: {"actions":[{"do":"goto","target":{"x":-292,"y":66,"z":330}}],"say":"Tommy: at -291,66,330 with Jason. No cow, pig or sheep in sight anywhere west. An iron golem is closing from the south-east, so I'm
+- 16:15 act: {"actions":[{"do":"goto","target":{"x":-292,"y":66,"z":318}}],"say":"Tommy: the north side is unchecked. I'm scouting north-west to about -292,66,318, staying near Billy. Calling any cow, pig or sheep
+- 16:19 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Tommy: going to the white bed at -282,67,320 for the night with the group. Still no food. First light, scouting agai
+- 16:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Tommy: I'm in the bed at -271,67,318 for the night. Kimberly is beside me. Still no food; first light I scout again.
+- 16:24 act: {"actions":[{"do":"sleep"}],"say":"Tommy: night now, sleeping in the bed here. Hunger 20, health 20. First light I scout for animals; meat to Kimberly first.","intent":{"goal":"sleep_through_night_in_
+- 16:25 act: {"actions":[{"do":"sleep"}],"say":"Tommy: sleeping now. Meat to Kimberly first at first light, as agreed.","intent":{"goal":"sleep_until_morning_in_bed","program":"rest","arguments":{},"wake_on":["dir
+- 16:28 act: {"say":"Tommy: morning. I have no food either. I'm scouting north now for cow, pig or sheep. Any meat I find goes to you first, Kimberly.","intent":{"goal":"scout_north_for_animals","program":"travel"
+- 16:28 act: {"intent":{"goal":"scout_north_east_for_animals","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"ma
+- 16:28 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Tommy: scouted north-east, no animals, nothing to eat. Night is falling, back at the beds with the group.","intent":
+- 16:30 act: {"say":"Tommy: I have no food. Scouting east along the sign line for animals; I'll call out anything I find, and meat goes to Kimberly.","intent":{"goal":"scout_east_for_animals","program":"travel","a
+- 16:31 act: {"intent":{"goal":"scout_farther_east_for_animals","program":"travel","arguments":{"target":{"x":-236,"y":67,"z":316}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"
+- 16:31 act: {"actions":[{"do":"unstick"}],"reasoning":"Trapped in a pit at -236,68,316. Get free before anything else."}
+- 16:31 act: {"actions":[{"do":"mine","block":"oak_leaves","count":6}],"reasoning":"Leaves may drop apples; food is the urgent need. Cheap to try here."}
+- 16:31 act: {"say":"Tommy here, at -235,69,315. Leaves gave me nothing. Heading back to Kimberly at the white bed.","actions":[{"do":"goto","target":{"x":-268,"y":67,"z":316}}],"intent":{"goal":"return_to_kimberl
+- 16:32 say: {"text":"Tommy here at the white beds, -268,66,316. No food on me, sorry Kimberly. I'll stay close and go out for animals with the group in daylight."}
