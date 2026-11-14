@@ -71,3 +71,8 @@
 - 14:55 act: {"intent":{"goal":"bring_porkchop_to_trini","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_wo
 - 14:55 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}],"say":"Trini, keep the porkchop for when you need it. Sleep safe, I'm close by."}
 - 14:56 act: {"intent":{"goal":"hold_near_trini_until_first_light","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 15:03 act: {"say":"Tommy here, at the yellow bed -263,67,353 with Trini beside me. Holding until first light, then the pig hunt at -168,89,225.","intent":{"goal":"hold_for_morning","program":"rest","arguments":{
+- 15:08 act: {"say":"Tommy at the yellow bed -263,67,353, morning. I have no food. Heading for the pig at -168,89,225 on dry grass now. Stay in sight, Trini, Kimberly, Jason, Billy.","intent":{"goal":"reach_pig_ar
+- 15:08 act: {"say":"Tommy at -168,89,225. No pig in sight here, no animals at all. Billy and Picard are with me. I'll scan on dry grass nearby and call out at once if I see one."}
+- 15:11 act: {"say":"Billy, Picard: the west grass is past the lake, and I won't go there alone. I'm walking back toward the yellow beds with my eyes open for animals on dry ground. Meet at -270,67,296.","intent":
+- 15:12 act: {"say":"I'm at the yellow beds with Kimberly. I'll scout 8 blocks west on dry grass in sight of the group and call out any animal.","intent":{"goal":"scout_west_near_camp","program":"travel","argument
