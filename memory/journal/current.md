@@ -11,3 +11,72 @@
 - 10:15 act: {"say":"Tommy: I'm at -265,64,262, on grass with deep water 2 blocks east. Jason and Kimberly, I see you 5 blocks away. Holding here. Come west to me, away from the water."}
 - 10:20 act: {"say":"Tommy: Agreed, we sleep sheltered near the beds. Heading south to the yellow beds now with Billy, Jason and Kimberly. Picard, stay with us.","intent":{"goal":"reach_beds_sheltered","program":"
 - 10:20 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}],"say":"Tommy: I'm at the yellow beds, going to sleep. Billy, Jason, Kimberly, stay near and sleep sheltered."}
+- 10:22 act: {"say":"Still here at the yellow bed. Health and hunger are full. Jason says he has a chicken for Picard, so Picard, come find him by the white bed.","intent":{"goal":"rest_until_morning","program":"r
+- 10:22 act: {"say":"Picard, Jason is holding the chicken for you at the white bed. I'll walk with you at first light. Stay near the beds until then.","intent":{"goal":"wait_for_first_light_at_beds","program":"res
+- 10:26 say: {"text":"Tommy: Picard has the chicken, good. Trini, I'll come to walk you in at first light, stay on the sand. Zack, I'll ask how to reach you on the pillar when it is light."}
+- 10:27 act: {"say":"Tommy: it's dawn. Jason and I are going to Trini on the sand at -338,63,252, on dry land, then Zack on the pillar. Trini, hold still.","intent":{"goal":"walk_to_trini_on_sand","program":"trave
+- 10:27 act: {"say":"Tommy: my first walk failed. I'm going by the dry grass at -301,66,270 first, then on to Trini. Billy, walk with me, and stay in sight.","intent":{"goal":"walk_to_dry_grass_waypoint","program"
+- 10:28 act: {"say":"Tommy at the dry grass waypoint, -300,66,270. Going on to Trini at -338,63,252, staying on grass away from the water.","intent":{"goal":"walk_to_trini_on_sand","program":"travel","arguments":{
+- 10:28 act: {"actions":[{"do":"unstick"}],"say":"Tommy: I'm in deep water at -328,62,263, getting out now. Trini, I'm coming to you."}
+- 10:28 act: {"actions":[{"do":"goto","target":{"x":-301,"y":66,"z":270}}]}
+- 10:28 act: {"say":"Tommy: I'm on the grass at -301,66,270 with Jason and Billy. Trini, walk to us along the sand edge, away from the deep water."}
+- 10:29 act: {"say":"Tommy: good, Trini, keep coming to us. Picard, stay at the white beds and wait for us. We go north for food once Trini is here."}
+- 10:30 act: {"say":"Tommy: everyone is here. We go north together to the sheep at -301,63,204, on the grass, staying in sight. Picard, come with us.","intent":{"goal":"group_north_to_sheep","program":"travel","ar
+- 10:31 act: {"say":"Tommy: I'm at -301,63,204. No sheep here, only a horse to the north-east. Going on north to the chickens near -301,63,172, staying on grass.","intent":{"goal":"group_north_to_chickens","progra
+- 10:31 act: {"say":"Tommy: I'm at -301,63,172. No chickens here, and the lake is north of me. I'll hold here on the grass until the group catches up. Come north to me, on the grass."}
+- 10:31 act: {"say":"Tommy: the cow at -297,64,194. I'm going there now on the grass. Picard gets any meat first. Trini and Picard, come up the grass to it.","intent":{"goal":"reach_cow_at_194","program":"travel",
+- 10:31 act: {"say":"Tommy: I'm at the cow spot, -297,64,193. No cow in sight yet. Picard, Trini, come to me on the grass. I'll look around here."}
+- 10:33 act: {"say":"Tommy: we don't split. Billy, if the cow is real at -285,65,235, hold there and say so. Everyone else, come to me at -297,64,193 first, Picard included. Then we go together."}
+- 10:34 act: {"say":"Everyone hold here at -297,64,193, on grass. I don't know a dry route west yet. We go together once we have one. Picard, Billy, come to me.","intent":{"goal":"hold_group_at_grass","program":"t
+- 10:37 act: {"say":"Good, Kimberly's report is north on grass: cow near -293,64,177. We go together, Tommy leading. Picard gets the first meat. Stay close behind me.","intent":{"goal":"join_cow_north_together","p
+- 10:37 act: {"say":"I'm at -293,64,181 on grass. Jason, Trini, Billy, come up to me. Then we check the cow at -293,64,177 together.","intent":{"goal":"gather_group_before_cow","program":"travel","arguments":{"tar
+- 10:38 act: {"say":"Everyone's here. We go north to the cow at -293,64,177 together. Stay right behind me.","intent":{"goal":"reach_cow_spot_together","program":"travel","arguments":{"target":{"x":-293,"y":64,"z"
+- 10:38 act: {"say":"Careful: there is a 7 block drop just north of me. I see no cow from here. We hold at -293,64,179 and do not go over the edge.","intent":{"goal":"hold_before_north_drop","program":"travel","ar
+- 10:39 act: {"say":"Dusk now, and we have no food yet. Picard, don't cross the open ground in the dark. Stay where you are, safe, and we come to you at first light with whatever we find. Everyone else, stay close
+- 10:42 act: {"say":"Thank you all. Stay on the grass here tonight, away from the drop. I have 7 planks and 5 dirt, not enough for a shelter, so we keep watch. At first light we look for food, Picard first.","inte
+- 10:47 act: {"say":"Picard, hold still and keep your head above water. Give us your exact position. Kimberly, I have 5 dirt and 7 planks; I'll come to the shore nearest him. Trini, the cow at -297,64,194 is yours
+- 10:48 act: {"say":"Picard, stay still on your dirt. Trini has the cow; the meat comes to you. I'm walking to the west shore now to look for dry footing near you. Kimberly, come along on the grass, not into the w
+- 10:48 act: {"say":"Picard, I'm on the grass at -338,63,210, about 14 blocks from you, with deep water between us. Are you still on your dirt? Tell me if you can see a dry path toward me."}
+- 10:49 act: {"say":"Picard, I'm going to the shore nearest you and laying planks and dirt toward your footing. Kimberly, get out of the water first, then come to the grass near me.","intent":{"goal":"bridge_towar
+- 10:49 act: {"actions":[{"do":"unstick"}]}
+- 10:49 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-338,"y":63,"z":210}}],"intent":{"goal":"get_out_of_water_to_grass","program":"travel","arguments":{"target":{"x":-338,"y":63,"z":210}},"wake_on
+- 10:50 act: {"say":"I'm in deep water getting back to the grass. Kimberly, stay on grass at -337,63,210 and wait for me; don't go in. Trini, hold still on your footing. I'll bring planks to you once I'm out.","ac
+- 10:50 act: {"say":"I'm safe on grass at -338,63,210. Kimberly, bring your dirt and planks here to me, stay on grass. Picard and Trini, hold still on your footing; no one swims. I'll lay footing from the shore as
+- 10:50 act: {"say":"Kimberly, stay on the sand at -316,61,217 for now. Don't enter the water. I'm holding on grass at -338,63,210 with 5 dirt and 7 planks. Hold your dirt and planks until I say where to lay them.
+- 10:51 act: {"say":"Jason, yes: walk the grass shore from -296,64,189 south-west toward -316,61,217 and report any dry grass or sand path to Picard at -351,61,214. Don't enter deep water. Kimberly, get onto the s
+- 10:55 act: {"say":"Thanks, Jason. Hold at -302,64,201 on grass. Billy, stay with him. No one swims. If the dirt pillars give a line of blocks, tell me the first gap and I'll lay footing from the grass edge.","re
+- 10:58 act: {"say":"Picard, I'm still here on grass at -338,63,210. No dry bridge yet; Jason and Billy are scouting the grass south-west. Stay on your dirt, don't jump into water. I'll lay footing the moment a ga
+- 11:02 act: {"intent":{"goal":"night_pillar_refuge","program":"build","arguments":{"blueprint":"pillar","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,
+- 11:05 act: {"say":"Good news, Picard is on grass. Kimberly, get out of the water onto the sand at -316,61,218 now and stay there until morning. Trini, keep to Jason and Billy on grass. I'm holding on my pillar a
+- 11:09 act: {"actions":[{"do":"goto","target":{"x":-338,"y":63,"z":210}}],"say":"Dawn. Billy, Jason, Trini: the sheep is your food; Picard first, then Trini, then Zack. Kimberly, stay on the sand. I'm coming down
+- 11:09 act: {"intent":{"goal":"hunt_sheep_for_picard","program":"gather","arguments":{"block":"mutton","count":1},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
+- 11:09 act: {"say":"Trini, good, take the cow and send the meat to Picard first. I'm on grass at -339,63,210 and will come to Picard by the grass route if one shows. Jason, the chicken at -261,65,266 is good too;
+- 11:10 act: {"say":"Kimberly, hold on the sand. I have 5 dirt and I'll bring it toward you by the grass edge if a dry line shows. Zack, I'll come to the south grass only in daylight and I'll tell you first.","rea
+- 11:12 act: {"say":"Picard, good. Come along the grass to me at -339,63,210 and keep off the water edge. I'm holding here. Billy, you're on grass, stay there and don't dive.","reasoning":"Picard is walking to me 
+- 11:13 act: {"say":"Picard, stop moving and stay on whatever block you're standing on. Don't swim farther. Tell me the nearest grass or sand you can see, with its coordinates, and I'll lay dirt toward you.","reas
+- 11:13 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-341,"y":62,"z":212}}],"say":"Picard, I'm laying dirt on the water toward you now, one block at a time. Stay still.","reasoning":"A dirt bridge laid 
+- 11:13 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-342,"y":62,"z":212}},{"do":"place","block":"dirt","at":{"x":-341,"y":62,"z":213}}],"reasoning":"The first dirt block on the water worked, so the bri
+- 11:13 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-342,"y":62,"z":213}},{"do":"place","block":"dirt","at":{"x":-341,"y":62,"z":214}},{"do":"place","block":"oak_planks","at":{"x":-342,"y":62,"z"
+- 11:14 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-341,"y":62,"z":215}},{"do":"place","block":"oak_planks","at":{"x":-342,"y":62,"z":215}}],"reasoning":"I'm standing on the bridge now and Picard is 8
+- 11:14 act: {"actions":[{"do":"craft","item":"wooden_shovel","count":1}],"say":"Picard, I'm out of planks and dirt. I'm making a shovel to dig dirt from the grass for more bridge. Hold still.","reasoning":"The br
+- 11:14 act: {"say":"Kimberly, yes please. Lay your dirt and planks from the sand toward my bridge end at -341,62,215. I'm standing on dirt at -341,63,212. Picard is about 9 blocks away in the water, so we need th
+- 11:15 act: {"say":"Zack, keep your planks for now. I'm on the bridge at -341,63,212, and Kimberly is laying from her side. Stay on the pillar until I come by daylight from the south.","reasoning":"Zack offered p
+- 11:17 act: {"say":"Kimberly, get out of the water now. Go back to the sand you stood on at -316,61,218, the last solid spot you had. Don't lay onto water. Once you're on solid ground, tell me and we'll plan the 
+- 11:18 act: {"intent":{"goal":"gather_dirt_for_bridge","program":"gather","arguments":{"block":"dirt","count":8},"wake_on":["goal_completed","precondition_failed","directly_addressed"],"limits":{"max_world_ticks"
+- 11:18 act: {"say":"Picard, I can't dig dirt here, water would flow in. Can you swim to the bridge end at -341,62,212, where I'm standing? Go slowly and tell me your position as you go.","reasoning":"Digging dirt
+- 11:22 act: {"say":"Picard, hold still at -349,61,214 tonight; don't swim. I have only 1 plank, so I can't reach you before morning. At first light I'll dig dirt from solid grass and extend the bridge to you. Sta
+- 11:27 act: {"say":"Picard, understood. I'll bridge to your perch at first light. Don't swim."}
+- 11:28 act: {"intent":{"goal":"gather_dirt_dawn","program":"gather","arguments":{"block":"dirt","count":6},"wake_on":["goal_completed","precondition_failed","directly_addressed"],"limits":{"max_world_ticks":1200,
+- 11:28 act: {"say":"Jason, Kimberly, Zack: I need dirt or planks at the bridge end at -341,62,212. Digging dirt next to water is unsafe. Whoever can, bring solid blocks to the bridge end, and Picard gets the brid
+- 11:28 act: {"say":"Kimberly, no land route from the sand yet. Stay on the sand, keep your air up, and wait for dirt. I'm looking for a dry dirt spot to dig.","reasoning":"Kimberly has no land route. I told her t
+- 11:29 act: {"intent":{"goal":"gather_dirt_dry","program":"gather","arguments":{"block":"dirt","count":6},"wake_on":["goal_completed","precondition_failed","directly_addressed"],"limits":{"max_world_ticks":2400,"
+- 11:29 act: {"actions":[{"do":"goto","target":{"x":-341,"y":63,"z":212}}],"reasoning":"I am in water at -340,61,218 after the goto. Water is everywhere here. I must get back to the grass at the bridge end first."
+- 11:29 act: {"say":"Picard, I'm back on the bridge grass at -341,63,212. Digging near water failed and I fell in once, so I'm not digging here. No dirt yet. Stay put, don't swim.","reasoning":"I fell in while wal
+- 11:29 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-343,"y":62,"z":214}}],"say":"Picard, I have 3 porkchop. I'm extending the bridge one plank west toward you at -343,62,214. Come to the end and
+- 11:30 act: {"say":"Zack, I hear you. I have no planks left, only 3 porkchop, which Picard gets first. Picard, come to the bridge end at -343,62,214 and I'll give you the meat.","reasoning":"Zack is stuck and hun
+- 11:33 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"porkchop","count":3}],"say":"Picard, here are 3 porkchop. Eat now. Then we keep to the grass.","reasoning":"Picard is on grass in reach and asked f
+- 11:33 act: {"say":"Billy, the 3 porkchop went to you by mistake. Please give them to Picard now, he eats first. Picard, sorry, I'm checking this.","reasoning":"The porkchop went to Billy, not Picard. Billy is cl
+- 11:34 act: {"say":"Trini, climb out toward the nearest grass now, away from deep water. Picard, good. Stay on grass, and I'm staying at the bridge end.","reasoning":"Trini is in deep water with air 10. The first
+- 11:38 act: {"say":"Billy, I'm coming with you to the yellow beds on grass. Tell me if the route turns toward water.","intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-274,"y":69
+- 11:38 act: {"intent":{"goal":"reach_yellow_beds_east","program":"travel","arguments":{"target":{"x":-281,"y":69,"z":291}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 11:39 say: {"text":"I'm at the yellow beds on grass now. Going to sleep in the bed here, near Billy and Picard."}
