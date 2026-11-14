@@ -53,3 +53,43 @@
 - 19:21 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
 - 19:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 19:22 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 19:30 act: {"say":"Tommy here. It's day. I have no food, only planks. Billy and Kimberly first for meat. I'm heading to the group at the white bed, then the pig at -336,64,229.","intent":{"goal":"join_group_at_w
+- 19:30 act: {"say":"Tommy with the group at the white bed. No food yet. Going to the known pig at -336,64,229. Billy and Kimberly first if I get any meat.","intent":{"goal":"reach_known_pig","program":"travel","a
+- 19:31 act: {"say":"Tommy at -336,64,229. No pig in sight here. A skeleton is closing from the west. LaForge, which way is the pig?","intent":{"goal":"find_pig_near_laforge","program":"travel","arguments":{"targe
+- 19:31 act: {"say":"Tommy hurt by a skeleton shot, health 16. Pulling back east toward Riker. No pig seen here.","intent":{"goal":"retreat_to_riker","program":"travel","arguments":{"target":"ag_riker_01"},"wake_o
+- 19:31 act: {"say":"Tommy at 9 health, skeleton still shooting from the west. Moving east out of its line. Riker, I'm following you.","intent":{"goal":"escape_skeleton_east","program":"travel","arguments":{"targe
+- 19:31 act: {"actions":[{"do":"unstick"}]}
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-298,"y":66,"z":236}}]}
+- 19:31 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}]}
+- 19:31 act: {"say":"Tommy at 5 health. Creeper and skeleton coming from the north. Fleeing south-east.","intent":{"goal":"flee_creeper_southeast","program":"travel","arguments":{"target":{"x":-280,"y":66,"z":248}
+- 19:32 act: {"say":"Tommy here, health 5 and no food. Heading to the group at the white bed near -298,68,295 to find meat or fruit with you.","intent":{"goal":"join_group_at_white_bed_west","program":"travel","ar
+- 19:33 act: {"say":"Tommy: no food on me either. I'll stay here with Riker and watch for apples or salmon. Call out if you find any, and Billy and Kimberly go first."}
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Tommy: dusk, no food. Going into the white bed here for the night. Billy and Kimberly first for any meat."}
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 19:41 act: {"actions":[{"do":"sleep"}]}
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 19:42 act: {"say":"Billy, I'm here. Thank you for the mutton.","actions":[{"do":"sleep"}]}
+- 19:42 act: {"say":"Billy, where is the mutton? I don't see it on me yet.","actions":[{"do":"goto","target":{"x":-281,"y":67,"z":319}},{"do":"sleep"}]}
+- 19:43 act: {"say":"Billy, I'm at -281,70,309 by the oak logs, north of the white beds. I can't see you. Please come within reach and hand it over.","actions":[{"do":"goto","target":{"x":-281,"y":67,"z":318}}]}
+- 19:43 act: {"actions":[{"do":"sleep"}]}
+- 19:43 act: {"say":"Kimberly, I'm here at -262,67,353 near the yellow beds and the water. I'll wait right here. Thank you.","actions":[{"do":"wait","seconds":30}]}
+- 19:46 act: {"say":"Kimberly, please give me the mutton. I'm coming to you at the white bed near -270,67,318.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}]}
+- 19:46 act: {"say":"Kimberly, I'm at -270,66,322 now. Please hand me the mutton when you can see me.","actions":[{"do":"wait","seconds":60}]}
+- 19:47 act: {"say":"Kimberly, I'm coming to you now at the yellow bed.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}}]}
+- 19:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}}]}
+- 19:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}}],"say":"Kimberly, I'm at the yellow bed. Please hand me Billy's mutton."}
+- 19:47 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":325}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_tick
+- 19:47 act: {"actions":[{"do":"unstick"}]}
+- 19:47 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, I'm coming to you. Please give me Billy's mutton."}
+- 19:47 act: {"actions":[],"say":"Kimberly, I'm right beside you now. Please hand me the mutton Billy left for me."}
+- 19:48 act: {"actions":[{"do":"eat"}],"say":"Thank you, Kimberly, and thank you Billy."}
+- 19:48 act: {"intent":{"goal":"reach_pig_for_food","program":"travel","arguments":{"target":{"x":-336,"y":64,"z":229}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ti
+- 19:48 act: {"intent":{"goal":"stay_near_spawn_until_safe","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":400,"max_block_operations":4}},"say":"I 
+- 19:48 act: {"actions":[],"say":"I'm back at the yellow beds with an empty pack. Health and hunger are full. Does anyone know a safe place to find food?"}
+- 19:52 act: {"intent":{"goal":"reach_salmon_pond","program":"travel","arguments":{"target":{"x":-291,"y":68,"z":290}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 19:55 act: {"intent":{"goal":"reach_salmon_pond","program":"travel","arguments":{"target":{"x":-291,"y":68,"z":290}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 19:57 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"join_wesley_at_beds","program":"travel","arguments":{"target":"ag_wcrusher_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"l
+- 19:57 act: {"intent":{"goal":"reach_wheat_farm_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 19:57 act: {"say":"Kimberly, I'm here by the beds. Seven iron golems are to the west, so I'll stay put by the beds until they move off.","intent":{"goal":"wait_by_beds_for_safe_path","program":"rest","arguments"
+- 20:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night. Going to the yellow bed to sleep."}
