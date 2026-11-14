@@ -94,3 +94,6 @@
 - 19:57 act: {"say":"Kimberly, I'm here by the beds. Seven iron golems are to the west, so I'll stay put by the beds until they move off.","intent":{"goal":"wait_by_beds_for_safe_path","program":"rest","arguments"
 - 20:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night. Going to the yellow bed to sleep."}
 - 20:02 say: {"text":"Tommy here, awake at the yellow beds. Nothing in my pack. Night is falling, so I'll stay here in the bed until morning, then look for food."}
+- 20:02 act: {"say":"Tommy here, at the yellow bed (-263, 67, 354). I have no food. Kimberly, I'm in sight now; please hand over Billy's mutton.","intent":{"goal":"receive_mutton_from_kimberly","program":"rest","a
+- 20:02 say: {"text":"Tommy: I'm at the yellow bed (-263,67,354), alone, no one in sight. Kimberly, bring Billy's mutton to me when you are in sight, or I will come to the group at first light."}
+- 20:06 act: {"actions":[{"do":"sleep"}]}
