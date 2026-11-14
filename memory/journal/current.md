@@ -1,2 +1,20 @@
 # Journal
 - 08:23 act: {"say":"Night, all. I'm rested, health and hunger are full. First light, I'll hunt with Zack and Jason.","intent":{"goal":"rest_until_first_light","program":"rest","arguments":{},"wake_on":["directly_
+- 08:24 act: {"say":"Morning. I'm coming south to the cows and sheep near -293,64,177 with Kimberly and Zack. Jason, meet us there.","intent":{"goal":"reach_south_herd","program":"travel","arguments":{"target":{"x
+- 08:25 act: {"say":"Travel failed and night is back. I'll hold near the yellow beds until light, then head south. Kimberly, stay safe on the grass.","intent":{"goal":"hold_until_light","program":"rest","arguments
+- 08:25 act: {"say":"Going south with Zack to the cows and sheep near -293,64,177.","intent":{"goal":"reach_south_herd","program":"travel","arguments":{"target":{"x":-293,"y":64,"z":177}},"wake_on":["directly_addr
+- 08:25 act: {"say":"Travel keeps failing from here. I'll stay by the yellow beds until full light, then try a nearer waypoint south.","intent":{"goal":"hold_until_full_light","program":"rest","arguments":{},"wake
+- 08:29 act: {"actions":[{"do":"goto","target":{"x":-277,"y":67,"z":284}}],"say":"An enderman is right beside me and something hit me from behind. I'm moving away from it toward the beds.","reasoning":"Health 13, 
+- 08:29 act: {"actions":[{"do":"goto","target":{"x":-284,"y":67,"z":281}}],"say":"I died to something I could not see, and I woke at the spawn with nothing. My things lie just here; I'm going to grab them quickly 
+- 08:29 act: {"say":"I have my sword and sticks back. I'm heading to the beds to join Jason, Kimberly and Trini for the sheep at -257,66,375.","intent":{"goal":"join_group_at_beds","program":"travel","arguments":{
+- 08:30 act: {"say":"Tommy at the beds, safe, with a sword. I'll hold here and not go south-east until Kimberly, Jason and Trini say they are moving. Zack, I'll stay off the north line.","intent":{"goal":"hold_at_
+- 08:30 act: {"say":"Tommy moving now to Kimberly at -264,66,356. I have a wooden sword, so I'll go with the group to the sheep.","intent":{"goal":"join_sheep_group","program":"travel","arguments":{"target":{"x":-
+- 08:30 act: {"say":"Tommy is here at -264,66,356 with Jason, Billy and Kimberly. I'll follow Jason to the sheep when he says go."}
+- 08:31 act: {"say":"Going in front to the sheep at -257,66,375 with Jason and Zack. Stay behind me.","intent":{"goal":"reach_sheep_with_group","program":"travel","arguments":{"target":{"x":-258,"y":66,"z":373}},"
+- 08:31 act: {"say":"Scouting south-east a few blocks with Zack, staying together. Calling out anything I see.","intent":{"goal":"scout_southeast_for_sheep","program":"travel","arguments":{"target":{"x":-252,"y":6
+- 08:32 act: {"say":"No sheep at the south-east spot, only oak logs and water. I'm at -252,67,380 now. Jason, Zack, where are you? I'll wait here for the group's next call."}
+- 08:33 act: {"say":"Going back to Jason at -257,66,374 with Zack, as Jason asked.","intent":{"goal":"regroup_with_jason","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":374}},"wake_on":["directly_ad
+- 08:33 act: {"say":"My travel back to Jason failed. I'm at -252,67,381. I'll try a nearer path toward -257,66,374.","intent":{"goal":"regroup_with_jason_near","program":"travel","arguments":{"target":{"x":-256,"y
+- 08:33 act: {"say":"I'm at -256,67,377, a few blocks south of Jason. Where is everyone? I'll hold here, safe, and wait for the call."}
+- 08:37 act: {"say":"Heading to the yellow beds at -263,67,353 with you all. Going now.","intent":{"goal":"join_group_at_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["direct
+- 08:37 act: {"say":"I'm at the yellow beds with Zack. Sheltering here for the night; see you at first light.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
