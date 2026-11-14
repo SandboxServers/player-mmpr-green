@@ -86,3 +86,21 @@
 - 11:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, beside a yellow bed, hunger full, no errand out. Sleep here.","say":"Night. I'm sleeping in the yellow bed. First light, I'll go for the pig by dry land
 - 11:43 act: {"say":"Billy, I'm at the yellow bed, and it's night. I'm going to sleep here. Picard, I heard you. Stay off the water, and we'll search for the pig at first light.","actions":[{"do":"sleep"}]}
 - 11:44 act: {"say":"Tommy: night, at the yellow bed with Billy. Going to sleep sheltered. First light, food on dry ground, Picard first.","actions":[{"do":"sleep"}],"reasoning":"Night, safe at bed, no errand runn
+- 11:50 act: {"say":"Dawn. I'm heading to the pig last seen at -353,65,227, on dry ground around the lake. Picard and Jason, join me if you're going that way.","intent":{"goal":"reach_pig_area","program":"travel",
+- 11:50 act: {"say":"Jason, I'm coming to join you and Trini on the grass at -330,63,220. I'll keep to dry ground.","intent":{"goal":"join_group_on_grass","program":"travel","arguments":{"target":{"x":-330,"y":63,
+- 11:50 act: {"actions":[{"do":"goto","target":{"x":-285,"y":68,"z":270}}],"say":"Jason, I'm close to you at the grass. If you find the pig, call out and I'll come help."}
+- 11:50 act: {"say":"I'm with you, Jason. Where do you want to search for the pig? I'll follow your lead on dry ground."}
+- 11:51 act: {"say":"Trini, I'll come north with you toward the cow at -278,65,203. Jason, I'll check back at the beds.","intent":{"goal":"follow_trini_north","program":"follow","arguments":{"target":"ag_trini_01"
+- 11:51 act: {"actions":[{"do":"goto","target":{"x":-292,"y":65,"z":196}}],"say":"Trini, I'm heading north to you at -292,65,196 on the grass. Call if you see a cow."}
+- 11:51 act: {"say":"Zack, I have only three sticks, no blocks to spare. I'm sorry. Trini, I'll head east with you toward the pig at -190,80,223 and tell you if I find anything.","actions":[{"do":"goto","target":{
+- 11:51 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":240}}],"say":"Trini, I'm going southeast to the cow spot at -262,67,244 to meet you. Billy, good luck with the pig."}
+- 11:52 act: {"actions":[{"do":"goto","target":{"x":-266,"y":63,"z":210}}],"say":"Trini, I'm going to the sheep at -266,62,207 now."}
+- 11:52 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":239}}]}
+- 11:52 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_dry_land","program":"travel","arguments":{"target":{"x":-264,"y":67,"z":239}},"wake_on":["goal_completed","precondition_failed","unexpected_damage
+- 11:53 act: {"actions":[{"do":"unstick"}],"say":"I'm still in the water at -259,61,231. Trying to climb out now; I'll stay off the sheep spot."}
+- 11:53 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":239}}],"say":"Still in the lake at -258,60,231. Swimming toward the grass at -264,67,239."}
+- 11:53 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-264,"y":67,"z":239}}]}
+- 11:53 act: {"actions":[{"do":"goto","target":{"x":-259,"y":70,"z":232}}],"say":"I'm drowning in the lake at -259,61,232. Trying to swim straight up to the surface."}
+- 11:54 say: {"text":"I drowned in the lake and came back with nothing. I'm on grass now. I'll stay on dry land and look for food."}
+- 11:55 say: {"text":"Billy, keep the mutton for Zack, he's hungrier. I'm at 20 hunger and have nothing; I'll look for a sheep on dry grass near -259,67,232."}
+- 11:59 act: {"intent":{"goal":"reach_bed_village","program":"travel","arguments":{"target":{"x":-280,"y":69,"z":291}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"l
