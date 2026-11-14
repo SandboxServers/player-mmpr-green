@@ -1292,3 +1292,5 @@
 - 00:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"Zack, I can't see you from here. I'm going back to the beds for the night. I'm keeping the wheat safe, and I'll hand it over in the
 - 00:19 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, here is the wheat.","reasoning":"New position, Zack at 2.3 blocks. One try here."}
 - 00:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"reasoning":"The wheat is delivered. Night is here. Get into a bed to rest."}
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}}],"say":"It's night. I'm heading to the yellow bed to sleep. Zack, Kimberly, Jason, stay near the beds.","intent":{"goal":"reach_yellow_bed"
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}]}
