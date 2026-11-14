@@ -129,3 +129,6 @@
 - 16:35 act: {"say":"Trini, I'm back at the white beds, -278,67,319, with Billy and Picard in view. I'm not going south while the golems are there. Come back to the beds and we scout together when it's clear.","in
 - 16:38 act: {"say":"Tommy here, back at the beds. Hunger is full, but I have no food. Who has seen animals on dry ground?"}
 - 16:39 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Dusk. I'm going into the white bed at -281,67,320 for the night. Health 20, hunger 20, no food. Kimberly, you're wea
+- 16:45 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Tommy here, at the white bed in the dark. Health 20, hunger 20, no food. Kimberly gets any meat first at dawn.","int
+- 16:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy: trying the white bed at -271,67,336 for the night. Health 20, hunger 20."}
+- 16:50 act: {"actions":[{"do":"goto","target":{"x":-298,"y":66,"z":318}}],"say":"Tommy: dawn. No food, health 20, hunger 20. I'm scouting the dry grass west of the beds, close to the group. Any meat I see goes to
