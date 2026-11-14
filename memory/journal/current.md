@@ -91,3 +91,12 @@
 - 07:32 act: {"say":"Zack, I have no food either. I'm going to the cow near -262,67,244. Meat goes to Jason first.","intent":{"goal":"reach_cow_near_262_244","program":"travel","arguments":{"target":{"x":-262,"y":
 - 07:34 act: {"say":"Trini, I'm standing at the cow spot near -262,67,243 with nothing in my hands. Give any mutton to Jason first, then me if there's spare."}
 - 07:35 act: {"actions":[{"do":"eat"}],"say":"Thank you, Trini. I'm eating the mutton now. Jason is fed, so this one is mine."}
+- 07:36 act: {"say":"I'm fed for now, hunger 19. Trini and Zack, go for the sheep and cows; I'll keep out of the way and watch this spot for animals."}
+- 07:40 act: {"say":"Zack, Trini: no animals in view here and it is dusk. I'm going to the yellow beds at -272,68,364 for the night. If you find meat, call me and I'll come.","intent":{"goal":"reach_yellow_beds","
+- 07:40 act: {"say":"Trini, where is your shelter? I have no blocks to build one. I'm on the grass at the lake edge, -264,63,261, and I'll head toward you or the yellow beds.","intent":{"goal":"reach_yellow_beds",
+- 07:40 act: {"say":"Trini, I'm coming to you at -287,64,202. An enderman is south of me, so I won't go that way. Keep a gap for me at your wall.","intent":{"goal":"join_trini_zack","program":"travel","arguments":
+- 07:40 act: {"say":"Trini, I'm on my way north-west to your wall. Heading in now.","actions":[{"do":"goto","target":{"x":-285,"y":64,"z":205}}]}
+- 07:42 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 07:42 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 07:42 act: {"actions":[{"do":"goto","target":{"x":-285,"y":64,"z":193}},{"do":"attack","target":"zombie"}]}
+- 07:42 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_sword","count":1}]}
