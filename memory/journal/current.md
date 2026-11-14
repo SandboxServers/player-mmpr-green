@@ -104,3 +104,5 @@
 - 11:54 say: {"text":"I drowned in the lake and came back with nothing. I'm on grass now. I'll stay on dry land and look for food."}
 - 11:55 say: {"text":"Billy, keep the mutton for Zack, he's hungrier. I'm at 20 hunger and have nothing; I'll look for a sheep on dry grass near -259,67,232."}
 - 11:59 act: {"intent":{"goal":"reach_bed_village","program":"travel","arguments":{"target":{"x":-280,"y":69,"z":291}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"l
+- 12:00 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Tommy here, awake at the bed village. Hunger and health are full, but my pack is empty. Billy, do you still have the mutton? Zack and Picard ne
+- 12:00 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Night is here. I am going to sleep in a bed at the village. Billy, I hope you will give the mutton to Zack in the morning."}
