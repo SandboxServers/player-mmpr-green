@@ -119,3 +119,7 @@
 - 16:31 act: {"actions":[{"do":"mine","block":"oak_leaves","count":6}],"reasoning":"Leaves may drop apples; food is the urgent need. Cheap to try here."}
 - 16:31 act: {"say":"Tommy here, at -235,69,315. Leaves gave me nothing. Heading back to Kimberly at the white bed.","actions":[{"do":"goto","target":{"x":-268,"y":67,"z":316}}],"intent":{"goal":"return_to_kimberl
 - 16:32 say: {"text":"Tommy here at the white beds, -268,66,316. No food on me, sorry Kimberly. I'll stay close and go out for animals with the group in daylight."}
+- 16:33 act: {"say":"Tommy here at -268,66,316, health 20, hunger 20, no food. Billy is beside me. I'll scout dry grass to the south-west with the group and call out any cow, pig or sheep I see. Meat goes to Kimbe
+- 16:33 act: {"say":"Tommy here, health 20, no food. I'm following Trini south-west on dry grass to look for animals. I'll call any I see.","intent":{"goal":"follow_trini_scout_sw","program":"follow","arguments":{
+- 16:33 act: {"say":"Trini is out of my sight, so my follow failed. I'm going to the dry grass south-west at -285,66,339 where Trini said she would scout. Calling any animal I see.","actions":[{"do":"goto","target
+- 16:33 act: {"say":"Iron golems are close to the south-east of me. I'm backing off to the white beds with the group, and I'll scout again when the golems are gone.","intent":{"goal":"return_to_white_beds_group","
