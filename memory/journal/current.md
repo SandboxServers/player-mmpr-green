@@ -122,3 +122,5 @@
 - 20:32 act: {"actions":[{"do":"note","text":"Day 237 late morning: still at the white beds, health 20, hunger 20, pack empty. Riker is low (health 1.8) and went south-east for food; Wesley went west. Holding here
 - 20:36 say: {"text":"Tommy here, health 20, hunger 20, no food. Riker is lowest, so any food goes to him first, then Trini. I'll stay at the beds and keep watch while bows are about."}
 - 20:38 say: {"text":"Tommy here, health 20, hunger 20, no food and nothing in hand. I'm staying at the beds with the group. I'll go with anyone who finds food."}
+- 20:46 act: {"intent":{"goal":"hold_at_beds_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations
+- 20:50 act: {"say":"Tommy at dawn on day 238, health 20, hunger 20, no food and no weapon. Trini and Riker first for the wheat. I'm staying near the beds, out of the golems' way, and I'll go with the group for th
