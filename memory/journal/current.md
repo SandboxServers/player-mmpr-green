@@ -8,3 +8,7 @@
 - 22:09 act: {"intent":{"goal":"hold_beds_until_group_moves","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
 - 22:09 act: {"actions":[{"do":"goto","target":{"x":-280,"y":67,"z":336}}],"say":"Tommy: heading west over the grass to search for animals, in sight of Jason's group. Will call out anything I find."}
 - 22:12 act: {"actions":[],"say":"Tommy, midday day 242. My hunger is 20, so I can wait. Trini and Jason should eat first. I'll keep scouting the grass west and call out any animal."}
+- 22:15 say: {"text":"Tommy here. No food on me; I hold 2 wooden swords, 6 planks, 2 logs. I'll stay near the white beds in sight of the group, and any food goes to Trini first."}
+- 22:17 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 22:17 act: {"actions":[{"do":"note","text":"At the white beds with Billy, day 242 afternoon. Sleep needs night; waiting here in sight of the group until dusk, then sleeping in the bed."}],"intent":{"goal":"hold_
+- 22:22 act: {"actions":[{"do":"sleep"}]}
