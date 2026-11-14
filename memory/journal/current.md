@@ -11,3 +11,17 @@
 - 18:36 act: {"actions":[{"do":"mine","block":"oak_log","count":2},{"do":"craft","item":"oak_planks","count":8}],"say":"Tommy: leaves gave nothing twice, so I'm switching. I'll take two logs and make planks for a 
 - 18:37 act: {"intent":{"goal":"build_plank_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
 - 18:37 act: {"actions":[{"do":"note","text":"Day 231 midday: built a sealed plank shelter at the beds (-273,65,317). Enclosed, health 20, hunger 20, no food yet. Ready to rest after handoff."}],"say":"Tommy: I'm 
+- 18:38 act: {"reasoning":"Trapped in a pit, health steady, daytime. Get out before anything else.","actions":[{"do":"unstick"}],"say":"I'm stuck in a pit by the beds, health 20, hunger 20. Digging out now."}
+- 18:38 act: {"reasoning":"Out of pit. Dark, open, no food known. Need shelter; 17 planks is short of a 25-block shelter, so I'll wait and watch for food news.","actions":[{"do":"note","text":"Out of pit at (-272,
+- 18:38 act: {"reasoning":"Dark and alone. Group is at the white beds to the south; go join them, stay in sight.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"intent":{"goal":"join_group_at_beds",
+- 18:38 act: {"reasoning":"Reached beds with group. Bow drawn to southeast: stay near Riker and Jason, watch. Still no food.","actions":[{"do":"note","text":"At white beds (-270,66,334) with Riker and Jason nearby
+- 18:42 act: {"reasoning":"Night, beds taken, no food, 18 planks (short of 25 for shelter). Stay with group in the open, keep watch until dawn.","actions":[{"do":"note","text":"Night of day 231 at the white beds. 
+- 18:51 act: {"reasoning":"Dawn day 232. Food is the need. Golem southeast; move north-east to scout open grass with the group, calling out any animal.","actions":[{"do":"goto","target":{"x":-255,"y":66,"z":325}}]
+- 18:51 act: {"reasoning":"Still no food at this spot. Keep scouting further north-east on open grass, away from golems to the southwest.","actions":[{"do":"goto","target":{"x":-240,"y":66,"z":310}}],"intent":{"go
+- 18:51 act: {"reasoning":"No food here. An item lies under me; keep scouting north-east to find animals.","actions":[{"do":"goto","target":{"x":-225,"y":66,"z":295}}],"intent":{"goal":"scout_for_animals_north_eas
+- 18:51 act: {"reasoning":"Walk to north-east stopped short. Try north on the open grass instead.","actions":[{"do":"goto","target":{"x":-225,"y":66,"z":275}},{"do":"note","text":"Scouted east and north-east of th
+- 18:55 act: {"actions":[{"do":"note","text":"Day 232 midday at (-225,68,275). North travel was blocked. No food seen; oak logs and signs to the south-west. Next: head back toward the group beds before dusk."}],"i
+- 18:55 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-215,"y":66,"z":265}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 18:55 act: {"actions":[{"do":"unstick"}]}
+- 18:56 act: {"actions":[{"do":"note","text":"Got out of a pit at (-215,66,265). Stopping to stay put near the group area. No food yet; hunger and health full."}]}
+- 19:00 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-216,"y":67,"z":265}}],"intent":{"goal":"rest_sealed_in_pit","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage
