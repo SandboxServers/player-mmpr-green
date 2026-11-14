@@ -133,3 +133,5 @@
 - 12:28 act: {"say":"Picard, I already answered: I know no dry route to Kimberly. I'm still at the yellow beds with nothing in hand. Stay on the dry platform and don't swim. If Jason or Trini find a line, I'll tel
 - 12:41 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"say":"Night is here. I'm going to the yellow bed to sleep. Billy, any cow spot found goes to Kimberly first.","reasoning":
 - 12:41 act: {"actions":[{"do":"sleep"}],"reasoning":"The goto to the bed changed nothing; I'm already next to the bed at -281,69,291. Try sleeping from here."}
+- 12:42 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}}],"say":"It's night. I'm going to sleep in this yellow bed. Tomorrow I'll look for a dry line to Kimberly and for food."}
+- 12:42 act: {"actions":[{"do":"sleep"}]}
