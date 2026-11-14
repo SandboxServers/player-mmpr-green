@@ -97,3 +97,23 @@
 - 20:02 act: {"say":"Tommy here, at the yellow bed (-263, 67, 354). I have no food. Kimberly, I'm in sight now; please hand over Billy's mutton.","intent":{"goal":"receive_mutton_from_kimberly","program":"rest","a
 - 20:02 say: {"text":"Tommy: I'm at the yellow bed (-263,67,354), alone, no one in sight. Kimberly, bring Billy's mutton to me when you are in sight, or I will come to the group at first light."}
 - 20:06 act: {"actions":[{"do":"sleep"}]}
+- 20:11 act: {"say":"Tommy here, morning of day 236. I respawned with nothing, hunger 20. If anyone has spare food, I will look for seeds or wood nearby and stay close to the beds.","intent":{"goal":"stay_near_bed
+- 20:11 act: {"intent":{"goal":"search_grass_for_animals_with_group","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","new_ag
+- 20:11 act: {"say":"Kimberly, Troi: I'm with you at the white beds, hunger 20, no food. Did anyone find an animal or apple? I'll go wherever you go.","intent":{"goal":"stay_with_group_until_food","program":"follo
+- 20:11 act: {"say":"Kimberly, I'll come with you to the west grass, staying in sight. I'll call out anything I see.","intent":{"goal":"search_west_grass_with_kimberly","program":"follow","arguments":{"target":"ag
+- 20:12 act: {"intent":{"goal":"join_group_at_west_grass","program":"travel","arguments":{"target":{"x":-290,"y":66,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 20:12 act: {"say":"Tommy at the west grass with Data, Riker and Kimberly. Still no food. Calling out any animal I see.","intent":{"goal":"hold_west_grass_with_group_watch_for_food","program":"rest","arguments":{
+- 20:13 act: {"say":"Agreed, Kimberly: Trini first, then me, then Billy. I'm staying here at the west grass with the group."}
+- 20:20 act: {"say":"Tommy going with the group to the white bed at -270, 67, 318 for the night. Stay close.","intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,
+- 20:20 act: {"actions":[{"do":"sleep"}],"say":"Tommy here at the white bed with the group. No food found on the west grass tonight. Stay close.","reasoning":"Dusk at the white bed with Picard, Worf, Trini nearby.
+- 20:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Sleep failed out here. Going to the white bed at -270, 67, 318 to try again with the group.","reasoning":"Sleep fail
+- 20:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Tommy at the bed for the night. No food yet. Thank you all, Trini and Riker first at dawn.","reasoning":"Group is at
+- 20:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Previous goto was blocked by a running action. Retry the walk to the white bed alone."}
+- 20:21 act: {"actions":[{"do":"sleep"}],"say":"Tommy sleeping at the yellow bed right here, next to Wesley's bed.","reasoning":"Walking keeps failing as busy. A yellow bed is one block away. Sleep here."}
+- 20:22 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
+- 20:22 act: {"actions":[{"do":"wait","seconds":5},{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Falling and perched. Let it land, then walk the five blocks east to the bed."}
+- 20:22 act: {"actions":[{"do":"sleep"}],"say":"Tommy at the white bed. No food yet, thank you all. Trini, Riker first at dawn.","reasoning":"At the white bed with the group. Sleep now."}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Sleep refused: monsters nearby. Walk back among the group to the bed, then retry."}
+- 20:22 act: {"actions":[{"do":"sleep"}],"reasoning":"On the white bed with Trini, Worf and Kimberly close. Try sleep again."}
+- 20:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Tommy moving to the white bed with the group. Trying sleep once golems clear."}
+- 20:25 act: {"actions":[{"do":"sleep"}]}
