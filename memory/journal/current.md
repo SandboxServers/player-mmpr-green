@@ -1392,3 +1392,5 @@
 - 01:43 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":300}},{"do":"goto","target":{"x":-310,"y":67,"z":290}}]}
 - 01:43 act: {"say":"Zack, thanks. I'm already north-west at (-300, 69, 300) and it's night. No animals in sight yet. Let's look at first light. Trini and Billy, we'll meet at the yellow beds."}
 - 01:44 act: {"say":"Kimberly, nothing found north-west yet, and it's dark. I'm heading back to the yellow beds to sleep, and we'll search again at first light.","actions":[{"do":"goto","target":{"x":-271,"y":67,"
+- 01:45 act: {"say":"Morning. Tommy here, I slept at the yellow beds. I have no food but I'm full. I'll join the search northwest for cows and sheep.","intent":{"goal":"search_northwest_for_animals","program":"tra
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"say":"Kimberly, thanks. Night is falling and the search came up empty. I'll rest at the yellow bed and call out at first light if I find 
