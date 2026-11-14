@@ -123,3 +123,15 @@
 - 07:55 act: {"intent":{"goal":"walk_to_yellow_beds","program":"travel","arguments":{"target":{"x":-272,"y":68,"z":364}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],
 - 07:55 act: {"intent":{"goal":"walk_to_yellow_beds","program":"travel","arguments":{"target":{"x":-272,"y":68,"z":364}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
 - 08:00 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}],"say":"It's dusk. Trini, Zack and Billy, the yellow beds here are free. I'm going to bed at -272,68,364."}
+- 08:00 act: {"say":"Billy, thanks. I'm at the yellow beds with full hunger and health. I'll look for food by daylight, sheep or cows to the north.","actions":[{"do":"sleep"}],"reasoning":"Night with thunder, bed 
+- 08:01 act: {"say":"Good night, Billy. I'll go for the cow west at -363, 69, 230 at first light and bring meat to the group.","intent":{"goal":"await_first_light_then_cow","program":"rest","arguments":{},"wake_on
+- 08:02 act: {"say":"Goodnight, Trini. Yes, at first light we go west together to the cow at -363, 69, 230. Jason, stay sealed in the pit tonight."}
+- 08:03 act: {"say":"Picard, nearby I've learned: cows are west near -363, 69, 230, and the sheep field is by -257, 66, 375 but was empty this morning. Billy and I are going west for the cow now.","intent":{"goal"
+- 08:03 act: {"say":"Zack, Billy, the travel failed and it's dusk now. I'll hold at the yellow beds and leave for the cow at first light with you. Don't go alone at night.","intent":{"goal":"hold_till_dawn_then_co
+- 08:03 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"say":"Going into the yellow bed for the night. First light, cow hunt west.","reasoning":"Rest intents end at once. A bed i
+- 08:03 act: {"say":"Morning. I'm heading west for the cow at -363, 69, 230 now. Billy, Zack, Trini, meet me on the way.","intent":{"goal":"cow_hunt_west","program":"travel","arguments":{"target":{"x":-363,"y":69,
+- 08:03 act: {"say":"Trini, thanks. The west trip keeps failing, so I'll try the closer cows at -262, 67, 244 first.","intent":{"goal":"cow_hunt_north_closer","program":"travel","arguments":{"target":{"x":-262,"y"
+- 08:04 act: {"say":"Tommy here. Dark and the travel failed, so I'll hold here until first light. Trini, I'll meet you at the cows at dawn."}
+- 08:05 act: {"say":"Tommy here. I died in the open at night, so I'm back at the spawn bed. I'll sleep here now and look for cows at dawn.","actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
+- 08:05 act: {"actions":[{"do":"sleep"}]}
+- 08:05 act: {"actions":[{"do":"sleep"}]}
