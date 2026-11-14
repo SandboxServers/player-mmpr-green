@@ -1331,3 +1331,4 @@
 - 00:37 act: {"actions":[{"do":"unstick"}]}
 - 00:37 act: {"actions":[{"do":"goto","target":{"x":-85,"y":65,"z":458}}]}
 - 00:40 act: {"actions":[],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{
+- 00:42 act: {"reasoning":"Jason and Zack are settling for the night. I'm sheltered and healthy, so a short goodnight and then keep waiting.","say":"Goodnight, Jason and Zack. I'm enclosed in my shelter and health
