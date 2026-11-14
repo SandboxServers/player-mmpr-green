@@ -124,3 +124,9 @@
 - 20:38 say: {"text":"Tommy here, health 20, hunger 20, no food and nothing in hand. I'm staying at the beds with the group. I'll go with anyone who finds food."}
 - 20:46 act: {"intent":{"goal":"hold_at_beds_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations
 - 20:50 act: {"say":"Tommy at dawn on day 238, health 20, hunger 20, no food and no weapon. Trini and Riker first for the wheat. I'm staying near the beds, out of the golems' way, and I'll go with the group for th
+- 20:56 act: {"say":"Tommy here, at the white beds. Health 20, hunger 20, no food, no weapon. Billy, what have you found to eat?","intent":{"goal":"hold_near_group_for_food","program":"rest","arguments":{},"wake_o
+- 20:56 act: {"say":"Tommy: I have nothing to give, Trini, sorry. Billy and Data, I will go west with you for pig or cow once Zack or Troi is ready. I stay at the beds until then."}
+- 20:57 act: {"say":"Tommy: Yes, Billy. I'm coming west with you and Data, in sight of each other.","intent":{"goal":"scout_west_with_billy","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["dire
+- 20:57 act: {"say":"Tommy: My follow failed, I can't see you, Billy. Where are you gathering with Zack and Jason? I'll walk to you once I see you."}
+- 20:57 act: {"say":"Tommy: Agreed, Zack. I'm back at the white beds too, no food and no weapon. We try the west grass at first light, together."}
+- 20:58 act: {"actions":[{"do":"sleep"}],"say":"Tommy: Dusk. Going to sleep in a bed at the white beds. West at first light, together."}
