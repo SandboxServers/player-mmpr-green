@@ -70,3 +70,4 @@
 - 14:55 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}],"say":"Trini, I'll bring meat in the morning if we find any. I'm resting in the yellow bed here for the night."}
 - 14:55 act: {"intent":{"goal":"bring_porkchop_to_trini","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_wo
 - 14:55 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}],"say":"Trini, keep the porkchop for when you need it. Sleep safe, I'm close by."}
+- 14:56 act: {"intent":{"goal":"hold_near_trini_until_first_light","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
