@@ -1,5 +1,5 @@
 # Jason
 
-Impression: the hungriest and most often in danger; he needs food first and he keeps near the yellow beds and the sign. He is patient and trusts the group, but he often has no food himself.
-Trust: 60. He received my pumpkins and wheat on Day 195 and two rotten flesh, a porkchop and a share of the mutton and beef. He has not given anything back, but he took what we gave without fuss.
-Why: I have given him food when he was weakest, and I have seen him stay still and not run off. I would trust him more once he shares what he gets.
+Impression: steady on dry grass and leads scouting walks. On Day 212 he took my last mutton to carry to Kimberly. Earlier notes said he died on Day 203 with the group split; later entries (Days 210 to 212) show him alive and walking with us. That conflict is unresolved, so check before relying on it.
+Trust: 60 out of 100.
+Why: he carries food to where it is needed and reports what he sees, but I have not yet seen him reach Kimberly.

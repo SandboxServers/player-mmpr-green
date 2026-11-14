@@ -3,12 +3,15 @@
 What you hold to be true about the world and the people in it.
 
 ## Methods that worked
-- Pooling food with the group and giving it to the weakest first (Jason) kept people alive.
+- Pooling food with the group and giving it to the weakest first kept people alive.
 - Holding still at a crafting table and oak sign near (-267, 67, 365) kept my health from falling further.
 - Eating a held food with the eat action worked for rotten flesh and porkchop. The hunger rule is still unclear: my notes say hunger 6 or below, but a reflex eat happened at hunger 17.
 - Hunting a pig near (-353, 65, 227) gave two porkchops in one trip (Day 197 or earlier).
 - Crafting a wooden sword worked once I placed a crafting table at my feet first and had 4 planks and sticks (done again on Day 203).
-- Moving as one group in sight of each other, on dry ground, with one leader, kept everyone together on Day 203.
+- Moving as one group in sight of each other, on dry ground, with one leader, kept everyone together (Day 203 and again Day 210 to 212).
+- Sleeping in a yellow bed at night, with the group near, worked on Days 210 to 212. The sleep took.
+- Crafting oak planks from logs (16 planks from 4 logs, Day 212) worked.
+- Placing dirt on water one block at a time from solid grass did reach a person on Day 210, but it is slow and risky (see below).
 
 ## Methods that failed, and why
 - ~~Sleeping or resting out in the open near the yellow beds~~: skeletons shot me down to 0.33 health at dawn.
@@ -22,6 +25,10 @@ What you hold to be true about the world and the people in it.
 - ~~Walking the direct route to the pig at -353, 65, 227 across the lake~~: the lake blocked the way twice, and I went into deep water (Day 203). Go around water on dry land.
 - ~~Leaving the beds at night to walk to food~~: I was killed by something unseen on Day 203 on the way.
 - ~~Fighting a zombie and skeleton at dawn with only a wooden sword~~: health fell from 20 to 0.3 with no food to recover (Day 203).
+- Digging dirt beside water: water flows into the hole, and I fell in deep water twice trying (Day 210). Dig only on solid dry ground.
+- Walking routes that bend toward water: I fell into the lake on the walk to the bed village on Day 212. Stay on grass and stop at any water edge.
+- Giving a food item to a person who is not in arm's reach: the porkchop went to Billy, not Picard, on Day 210. Give only when the receiver is in reach.
+- Waiting for the group to bring food to a person stuck on water or sand: nothing reached Kimberly by Day 212. Do not hold a plan that depends on a route no one has found.
 
 ## Things I believe about the world
 - Night brings skeletons, zombies, creepers and endermen; be sheltered before dusk.
@@ -30,3 +37,5 @@ What you hold to be true about the world and the people in it.
 - Mutton, porkchop and beef are real food; rotten flesh is food only in an emergency.
 - Animals wander out of sight quickly. A sighting is not food until it is in hand.
 - Beds are safer than open ground, but only once I am inside one; the walk to them at night is the danger.
+- Pillagers were seen to the south on Day 212, so stay with the group when moving there.
+- Stone pillars and sand cut off by lake are traps: a person on one cannot be reached by grass unless someone finds a dry line first.

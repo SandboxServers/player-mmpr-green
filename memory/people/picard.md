@@ -1,4 +1,5 @@
 # Picard
 
-Impression: came back to watch the sign and the group when I was low; quiet and steady, and he stayed nearby through the night.
-Trust: 60. Why: he returned to keep watch when I was alone at 0.33 health; I have seen little else of him, so the trust is moderate.
+Impression: quiet and steady. He came back to watch the sign and the group when I was low, and he has been stuck on a dirt pillar in the lake and then on the water, where he called clearly for help. He is at the beds now with a porkchop. He asks for food first and follows what he is told.
+Trust: 50 out of 100.
+Why: he listens and stays where asked, but he went into the water twice, and I have not yet seen him lead.
