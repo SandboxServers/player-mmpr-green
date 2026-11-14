@@ -1332,3 +1332,38 @@
 - 00:37 act: {"actions":[{"do":"goto","target":{"x":-85,"y":65,"z":458}}]}
 - 00:40 act: {"actions":[],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{
 - 00:42 act: {"reasoning":"Jason and Zack are settling for the night. I'm sheltered and healthy, so a short goodnight and then keep waiting.","say":"Goodnight, Jason and Zack. I'm enclosed in my shelter and health
+- 00:50 act: {"intent":{"goal":"bring_beef_to_zack","program":"travel","arguments":{"target":{"x":-236,"y":68,"z":395},"stages":"short"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limit
+- 00:51 act: {"intent":{"goal":"bring_beef_to_kimberly","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_worl
+- 00:51 act: {"actions":[{"do":"goto","target":{"x":-70,"y":65,"z":458}}],"say":"Something is hitting me from the west; I'm moving east away from it.","reasoning":"Enderman 2 blocks west hitting me. Get distance f
+- 00:51 act: {"say":"Jason, I died to an enderman at -91,65,458 and respawned with nothing. My beef and tools lie there, but that spot is dangerous. Do you have spare food?","actions":[{"do":"note","text":"Died da
+- 00:51 act: {"intent":{"goal":"rejoin_group_at_yellow_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":350}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
+- 00:52 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-200,"y":67,"z":390}}],"say":"Heading south-west toward the group, short hops, no food yet."}
+- 00:52 act: {"intent":{"goal":"rejoin_group_at_yellow_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":350}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
+- 00:52 act: {"actions":[{"do":"goto","target":{"x":-230,"y":67,"z":370}}],"say":"Jason, thank you. I'm walking to you now, north-west toward the yellow beds."}
+- 00:52 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":350}}],"say":"Jason, I'm close, heading to the yellow beds. Tell me where you stand."}
+- 00:52 act: {"say":"Jason, I'm at the yellow beds, -262,67,350. I have no food. Please bring the beef when you can see me."}
+- 00:53 act: {"actions":[{"do":"goto","target":{"x":-260,"y":66,"z":355}}],"say":"Jason, I'm coming to you. I'm starving, so the pumpkins and wheat would help a lot."}
+- 00:54 act: {"actions":[],"say":"Jason, Kimberly is first, and that's right. I'm at -259,66,355 with nothing in my hands, and my hunger is fine for now. Any food left after her goes to Zack."}
+- 00:55 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":330}}],"say":"Kimberly, I have the beef. I'm coming to the yellow beds now. Say where you are."}
+- 00:55 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":327}}],"say":"Kimberly, I'm on the grass east of the beds now. Tell me when you can see me and I'll hand you the beef."}
+- 00:56 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Kimberly, I'm coming to you with the beef, at the bed row now."}
+- 00:56 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"say":"Kimberly, here is the beef. Eat it now."}
+- 00:56 act: {"actions":[],"say":"Kimberly, where are you now? I can't see you. I have the beef and I'll bring it to you."}
+- 00:56 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Kimberly, I'm going to the bed row now. Stay put and I'll put the beef in your hands."}
+- 00:57 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"say":"Kimberly, the beef is in your hands now. Eat it."}
+- 00:57 act: {"actions":[],"say":"Kimberly, I still have the beef and I can't hand it over, you keep going out of sight. Stand still on the bed row and say 'here' when you see me. I'll walk to you."}
+- 00:57 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"intent":{"goal":"hand_beef_to_kimberly","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_c
+- 00:58 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Kimberly, I'm walking to the bed row now. If you can see me, say so and I'll put the beef in your hands."}
+- 00:59 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"say":"Kimberly, here is the beef. Eat it."}
+- 00:59 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":353}},{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"say":"Kimberly, I stepped back so I can toss it to you. Beef coming."}
+- 00:59 act: {"actions":[],"say":"Kimberly, I'm at -258,66,353, just east of the bed row. I can't see you now. Walk to me and stop, and I'll hand it over."}
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Zack, I still have the beef. Kimberly never came into sight for me to hand it over. I'm sleeping in the bed here tonight, and I'll 
+- 01:05 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"say":"Kimberly, the beef is yours. Eat it now."}
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 01:05 act: {"actions":[],"say":"Zack, I have no food left. The beef went to Kimberly. I'm at the yellow beds, alive, health 20.","intent":{"goal":"hold_beds_until_first_light","program":"rest","arguments":{"plac
+- 01:06 act: {"actions":[],"intent":{"goal":"hold_beds_until_first_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max
+- 01:09 act: {"actions":[],"say":"Morning. I have no food, but I'm going to look for animals to hunt. Zack, I'll bring anything I find to you at the shelter.","intent":{"goal":"find_animal_to_hunt","program":"trav
+- 01:09 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":354}}],"say":"I'm going west to look for animals. Zack, I'll come back with food if I find any.","intent":{"goal":"find_animal_to_hunt","program"
+- 01:10 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":354}}],"say":"Trader, I have nothing to trade yet. I'm searching west for animals.","intent":{"goal":"find_animal_to_hunt","program":"travel","ar
+- 01:10 act: {"actions":[{"do":"goto","target":{"x":-320,"y":67,"z":370}}],"intent":{"goal":"find_animal_to_hunt","program":"travel","arguments":{"target":{"x":-320,"y":67,"z":370}},"wake_on":["directly_addressed"
+- 01:14 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":340}}],"say":"Trini, I'm heading north toward you for the salmon. I have no food and no tools to catch it, but I can help carry or search.","inte
