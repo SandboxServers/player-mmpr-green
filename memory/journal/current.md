@@ -1394,3 +1394,5 @@
 - 01:44 act: {"say":"Kimberly, nothing found north-west yet, and it's dark. I'm heading back to the yellow beds to sleep, and we'll search again at first light.","actions":[{"do":"goto","target":{"x":-271,"y":67,"
 - 01:45 act: {"say":"Morning. Tommy here, I slept at the yellow beds. I have no food but I'm full. I'll join the search northwest for cows and sheep.","intent":{"goal":"search_northwest_for_animals","program":"tra
 - 01:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"say":"Kimberly, thanks. Night is falling and the search came up empty. I'll rest at the yellow bed and call out at first light if I find 
+- 01:45 act: {"say":"Tommy here, I'm awake by the yellow beds. I have no food either. I'll search north-west with you at first light, and call out if I see a cow or sheep.","intent":{"goal":"find_food_animals","pr
+- 01:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}}],"intent":{"goal":"shelter_at_yellow_beds_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","p
