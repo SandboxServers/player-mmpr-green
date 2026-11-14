@@ -143,3 +143,6 @@
 - 17:41 act: {"say":"Tommy at dusk, day 228. No food, health and hunger 20. Going to the yellow bed by the group to sleep. Food goes to Kimberly first at dawn.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z
 - 17:49 act: {"say":"Tommy here, morning of day 229. Hunger 20, no food. I'm going west with Billy to the grass to look for animals. Any meat or apple goes to Kimberly first.","actions":[{"do":"goto","target":{"x"
 - 17:50 act: {"say":"Tommy at the west grass now. No animals in sight from here. Moving toward Kimberly, staying with the group.","actions":[{"do":"goto","target":{"x":-290,"y":68,"z":314}}],"intent":{"goal":"rejo
+- 17:50 act: {"say":"Good, Wesley. Kimberly first with that apple. I have no food, only planks and logs, so I can share those with anyone who needs them.","actions":[]}
+- 18:00 act: {"say":"Tommy at dusk. I have 9 oak planks. LaForge, if Riker has not reached you yet, I can bring you some; say where you stand. I am going to the yellow bed to try sleep.","actions":[{"do":"goto","t
+- 18:00 act: {"actions":[{"do":"sleep"}]}
