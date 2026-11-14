@@ -9,3 +9,40 @@
 - 13:48 act: {"actions":[],"say":"Picard, I have no food. Could you give me one porkchop? I'll keep Zack's share in mind."}
 - 13:51 act: {"actions":[{"do":"goto","target":{"x":-267,"y":68,"z":300}}],"intent":{"goal":"join_group_spot","program":"travel","arguments":{"target":{"x":-267,"y":68,"z":300}},"wake_on":["goal_completed","direct
 - 13:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["goal_completed","di
+- 14:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Morning will come. I'm in a white bed near the group, health 20, hunger 20. No food yet.","reasoning":"Night, no foo
+- 14:04 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"say":"Picard, I have no food and it is still dark. Could you give me a porkchop when we meet at first light?","reasoning":"Still night, sleep is not
+- 14:04 act: {"actions":[],"say":"Picard, you are right beside me. I have no food. Please give me the porkchop, one piece. I'll share what I can after.","reasoning":"Picard is in reach holding the porkchop. Ask di
+- 14:11 act: {"intent":{"goal":"scout_east_with_jason","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":296}}],"say":"Heading to Jason's last spot at -263,67,296 on dirt, to scout east with him.","reasoning":"Follow failed because Jason was not in s
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":296}}],"say":"Jason, I'm with you at -263,67,296. I'll go about 9 blocks east on dry ground and stay in your sight. I'll call any animal I see.",
+- 14:16 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":296}}],"say":"Skeletons to the east are shooting at me. I'm falling back west to the beds.","reasoning":"Hit by arrows from skeletons 10 blocks e
+- 14:16 act: {"actions":[{"do":"goto","target":{"x":-292,"y":67,"z":296}}],"say":"I died to the skeletons in the east and respawned at the beds with nothing. Heading west to Jason. I'm staying out of the east.","r
+- 14:16 act: {"actions":[],"say":"I'm at the west edge with nothing in hand, health 20. I won't go east. Jason, where is the food?","reasoning":"Arrived west, out of skeleton range. No items. Ask Jason for food an
+- 14:18 act: {"actions":[{"do":"goto","target":{"x":-304,"y":67,"z":292}}],"say":"Skeletons are still shooting at me from the east. Moving further west.","reasoning":"Shot again from 12 blocks east. Get well west 
+- 14:18 act: {"actions":[{"do":"goto","target":{"x":-322,"y":67,"z":290}}],"say":"A skeleton is following me from the east. I have no weapon, so I'm running west.","reasoning":"Skeleton closing from 11 blocks east
+- 14:18 act: {"actions":[],"say":"I'm out of the skeleton's line at -322,65,290, health 15, hunger 17, no items. Where can I get food, and where is a safe bed for the night?","reasoning":"Safe for the moment. Nigh
+- 14:19 act: {"actions":[{"do":"goto","target":{"x":-338,"y":63,"z":284}},{"do":"attack","target":"sheep"}],"say":"There's a sheep to the northwest at -340,63,282, away from the skeletons. I'm going for it.","reas
+- 14:20 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-299,"y":68,"z":292}}],"say":"I got two mutton from the sheep. I'm eating one and going to the beds by Jason for the night.","reasoning":"Hunger 17;
+- 14:20 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Tommy here. I have eaten and I'm going to bed by Jason and Picard for the night.","reasoning":"Night has come. Shelt
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Previous beds occupied. Try the free white bed at -271,67,318 near the crafting tables, then sleep."}
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":-284,"y":67,"z":332}}],"reasoning":"Monsters near; sleep impossible here. Move southwest away from the skeleton at -266,66,320."}
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":-306,"y":66,"z":332}}],"intent":{"goal":"flee_skeleton_west","program":"flee","arguments":{"from":{"x":-277,"y":66,"z":330}},"wake_on":["goal_completed","unexpec
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":-310,"y":66,"z":340}}],"reasoning":"Respawned with nothing; skeleton 6.7 east at -274,66,335 still shooting. Get out of its line to the southwest. Wool left at -
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":296}}],"intent":{"goal":"reach_west_beds","program":"travel","arguments":{"target":{"x":-297,"y":68,"z":296}},"wake_on":["goal_completed","unexpe
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"reasoning":"Second death on the walk west at night; skeletons range the dark. Stay at the spawn beds and try to sleep in t
+- 14:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Handoff written. Try to sleep in the adjacent bed again while the skeleton is still far."}
+- 14:27 act: {"actions":[{"do":"goto","target":{"x":-267,"y":66,"z":331}}],"reasoning":"Dawn, no monsters seen. Items lie just north; I have nothing, so collect them."}
+- 14:27 act: {"actions":[{"do":"goto","target":{"x":-265,"y":66,"z":325}}],"reasoning":"Collect the last nearby item; it may be usable."}
+- 14:27 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":331}}],"reasoning":"Last loose item nearby; collect it."}
+- 14:27 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200,"
+- 14:28 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":2},{"do":"craft","item":"wooden_sword","count":1}],"reasoning":"Need a weapon before going further. Logs a
+- 14:29 act: {"say":"I have a wooden sword now. I'm going northwest to look for the sheep for food, in daylight.","intent":{"goal":"travel_to_sheep_northwest","program":"travel","arguments":{"x":-320,"y":64,"z":30
+- 14:29 act: {"say":"Jason, I'll search northwest, you take the sheep to the west-southwest. I have a sword.","actions":[{"do":"goto","target":{"x":-300,"y":65,"z":310}}],"reasoning":"Splitting the search for food
+- 14:29 act: {"actions":[{"do":"unstick"}],"reasoning":"Trapped in a pit; goto failed as the way was blocked. Unstick is the proper way out."}
+- 14:29 act: {"actions":[{"do":"mine","block":"oak_planks","count":1}],"reasoning":"Planks box me in. Mine one plank to open a way out."}
+- 14:29 act: {"actions":[{"do":"goto","target":{"x":-300,"y":65,"z":310}}],"reasoning":"Free of the pit. Trying the northwest route again in daylight."}
+- 14:29 act: {"actions":[{"do":"mine","block":"oak_planks","count":1},{"do":"goto","target":{"x":-300,"y":65,"z":310}}],"reasoning":"Mine through the plank ahead, then retry the route once."}
+- 14:30 act: {"say":"I'm walled in by planks near the beds and goto keeps failing. Jason, how did the sheep trip go? I'll hold here for now.","reasoning":"Repeated goto blocked. Holding position, telling Jason so 
+- 14:30 act: {"say":"Trini, hold on. Kimberly is checking the old farm. I'll try west for food now.","actions":[{"do":"goto","target":{"x":-290,"y":66,"z":325}}],"reasoning":"Northwest route is blocked. Trying due
+- 14:31 act: {"actions":[{"do":"mine","block":"oak_planks","count":2},{"do":"goto","target":{"x":-290,"y":66,"z":325}}],"reasoning":"Still boxed in by planks. Mine out to the west and retry."}
+- 14:31 act: {"say":"I'm out, at -289,66,325. No food on me. I'll keep watching west and northwest for animals and call out if I see any.","intent":{"goal":"scan_west_for_animals","program":"rest","arguments":{},"
