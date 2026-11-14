@@ -85,3 +85,4 @@
 - 11:40 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}]}
 - 11:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, beside a yellow bed, hunger full, no errand out. Sleep here.","say":"Night. I'm sleeping in the yellow bed. First light, I'll go for the pig by dry land
 - 11:43 act: {"say":"Billy, I'm at the yellow bed, and it's night. I'm going to sleep here. Picard, I heard you. Stay off the water, and we'll search for the pig at first light.","actions":[{"do":"sleep"}]}
+- 11:44 act: {"say":"Tommy: night, at the yellow bed with Billy. Going to sleep sheltered. First light, food on dry ground, Picard first.","actions":[{"do":"sleep"}],"reasoning":"Night, safe at bed, no errand runn
