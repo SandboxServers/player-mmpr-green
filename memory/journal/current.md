@@ -59,3 +59,12 @@
 - 07:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":363}}],"say":"Jason, sleep well. Trini, stay away from the zombie. I'm going to the yellow bed at -271, 68, 364 to rest, and I'll share any food 
 - 07:03 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"say":"I'm at the yellow bed by the signs. Health 3.3, hunger 17, two rotten flesh saved for when hunger drops. Jason and T
 - 07:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Adjacent to bed at -282,69,371. Try sleep directly rather than stepping onto the block."}
+- 07:03 act: {"say":"Thank you, Trini. I'm at the yellow bed by the sign, waiting for the beef. I'll share it with Zack and Jason.","intent":{"goal":"await_food_delivery","program":"rest","arguments":{},"wake_on":
+- 07:04 act: {"say":"Trini, I'm at the yellow bed at -282,69,372, by the oak signs and the crafting table. Jason is closer to the crafting table at -272,68,365. Bring the beef to Jason first, then me."}
+- 07:08 act: {"say":"Morning. Kimberly, I'm at the yellow bed by the signs, -283,69,372, waiting for the beef. Zack is with Jason; I'll share it. Please go to the grass with the sheep and cows and keep out of the 
+- 07:10 act: {"intent":{"goal":"join_group_at_jasons_bed","program":"travel","arguments":{"target":{"x":-271,"y":68,"z":366}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wo
+- 07:10 act: {"say":"Kimberly, I'm right beside you at the yellow bed. Please give the mutton to Jason first, since he is weakest. I'll take whatever is left for myself."}
+- 07:11 act: {"say":"Kimberly, I have not received any mutton; my pack is still empty of it. I'm at the crafting table by the yellow beds, -271,68,367. Please hand the 2 mutton to me here, and I'll share with Jaso
+- 07:12 act: {"say":"Jason, good, eat the mutton. I still have nothing but rotten flesh, which I'm saving. Kimberly, the next meat goes to Jason, then Picard or whoever is weakest."}
+- 07:12 act: {"intent":{"goal":"wait_for_food_share","program":"rest","arguments":{"note":"hold position at yellow bed until food is shared"},"wake_on":["directly_addressed","precondition_failed","unexpected_damag
+- 07:14 act: {"say":"Kimberly, I have no mutton in my hands yet. Jason is at -272,68,365. Please give the mutton straight to him there. Trini is bringing beef, and that goes to Jason first too."}
