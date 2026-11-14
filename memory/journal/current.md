@@ -12,3 +12,4 @@
 - 22:17 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 22:17 act: {"actions":[{"do":"note","text":"At the white beds with Billy, day 242 afternoon. Sleep needs night; waiting here in sight of the group until dusk, then sleeping in the bed."}],"intent":{"goal":"hold_
 - 22:22 act: {"actions":[{"do":"sleep"}]}
+- 22:23 act: {"say":"Tommy here, night of day 242, at the white beds with the group. Health 20, no food yet. Going to bed now."}
