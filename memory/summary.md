@@ -14,6 +14,10 @@
 - A wooden sword, a few planks and sticks, some wheat seeds (not food).
 - No food, no wool, no bed of my own.
 
+## Day 205 (end)
+- Searched dry grass south with Trini, Billy, Kimberly and Jason for the cow at -262,67,244. No animal found. Walked back to the white beds at dusk, slept at a yellow bed. Picard and Zack are without food; Picard is low on health.
+- Next: first light, hunt on dry ground together, first meat to Picard. Stay in sight of the group.
+
 ## What I was doing
 - Hunting for food with the group: Jason (dead, Day 203, to skeletons east near -210,340), Billy, Kimberly, Trini (hurt), Zack and Picard.
 - Pig at -353,65,227 and sheep at -283,185 were both gone. The lake lies between the beds and the pig. Dry grass south of the beds had no animal.
