@@ -130,3 +130,10 @@
 - 20:57 act: {"say":"Tommy: My follow failed, I can't see you, Billy. Where are you gathering with Zack and Jason? I'll walk to you once I see you."}
 - 20:57 act: {"say":"Tommy: Agreed, Zack. I'm back at the white beds too, no food and no weapon. We try the west grass at first light, together."}
 - 20:58 act: {"actions":[{"do":"sleep"}],"say":"Tommy: Dusk. Going to sleep in a bed at the white beds. West at first light, together."}
+- 20:58 act: {"say":"Tommy here, day 238, health 20, hunger 20, no food, no weapon. Billy, I'm with you. Going west for pig or cow now, staying in sight. Trini first for anything we find.","intent":{"goal":"follow
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy: night, no food, health 20, hunger 20. Going to the white bed at -270,67,336 to sleep. Trini and Troi, food to
+- 21:02 act: {"intent":{"goal":"wait_near_group_until_sleep_possible","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"ma
+- 21:02 act: {"actions":[{"do":"sleep"}]}
+- 21:08 act: {"say":"Tommy: dawn, health 20, hunger 20, no food, no weapon. I'll go north with Wesley, Data and Troi to the sheep field, and Trini first for any mutton. Wesley, Data, wait for me in sight.","intent
+- 21:08 act: {"say":"Tommy: follow failed again, Troi is out of my sight. I'll stay at the beds with Laforge, Zack and Worf for now. Whoever finds mutton, pork or an apple, call my name and I'll come. Trini first.
+- 21:11 act: {"intent":{"goal":"follow_worf_north_sheep","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks
