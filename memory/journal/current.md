@@ -1476,3 +1476,4 @@
 - 05:37 act: {"say":"Thanks, Zack. Billy, if you catch a salmon, eat it or share it with whoever is hungriest. I'll head back to the beds with you before night.","intent":{"goal":"return_to_beds_before_night","pro
 - 05:37 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":355}}],"say":"Night is coming. Jason, I agree: we'll go to the sheep at first light. I'm heading to the beds now."}
 - 05:37 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
+- 05:38 act: {"say":"I have no food, hunger is 17. I'll wait at the beds with you and go to the lake sheep at first light.","intent":{"goal":"wait_for_first_light","program":"rest","arguments":{},"wake_on":["direc
