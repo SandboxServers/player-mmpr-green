@@ -109,3 +109,6 @@
 - 12:01 act: {"say":"Morning-ish, Picard. I'm at the yellow beds with one mutton, health and hunger full. Kimberly is stuck on sand by water at -316,62,219, so I'll go to her at first light if the way is dry.","ac
 - 12:01 act: {"actions":[{"do":"sleep"}],"say":"Billy, thanks. I'm in the yellow bed here at -274,69,291 and going to sleep. Kimberly, I'll look for you at first light."}
 - 12:03 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}],"say":"Going to bed for the night. Kimberly and Zack first thing at dawn."}
+- 12:04 act: {"actions":[{"do":"note","text":"Night 211, at yellow beds (-273,69,291). Health and hunger full. Holding one mutton; staying sheltered until daylight."}],"say":"Picard, Tommy here. I'm at the yellow 
+- 12:09 act: {"intent":{"goal":"reach_dry_grass_waypoint","program":"travel","arguments":{"target":{"x":-301,"y":66,"z":270}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 12:09 act: {"actions":[{"do":"goto","target":"jason"}],"say":"Jason, Trini: I'm coming to the white beds now with my one mutton. Whoever is hungriest and close, say so and I'll hand it over."}
