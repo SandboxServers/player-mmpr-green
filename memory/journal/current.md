@@ -18,3 +18,29 @@
 - 08:33 act: {"say":"I'm at -256,67,377, a few blocks south of Jason. Where is everyone? I'll hold here, safe, and wait for the call."}
 - 08:37 act: {"say":"Heading to the yellow beds at -263,67,353 with you all. Going now.","intent":{"goal":"join_group_at_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["direct
 - 08:37 act: {"say":"I'm at the yellow beds with Zack. Sheltering here for the night; see you at first light.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 08:38 act: {"say":"Agreed, Jason. I'm at the beds with Zack. At first light I'll take the south-east search, and I'll stay away from the north past the cows."}
+- 08:42 act: {"say":"I'm back at the beds at -256,67,355 with a sword and health 20. I think something hurt me during the night. I'm going into the bed at -263,67,354 now.","intent":{"goal":"reach_bed_for_night","
+- 08:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":363}}]}
+- 08:47 act: {"say":"Morning, Jason. I have a wooden sword and I'll walk in front with you to the pig near x -177. Say go and I follow."}
+- 08:48 act: {"intent":{"goal":"join_jason_east","program":"travel","arguments":{"target":{"x":-210,"y":69,"z":336}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
+- 08:48 act: {"actions":[{"do":"attack","target":"skeleton"}],"say":"Skeleton to the north-east! I am closing on it with my sword."}
+- 08:48 act: {"actions":[{"do":"goto","target":{"x":-204,"y":70,"z":341}},{"do":"attack","target":"skeleton"}],"say":"Still fighting the skeleton, health 11."}
+- 08:48 act: {"intent":{"goal":"retreat_to_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":356}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1800,"max_
+- 08:48 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"I am hurt and going to lie in the yellow bed to rest away from the skeletons."}
+- 08:49 act: {"say":"Trini, I'm back at the yellow beds, health 7, no food. Jason died to skeletons east near -210,340. We stay here. Does anyone have food?"}
+- 08:49 act: {"say":"Thanks Zack. I'll stay at the beds to heal and watch for sheep reports. Tell me where you find food."}
+- 08:50 act: {"intent":{"goal":"find_food_south","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":200}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
+- 08:50 act: {"actions":[{"do":"goto","target":{"x":-297,"y":64,"z":192}}],"say":"Going to see the items lying north of me, maybe food."}
+- 08:50 act: {"actions":[{"do":"goto","target":{"x":-298,"y":64,"z":189}}],"say":"Got wool. Checking the last items north of me. Zack, good, I'll look for sheep with you."}
+- 08:50 act: {"say":"Kimberly, I'm at -298,190 by the water, waiting for you and Zack. No food yet. Sheep should be south of here."}
+- 08:51 act: {"say":"Billy, Zack, Kimberly: I'm here at -298,190 by the water. I'll wait here for you and then we go south for the sheep together.","intent":{"goal":"wait_for_group_at_water","program":"rest","argu
+- 08:52 act: {"say":"Kimberly, thanks. I'm going for the sheep at -283,185 near the water now, and I'll share the meat with Billy.","actions":[{"do":"goto","target":{"x":-283,"y":64,"z":186}},{"do":"attack","targe
+- 08:52 say: {"text":"Billy, Kimberly, Zack: no sheep at -283,185 now, it's gone from view. I'm searching nearby on the grass and will call out if I find one."}
+- 08:52 act: {"say":"Kimberly, thanks. I'm going west to the pig at -353,227, away from the skeleton ground.","actions":[{"do":"goto","target":{"x":-350,"y":65,"z":225}}],"intent":{"goal":"reach_pig_west","program
+- 08:53 say: {"text":"Jason, I'm at -350,225 west, no pig in sight here. I have no food either. If I see a sheep or pig I'll call it out."}
+- 08:54 say: {"text":"Zack, no pig found, I'm sorry, I only reached the spot and it was empty. Billy, a cow at -285,235 is close to the skeleton ground, so I'd go carefully with a group, not alone."}
+- 08:58 say: {"text":"Billy, Jason, Picard: I'm going for the sheep listed north at -276,212. If I get meat I'll bring it to Jason and Billy first."}
+- 08:58 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":208}}],"intent":{"goal":"reach_sheep_north","program":"travel","arguments":{},"wake_on":["goal_completed","unexpected_damage","precondition_faile
+- 08:58 act: {"actions":[{"do":"goto","target":{"x":-288,"y":66,"z":204}}]}
+- 08:58 say: {"text":"Tommy: no sheep in sight at -276,208 or the west shore, and a creeper is east of me. Dusk now, no blocks to build with. I'm holding near -288,64,204 for the night."}
+- 08:59 say: {"text":"Zack: agreed. I'm holding at -288,64,204 through the night, no sheep in sight. At first light, call and I'll meet you north. Any meat goes to Jason and Billy first."}
