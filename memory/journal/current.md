@@ -1294,3 +1294,40 @@
 - 00:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"reasoning":"The wheat is delivered. Night is here. Get into a bed to rest."}
 - 00:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}}],"say":"It's night. I'm heading to the yellow bed to sleep. Zack, Kimberly, Jason, stay near the beds.","intent":{"goal":"reach_yellow_bed"
 - 00:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}]}
+- 00:21 act: {"say":"Kimberly, Zack: I'm back at the yellow beds. Morning is soon; I'll look for sheep and bring wheat when I can.","intent":{"goal":"wait_for_morning","program":"rest","arguments":{},"wake_on":["d
+- 00:21 say: {"text":"Morning is coming. Zack, Kimberly, Trini: I'm here at the beds. Jason, if you need a place, the beds here are shared."}
+- 00:22 act: {"say":"Morning. I'll head south-east toward the grassland with Jason and Kimberly to look for sheep and food.","intent":{"goal":"find_sheep_se","program":"travel","arguments":{"target":{"x":-210,"y":
+- 00:22 act: {"say":"Jason, Zack: I'm heading toward -257, 66, 375 to look for sheep. Call out if you see any.","actions":[{"do":"goto","target":{"x":-257,"y":66,"z":375}}]}
+- 00:23 say: {"text":"Jason, I'll stay here through the night and search for sheep at first light. Kimberly, go ahead and give Zack the sword at the beds."}
+- 00:27 act: {"actions":[{"do":"goto","target":{"x":-230,"y":67,"z":400}}],"say":"Dawn. I'm going further south-east to look for sheep. Kimberly, Trini, Billy: I'll share anything I find."}
+- 00:28 act: {"actions":[{"do":"goto","target":{"x":-215,"y":66,"z":415}}],"say":"Still looking for sheep to the south-east. If anyone has food to spare, tell me.","intent":{"goal":"search_sheep_south_east","progr
+- 00:28 act: {"actions":[{"do":"unstick"}],"say":"I'm in a pit here at -215, 67, 415. Digging out. Trini, Kimberly: I see no sheep yet."}
+- 00:28 act: {"actions":[{"do":"goto","target":{"x":-200,"y":66,"z":430}}],"intent":{"goal":"search_sheep_further_south_east","program":"travel","arguments":{"target":{"x":-200,"y":66,"z":430}},"wake_on":["goal_co
+- 00:29 act: {"actions":[{"do":"goto","target":{"x":-185,"y":66,"z":440}}],"say":"I'm at -200, 66, 428, south-east of the yellow beds. No sheep yet. Zack, Trini, Kimberly, Jason: I'm pushing on to -185, 66, 440. C
+- 00:29 act: {"actions":[{"do":"goto","target":{"x":-185,"y":66,"z":460}}],"intent":{"goal":"search_sheep_south","program":"travel","arguments":{"target":{"x":-185,"y":66,"z":460}},"wake_on":["goal_completed","dir
+- 00:29 act: {"actions":[{"do":"goto","target":{"x":-181,"y":67,"z":460}},{"do":"attack","target":"cow"}],"say":"A cow to the east. I'm going for it, and I'll share the meat with whoever is hungry."}
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":-183,"y":68,"z":456}},{"do":"attack","target":"cow"}],"say":"I have beef from a cow, and there is another cow just north-east of me at -182, 68, 457. Jason, Kimb
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":-186,"y":67,"z":455}}],"say":"Jason, I have 3 beef. Come to -186, 67, 455 and I'll hand you one. There is a zombie north-east of here, so keep watch."}
+- 00:30 act: {"actions":[{"do":"eat"}],"say":"I'm holding 3 beef here at -186, 67, 455. Kimberly, Jason, Trini, Zack: come to me and I'll give one to each of you who is hungry. Billy, I'll tell you where the cow i
+- 00:31 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"say":"Kimberly, here is beef for you. Trini and Billy, I'll give the rest out: one each once you are close."}
+- 00:31 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"say":"My give went to Jason by mistake. Jason, please pass that beef to Kimberly. I'm giving Kimberly another one now."}
+- 00:31 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"say":"Kimberly, here is beef for you. Billy, I'll bring you food once you're out."}
+- 00:31 act: {"actions":[{"do":"attack","target":"cow"}],"say":"Kimberly has her beef. Jason is keeping one for Billy. I'm getting more meat from the cow here, for Billy."}
+- 00:32 act: {"actions":[{"do":"goto","target":{"x":-140,"y":100,"z":386}},{"do":"attack","target":"cow"}]}
+- 00:32 act: {"actions":[{"do":"attack","target":"cow"}],"say":"Jason, stay by me. Billy, keep digging toward us. I'm after this cow now."}
+- 00:32 act: {"intent":{"goal":"search_sheep_southeast","program":"travel","arguments":{"target":{"x":-110,"y":70,"z":420}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 00:32 act: {"actions":[{"do":"note","text":"Travel south-east failed; waiting here so Billy can reach us and get beef."}],"say":"Billy, I'm waiting here with 3 beef. Come to me and I'll give you one."}
+- 00:32 act: {"intent":{"goal":"search_sheep_southeast","program":"travel","arguments":{"target":{"x":-115,"y":68,"z":425}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 00:33 act: {"actions":[{"do":"unstick"}],"say":"Billy, I'm at the edge of a pit near -115,75,425. I'll wait here for you with the beef."}
+- 00:34 act: {"intent":{"goal":"search_sheep_southeast","program":"travel","arguments":{"target":{"x":-100,"y":68,"z":440}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 00:34 act: {"intent":{"goal":"search_sheep_southeast","program":"travel","arguments":{"target":{"x":-75,"y":68,"z":470}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 00:34 act: {"actions":[{"do":"unstick"}],"say":"Billy, I'm stuck in birch trees to the south-east, far from Jason. I'm trying to get down. Hang on."}
+- 00:34 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"get_down_from_leaves","program":"travel","arguments":{"target":{"x":-86,"y":65,"z":458}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max
+- 00:34 act: {"actions":[],"intent":{"goal":"search_sheep_south_east","program":"travel","arguments":{"target":{"x":-75,"y":68,"z":470}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limit
+- 00:35 act: {"actions":[{"do":"unstick"}],"say":"Billy, stay put and dig out. Jason is coming west to you. I'm still sorting out this tree-top path."}
+- 00:35 act: {"actions":[{"do":"unstick"}]}
+- 00:35 act: {"actions":[{"do":"unstick"}]}
+- 00:35 act: {"actions":[],"say":"I keep getting caught in these birch leaves. I'll stop trying to cross here and wait for a clear way down. Billy, tell me if you're free."}
+- 00:37 act: {"actions":[{"do":"unstick"}]}
+- 00:37 act: {"actions":[{"do":"goto","target":{"x":-85,"y":65,"z":458}}]}
+- 00:40 act: {"actions":[],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{
