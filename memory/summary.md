@@ -1,4 +1,10 @@
-# Summary: Tommy, life 3 (life 28 by status), end of Day 210
+# Summary: Tommy, life 3 (life 28 by status), end of Day 212
+
+## Day 212 (end)
+- Mattered: I gave my last mutton to Jason for Kimberly. Kimberly is still cut off on sand at -316,62,219 by deep water; no dry route found. Jason, Trini and Billy scouted north and west and found only lake. Zack is on his stone pillar at -266,35,196, hungry; Jason carries 14 dirt for him.
+- I fell into the lake again on day 212 while going to the bed village. Lesson: stay on grass, do not follow a route that goes toward water.
+- Slept at the yellow bed at -281,69,291 with Picard nearby (he has a porkchop). Pack is empty.
+- Next: at first light, find a dry line to Kimberly with Jason; the mutton is Jason's to give.
 
 ## Day 210 (end)
 - Slept at a yellow bed near (-281, 69, 291) at night; sleep worked. Hunger 20, health 20 at sleep.
