@@ -1385,3 +1385,10 @@
 - 01:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Tommy here. It's dusk and I'm at the yellow beds with empty hands. I'm full, so I'm going to sleep here. Kimberly an
 - 01:39 act: {"actions":[],"say":"Tommy: I'm full, so I'll leave the beef for Kimberly and Trini. I'm staying at the beds and will sleep once it's night."}
 - 01:42 act: {"actions":[{"do":"sleep"}]}
+- 01:43 act: {"say":"Morning, Kimberly. I'm sending someone to look for cows and sheep to the north-west, near the water. I'll tell you what we find."}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":315}}],"intent":{"goal":"scout_cows_nw","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":300}},"wake_on":["goal_completed","unexpect
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":310}},{"do":"goto","target":{"x":-300,"y":67,"z":300}}]}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":300}}]}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":300}},{"do":"goto","target":{"x":-310,"y":67,"z":290}}]}
+- 01:43 act: {"say":"Zack, thanks. I'm already north-west at (-300, 69, 300) and it's night. No animals in sight yet. Let's look at first light. Trini and Billy, we'll meet at the yellow beds."}
+- 01:44 act: {"say":"Kimberly, nothing found north-west yet, and it's dark. I'm heading back to the yellow beds to sleep, and we'll search again at first light.","actions":[{"do":"goto","target":{"x":-271,"y":67,"
