@@ -46,3 +46,5 @@ What I hold to be true about the world and the people in it, as of Day 240.
 - Stone pillars and sand cut off by lake are traps, but they are not permanent: Kimberly and Zack both came back to the group.
 - Jason is alive (Days 227 to 229). My earlier note of his death on Day 203 was wrong.
 - Pillagers were seen to the south on Day 212; stay with the group when moving there.
+- Day 244: a creeper within about 9 blocks blocks sleep; wait for it to clear and try again, which worked.
+- Day 244: Riker was struck down and woke at spawn; his pile lies near -274, 68, 318.

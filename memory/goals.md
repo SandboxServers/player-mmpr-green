@@ -1,4 +1,6 @@
-# Goals (ranked, as of Day 240)
+# Goals (ranked, as of Day 244)
+
+0. Day 244 update: no food found; group hungry (Trini 3, Data 3, Riker weak). Food goes to the weakest first. Hold at the beds in sight of the group; call out any animal.
 
 1. Stay alive: be inside a bed or plank shelter before dusk, and never walk out at night. Reason: I died to phantoms on the lake shore at night (Day 239), and to skeletons in the open (Day 229). Death is permanent.
 2. Get a weapon and some wood or planks in hand (a wooden sword from Kimberly's and Wesley's logs, or my own). Reason: I have had no weapon for many days and was helpless against phantoms and skeletons.

@@ -38,3 +38,6 @@
 - Day 244 midday: following Beverly failed (not in sight). Held at the beds. West grass had no animals (Wesley, Worf). Group weak: Trini 3, Data 3, Jason 6. I hold swords and planks, no food. Staying at beds and calling out any animal.
 - 22:54 act: {"say":"Tommy at the beds. Riker, I'm sorry you lost your things; your pile is at -274, 68, 318. I have no food. Trini, you are first for anything I find. I'll walk the west grass in sight of the grou
 - 22:54 act: {"say":"Tommy: following Beverly failed, so I'll hold at the beds. Zack is 16 blocks east. Anyone who finds an animal, call it out and I'll come.","intent":{"goal":"hold_at_beds_for_calls","program":"
+- 23:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at the white bed, night of day 244. No food, health 20. Trying sleep with the group."}
+- 23:03 act: {"actions":[{"do":"sleep"}]}
+- Night day 244: sleep refused (creeper 9 blocks), retried after a wait, sleep worked. Health 20, no food.

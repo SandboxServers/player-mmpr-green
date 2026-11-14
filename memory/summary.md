@@ -1,9 +1,9 @@
-# Summary: Tommy, Day 243, after sleep
+# Summary: Tommy, Day 244, night, after sleep
 
 ## Where I am
-- At the white beds west of the lake, around (-271, 67, 336) and (-270, 67, 336). Lake lies west, x=-290 to -300.
-- Group was near at dawn day 243: Data, Billy, Riker, Worf, Zack, LaForge scouting west; Trini eating chicken first.
-- Health 20, hunger 20. Slept in the white bed on night of day 243 (days_since_sleep reset).
+- At the white beds west of the lake, around (-271, 67, 336). Slept in the white bed on night of day 244 (sleep worked, days_since_sleep reset).
+- Group is at the beds: Billy, Kimberly, Picard, Troi, Trini, Data, Worf, Zack, LaForge, Wcrusher. Riker's dropped pile is at -274, 68, 318.
+- Health 20, hunger 20 at last check. Iron golems and bows to the south and east; a creeper blocked sleep for a while.
 
 ## What I hold
 - 2 wooden swords, 6 oak planks, 2 oak logs, 2 sticks. No food.
