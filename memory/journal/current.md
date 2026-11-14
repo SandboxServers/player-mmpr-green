@@ -1,4 +1,5 @@
 # Journal
+- Day 210 (end): Woke at dusk, walked to the yellow beds with Billy, who was there. No food; hold 3 sticks and a wooden sword. Jason coming to the beds too. Slept in a bed at night; the sleep worked. Next: at first light find food by dry land (the pig at -353,65,227 is the only known food), go around the lake, stay in sight of the group, and ask Billy or Jason where they last saw animals.
 - Day 206 summary: searched dry grass for pig and chicken with Billy, Jason, Kimberly and Picard; no food found, lake was a danger again. Slept sheltered at the yellow beds. Jason holds a chicken for Picard. Next: first light, feed Picard first, stay in sight of the group, go around the lake on dry land.
 - 10:07 act: {"say":"Tommy here, awake by the yellow beds. Health and hunger are full. I'll stay here through the night and hunt at first light with the group.","intent":{"goal":"rest_until_first_light","program":
 - 10:08 act: {"say":"Morning. I'm heading for the pig at -353, 65, 227, going around the lake on dry land. Join me if you're close.","intent":{"goal":"reach_pig_at_dawn","program":"travel","arguments":{"target":{"
@@ -80,3 +81,5 @@
 - 11:38 act: {"say":"Billy, I'm coming with you to the yellow beds on grass. Tell me if the route turns toward water.","intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-274,"y":69
 - 11:38 act: {"intent":{"goal":"reach_yellow_beds_east","program":"travel","arguments":{"target":{"x":-281,"y":69,"z":291}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
 - 11:39 say: {"text":"I'm at the yellow beds on grass now. Going to sleep in the bed here, near Billy and Picard."}
+- 11:39 act: {"actions":[{"do":"wait","seconds":60}],"intent":{"goal":"rest_for_night_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"m
+- 11:40 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}]}
