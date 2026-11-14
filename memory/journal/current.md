@@ -1456,3 +1456,23 @@
 - 05:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Heading to the old bed for the night. I'll look for food in the morning.","reasoning":"Dusk, no food, long since sleep. Bed first, 
 - 05:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Night, bed here, 11 days unslept. Sleep then reflect."}
 - 05:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"First bed blocked; second bed tile is adjacent."}
+- 05:20 act: {"say":"Billy, I am starving and have no food. I have wheat seeds and a wooden hoe. Do you know where any food is?","intent":{"goal":"reach_old_farm","program":"travel","arguments":{"target":{"x":-251
+- 05:20 act: {"say":"Thank you Billy. I will sleep in the bed for the night and look for food at first light.","intent":{"goal":"reach_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake
+- 05:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 05:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 05:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"intent":{"goal":"reach_bed_again","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":354}},"wake_on":["directly_addressed","go
+- 05:21 act: {"actions":[{"do":"sleep"}]}
+- 05:30 act: {"say":"Morning all. Zack, I have no food, hunger 17. Could I have one mutton? I'll go east with you to the sheep and share what I find.","intent":{"goal":"reach_beds_for_food","program":"travel","arg
+- 05:30 act: {"say":"Zack, thank you. I'm coming to the beds now.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}}]}
+- 05:30 act: {"say":"Zack and Billy, I'm here at the beds with no mutton yet. Where are the sheep east? I'll head there and I'm willing to share what I find. Keep an eye on the iron golem to the north-west."}
+- 05:31 act: {"actions":[{"do":"eat"}],"say":"Thank you Zack. Eating now. I'll go east with you to the sheep."}
+- 05:31 act: {"say":"Hunger is 18 now, thanks to the mutton. Going east with you to the sheep. Zack, lead the way.","intent":{"goal":"follow_zack_to_sheep","program":"follow","arguments":{"target":"ag_zack_01"},"w
+- 05:31 act: {"say":"Zack, I'm following you. Please say where the sheep are and wait for me.","intent":{"goal":"reach_zack","program":"travel","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","
+- 05:31 act: {"say":"Zack, Billy, Trini, Jason, where are you? I can't see you from the beds. Tell me the way to the sheep and I'll walk there."}
+- 05:31 act: {"say":"I'll stay at the beds and wait for you, Zack. No sheep east, so we need another place. Trini, search south-east as you said and report.","intent":{"goal":"hold_at_beds_for_group","program":"re
+- 05:32 act: {"say":"Good, we're all at the beds. No sheep east, no food here. Trini is searching south, so let's wait for her report before we split up. I'll stay here."}
+- 05:32 act: {"say":"I'll keep watch at the beds. Report any sheep or cows you find, and I'll come to you."}
+- 05:36 act: {"say":"Zack, I'm coming to the sheep spot at (-300,65,262). Please keep one mutton for me.","intent":{"goal":"reach_sheep_spot","program":"travel","arguments":{"target":{"x":-300,"y":65,"z":262}},"wa
+- 05:37 act: {"say":"Thanks, Zack. Billy, if you catch a salmon, eat it or share it with whoever is hungriest. I'll head back to the beds with you before night.","intent":{"goal":"return_to_beds_before_night","pro
+- 05:37 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":355}}],"say":"Night is coming. Jason, I agree: we'll go to the sheep at first light. I'm heading to the beds now."}
+- 05:37 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
