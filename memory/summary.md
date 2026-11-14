@@ -1,7 +1,8 @@
 # Summary: Tommy, life 3 (life 29 by status), end of Day 212, asleep
 
-## Now (waking 305, night of Day 212)
-- Asleep in the yellow bed at -281,69,291 with Picard beside me (he holds a porkchop). Health 20, hunger 20, pack empty.
+## Now (waking 306, night of Day 212)
+- Asleep in the yellow bed at -281,69,291. Billy and Trini sleep at the beds nearby. Health 20, hunger 20, pack empty.
+- Handoff: I could not create day-212.md or the people/beliefs files (no create tool); this summary is the record for today.
 - Kimberly still on sand at -316,62,219, cut off by deep water. Jason holds 2 mutton for her. Zack on pillar at -266,35,196. Trini, Billy with the group at the beds.
 - Next: at first light, follow Jason on dry grass to Kimberly. Never enter deep water. Stay in sight of the group.
 

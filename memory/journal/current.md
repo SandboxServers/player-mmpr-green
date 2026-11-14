@@ -128,3 +128,4 @@
 - 12:20 act: {"say":"Tommy here, awake at the yellow beds, health and hunger full, pack empty. Jason, I'm with you for Kimberly on dry grass. Tell me the route and I'll walk it behind you.","intent":{"goal":"hold_
 - 12:20 act: {"say":"Understood, Jason. I'm holding at the yellow beds with Picard. No water for me until a dry line shows.","intent":{"goal":"hold_at_yellow_beds","program":"rest","arguments":{},"wake_on":["direc
 - 12:21 act: {"say":"Billy, good, come to the beds. I'm in the yellow bed here with Picard. Nobody goes near the water tonight.","actions":[{"do":"sleep"}]}
+- 12:22 say: {"text":"Tommy: I'm at the yellow bed, safe, hunger and health full. I'm sleeping now; Kimberly's errand waits for first light."}
