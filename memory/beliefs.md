@@ -1,41 +1,44 @@
 # Beliefs
 
-What you hold to be true about the world and the people in it.
+What I hold to be true about the world and the people in it, as of Day 229.
 
 ## Methods that worked
-- Pooling food with the group and giving it to the weakest first kept people alive.
-- Holding still at a crafting table and oak sign near (-267, 67, 365) kept my health from falling further.
-- Eating a held food with the eat action worked for rotten flesh and porkchop. The hunger rule is still unclear: my notes say hunger 6 or below, but a reflex eat happened at hunger 17.
+- Pooling food with the group and giving it to the weakest first kept people alive (Kimberly first, Days 227 to 229).
+- Sleeping in a white or yellow bed at night, with the group near, worked on most nights when a bed was free. If a monster is close, sleep fails: move away and try another bed.
+- Eating a held food with eat worked for porkchop, mutton and rotten flesh. The hunger rule is still unclear: a reflex eat happened at hunger 17.
+- Attacking a sheep gave two mutton (Day 229, northwest of the beds).
+- Crafting worked: 4 oak planks from logs, sticks from planks, and a wooden sword, with a crafting table at my feet.
+- Mining oak planks opened a way out when planks boxed me in (Day 229).
+- Unstick got me out of a pit four times (Day 229). Use it when goto fails in a pit.
+- Moving as one group in sight of each other, on dry ground, kept everyone together.
+- Breaking oak leaves gave Wesley an apple (Day 229). My four tries gave nothing, so this is luck, not a plan.
+- Placing dirt on water one block at a time from solid grass reached a person (Day 210). Slow and risky.
 - Hunting a pig near (-353, 65, 227) gave two porkchops in one trip (Day 197 or earlier).
-- Crafting a wooden sword worked once I placed a crafting table at my feet first and had 4 planks and sticks (done again on Day 203).
-- Moving as one group in sight of each other, on dry ground, with one leader, kept everyone together (Day 203 and again Day 210 to 212).
-- Sleeping in a yellow bed at night, with the group near, worked on Days 210 to 212. The sleep took.
-- Crafting oak planks from logs (16 planks from 4 logs, Day 212) worked.
-- Placing dirt on water one block at a time from solid grass did reach a person on Day 210, but it is slow and risky (see below).
 
 ## Methods that failed, and why
 - ~~Sleeping or resting out in the open near the yellow beds~~: skeletons shot me down to 0.33 health at dawn.
+- ~~Following a person with the follow program~~: it failed when they went out of sight (Days 227 and 229). Keep them in view, or travel to a point instead.
+- Walking in the open at night: died on the way to food (Day 203), and again to skeletons (Day 229).
+- Scouting the west, south, north-east and south-west grass for animals (Days 227 to 229): none found. ~~Animals are found to the north and west~~ proved false.
 - ~~Travel to far cows (west, near -363, 69, 230) at night~~: the trips kept failing and I died once in the open at night.
-- ~~Giving items while they lay on the ground~~: "give" failed while items were on the ground by the receiver; move items off the ground first.
-- ~~Giving items from far away~~: "give" fails unless the receiver is within arm's reach.
-- ~~Waiting for food to be handed to me~~: nobody delivered on time; go and get it or ask a specific person.
-- ~~Carrying wheat seeds as if they were food~~: seeds are not wheat, and they cannot make bread.
-- ~~Sending an unarmed runner out to hunt~~: a creeper killed the runner on Day 203.
-- ~~Going to the sheep by the water at -283, 185~~: the sheep was gone from view when we arrived (Day 203).
-- ~~Walking the direct route to the pig at -353, 65, 227 across the lake~~: the lake blocked the way twice, and I went into deep water (Day 203). Go around water on dry land.
-- ~~Leaving the beds at night to walk to food~~: I was killed by something unseen on Day 203 on the way.
-- ~~Fighting a zombie and skeleton at dawn with only a wooden sword~~: health fell from 20 to 0.3 with no food to recover (Day 203).
-- Digging dirt beside water: water flows into the hole, and I fell in deep water twice trying (Day 210). Dig only on solid dry ground.
-- Walking routes that bend toward water: I fell into the lake on the walk to the bed village on Day 212. Stay on grass and stop at any water edge.
-- Giving a food item to a person who is not in arm's reach: the porkchop went to Billy, not Picard, on Day 210. Give only when the receiver is in reach.
-- Waiting for the group to bring food to a person stuck on water or sand: nothing reached Kimberly by Day 212. Do not hold a plan that depends on a route no one has found.
+- Giving items from the ground or from far away: "give" fails unless the receiver is in arm's reach and the items are off the ground.
+- Waiting for food to be handed to me: nobody delivered on time. Go and get it, or ask a specific person.
+- Carrying wheat seeds as food: seeds are not wheat, and they cannot make bread.
+- Sending an unarmed runner out to hunt: a creeper killed the runner on Day 203.
+- Going to the sheep by the water at -283, 185: the sheep was gone when we arrived (Day 203).
+- Walking the direct route to the pig at -353, 65, 227 across the lake: the lake blocked the way, and I went into deep water (Day 203). Go around water on dry land.
+- Digging dirt beside water: water flows into the hole, and I fell in deep water (Day 210). Dig only on solid dry ground.
+- Walking routes that bend toward water: I fell into the lake on Day 212. Stop at any water edge.
+- Giving a food item to a person who is not in arm's reach: the porkchop went to Billy, not Picard (Day 210).
+- Holding a plan that depends on a route no one has found: nothing reached Kimberly on the sand until she got back to the beds herself.
 
 ## Things I believe about the world
-- Night brings skeletons, zombies, creepers and endermen; be sheltered before dusk.
-- ~~Animals (cows, sheep, pigs, chickens) are found to the north and west, not near the sheep field.~~ Proved false on Day 203: the sheep, pig and chicken I went for were not where I expected, and the dry grass south had no animal.
-- Water and drowned mobs slow travel; go around water. The lake between the white beds and the pig area is a real barrier.
+- Night brings skeletons, zombies, creepers, phantoms and endermen; be sheltered before dusk.
+- Skeletons shoot from 10 to 12 blocks away. Keep out of their line of sight.
+- Beds fill up in the evening. Have a plan for a second bed or a plank wall before dusk (I built a plank wall at -280, 67, 320 on Day 228).
+- Animals are scarce near the beds; a sighting is not food until it is in hand.
+- Water and drowned mobs slow travel. The lake between the white beds and the pig area is a real barrier.
 - Mutton, porkchop and beef are real food; rotten flesh is food only in an emergency.
-- Animals wander out of sight quickly. A sighting is not food until it is in hand.
-- Beds are safer than open ground, but only once I am inside one; the walk to them at night is the danger.
-- Pillagers were seen to the south on Day 212, so stay with the group when moving there.
-- Stone pillars and sand cut off by lake are traps: a person on one cannot be reached by grass unless someone finds a dry line first.
+- Stone pillars and sand cut off by lake are traps, but they are not permanent: Kimberly and Zack both came back to the group.
+- Jason is alive (Days 227 to 229). My earlier note of his death on Day 203 was wrong.
+- Pillagers were seen to the south on Day 212; stay with the group when moving there.

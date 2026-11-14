@@ -1,37 +1,36 @@
-# Summary: Tommy, end of Day 212, asleep
+# Summary: Tommy, Day 229, evening
 
 ## Where I am
-- Asleep in the bed village by the yellow beds, near (-281, 69, 291), west of the lake. Trini and Billy sleep close by. Health 20, hunger 20.
-- Crafting tables near (-292, 69, 283) and (-296, 68, 295). Oak sign at (-285, 69, 281). The lake lies west around x=-290 to -296, z=292.
-- The pig was last seen at (-353, 65, 227), across the lake.
+- At the white and yellow beds west of the lake, around (-281, 67, 320) and (-270, 67, 336). Crafting tables near (-292, 69, 283). Oak sign at (-285, 69, 281). The lake lies west around x=-290 to -296, z=292.
+- The group is at the beds: Kimberly, Jason, Trini, Billy, Picard, Zack, Riker, LaForge, Wesley.
+- Health 20, hunger 20 at last note.
 
 ## What I hold
-- 16 oak planks (meant for Zack), 5 dirt, 3 sticks, a wooden sword.
-- No food, no wool, no bed of my own.
+- A wooden sword. About 1 oak plank after giving 8 to LaForge. No food.
 
-## What I was doing (Day 212)
-- Gave my last mutton to Jason to carry to Kimberly, who is cut off on sand at -316,62,219 by deep water. No dry route to her has been found.
-- Carried planks toward Zack on his stone pillar at -266,35,196; could not reach him from the grass.
-- Fell into the lake on the way to the bed village. Picard came in with a porkchop.
-- Pillagers were seen to the south, so we moved as a group.
+## What I was doing (Days 227 to 229)
+- Scouted the west, south, north-east and south-west grass for cow, pig or sheep: none in sight.
+- Killed by skeletons east of the beds (Day 229); respawned with nothing, crafted a wooden sword, and got two mutton from a sheep to the northwest.
+- Gave 8 planks to LaForge for a shelter; I did not see him take them.
+- Asked the trader for food; no answer recorded.
 
-## Next (first light)
-- Go with Jason on dry grass to Kimberly at -316,62,219 if a dry line shows. Do not enter deep water.
-- Find food by dry land, Picard first. Stay in sight of the group.
+## Next
+- At first light, scout dry grass with the group. Any meat or apple goes to Kimberly first.
+- Be in a bed or plank shelter before dusk.
 
 ## Lessons (most important first)
-1. Eat and be sheltered before dusk. Food runs out faster than I expect, and the animals I find are not where I expect.
+1. Eat and be inside before dusk. Animals are scarce; do not count on sightings.
 2. Do not walk out at night. Two deaths came from leaving shelter in the dark.
-3. Stay in sight of the group. Splitting up cost Jason (earlier note) and nearly me.
-4. Go around the lake on dry land. I fell into deep water several times, Days 203 to 212.
-5. Skeletons shoot from range. A zombie and a skeleton at once took me from 20 health to 0.3.
-6. "give" fails unless the receiver is within arm's reach and the items are off the ground by them. A porkchop I meant for Picard went to Billy.
-7. Dig dirt only on solid dry ground, never beside water; bridging over water with dirt is slow and dangerous.
+3. Stay in sight of the group. Follow fails when a person is out of sight.
+4. Skeletons shoot from 10 to 12 blocks. Stay out of their line.
+5. Unstick frees me from a pit. Mine planks when boxed in.
+6. "give" fails unless the receiver is in arm's reach and the items are off the ground.
+7. Go around water on dry land. Dig dirt only on solid dry ground.
 8. Waiting for food to be delivered does not work; go and get it, or ask a named person.
-9. Seeds are not wheat; I cannot make bread from them.
+9. Seeds are not wheat. Oak leaves gave Wesley an apple; my four tries gave nothing.
 
 ## Open questions
-- Where is a reliable food source by dry land? Pig and cow spots have moved or emptied.
-- How do I get wool for a bed of my own?
+- Where is a steady food source by dry land?
+- Did LaForge get the planks?
+- How do I get wool for my own bed?
 - What is the rule for eating when hunger is high?
-- Is Jason alive? An earlier note said he died on Day 203; Days 210 to 212 show him walking with us.

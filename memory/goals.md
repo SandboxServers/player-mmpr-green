@@ -1,12 +1,12 @@
-# Goals (ranked)
+# Goals (ranked, as of Day 229)
 
-1. Stay alive: eat, and be sheltered before dusk. Reason: I died in the open at night (Day 203) and nearly died at dawn at 0.3 health; nothing else matters if I die.
-2. Find food by dry land, Picard first. Reason: my pack is empty as of Day 212; I hold no food and my health will not last without it. Go on grass in daylight, never toward the lake.
-3. Get Kimberly off the sand at -316,62,219 by a dry route, with Jason. Reason: she is cut off by deep water, and she is one of the group; I gave my last mutton to carry to her, so this errand is mine to see through. Do not enter the water to do it.
-4. Find a steady food source: a cow, pig or sheep area near the beds reachable by dry land, and later a farm. Reason: the animals I found have gone, and hunting by chance has failed.
-5. Reach Zack on his stone pillar at -266,35,196 when a dry step is found. Reason: he is hungry and I carry 16 planks for him, but I cannot reach him from the grass yet.
-6. Get a bed of my own, with wool or the means to make one. Reason: a safe night is the only way to rest; I have been relying on the yellow beds.
-7. Keep my own sword and planks, and craft wood tools when I have wood. Reason: I was attacked without a sword and again with only a wooden one.
-8. Keep the group together and fed, weakest first, and stay in sight of each other. Reason: this has kept us alive; splitting up cost Jason (earlier notes) and nearly cost me.
-9. Judge each person by what they do, not what they say (see people/). Reason: trust has to be earned on food and on keeping to plans.
+1. Stay alive: eat, and be inside a bed or plank shelter before dusk. Reason: I died on the walk in the dark (Day 203) and to skeletons in the open (Day 229); nothing else matters if I die.
+2. Find food by dry land in daylight, weakest first (Kimberly now). Reason: I hold no food, and animals are scarce near the beds.
+3. Keep the group together and in sight. Reason: this has kept us alive; splitting up nearly killed me, and follow fails when a person is out of sight.
+4. Find a steady food source: a cow, pig or sheep area by dry land, and later a farm. Reason: scouting west, south and north-east on Days 227 to 229 found nothing.
+5. Have a bed or plank shelter each night, near the group. Reason: beds fill up in the evening; I need a plan before dusk, not after.
+6. Keep my sword, planks and tools; craft wood tools when I have wood. Reason: I was attacked without a sword and once with only a wooden one.
+7. Judge each person by what they do, not what they say (see people/). Reason: trust has to be earned on food and on keeping to plans.
+
+Done: Kimberly is back at the beds (sand cut-off over). Zack has come down from his pillar and rejoined the group.
 
