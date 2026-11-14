@@ -100,3 +100,26 @@
 - 07:42 act: {"actions":[{"do":"attack","target":"zombie"}]}
 - 07:42 act: {"actions":[{"do":"goto","target":{"x":-285,"y":64,"z":193}},{"do":"attack","target":"zombie"}]}
 - 07:42 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_sword","count":1}]}
+- 07:44 act: {"intent":{"goal":"reach_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":68,"z":364}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 07:44 act: {"say":"Tommy here, at the yellow beds with nothing. I have no food and no sword. Kimberly, if a mutton is left after Jason, I'd be grateful. I'll stay by the beds tonight."}
+- 07:47 act: {"intent":{"goal":"gather_oak_log_for_sword","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
+- 07:47 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":353}},{"do":"mine","block":"oak_log","count":4}]}
+- 07:48 act: {"actions":[{"do":"goto","target":{"x":-251,"y":67,"z":357}},{"do":"mine","block":"oak_log","count":3},{"do":"mine","block":"birch_log","count":2}],"say":"Kimberly, I hear you. I'm getting wood to mak
+- 07:48 act: {"actions":[{"do":"goto","target":{"x":-253,"y":67,"z":359}}]}
+- 07:48 act: {"actions":[{"do":"mine","block":"oak_log","count":3},{"do":"mine","block":"birch_log","count":2}]}
+- 07:48 act: {"intent":{"goal":"gather_wood_for_sword","program":"gather","arguments":{"block":"oak_log","count":4},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
+- 07:48 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":4}],"say":"Zack, thanks. I'll make a sword and join you to hunt cows north."}
+- 07:48 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_sword","count
+- 07:48 act: {"intent":{"goal":"walk_north_to_cows","program":"travel","arguments":{"target":{"x":-250,"y":67,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 07:49 act: {"intent":{"goal":"walk_north_to_pig","program":"travel","arguments":{"target":{"x":-250,"y":67,"z":300}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
+- 07:49 act: {"intent":{"goal":"travel_to_cow_spot","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":250}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 07:49 act: {"intent":{"goal":"travel_to_sheep_east","program":"travel","arguments":{"target":{"x":-200,"y":67,"z":235}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 07:50 act: {"intent":{"goal":"hunt_cow_west","program":"travel","arguments":{"target":{"x":-284,"y":65,"z":235}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limit
+- 07:50 act: {"intent":{"goal":"hunt_sheep_north","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":214}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 07:50 act: {"intent":{"goal":"hunt_sheep_north_alt","program":"travel","arguments":{"target":{"x":-272,"y":66,"z":218}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 07:51 act: {"intent":{"goal":"check_dropped_item_nw","program":"travel","arguments":{"target":{"x":-284,"y":64,"z":205}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 07:51 act: {"intent":{"goal":"hunt_sheep_290_192","program":"travel","arguments":{"target":{"x":-290,"y":64,"z":192}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 07:51 act: {"intent":{"goal":"wait_by_group_and_watch_wolf","program":"rest","arguments":{"seconds":120},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":600,"max
+- 07:55 act: {"intent":{"goal":"walk_to_yellow_beds","program":"travel","arguments":{"target":{"x":-272,"y":68,"z":364}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],
+- 07:55 act: {"intent":{"goal":"walk_to_yellow_beds","program":"travel","arguments":{"target":{"x":-272,"y":68,"z":364}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 08:00 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}],"say":"It's dusk. Trini, Zack and Billy, the yellow beds here are free. I'm going to bed at -272,68,364."}
