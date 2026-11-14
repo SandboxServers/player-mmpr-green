@@ -76,3 +76,28 @@
 - 15:08 act: {"say":"Tommy at -168,89,225. No pig in sight here, no animals at all. Billy and Picard are with me. I'll scan on dry grass nearby and call out at once if I see one."}
 - 15:11 act: {"say":"Billy, Picard: the west grass is past the lake, and I won't go there alone. I'm walking back toward the yellow beds with my eyes open for animals on dry ground. Meet at -270,67,296.","intent":
 - 15:12 act: {"say":"I'm at the yellow beds with Kimberly. I'll scout 8 blocks west on dry grass in sight of the group and call out any animal.","intent":{"goal":"scout_west_near_camp","program":"travel","argument
+- 15:19 act: {"say":"Dusk. Kimberly, I'm going into the yellow bed at -274,69,291 for the night. Health 20, hunger 20, no food. Morning first light: meat goes to the weakest first.","actions":[{"do":"goto","target
+- 15:23 act: {"say":"Zack, hold on in your walls. We can't reach you safely in the dark. At first light I'll come with food if anyone finds any.","actions":[{"do":"sleep"}]}
+- 15:24 act: {"say":"All the beds nearby are taken. I'm at -280,67,320 with 11 planks, building a plank wall to shelter for the night.","intent":{"goal":"plank_shelter_for_night","program":"build","arguments":{"bl
+- 15:24 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Jason, I'm in the white bed at -281,67,320 for the rest of the night, with a plank wall up. Health 20, no food."}
+- 15:28 act: {"say":"Tommy here, dawn. I'm at -278,68,306 with no food, health 20. Kimberly, you're weakest: any meat goes to you first.","actions":[{"do":"goto","target":{"x":-270,"y":68,"z":300}}],"intent":{"goa
+- 15:28 act: {"actions":[{"do":"goto","target":{"x":-262,"y":68,"z":300}}],"reasoning":"Scout open dry grass near the group, within sight of Kimberly.","say":"Tommy scouting dry grass nearby for animals, staying i
+- 15:28 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":305}},{"do":"wait","seconds":5}],"reasoning":"One more short scout on grass within 30 blocks.","intent":{"goal":"scout_food_animals","program":"t
+- 15:28 act: {"say":"No food found on the grass to the east. Kimberly, I'm heading toward you at -291,68,300 to stay in sight. Tell me where you are.","actions":[{"do":"goto","target":{"x":-286,"y":68,"z":300}}]}
+- 15:28 act: {"say":"Thanks Kimberly. I'm coming to you now; I'll keep within sight and call anything I see.","actions":[{"do":"goto","target":{"x":-288,"y":68,"z":300}}]}
+- 15:28 act: {"actions":[{"do":"goto","target":{"x":-288,"y":68,"z":300}}]}
+- 15:29 act: {"say":"I'm with you now at -287,68,300, Jason and Kimberly both in sight. No food yet. Let's scout together, Kimberly first for any meat."}
+- 15:41 act: {"say":"Tommy: dusk, still no food. I'm going to the yellow bed near -281,69,292 for the night, with the group nearby. First light, scouting again.","actions":[{"do":"goto","target":{"x":-281,"y":69,"
+- 15:41 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}]}
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}},{"do":"sleep"}]}
+- 15:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"sleep"}],"say":"A phantom is about, so I'm going to the free white bed to sleep."}
+- 15:44 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":318}}]}
+- 15:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}},{"do":"sleep"}]}
+- 15:49 act: {"actions":[{"do":"goto","target":{"x":-277,"y":66,"z":330}}],"say":"Morning. I'm heading south over the grass to look for sheep, cow or pig. Meat goes to Kimberly first."}
+- 15:50 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":333}}],"say":"Kimberly, I'm coming south-west to scout with you. I'll call out any animal I see."}
+- 15:51 act: {"actions":[],"say":"Tommy here. No animals in sight from where I stand. I'll scout the grass to the west with Picard and call out any cow, pig or sheep."}
+- 15:51 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":329}}],"say":"Tommy: coming west to you, Trini. Still no animals in sight from here."}
+- 15:56 act: {"say":"Tommy: still holding on the grass with Trini and Billy, Jason and Kimberly in sight. No animal yet. I'll keep watch to the west.","intent":{"goal":"hold_with_group_watch_for_animals","program"
+- 15:56 act: {"say":"Tommy: holding with you, Kimberly. Zack, come south-west to us on the grass. Still no animal in sight.","intent":{"goal":"hold_with_group_watch_for_animals","program":"rest","arguments":{},"wa
+- 16:00 act: {"say":"Tommy: dusk. I'm heading to the white bed at -270,67,336 with Trini and the group. Zack, come to the beds.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 16:00 act: {"actions":[{"do":"sleep"}]}
