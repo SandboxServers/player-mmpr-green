@@ -162,3 +162,10 @@
 - 21:30 act: {"actions":[{"do":"note","text":"Heard Trini at 3 health, Wesley sending his last log to me. Still no items. Staying at the white beds in sight of the group."}],"say":"Thank you Wesley. When the log a
 - 21:30 act: {"actions":[{"do":"note","text":"Still at the white beds, health 20, hunger 20, pack empty. Wesley's log has not arrived yet. Laforge is making a sword from his logs. Waiting for food news and staying
 - 21:35 act: {"actions":[{"do":"note","text":"Kimberly is holding 3 oak logs for my sword. I am in her reach at the white beds. Asking her to hand them over."}],"say":"Kimberly, I'm in sight now at the white bed. 
+- 21:38 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"oak_log","count":1}],"say":"Kimberly, I'm right beside you. Please give me your 3 oak logs now, and Wesley's too when he arrives. I will make a s
+- 21:38 act: {"actions":[{"do":"goto","target":{"x":-252,"y":67,"z":338}},{"do":"mine","block":"oak_log","count":4}],"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":4},"
+- 21:39 act: {"actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"stick","count":4},{"do":"goto","target":{"x":-268,"y":67,"z":329}},{"do":"craft","item":"wooden_sword","count":1}],"say":
+- 21:39 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}]}
+- 21:39 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":329}},{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"craft_wooden_sword","program":"craft","arguments":{"item":"wooden_sword","c
+- 21:41 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":329}},{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"inten
+- 21:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["goal_complete
