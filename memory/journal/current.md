@@ -25,3 +25,31 @@
 - 18:55 act: {"actions":[{"do":"unstick"}]}
 - 18:56 act: {"actions":[{"do":"note","text":"Got out of a pit at (-215,66,265). Stopping to stay put near the group area. No food yet; hunger and health full."}]}
 - 19:00 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-216,"y":67,"z":265}}],"intent":{"goal":"rest_sealed_in_pit","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage
+- 19:05 act: {"intent":{"goal":"rest_until_dawn","program":"rest","arguments":{"where":"pit at -216,66,265"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"m
+- 19:09 act: {"intent":{"goal":"join_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":316}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"
+- 19:09 act: {"say":"Tommy here at the white beds, hunger 20, no food. I'll search the grass to the north-east for animals and call out anything I find.","intent":{"goal":"scout_north_east_grass_for_food","program
+- 19:09 act: {"intent":{"goal":"scout_north_grass_for_food","program":"travel","arguments":{"target":{"x":-250,"y":67,"z":268}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_compl
+- 19:10 act: {"intent":{"goal":"scout_further_north_for_food","program":"travel","arguments":{"target":{"x":-248,"y":67,"z":235}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_com
+- 19:10 act: {"intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-245,"y":67,"z":205}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
+- 19:10 act: {"say":"Tommy at (-245,206): a horse to the north-east, and bees, but no cow, pig, sheep or apple. Still searching north.","intent":{"goal":"scout_north_for_animals_2","program":"travel","arguments":{
+- 19:10 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":316}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
+- 19:11 act: {"say":"Tommy back at the beds. Scouted north to (-241,175): a horse and bees, no cow, pig, sheep or apple. Hunger still 20. I'll go with the group on the next search.","actions":[{"do":"note","text":
+- 19:11 act: {"say":"Zack reports a pig about 24 blocks west, near -338, 64, 223. I'm heading there now. Troi, Data, join me if you can.","intent":{"goal":"reach_pig_west","program":"travel","arguments":{"target":
+- 19:11 act: {"actions":[{"do":"attack","target":"pig"}],"intent":{"goal":"take_pig_food","program":"gather","arguments":{"block":"pork","count":1},"wake_on":["directly_addressed","unexpected_damage","goal_complet
+- 19:12 act: {"say":"I got 3 porkchop from the pig. I'll keep one for whoever is weakest and share the rest. Nobody needs to hunt that pig again.","intent":{"goal":"return_to_group_at_beds","program":"travel","arg
+- 19:12 act: {"intent":{"goal":"hold_beds_and_share_food","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operation
+- 19:13 act: {"say":"Jason, Billy isn't in sight to me yet. When he is, he gets the first porkchop, then you get the next. I'll keep the other two until I can see you.","actions":[{"do":"note","text":"Porkchop x3 
+- 19:14 act: {"say":"I'm standing right next to the white bed at -281, 67, 319 with 3 porkchop. Walk up to me and I'll hand them out: Billy, Jason, then Worf or LaForge. Say your name when you're in reach."}
+- 19:15 act: {"actions":[{"do":"give","to":"Jason","item":"porkchop","count":1}],"say":"Jason, here is one porkchop. I'm keeping the other two for Billy and Worf."}
+- 19:15 act: {"actions":[],"say":"Still holding 3 porkchop. Billy first, since he's at the yellow bed. Jason, I'm sorry, I'll hand you one as soon as Billy has his."}
+- 19:16 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":1}],"say":"Jason, giving you one porkchop now. Billy is with Riker and has his salmon. Worf is next after you."}
+- 19:16 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"porkchop","count":1}],"say":"Picard, here is one porkchop. I'm keeping the last one for Worf, who is next on the list."}
+- 19:16 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"porkchop","count":1}],"say":"Picard, my last porkchop goes to you. Jason, if the second one went to you by mistake, please pass it to Worf."}
+- 19:16 act: {"actions":[],"say":"Jason, you now hold the spare porkchop from my gives. Please pass it to Picard, hunger 14. I have no food left.","intent":{"goal":"shelter_wait","program":"rest","arguments":{},"w
+- 19:17 act: {"actions":[],"say":"Picard, I have no porkchop left. Jason's spare is with you now, so eat that. I'm going to build a shelter with my planks next."}
+- 19:20 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":319}}],"say":"Tommy: I'm out of food and it's dusk. Heading to the white bed at -281,67,320 to shelter for the night.","intent":{"goal":"reach_wh
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":336}}],"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":{"name":"night_wall","blocks":[{"block":"oak_planks","dx":2,"
+- 19:21 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 19:22 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
