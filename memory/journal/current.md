@@ -4,3 +4,7 @@
 - 06:17 act: {"actions":[{"do":"craft","item":"stick","count":4}],"say":"Thanks, I got 3 planks from the ground somewhere. Troi, I'll come west with you. I'll craft sticks first, then a sword if I have enough wood
 - 06:19 act: {"say":"Tommy: I'll keep with the group in short steps west. Dusk is near and I have only one plank, so I will look for a bed or shelter with Clark before dark.","intent":{"goal":"stay_with_group_unti
 - 06:19 act: {"say":"Billy, I'll stay close to your shelter tonight. I have one plank and 4 sticks to add if you need them. Can I come inside before dark?","reasoning":"Dusk near, no shelter of mine. Stay near Bil
+- 06:23 say: {"text":"Tommy here, back. Staying by the group until dawn. I have 1 plank and 4 sticks to share if anyone needs them."}
+- 06:28 act: {"say":"A skeleton is shooting from the north-east. I'm moving in beside Macdonald.","actions":[{"do":"goto","target":"ag_macdonald_01"}],"intent":{"goal":"stay_with_group_till_dawn","program":"rest",
+- 06:28 act: {"say":"Skeleton 6 blocks north shooting. Following Macdonald south out of its line.","actions":[{"do":"goto","target":"ag_macdonald_01"}]}
+- 06:28 act: {"say":"Heading south to the group, away from the skeleton.","actions":[{"do":"goto","target":"ag_billy_01"}]}
