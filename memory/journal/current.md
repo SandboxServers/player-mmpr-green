@@ -10,3 +10,11 @@
 - 02:35 act: {"say":"Tommy at midday, day 255. Hunger 14, no food. I'm staying at the white beds in sight of Jason and the group, and I'll search the grass nearby for animals. Any meat goes to Trini, Data, then Ja
 - 02:38 act: {"say":"Tommy, afternoon day 255. Still no food. Bows are firing from the west and south-west, so I'm moving to the yellow bed at -241,69,344 with Jason to be near the group before dusk.","intent":{"g
 - 02:42 act: {"actions":[{"do":"use","at":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"say":"Tommy at night, day 255, at the yellow bed with the group. Trying to sleep here now."}
+- 02:43 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"Tommy at night, day 255, at the white beds. Trying the bed here; no food yet, wheat is unripe.","reasoning":"A creeper blocked sleep; I'
+- 02:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Use is not ready; try sleep directly, I'm standing at the bed group with people in reach."}
+- 02:45 act: {"actions":[{"do":"sleep"}],"say":"Tommy at the white beds, night of day 255. No food, hunger 14. Trying to sleep now that no monsters are in sight.","reasoning":"No monsters in sight; the group is in
+- 02:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"I drifted north to z 327. Return to the bed group and try sleep again once the creeper is out of range."}
+- 02:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"Trini and the group are in reach near the beds. Move to the bed and try sleep again."}
+- 02:50 act: {"actions":[],"say":"Tommy at dawn, day 256. No food, hunger 14, health 16. I'm at the white beds with Billy, Worf, Wesley, Trini and Picard. I hold 7 wheat seeds for Wesley's farm. I'll search the gr
+- 02:50 act: {"actions":[],"intent":{"goal":"search_grass_with_billy","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"m
+- 02:55 act: {"say":"Tommy, day 256. No food either. I'll search the grass near the beds for animals and stay in sight of the group. Trini gets any meat first.","actions":[{"do":"goto","target":{"x":-268,"y":66,"z
