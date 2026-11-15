@@ -83,3 +83,23 @@
 - 00:29 act: {"actions":[],"say":"Tommy at the white beds, dawn of day 249. Health 20, hunger 20, no food; sleep did not count. Trini, you are first for anything I find. I'll stay here in sight and call out any an
 - 00:33 act: {"say":"Tommy back online at the white beds, day 249. Health 20, hunger 20, no food. Any animal you find, call it out and I'll come. Trini first.","intent":{"goal":"hold_at_beds_for_food_calls","progr
 - 00:42 act: {"say":"Tommy at the white bed, night of day 249. No food, health 20. Trying sleep with the group. Trini first at light.","actions":[{"do":"sleep"}]}
+- 00:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Geldar: at the white bed for the night. Hunger 20, no food on me. Trini first for food at light."}
+- 00:44 act: {"actions":[{"do":"sleep"}]}
+- 00:44 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 00:44 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 00:46 act: {"actions":[{"do":"sleep"}],"say":"Tommy at the yellow bed with Riker, Troi and Kimberly, night of day 249. No food, health 20. Trying sleep again."}
+- 00:46 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}],"say":"Tommy at -240, 69, 344, health 19, hunger 19, no food. Walking back to the white beds to be with the group. Trini first for any foo
+- 00:47 act: {"actions":[{"do":"sleep"}]}
+- 00:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_co
+- 00:49 act: {"actions":[{"do":"note","text":"Dawn day 250. Bed at -271,67,336 reached; sleep not needed now. No food on me. Searching the grass south for animals, Trini first for any food."}],"say":"Tommy here, d
+- 00:49 act: {"actions":[{"do":"note","text":"Day 250 morning: at -269,67,365 on the grass south of the beds. No animals or food in sight. Health 20, hunger 17. Trying east along the grass, Trini first for any foo
+- 00:49 act: {"actions":[{"do":"note","text":"Day 250 morning: east grass at -241,67,368. No animals or food seen. Iron golem 23 blocks north-west. A sign here reads 'Here lies ag_tommy_01, Day 171, slain' (an old
+- 00:50 act: {"actions":[{"do":"note","text":"Day 250 morning: reached -215,68,372 on the east grass. Still no animals or food. Birch and oak trees here. Health 20, hunger 17. Going south-east next."}],"say":"Tomm
+- 00:50 act: {"actions":[{"do":"note","text":"Day 250 morning: at -200,67,394. Searched east and south-east grass and trees: no animals or food. Too far from the group, so walking back to the white beds to stay wi
+- 00:50 act: {"actions":[{"do":"note","text":"Day 250 dusk: back at white bed -270,67,337 with Trini and Picard. Health 20, hunger 17, no food found today. Iron golems 7-12 blocks south. Trying sleep in the bed."}
+- 00:54 act: {"actions":[{"do":"note","text":"Day 250 dark, thunder: at white bed with Trini, Riker, Billy, Wcrusher. Sleep refused, not night yet. Cow seen near -286,66,245 (Laforge); Troi went for it. Staying at
+- 00:55 act: {"actions":[{"do":"sleep"}]}
+- 00:58 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy: going to bed at the white bed now. I have no food; Trini gets any porkchop first."}
+- 01:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
