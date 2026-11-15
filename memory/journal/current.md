@@ -8,3 +8,8 @@
 - 06:28 act: {"say":"A skeleton is shooting from the north-east. I'm moving in beside Macdonald.","actions":[{"do":"goto","target":"ag_macdonald_01"}],"intent":{"goal":"stay_with_group_till_dawn","program":"rest",
 - 06:28 act: {"say":"Skeleton 6 blocks north shooting. Following Macdonald south out of its line.","actions":[{"do":"goto","target":"ag_macdonald_01"}]}
 - 06:28 act: {"say":"Heading south to the group, away from the skeleton.","actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 06:29 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":250}}],"intent":{"goal":"get_clear_of_skeleton","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":250}},"wake_on":["goal_completed","
+- 06:29 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-300,"y":66,"z":252}}],"say":"Health 3. Blocking the skeleton's line with a plank."}
+- 06:29 act: {"actions":[],"say":"Health 3, hunger 17, no food. Staying near Wesley and Clark in the daylight. Does anyone have food to spare?"}
+- 06:30 act: {"actions":[],"say":"Thank you. I am the weakest, health 3, so the first fish to me please. I'll stay on the shore and not go into the water."}
+- 06:34 act: {"actions":[],"say":"Wesley, I understand about the salmon. Health 3 and hunger 17 for me now. The next fish to me, please. I'm staying on the shore."}
