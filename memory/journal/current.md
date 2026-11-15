@@ -73,3 +73,10 @@
 - 08:02 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"fee
 - 08:02 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"say":"I'm climbing out at -311,65,322, almost at the top. Stay near; I'll come up on the e
 - 08:02 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-300,"y":65,"z":322}}],"say":"I'm at -311,63,322, boxed in by someone's block above me. Trying to get out east toward the group.","reasoning":"B
+- 08:10 act: {"actions":[],"say":"Morning. I'm still in the shaft at -310,62,322, boxed in by a block above me. I have 5 planks. If anyone can drop a pickaxe at the edge, I can dig east out.","reasoning":"Ask for 
+- 08:12 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"say":"Picard, an axe won't break stone, so keep it. I'm trying to climb with planks now. I
+- 08:13 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Keep rising while the way is clear."}
+- 08:13 act: {"actions":[{"do":"unstick"}],"say":"I'm at -310,66,322, almost up. Climbing out to the surface now.","reasoning":"Near the top of the pit. Unstick should free me now."}
+- 08:13 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Different move from unstick: place a plank to rise."}
+- 08:14 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":322}}],"reasoning":"Top of the pit now. Try walking east to the group."}
+- 08:14 act: {"actions":[],"say":"I'm at -309,66,322, at the top of the pit with dirt and stone around me. East is blocked and I'm out of planks. Picard, Wesley, if you can drop 4 planks next to me, I can step out
