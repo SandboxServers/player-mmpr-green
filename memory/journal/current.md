@@ -11,3 +11,4 @@
 - 19:42 act: {"intent":{"goal":"wait_out_night_here","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operations":8
 - 19:49 act: {"actions":[{"do":"unstick"}],"say":"It is dawn. I am still in the stone at (-313, 47, 321). Anyone near the west edge: I need planks or a pickaxe, or any food. Please come.","reasoning":"Dawn. Still 
 - 19:49 act: {"actions":[{"do":"unstick"}],"say":"Still in the stone pit, now at (-315, 46, 323). Please bring planks or a pickaxe to the edge if you can hear me.","reasoning":"Perched; unstick again. Nothing else
+- 19:53 act: {"actions":[{"do":"goto","target":{"x":-311,"y":47,"z":321}}],"say":"It is day. I am trying to walk east out of the stone.","reasoning":"Daylight now. Try a short walk east out of the stone walls."}
