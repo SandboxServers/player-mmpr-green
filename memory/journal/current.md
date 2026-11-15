@@ -18,3 +18,5 @@
 - 23:38 act: {"say":"No chickens at the spot either. I'm going back to the beds to share that and see who is still hungry.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":430,"y":1
 - 23:38 act: {"say":"Trini, good. I'm full, so keep your food for whoever drops to 6 or lower. I'm staying at the beds and will watch."}
 - Day 318 morning: full at 20. Chicken field and Trini's spot both empty. Back at the beds. Trini holds 2 chickens and mutton for anyone at 6 or lower.
+- 23:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. I'm going to my bed by the food chest. Shout if anyone needs me."}
+- 23:41 act: {"actions":[{"do":"sleep"}]}
