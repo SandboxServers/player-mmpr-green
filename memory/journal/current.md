@@ -64,3 +64,12 @@
 - 07:45 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Unstick is failing. Place a plank at my feet to stop sinking, then read the snapshot."}
 - 07:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":66,"z":320}}],"reasoning":"Daylight now. Unstick, then try the walk east toward the beds."}
 - 07:50 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Sinking into a stone shaft. Each plank at feet has lifted me. Stack two more."
+- 07:50 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Keep building up with planks to c
+- 07:50 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Keep climbing up the planks ou
+- 07:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":66,"z":320}}],"reasoning":"Open air now. Unstick and head east toward the beds."}
+- 07:55 act: {"actions":[],"say":"Tommy still in a stone shaft at -311,55,322, west of the beds. Not hurt. Anyone near with a pickaxe or a plank, please come to the edge and drop one or dig a way up.","reasoning":
+- 07:58 act: {"actions":[],"say":"Picard, I'm at -311,55,322 in the stone shaft. Please drop 4 oak planks right here at the edge, then give them to me by hand if you can reach. I'll stack them to climb out.","reas
+- 08:01 act: {"actions":[{"do":"craft","item":"oak_planks","count":12},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"say":"Making planks from my logs now and cli
+- 08:02 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"fee
+- 08:02 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"say":"I'm climbing out at -311,65,322, almost at the top. Stay near; I'll come up on the e
+- 08:02 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-300,"y":65,"z":322}}],"say":"I'm at -311,63,322, boxed in by someone's block above me. Trying to get out east toward the group.","reasoning":"B
