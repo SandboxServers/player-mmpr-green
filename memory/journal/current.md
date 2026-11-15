@@ -149,3 +149,5 @@
 - 16:00 act: {"actions":[{"do":"mine","block":"stone","count":3}],"reasoning":"Unstick failed; try digging stone with my hands and sword to make a way out."}
 - 16:13 say: {"text":"Tommy here, sealed in stone at -314, 46, 322. No pickaxe, no food. If you are near, please drop a pickaxe or food at the edge of the stone."}
 - 16:19 act: {"actions":[{"do":"unstick"}],"say":"I am stuck in stone at -314, 46, 322 with no food. If anyone is near, please drop a pickaxe or some food at the edge.","reasoning":"Still sealed. Try unstick once 
+- 16:32 act: {"actions":[{"do":"mine","block":"stone","count":1}],"say":"Tommy, sealed in stone at -314, 46, 322, no pickaxe. Anyone near, please bring a pickaxe or planks.","reasoning":"Trying a new way: mine sto
+- 16:40 say: {"text":"Tommy, still sealed at -314, 46, 322, health 15, hunger 17. No pickaxe or planks. Anyone passing, please drop a pickaxe or 4 planks at the edge."}
