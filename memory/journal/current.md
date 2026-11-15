@@ -141,3 +141,4 @@
 - 15:26 act: {"say":"Still sealed at -314, 47, 322. No food, no pickaxe. Please drop a pickaxe or dig a path up.","reasoning":"Last plan timed out with no help. Re-ask and keep waiting.","intent":{"goal":"wait_for
 - 15:29 act: {"actions":[{"do":"unstick"}],"say":"Still sealed at -314, 47, 322 at dawn. Hunger 17. Anyone with a pickaxe, please come.","reasoning":"Dawn. Try unstick again, then wait for help.","intent":{"goal":
 - 15:33 act: {"reasoning":"Unstick is blocked three times; stop it. Wait for help.","intent":{"goal":"wait_for_rescue","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":
+- 15:34 act: {"say":"I'm still in the stone shaft with no pickaxe and no planks. Health 15, hunger 17. Anyone with a pickaxe or wood, please drop what you can within reach.","intent":{"goal":"wait_for_rescue","pro
