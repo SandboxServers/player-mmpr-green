@@ -103,3 +103,87 @@
 - 00:55 act: {"actions":[{"do":"sleep"}]}
 - 00:58 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy: going to bed at the white bed now. I have no food; Trini gets any porkchop first."}
 - 01:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Geldar here, no food on me. Heading to the white bed to sleep with the group. Any food goes to Trini first.","intent
+- 01:04 act: {"actions":[{"do":"note","text":"Day 250 night: at white bed -271,67,336. Sleep refused: creeper and skeleton 8 blocks away. Waiting, then retry. No food; hunger 17."}]}
+- 01:04 act: {"actions":[{"do":"sleep"}]}
+- 01:04 act: {"actions":[{"do":"note","text":"Night day 250 at bed -271,67,336. Sleep refused again: creeper 8 blocks. Health 20, hunger 17, no food. Waiting longer, then moving off if still blocked."}],"intent":{
+- 01:04 act: {"actions":[{"do":"sleep"}]}
+- 01:04 act: {"actions":[{"do":"note","text":"Day 250 night, still at bed -271,67,336. Sleep refused 3 times: creeper 8-9 blocks. Health 20, hunger 17, no food. Holding with Zack and Kimberly; will retry sleep aft
+- 01:04 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_at_bed_now","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"m
+- 01:08 act: {"actions":[{"do":"note","text":"Day 251 dawn at the white beds. Health 20, hunger 17, no food. Sleep did not count last night (creeper and skeleton). Holding with the group; Trini first for any food.
+- 01:12 act: {"actions":[{"do":"goto","target":{"x":-284,"y":67,"z":326}},{"do":"note","text":"Day 251 morning: still no food. Group searching grass near beds. Moving north-west toward Data's search, staying in si
+- 01:13 act: {"actions":[{"do":"note","text":"Day 251 midday: reached north-west grass at -284,66,326. No animals or food seen. Iron golems 12-22 blocks south, closing. Holding here, hunger 17, health 20."}],"say"
+- 01:13 act: {"actions":[{"do":"note","text":"Day 251 midday: Laforge saw a cow near -286,66,245 and a pig near -262,67,242. Going north to check for them, alone but calling out."}],"say":"Tommy: Laforge saw a cow
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":242}},{"do":"note","text":"Day 251 afternoon: reached -286,66,248. No cow in view. Moving to where the pig was seen, -262,67,242, with Laforge ne
+- 01:13 act: {"actions":[{"do":"note","text":"Day 251 afternoon: at -262,67,242 where the pig was seen. No animals. Laforge is near and searching west. Hunger 16, health 20. Holding here a short while, then headin
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}},{"do":"note","text":"Day 251 afternoon: no animals at the north pig/cow spot. Walking back to the white beds to be with the group before du
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"note","text":"Day 251 afternoon: back at the white beds with Zack and Jason. Hunger 16, health 20, no food. Will sleep in the bed at
+- 01:18 act: {"actions":[{"do":"note","text":"Day 251: waited at the beds. Group shares porkchops: Worf first (hunger 6), then Data and Trini. I have no food, so I hold here and keep watch."}],"say":"I have no foo
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"note","text":"Day 251 night: dusk at the white beds. No food, hunger 16, health 20. Golems 4-6 blocks south, not attacking. Trying t
+- 01:22 act: {"actions":[{"do":"sleep"}]}
+- 01:23 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 01:23 act: {"actions":[{"do":"note","text":"Night 251: sleep failed twice, beds crowded (6 of 8 taken). Holding near bed (-282,67,320) and will retry shortly. Still no food, hunger 16."}]}
+- 01:23 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 01:24 act: {"actions":[{"do":"note","text":"Night 251: sleep refused, creeper 7 and skeleton 8 blocks away. Waiting for them to leave, then retrying the bed."}]}
+- 01:24 act: {"actions":[{"do":"sleep"}]}
+- 01:26 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Night. Going to the north bed to sleep. Still no food; Trini and Worf first at light."}
+- 01:27 act: {"actions":[{"do":"note","text":"Night 251. Sleep refused again: creeper 6 blocks away. Hunger 15, no food. Waiting for the creeper to leave before trying the north bed again."}]}
+- 01:27 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 01:28 act: {"actions":[{"do":"note","text":"Dawn of day 251. Sleep refused a third time: creeper 7 and skeleton 8 blocks away. Hunger 15, still no food. Sleep can wait for light; next is finding food for the gro
+- 01:28 act: {"intent":{"goal":"search_east_for_animals","program":"travel","arguments":{"target":{"x":-240,"y":66,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 01:32 act: {"intent":{"goal":"join_pig_hunt","program":"travel","arguments":{"target":{"x":-255,"y":66,"z":239}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limit
+- 01:32 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":330}}],"say":"Tommy: heard Troi is hit. Retreating with you toward the camp at -266,67,330. Something unseen is hurting people out here."}
+- 01:32 act: {"actions":[{"do":"note","text":"Midday 252: searched east, nothing. Troi hit by something unseen (health 2) near the pigs; I pulled back to camp at -266,66,330. Hunger 15, still no food. Group is goi
+- 01:37 act: {"actions":[{"do":"note","text":"Midday 252 at camp (-266,66,330). Hunger 15, no food. Porkchops went to Kimberly and Zack; Worf and Trini still sorting the chicken. Golems 10-16 blocks south and west
+- 01:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"note","text":"Dusk 252. Group going into beds with no meat left for me. Going to white bed at -271,67,336 to try sleep."}]}
+- 01:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:41 act: {"actions":[{"do":"note","text":"Night 252: sleep refused again, creeper 9 blocks away. I stand near the beds at -271,67,327 and will wait for it to leave, then try the bed again."}]}
+- 01:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":-254,"y":66,"z":334}},{"do":"mine","block":"wheat","count":3},{"do":"note","text":"Night 252: sleep path failed again (beds cut off by time). Wheat at -253,66,33
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":-254,"y":66,"z":334}},{"do":"mine","block":"wheat","count":2},{"do":"note","text":"Got 1 wheat and 5 seeds from the ripe wheat. Need 3 wheat for bread. Harvestin
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":330}},{"do":"note","text":"Night 252: the ripe wheat is gone (someone took it). I hold 1 wheat and 6 seeds. Staying near the table at camp, out o
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:42 act: {"actions":[{"do":"note","text":"Night 252: sleep refused by a skeleton 7 blocks away. Waiting near the table at -270,67,327, then trying the bed again."}]}
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:43 act: {"actions":[{"do":"note","text":"Night 252: skeleton refused sleep again at the bed. Data is at health 3 with no food, so food is the urgent need. Waiting longer before the next try."}]}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:43 act: {"actions":[{"do":"note","text":"Night 252: sleep refused again (creeper 7, skeleton 10). Staying by the table with Data and Kimberly. Waiting before the next try."}]}
+- 01:43 act: {"actions":[{"do":"note","text":"Night 252: golems closing at 9 blocks south-west, no attacks. Holding position by the table; no food yet, hunger 15."}]}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"},{"do":"note","text":"Night 252: the group is sleeping at the north white bed (-270,67,318). Moving there to join them and tr
+- 01:43 act: {"actions":[{"do":"note","text":"Sleep refused again: creeper 10 blocks away. Staying with Billy, Data and Wesley near the north bed and waiting before another try."}]}
+- 01:47 act: {"actions":[{"do":"note","text":"Night 252: the group is sharing porkchops with Data and Worf first, which is right. I have none, so I wait for dawn. Golems still 12+ blocks south-west."}]}
+- 01:52 act: {"actions":[{"do":"note","text":"Dawn day 253. Health 20, hunger 15, no food. Heading to the pig area at (-255,67,300) to look for an animal. Any meat goes to Trini first, then Worf and Data."}],"say"
+- 01:52 act: {"actions":[{"do":"note","text":"Midday day 253 at (-255,67,300): no animals in sight, no food. Hunger 14, health 20. Will scout a little further and report to the group."}]}
+- 01:55 act: {"actions":[{"do":"note","text":"Midday 253: Wesley, Jason and Bcrusher are joining me at -255,67,300 for the pig hunt. Still no animals in sight. Meat goes to Trini first."}],"say":"Tommy here at -25
+- 01:59 act: {"actions":[{"do":"note","text":"Dusk 253: no pigs found east with the group. Heading to the group bed at -270,67,318 to sleep with the others."},{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say
+- 02:00 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 253: at the group bed -270,67,318 with Lewis and Wesley. Heard a bow to the southeast. Trying to sleep."}]}
+- 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"note","text":"Sleep refused at 253 dusk: skeleton and creeper 7 blocks away. Moving back to the bed at -270,67,318 to wait with the 
+- 02:00 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 253: back at bed -270,67,318 with Lewis, Wesley, Bcrusher. Retrying sleep. Trini is sleeping at -270,67,336 and asks for pork at dawn."}]}
+- 02:00 act: {"actions":[{"do":"note","text":"Sleep refused again: creeper 8 blocks away. Iron golems roam south. Waiting with the group, will retry sleep after a while."}]}
+- 02:00 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 253: retried sleep at the bed; waiting with the group."}]}
+- 02:00 act: {"actions":[{"do":"note","text":"Sleep refused: creeper 6 blocks away. An iron golem is closing from the south-east. Staying put with the group and waiting."}]}
+- 02:00 act: {"actions":[{"do":"sleep"}]}
+- 02:00 act: {"actions":[{"do":"note","text":"Sleep refused a third time: creeper 6 blocks away, not visible in the list. Holding at the bed with the group, will retry after a longer wait."}]}
+- 02:00 act: {"actions":[{"do":"sleep"}]}
+- 02:00 act: {"actions":[{"do":"note","text":"Night 253: sleep refused again, creeper 6 blocks away. Still at group bed with Bcrusher, Laforge. Waiting longer before retrying."}],"say":"Anyone seen a creeper near 
+- 02:01 act: {"actions":[{"do":"sleep"}]}
+- 02:01 act: {"actions":[{"do":"note","text":"Night 253: sleep refused a fourth time, creeper 9 blocks away. Staying with the group; will retry after a longer wait."}]}
+- 02:01 act: {"actions":[{"do":"sleep"}]}
+- 02:01 act: {"actions":[{"do":"note","text":"Night 253: sleep refused a fifth time, creeper 7 blocks away. Still at group bed. Waiting a long stretch before the next try."}]}
+- 02:01 act: {"actions":[{"do":"sleep"}],"say":"Thanks Trini. Trying the bed again now."}
+- 02:01 act: {"actions":[{"do":"note","text":"Night 253: sleep refused again, creeper 7 blocks away (Trini saw none by the white beds). Waiting for it to wander off."}]}
+- 02:01 act: {"actions":[{"do":"sleep"}]}
+- 02:01 act: {"actions":[{"do":"note","text":"Night 253: sleep walked me toward beds but timed out; no free bed reachable. Riker is taking the porkchop to Trini. I have no food; waiting out the night."}]}
+- 02:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Heading to the white bed at -270,67,336 with the group. Food first at dawn: Trini, then Worf.","intent":{"goal":"rea
+- 02:10 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":335}},{"do":"note","text":"Day 254 dawn: at the white beds. Health 20, hunger 14, holding 1 wheat. Walking to Trini to give her the wheat, she is
+- 02:10 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":1},{"do":"note","text":"Day 254: gave my 1 wheat to Trini at the white beds. I have no food left; seeds kept for the farm."}],"say":"
+- 02:10 act: {"actions":[{"do":"note","text":"Day 254 night: give of wheat to Trini failed (not in sight); Trini and Beverly now have porkchop. I still hold 1 wheat. Iron golems 4-8 blocks south; not attacking. Ho
+- 02:10 act: {"actions":[{"do":"wait","seconds":120}],"intent":{"goal":"hold_at_beds_for_food_calls","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_
+- 02:14 act: {"actions":[{"do":"note","text":"Day 254 morning: Trini has porkchop now. Worf (health 4.8) and Data (3) need food next. I hold my 1 wheat for whoever is in sight first, Worf then Data."}],"say":"Tomm
+- 02:14 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_01","item":"wheat","count":1}],"say":"Tommy: Wesley, coming to you with my wheat. Eat it."}
+- 02:15 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Tommy: Worf, I have one wheat for you. Coming to you now."}
+- 02:15 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat","count":1}],"say":"Tommy: Worf, here is my wheat. I have no more food."}
+- 02:15 act: {"actions":[{"do":"note","text":"Day 254 midday: my give of wheat failed twice: I hold no wheat, only 6 wheat_seeds (not food). Correcting my earlier plan. Troi holds the wheat; asked her to give it t
+- 02:15 act: {"actions":[{"do":"goto","target":{"x":-253,"y":66,"z":334}}],"say":"Tommy: Billy, the ripe wheat is at -253, 66, 334. I'm going there now to break it for food and I'll bring it to Trini first."}
+- 02:15 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}},{"do":"note","text":"Day 254 midday: walked to -253,66,334. No ripe wheat is there now (the food list was stale). Heading back to the beds 
+- 02:15 act: {"actions":[],"say":"Tommy at the beds. Worf, Troi holds the wheat; Troi, please give it to Worf now. I have no food, only 6 wheat seeds for Kimberly's farm. Kimberly, come into reach and I'll hand th
