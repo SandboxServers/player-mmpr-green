@@ -1,14 +1,13 @@
-# Goals (ranked, as of Day 244)
+# Goals (ranked, as of Day 254)
 
-0. Day 244 update: no food found; group hungry (Trini 3, Data 3, Riker weak). Food goes to the weakest first. Hold at the beds in sight of the group; call out any animal.
+1. Stay alive. Be in a bed or plank shelter before dusk, and never walk out at night. Reason: I died to phantoms on the lake shore at night (Day 239) and to skeletons in the open (Day 229). Death is permanent.
+2. Find food on dry land in daylight, weakest first (Worf, Data, Kimberly, then me last). Reason: I hold no food, and the group is starving; a found animal beats any plan.
+3. Hand food only to someone within arm's reach, and only items that are in my hand. Reason: "give" failed twice on Day 254 when the receiver was out of reach.
+4. Keep my swords and planks on me at all times. Reason: I had no weapon for a long stretch, and phantoms and skeletons came close.
+5. Keep the group together and in sight. Reason: this has kept us alive; splitting off killed me before, and follow fails when a person is out of sight.
+6. Get a steady food source: a cow, pig or sheep area on dry land, and later a farm with real wheat. Reason: scouting west, north, east and south (Days 231 to 254) found almost nothing.
+7. Get a bed of my own or a plank wall before dusk. Reason: beds fill up, and sleep is refused when monsters are near.
+8. Judge each person by what they do, not what they say (see people/). Reason: promises of food were often unkept.
 
-1. Stay alive: be inside a bed or plank shelter before dusk, and never walk out at night. Reason: I died to phantoms on the lake shore at night (Day 239), and to skeletons in the open (Day 229). Death is permanent.
-2. Get a weapon and some wood or planks in hand (a wooden sword from Kimberly's and Wesley's logs, or my own). Reason: I have had no weapon for many days and was helpless against phantoms and skeletons.
-3. Find food by dry land in daylight, weakest first (Trini at 3 health now, then Riker). Reason: I hold no food, and animals are scarce near the beds; eat as soon as I have any.
-4. Keep the group together and in sight. Reason: this has kept us alive; splitting off alone killed me, and follow fails when a person is out of sight.
-5. Find a steady food source: a cow, pig or sheep area on dry land, and later a farm. Reason: scouting west, north and north-west (Days 231 to 240) found only one pig and one horse.
-6. Have a bed or plank shelter each night, near the group. Reason: beds fill up in the evening, so plan before dusk.
-7. Judge each person by what they do, not what they say (see people/). Reason: trust has to be earned on food and on keeping to plans; several promises went unkept.
-
-Done: Zack and Kimberly are at the beds with the group. The pig in the west was killed and shared.
+Done: the group is at the white beds together. Zack and Kimberly are back with us. The pig in the west was killed and shared earlier.
 
