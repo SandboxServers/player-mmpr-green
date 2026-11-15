@@ -53,3 +53,14 @@
 - 07:37 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-300,"y":66,"z":318}}]}
 - 07:38 act: {"actions":[{"do":"unstick"}],"say":"Tommy: I'm stuck in a stone pit at -312,61,322, west of the beds. Not hurt. If someone is near, a plank or a hand would help; I'm trying to dig out."}
 - 07:39 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":320}},"wake_on":["goal_completed","precond
+- 07:40 act: {"intent":{"goal":"reach_white_bed_before_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 07:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"reach_white_bed_before_night_2","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly
+- 07:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":66,"z":320}}],"reasoning":"Blocked path, stuck. Unstick, then a shorter goto east toward the beds."}
+- 07:43 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"mine","block":"stone","count":2}],"reasoning":"Enclosed in stone. Make a pickaxe from planks and sticks, then mine east."}
+- 07:43 act: {"actions":[{"do":"mine","block":"stone","count":2}],"reasoning":"Table is out of reach. Dig through the stone around me instead."}
+- 07:44 act: {"actions":[{"do":"unstick"}],"reasoning":"Walled in by stone and no pickaxe. Unstick again."}
+- 07:44 act: {"actions":[{"do":"unstick"}],"say":"Tommy stuck in stone at (-312,52,322), no pickaxe. Anyone with a pickaxe nearby, please dig me out.","reasoning":"Still boxed in and sinking. Ask for help, retry u
+- 07:45 act: {"actions":[{"do":"unstick"}],"reasoning":"Skill says unstick first; read result before next step."}
+- 07:45 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Unstick is failing. Place a plank at my feet to stop sinking, then read the snapshot."}
+- 07:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":66,"z":320}}],"reasoning":"Daylight now. Unstick, then try the walk east toward the beds."}
+- 07:50 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Sinking into a stone shaft. Each plank at feet has lifted me. Stack two more."
