@@ -122,3 +122,7 @@
 - 14:09 act: {"actions":[{"do":"unstick"}]}
 - 14:18 act: {"actions":[{"do":"unstick"}],"say":"Tommy here, stuck in the granite shaft, hunger 17. Anyone near with planks or a pickaxe, please drop them within reach.","reasoning":"Still boxed in. Retry unstick
 - 14:18 act: {"actions":[{"do":"mine","block":"stone","count":3}],"reasoning":"Unstick keeps failing. Mining the stone walls may open an exit. Try it once and check the result."}
+- 14:21 act: {"actions":[{"do":"unstick"}],"say":"Tommy here, still in the stone shaft. Hunger 17, no food. If anyone is near with planks or a pickaxe, please drop them at the east edge.","intent":{"goal":"climb_o
+- 14:23 act: {"actions":[{"do":"unstick"}],"say":"Still boxed in stone at night. Anyone who can reach the east edge, please drop planks or a pickaxe nearby."}
+- 14:23 act: {"actions":[{"do":"sleep"}],"say":"Night in the shaft. I cannot dig out with a sword. I'll rest here; wake me if anyone comes to the east edge."}
+- 14:31 act: {"actions":[{"do":"goto","target":{"x":-314,"y":54,"z":322}}],"say":"It is day now. I will try stepping north off the ledge."}
