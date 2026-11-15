@@ -93,3 +93,6 @@
 - 11:11 say: {"text":"Tommy, still sealed in stone at -311,65,322, health 20, hunger 20. If anyone passes near the pit, a pickaxe or planks dropped at the edge would free me. Thank you."}
 - 11:16 act: {"actions":[{"do":"unstick"}],"say":"Tommy, still in the stone pit at -311,65,322. Anyone with a pickaxe or planks, drop them at the east edge please.","intent":{"goal":"free_from_pit","program":"wait
 - 11:16 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 11:27 act: {"actions":[{"do":"note","text":"Night 281. On oak planks at -309,66,322, not enclosed. Holding wooden sword, 3 sticks, oak sapling. Bow sounds to the northeast. No planks or pickaxe to dig or build w
+- 11:31 act: {"actions":[{"do":"note","text":"Dawn day 282. Macdonald is bringing oak planks to me at -309,66,322. Waiting at the spot, no movement."}],"say":"Thank you, Macdonald. I'm standing at -309,66,322. Dro
+- 11:51 act: {"actions":[],"say":"Tommy, still at -309,66,322, day 283. Health and hunger 20. Still waiting for Macdonald's planks or anyone with a pickaxe.","reasoning":"No planks yet. Repeat the request once and
