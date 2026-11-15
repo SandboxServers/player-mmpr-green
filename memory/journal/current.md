@@ -42,3 +42,25 @@
 - 03:15 act: {"actions":[{"do":"goto","target":{"x":-267,"y":66,"z":323}},{"do":"place","block":"wheat_seeds","at":{"x":-266,"y":65,"z":323}}],"reasoning":"I was standing on the tilled tile, so the place was block
 - 03:15 say: {"text":"Tommy: tilled -266,65,323 fine, but planting seeds there says \"target is occupied\" and I can't step off it. Jason, did your seeds go on -265,65,323 with the top clear? I'll wait for your an
 - 03:16 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-266,"y":66,"z":323}}],"reasoning":"Jason says seeds go on the air above the tilled block, at y=66. Try it once.","say":"Trying the seeds at -
+- 03:19 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"say":"Tommy here. It's dusk and I have no food and no bed. Heading to the group near Picard before dark.","intent":{"goal":"join_group_before_night"
+- 03:19 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Tommy, night of day 257. No food, no bed of mine. Staying with Worf and Picard near the group.","intent":{"goal":"stay_with_group_overnight","pr
+- 03:19 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at the white beds with the group, dusk day 257. No food, hunger 13
+- 03:20 act: {"actions":[{"do":"sleep"}]}
+- 03:20 act: {"actions":[{"do":"sleep"}]}
+- 03:20 act: {"actions":[{"do":"sleep"}],"say":"Tommy at the white beds with Zack, Worf, Data and Picard. Still no food, hunger 13, health 16. Trying to sleep again."}
+- 03:21 act: {"actions":[{"do":"sleep"}]}
+- 03:24 act: {"actions":[{"do":"sleep"}],"say":"Tommy at the white bed, trying to sleep again.","reasoning":"Night, group is near, no creeper reported in the last snapshot. Retry sleep once."}
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Sleep failed with the way blocked, and I have drifted to -281,70,309. Walk back to the white bed at -270,67,318 with the grou
+- 03:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Standing at the bed, no monsters in view. Try sleep. Ripe wheat at -276,68,289 is for dawn."}
+- 03:29 act: {"actions":[{"do":"goto","target":{"x":-276,"y":68,"z":290}}],"say":"Tommy at dawn, day 258. Going to the ripe wheat at -276,68,289 for food. Meat or bread goes to Trini and Data first.","reasoning":"
+- 03:29 act: {"actions":[{"do":"mine","block":"wheat","count":1}],"reasoning":"I am at the ripe wheat. Harvest it for food."}
+- 03:29 act: {"actions":[{"do":"eat"}],"reasoning":"I hold one wheat. The inventory marks it not edible, but wheat is food in this world. Try eating it and read the result."}
+- 03:29 act: {"actions":[{"do":"mine","block":"wheat","count":2}],"reasoning":"Wheat is not food by itself, but three wheat make bread at a crafting table, and bread is unlocked. Gather the ripe wheat nearby."}
+- 03:30 act: {"actions":[{"do":"mine","block":"wheat","count":1}],"say":"Picard, the ripe wheat was here at -276,68,289; I took the one I could reach and it is gone now. Wheat is not food raw; three make bread at 
+- 03:30 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":280}}],"reasoning":"Wheat is gone from here (no wheat within 32 blocks, twice). Others went east, north and west for animals. I'll scout north-we
+- 03:30 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":270}}],"reasoning":"No animals in the snapshot here. Scouting west-north for animals, away from the golems in the south. Keep moving in a small l
+- 03:30 act: {"say":"Picard, the ripe wheat by the old spot is gone. Only unripe wheat is left at -267,66,325 and -265,66,323. Three wheat make bread at the crafting table near -268,67,327. I am scouting west for 
+- 03:30 act: {"actions":[{"do":"goto","target":{"x":-320,"y":66,"z":265}}],"reasoning":"Still no animals near. Pushing further west-north-west, away from the golems, looking for meat."}
+- 03:30 act: {"actions":[{"do":"goto","target":{"x":-323,"y":63,"z":264}},{"do":"attack","target":"salmon"}],"reasoning":"Salmon are food. Going to the water's edge and attacking the nearest one; a fish is a meat 
+- 03:31 act: {"actions":[{"do":"goto","target":{"x":-320,"y":66,"z":266}}],"reasoning":"I am in deep water and the attack failed because the way was blocked. Getting back to the dry dirt where I stood before, then
+- 03:31 act: {"say":"Salmon are in the lake at -320,62,262, to the north-west of me. They swim in deep water, so I cannot reach them from the bank. I'm back on dry dirt at -320,66,267. Anyone with a fishing rod or
