@@ -12,3 +12,5 @@
 - 19:49 act: {"actions":[{"do":"unstick"}],"say":"It is dawn. I am still in the stone at (-313, 47, 321). Anyone near the west edge: I need planks or a pickaxe, or any food. Please come.","reasoning":"Dawn. Still 
 - 19:49 act: {"actions":[{"do":"unstick"}],"say":"Still in the stone pit, now at (-315, 46, 323). Please bring planks or a pickaxe to the edge if you can hear me.","reasoning":"Perched; unstick again. Nothing else
 - 19:53 act: {"actions":[{"do":"goto","target":{"x":-311,"y":47,"z":321}}],"say":"It is day. I am trying to walk east out of the stone.","reasoning":"Daylight now. Try a short walk east out of the stone walls."}
+- 19:59 act: {"actions":[{"do":"unstick"}],"say":"Tommy here, still sealed in stone at the west pit. Anyone near with planks or a pickaxe, please come to the edge and give them to me.","intent":{"goal":"wait_for_h
+- 20:12 act: {"actions":[{"do":"unstick"}],"say":"Tommy, still in the stone pit at the west edge. Day 308. Anyone who can hear, I need planks or a pickaxe or food. Please come to the edge."}
