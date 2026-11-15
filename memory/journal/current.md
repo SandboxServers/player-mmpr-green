@@ -81,3 +81,5 @@
 - 00:27 act: {"actions":[{"do":"sleep"}]}
 - 00:27 act: {"actions":[{"do":"wait","seconds":120},{"do":"sleep"}]}
 - 00:29 act: {"actions":[],"say":"Tommy at the white beds, dawn of day 249. Health 20, hunger 20, no food; sleep did not count. Trini, you are first for anything I find. I'll stay here in sight and call out any an
+- 00:33 act: {"say":"Tommy back online at the white beds, day 249. Health 20, hunger 20, no food. Any animal you find, call it out and I'll come. Trini first.","intent":{"goal":"hold_at_beds_for_food_calls","progr
+- 00:42 act: {"say":"Tommy at the white bed, night of day 249. No food, health 20. Trying sleep with the group. Trini first at light.","actions":[{"do":"sleep"}]}
