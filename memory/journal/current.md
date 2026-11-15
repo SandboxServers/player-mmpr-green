@@ -160,3 +160,18 @@
 - 05:53 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":300}}],"say":"Tommy here, dawn day 265. I have no food and no weapon. I'm heading to the sheep spot north-west, staying with Billy and Data. Mutt
 - 05:55 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}],"say":"No sheep here now. Going back to the yellow bed at -281,69,292 with the group. Still no food; any mutton goes to Jason first."}
 - 06:00 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}],"say":"Dusk. Going into the yellow bed for the night. No food on me; Jason first at dawn."}
+- 06:00 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to bed at the white bed. No food yet; I'll look at dawn.","reasoning":"Dusk, phantom nearby, no weapon. Bed is adja
+- 06:00 act: {"actions":[{"do":"sleep"}],"reasoning":"No monsters in view now. Retry sleep alone."}
+- 06:01 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep blocked by the way; bed group adjacent. Retry once; if it fails I wait for golems to move."}
+- 06:02 act: {"actions":[{"do":"sleep"}],"say":"Trying the yellow bed for the night. No food; I'll look at first light with the group.","reasoning":"Golems 7+ away, no creeper now. Retry sleep at the yellow bed."}
+- 06:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Drifted away from the bed. Walk back to the yellow bed and sleep. Phantoms are 16+ away."}
+- 06:03 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":325}},{"do":"sleep"}],"reasoning":"Aim at a tile beside the yellow bed, not the bed itself. This is a different approach from the last try."}
+- 06:04 act: {"actions":[],"say":"Morning. No food yet. Any meat goes to Jason first, then Trini and Worf. I'm looking for a sheep or cow.","reasoning":"Dawn; food is the first need. Announce to group, then wait f
+- 06:06 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":300}}],"say":"Going north-west to the sheep spot with Wesley and Chapman.","reasoning":"Group is searching for sheep to the north-west. Join them
+- 06:06 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}},{"do":"sleep"}],"say":"Phantoms coming from the north-west. Going back to the white beds to sleep.","reasoning":"Night, no weapon, phantoms
+- 06:09 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":332}}],"say":"Scouting the grass south-west for sheep or cows, in sight of the group. Meat goes to Jason first.","reasoning":"Retry the scout mov
+- 06:13 act: {"actions":[{"do":"goto","target":{"x":-277,"y":65,"z":315}}],"say":"Tommy at the beds, no food, hunger 20. Going to the group near Worf to share the search. Meat goes to Jason first.","reasoning":"Gr
+- 06:13 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":260}}],"say":"Tommy going with Billy toward the cow lake to look for cows. Meat goes to Jason first.","reasoning":"Billy reports cows at the lake
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":282}}],"reasoning":"A horse is in view to the south, near the cow lake. Check the area and stay with Billy."}
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":257}}],"say":"Tommy: a horse is beside me, it is not food. Heading to the cow lake now. Meat goes to Jason first.","reasoning":"The cow lake is a
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":258}}],"reasoning":"No cows at the lake edge. Billy is walking west, so I follow in his sight to look."}
