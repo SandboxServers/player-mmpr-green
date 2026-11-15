@@ -9,3 +9,7 @@
 - 22:57 act: {"say":"Trini, I am back at the beds. The field is empty, so the chickens are not there now. Keep yours for Lewis or Picard, whoever is weakest."}
 - 23:10 act: {"say":"Lewis, Trini holds two chickens and Billy has melon in the chest at 433,107,-1023. Eat from there first, you are at 6."}
 - 23:14 act: {"say":"Lewis, I have two dirt for your shelter. Come into sight and I will give them to you."}
+- 23:20 act: {"say":"Kimberly. I am Tommy. I hold 2 dirt for Lewis's shelter. What have you learned here?"}
+- 23:21 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"chicken","count":1}],"say":"Kimberly, my health is 20 and I am full. You are at 12, so take my chicken. Lewis, I still hold your dirt; I will giv
+- 23:21 act: {"say":"Lewis, understood, keep your own. My 2 dirt stay with me for whoever needs them. Kimberly, Lewis is weakest, so the chicken goes to him."}
+- 23:29 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Goodnight. Kimberly, Clark, Lewis: the two dirt stay with me for whoever needs them in the morning."}
