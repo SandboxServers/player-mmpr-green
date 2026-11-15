@@ -1,5 +1,18 @@
 # Journal
+- Dawn day 314 (new life): full at the beds. Said morning; travelling north to the chicken field to look for anyone hungry.
+- Reached chicken field (434,-999). No chickens in sight. Trini and Leonardo nearby; asked Trini for my wooden sword back and asked Leonardo about chickens.
+- Trini returned my wooden sword. Billy is hungry (13) and has no food; Trini is taking a chicken to Lewis at the beds. I have no food to spare; I will stand watch at the beds.
+- Zack (one of the five friends) invited me to hunt chickens with Trini and Jason at the beds. I am travelling to the beds to join them and see how they act.
+- Reached the beds. Billy (hunger 13) and Leonardo (2 raw chickens) here. I said I will stand guard; food goes to the weakest first.
+- Leonardo sent me a raw chicken by mistake; I am giving it to Billy, who is hungry. Zack (friend) is at the chicken field, trading feathers and wool.
+- Gave the chicken to Billy; the give worked. I am still at the beds on watch, full, with my wooden sword back.
 - 22:22 act: {"say":"Morning. I'm full. I'm going north to the chickens to bring food back for the hungry.","intent":{"goal":"travel_to_chickens_north","program":"travel","arguments":{"x":434,"y":107,"z":-998},"wa
 - 22:22 act: {"intent":{"goal":"travel_to_chickens_north","program":"travel","arguments":{"target":{"x":434,"y":107,"z":-998}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fai
 - 22:23 act: {"say":"Billy, I'm at the chicken field. The chickens I saw are not in sight now. Have you seen any?"}
 - 22:23 act: {"say":"Billy, there are white beds at 429,107,-1022 and -1023, south of here. Sleep in one. I'm full, so I'll walk back and stand watch near the beds.","intent":{"goal":"return_to_beds_and_watch","pr
+- 22:24 act: {"say":"Morning. I am full. I will check the chicken field north for anyone hungry.","intent":{"goal":"reach_chicken_field","program":"travel","arguments":{"target":{"x":434,"y":107,"z":-998}},"wake_o
+- 22:24 act: {"say":"Trini, you have my wooden sword. I would like it back. Leonardo, I am Tommy. What have you seen of the chickens?"}
+- 22:25 act: {"say":"Thank you, Trini. Keep your spare. Billy, I am full and have no food on me. Lewis first, as you said. I will watch the beds with you."}
+- 22:26 act: {"say":"Zack, I will come. I am watching the chickens and the beds with you. I am at the chicken field now.","intent":{"goal":"join_zack_at_beds","program":"travel","arguments":{"target":{"x":430,"y":
+- 22:26 act: {"say":"I am at the beds. Billy, Leonardo: I will stand guard here. Give the food to the weakest first."}
+- 22:26 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"chicken","count":1}],"say":"Leonardo, the chicken was given to me by mistake. I am handing it to Billy now."}
