@@ -166,3 +166,6 @@
 - 17:47 act: {"say":"Tommy, still sealed in the stone pit at night, no food, no planks, no pickaxe. Anyone near: please drop planks or a pickaxe at the east edge. Thank you.","intent":{"goal":"await_help_in_pit","
 - 18:09 act: {"say":"Tommy, in the stone pit at -315,45,322. No food, hunger 17. I hold only a wooden sword, 3 sticks and a sapling. Anyone with planks or a pickaxe, please drop them at the east edge.","intent":{"
 - 18:13 act: {"actions":[{"do":"mine","block":"stone","count":1}],"say":"Tommy, still sealed in stone at -315,45,322 with only a wooden sword. Trying to dig one stone by hand."}
+- 18:26 say: {"text":"I'm sealed in a stone pit. If you have planks or a pickaxe, please drop them at the east edge, or tell me where you are."}
+- 18:30 act: {"actions":[{"do":"mine","block":"stone","count":1}],"say":"Still sealed in the pit at -315, 45, 322. Trying to dig one stone out with my sword in hand.","reasoning":"Previous hand dig failed. Try wit
+- 18:34 say: {"text":"Tommy, still in the stone pit at -315, 45, 322. Anyone passing the east edge, I need planks or a pickaxe dropped down. Thank you."}
