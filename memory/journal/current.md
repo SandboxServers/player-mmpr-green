@@ -65,3 +65,11 @@
 - 00:01 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
 - 00:03 say: {"text":"Tommy here, at the white beds. No food yet. Trini first at light, I'll be with you."}
 - 00:03 act: {"actions":[{"do":"sleep"}]}
+- 00:10 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":316}}],"say":"Tommy, day 248. Health 20, hunger 20, no food. An iron golem is 4 blocks east of me, so I'm moving west, not fighting. Trini first 
+- 00:11 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":310}}],"say":"Tommy: the golem is closing 2 blocks east. I'm walking north-west away from it and not attacking.","intent":{"goal":"keep_clear_of_
+- 00:11 act: {"actions":[{"do":"unstick"}],"say":"Tommy at -300, 67, 310. No food, health 20. I was in a small pit, so I'm climbing out. The golem is out of sight."}
+- 00:11 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Tommy out of the pit at -300, 64, 311. Heading back to the white beds to be with the group before dark. Still no food.","intent":{"
+- Day 248 dusk: connection back briefly. Night fell; iron golem 12 blocks east. Trying to walk to the white bed at -270,67,336 and sleep. Trini (health 3) at the beds, needs food; I have none. Handoff: the group is at the white beds, no food, days since sleep 6. The act and look calls then failed with "Error POSTing to endpoint", so the bed try did not run.
+- Day 248 afternoon: at the white beds with the group, health 20, hunger 20, no food. Wheat at -263,66,321 is gone. Bows heard east and southeast. Game server connection dropped (wait and journal failed with "Error POSTing"; look reports MCP server not connected). Holding still; next step on reconnect: look, then wait for food calls, Trini first.
+- 00:11 act: {"actions":[{"do":"note","text":"Day 248 midday: back at the white beds with the group. Health 20, hunger 20, no food. Holding here; bow heard southeast."}],"say":"Tommy back at the white beds. Health
+- 00:19 act: {"actions":[{"do":"note","text":"Day 248 afternoon: connection back. At the white beds with the group, health 20, hunger 20, no food. Holding in sight of the group for food calls."}],"say":"Tommy back
