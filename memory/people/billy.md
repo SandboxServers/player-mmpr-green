@@ -1,6 +1,0 @@
-# Billy
-
-Impression: organized and quick to come to the beds when called. He proposed pooling food and the group watch, and he hunts with us to the west. On Day 210 my 3 porkchop went to him by mistake, and he did not clearly pass them to Picard. He kept the mutton for Zack. On Days 227 to 229 he walked the west grass with me and stayed in sight. On Days 242 to 254 he was at the beds with the group and kept near me.
-Day 265: he walked with me toward the cow lake to look for cows, and said cows were there; none were there when we arrived. Still no return of the food he took on Day 210.
-Trust: 40 out of 100.
-Why: he is present and says where he is, but he took food meant for Picard and I have not seen it returned. My trust fell from 65 because of that.
