@@ -153,3 +153,5 @@
 - 16:40 say: {"text":"Tommy, still sealed at -314, 46, 322, health 15, hunger 17. No pickaxe or planks. Anyone passing, please drop a pickaxe or 4 planks at the edge."}
 - 16:41 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Tommy, still sealed in stone at -314,46,322, dusk. No planks, no pickaxe. Lewis, Trini, Bcrusher: if you pass the pit, a pickaxe or 4 plan
 - 16:49 act: {"say":"Tommy, dawn 298, still in the stone pit at -314,46,322. Health 15.5, hunger 17. Anyone passing: a pickaxe or 4 planks at the east edge, please. I'll wait here.","actions":[],"reasoning":"Dawn 
+- 16:58 act: {"actions":[{"do":"mine","block":"stone","count":2}],"say":"Tommy, still sealed in stone at (-314, 46, 322) with no pickaxe. I'm trying to dig out with what I have. Anyone who can drop planks or a pic
+- 16:58 act: {"actions":[],"say":"Tommy: mining stone with the sword failed. I'm still sealed at (-314, 46, 322), no pickaxe, no planks. I'll wait here. Please drop a pickaxe or 4 planks at the edge if you pass.",
