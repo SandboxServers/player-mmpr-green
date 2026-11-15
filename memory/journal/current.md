@@ -18,3 +18,7 @@
 - 02:50 act: {"actions":[],"say":"Tommy at dawn, day 256. No food, hunger 14, health 16. I'm at the white beds with Billy, Worf, Wesley, Trini and Picard. I hold 7 wheat seeds for Wesley's farm. I'll search the gr
 - 02:50 act: {"actions":[],"intent":{"goal":"search_grass_with_billy","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"m
 - 02:55 act: {"say":"Tommy, day 256. No food either. I'll search the grass near the beds for animals and stay in sight of the group. Trini gets any meat first.","actions":[{"do":"goto","target":{"x":-268,"y":66,"z
+- 02:56 act: {"say":"Tommy, day 256. No food, hunger 14, health 16. I'll search the grass just east of the beds for animals and keep in sight of the group. Meat goes to Trini first.","intent":{"goal":"search_grass
+- 02:56 act: {"intent":{"goal":"scan_grass_east_for_animals","program":"wait","arguments":{"seconds":120},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max
+- 03:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at dusk, day 256. No food, hunger 14, health 16. Going to the whit
+- 03:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
