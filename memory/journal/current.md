@@ -13,3 +13,8 @@
 - 23:21 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"chicken","count":1}],"say":"Kimberly, my health is 20 and I am full. You are at 12, so take my chicken. Lewis, I still hold your dirt; I will giv
 - 23:21 act: {"say":"Lewis, understood, keep your own. My 2 dirt stay with me for whoever needs them. Kimberly, Lewis is weakest, so the chicken goes to him."}
 - 23:29 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Goodnight. Kimberly, Clark, Lewis: the two dirt stay with me for whoever needs them in the morning."}
+- 23:33 act: {"say":"Morning. I'm full, so I'll go north-east to the chicken field and bring back what I find for whoever is weakest.","intent":{"goal":"reach_chicken_field","program":"travel","arguments":{"target
+- 23:37 act: {"say":"No chickens here at the field. I'll try the chicken spot Trini named, at 421, -989.","intent":{"goal":"reach_chicken_spot","program":"travel","arguments":{"target":{"x":421,"y":107,"z":-989}},
+- 23:38 act: {"say":"No chickens at the spot either. I'm going back to the beds to share that and see who is still hungry.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":430,"y":1
+- 23:38 act: {"say":"Trini, good. I'm full, so keep your food for whoever drops to 6 or lower. I'm staying at the beds and will watch."}
+- Day 318 morning: full at 20. Chicken field and Trini's spot both empty. Back at the beds. Trini holds 2 chickens and mutton for anyone at 6 or lower.
