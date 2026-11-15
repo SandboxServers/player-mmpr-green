@@ -99,3 +99,6 @@
 - 12:00 act: {"say":"Tommy, still in the pit at -309,66,322, health 20, hunger 20, no pickaxe. Planks or a pickaxe dropped at the east edge would free me.","intent":{"goal":"hold_in_pit_for_help","program":"rest",
 - 12:04 act: {"say":"Tommy here, at -309, 66, 322 on oak planks, night of day 283. Macdonald, I'm waiting for your planks here. I have a wooden sword. Bow sounds to the northeast, so I'm staying put.","reasoning":
 - 12:10 act: {"say":"Tommy, dawn day 284, still on one plank at -309,66,322 in the stone pit. Health 20, hunger 20. Macdonald or anyone: 4 oak planks dropped at the east edge would free me.","reasoning":"Still stu
+- 12:23 act: {"actions":[{"do":"unstick"}],"say":"Tommy here, stuck in the pit at night with no planks or pickaxe. Macdonald, I'm still waiting on those planks.","reasoning":"Stuck in pit, no tools. Try unstick on
+- 12:23 act: {"intent":{"goal":"await_planks_or_pickaxe","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_operations
+- 12:31 act: {"actions":[{"do":"wait","seconds":5}],"say":"Tommy, dawn day 285, still in the pit at -311,66,322. Health and hunger 20. Anyone with planks or a pickaxe, please drop them at the east edge.","reasonin
