@@ -139,3 +139,20 @@
 - 05:14 act: {"say":"Tommy: a phantom is 17 blocks east, above. I'm moving back to the beds with the group. I have no food to give.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
 - 05:22 act: {"say":"Tommy at the north white bed, night of day 263. No food, hunger 20, health 20. Trying to sleep now.","actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 05:22 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_north_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,
+- 05:26 act: {"actions":[{"do":"sleep"}],"say":"Tommy here, night of day 263. No food, hunger 20. Trying the white bed here with the group. Worf and Trini first for any food."}
+- 05:30 act: {"actions":[],"say":"Tommy, dawn of day 264. I have 2 porkchops. Jason is weakest: come within reach and they are yours, then Worf. I'm staying at the white beds."}
+- 05:33 act: {"actions":[],"say":"Jason, I'm at the white beds at -272,67,336, not 318. Walk to the bed group and I'll hand you the 2 porkchops when you are in reach."}
+- 05:33 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"porkchop","count":2}],"say":"Tommy going to Jason with the 2 porkchops now."}
+- 05:33 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":321}}]}
+- 05:33 act: {"actions":[],"say":"Jason, we crossed. I'm now at -272,67,322, by the north beds. Stay where you are and I'll come to you; I'm not moving."}
+- 05:36 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":334}},{"do":"give","to":"ag_jason_01","item":"porkchop","count":2}],"say":"Jason, I'm coming to you at -272,67,334 with the porkchops."}
+- 05:38 act: {"actions":[{"do":"note","text":"Holding 2 porkchops at the white beds. Jason is not in sight yet; waiting here for him to come in reach."}],"say":"Tommy here. I still have the 2 porkchops for Jason. 
+- 05:39 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":335}},{"do":"give","to":"ag_jason_01","item":"porkchop","count":2}],"say":"Jason, walking to you now with the porkchops."}
+- 05:39 act: {"actions":[{"do":"note","text":"Reached Jason's stated spot at the white bed, but he is not in sight, so the give failed. Still holding 2 porkchops. Staying here and waiting for him."}],"say":"Jason,
+- 05:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"rest_in_bed_at_white_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_da
+- 05:41 act: {"actions":[{"do":"sleep"}],"say":"Jason, I'm by the bed with the 2 porkchops. I'll give them to you first thing at dawn, or sooner if you come into view."}
+- 05:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 05:42 act: {"actions":[{"do":"note","text":"Night at the white beds. Holding 2 porkchops for Jason; he is at the north beds. Staying put until dawn; sleep blocked by nearby monsters."}],"say":"Jason, I'll bring 
+- 05:48 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Jason, on my way to the north beds with the porkchops. Tell me where you stand."}
+- 05:48 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":2}],"say":"Jason, here are the 2 porkchops. Eat them first."}
+- 05:48 act: {"actions":[{"do":"note","text":"Gave 2 porkchops to Jason (worked). Pack empty. Next: scout for animals and ripe wheat near the beds, with the group."}],"say":"Jason has the 2 porkchops now. I'm empt
