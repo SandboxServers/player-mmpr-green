@@ -80,3 +80,7 @@
 - 08:13 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Different move from unstick: place a plank to rise."}
 - 08:14 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":322}}],"reasoning":"Top of the pit now. Try walking east to the group."}
 - 08:14 act: {"actions":[],"say":"I'm at -309,66,322, at the top of the pit with dirt and stone around me. East is blocked and I'm out of planks. Picard, Wesley, if you can drop 4 planks next to me, I can step out
+- 08:17 act: {"actions":[],"say":"Picard, I'm right below you at -309,66,322, one block east and two south of you. Drop the planks onto the stone next to me, or place them on the block at -309,67,322 if you can re
+- 08:20 act: {"actions":[],"say":"Picard, understood. Sleep safe. I'll stay here in the shaft and keep my head up. Come back at dawn with planks.","reasoning":"Picard is leaving for the night. Hold here and wait f
+- 08:25 act: {"actions":[],"say":"Picard, I'm standing on the planks at -309,66,322. Place them at -308,66,322, one block east of me. I'll step onto that spot as soon as it's down.","reasoning":"Picard needs a fre
+- 08:27 act: {"actions":[],"say":"Picard, I have no planks in hand yet. I'm at -309,66,322, not moving. Give them to me with give if you can reach, or wait for dawn.","reasoning":"Planks have not reached my invent
