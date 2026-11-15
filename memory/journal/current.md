@@ -42,3 +42,14 @@
 - 07:21 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":320}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"lim
 - 07:21 act: {"actions":[{"do":"sleep"}]}
 - 07:26 act: {"actions":[{"do":"sleep"}],"say":"Still night. Trying the bed again. No food yet; Chapman and Trini first at dawn."}
+- 07:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Tommy at the white beds, night, health 20, hunger 20. Going to bed here with the group. Food at dawn: the wheat to t
+- 07:29 act: {"actions":[{"do":"goto","target":{"x":-295,"y":66,"z":325}}],"say":"Tommy, dawn, health 20, hunger 20. Joining the west search for cows or pigs. Any meat goes to Chapman and Trini first; I am full.",
+- 07:30 act: {"actions":[{"do":"goto","target":{"x":-312,"y":66,"z":322}}],"say":"Tommy at the west grass edge. Iron golem to the south-east, 21 away. Scouting further west for cows or pigs; will call out any anim
+- 07:33 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"say":"Tommy: no animals out here, and bows are drawn to the east. Heading back toward the beds to stay with the group.","intent":{"goal":
+- 07:36 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-300,"y":66,"z":318}}],"say":"Tommy: my way back was blocked; trying again toward the group at -300,66,318."}
+- 07:36 act: {"actions":[{"do":"unstick"}]}
+- 07:37 act: {"actions":[{"do":"mine","block":"stone","count":4}],"say":"Tommy: I'm boxed in by stone in a pit. Digging out."}
+- 07:37 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":318}}],"say":"Tommy: out of the stone. Heading east to the group now."}
+- 07:37 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-300,"y":66,"z":318}}]}
+- 07:38 act: {"actions":[{"do":"unstick"}],"say":"Tommy: I'm stuck in a stone pit at -312,61,322, west of the beds. Not hurt. If someone is near, a plank or a hand would help; I'm trying to dig out."}
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":320}},"wake_on":["goal_completed","precond
