@@ -14,3 +14,10 @@
 - 06:30 act: {"actions":[],"say":"Thank you. I am the weakest, health 3, so the first fish to me please. I'll stay on the shore and not go into the water."}
 - 06:34 act: {"actions":[],"say":"Wesley, I understand about the salmon. Health 3 and hunger 17 for me now. The next fish to me, please. I'm staying on the shore."}
 - 06:35 act: {"say":"Tommy at the white beds, awake, no food, no weapon. Hunger 20 and health 20 for now. Will go with whoever finds food first.","actions":[{"do":"wait","seconds":60}]}
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy here, at the white beds. Hunger full, no weapon. Wesley, the first salmon can come to me at first light.","rea
+- 06:39 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Golems closing from south; bed is adjacent. Get in and sleep."}
+- 06:40 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Body is awake again. Try the second bed once more, then sleep."}
+- 06:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Use keeps refusing. Stand on the bed and sleep."}
+- 06:48 act: {"actions":[],"say":"Tommy at the white beds, dawn, health 20, hunger 20, no food, no weapon. Troi, Billy, I'll go west with the first group that names an animal or fish. Riker, if you have salmon, I'
+- 06:51 act: {"actions":[],"say":"Kimberly, I'm full at 20, so Trini and you go first. I'll scout west with Clark and call out any animal I find. Clark, which grass edge are you at?","reasoning":"I am full, others
+- 06:51 act: {"actions":[],"intent":{"goal":"scout_grass_west_with_clark","program":"travel","arguments":{"target":{"x":-293,"y":68,"z":345}},"wake_on":["directly_addressed","precondition_failed","unexpected_damag
