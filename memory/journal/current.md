@@ -22,3 +22,8 @@
 - 02:56 act: {"intent":{"goal":"scan_grass_east_for_animals","program":"wait","arguments":{"seconds":120},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max
 - 03:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at dusk, day 256. No food, hunger 14, health 16. Going to the whit
 - 03:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":329}}],"say":"Tommy moving north away from the golem, toward the group by the crafting table. Still no food.","intent":{"goal":"reach_camp_north"
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":-252,"y":66,"z":341}}],"intent":{"goal":"get_clear_of_golems_and_water","program":"travel","arguments":{"target":{"x":-252,"y":66,"z":341}},"wake_on":["goal_comp
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["goal
+- 03:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy trying the white bed again. No food, hunger 13. Meat goes to Trini and Data first.","intent":{"goal":"sleep_in
+- 03:05 act: {"actions":[{"do":"sleep"}]}
