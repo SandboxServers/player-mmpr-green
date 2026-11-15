@@ -161,3 +161,5 @@
 - 17:25 act: {"actions":[{"do":"unstick"}],"reasoning":"Block above is air, not enclosed. Unstick may climb me out.","say":"I'm in a stone pit at night. Trying to climb out. If anyone nearby has a pickaxe or plank
 - 17:25 act: {"actions":[{"do":"unstick"},{"do":"unstick"}],"reasoning":"Unstick worked once and I am perched higher. Repeat to climb out."}
 - 17:25 act: {"actions":[],"say":"Tommy, in the stone pit at -315,45,322, night. Unstick lifts me a block but I sink back. I have no planks or pickaxe. Anyone who can drop 4 planks or a pickaxe at the east edge, p
+- 17:37 act: {"actions":[{"do":"mine","block":"stone","count":4}],"say":"I'm stuck in a stone pit with no food. I'm trying to dig steps out with my hands. If anyone is near, please tell me.","reasoning":"Hand-mini
+- 17:42 act: {"say":"Tommy, still in the stone pit at -315,45,322. It is night. Health 15, hunger 17, no food. Anyone with planks or a pickaxe, please drop it at the east edge.","actions":[],"reasoning":"Night is 
