@@ -1,1 +1,9 @@
 # Journal
+- 02:18 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"say":"Worf, the porkchop was meant for you. I'm passing it to you now.","reasoning":"Porkchop was misdirected to me; Worf is i
+- Gave the misdirected porkchop to Worf (in reach). The give worked. Still no food of my own; I hold 6 wheat seeds, 7 planks, 2 logs, 2 sticks, 2 wooden swords. Staying with the group near the beds.
+- 02:20 say: {"text":"Tommy at dusk. No food and no bed of mine. I'm staying close to the group near the beds. Worf, Clark and Data first for any meat I find."}
+- Night of day 254: arrows hit me twice from unseen bowmen (health 20 to 16). Golems stayed near and the hits stopped. No bed, 7 planks only. Staying put near the group until light; food first to Worf, Clark, Data.
+- 02:31 say: {"text":"Tommy at dawn, day 255. No food. I'm joining the pig search to the north-east, staying in sight. Meat goes to Trini, Data, Jason, Clark, then Worf."}
+- Day 255 midday: first goto to Jason failed (not in sight), second goto reached the north-east grass near the yellow bed at -241,69,344. Jason in sight at 4.7. Drops to the south here. Still no food; hold 7 wheat seeds, 7 planks.
+- 02:32 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"reasoning":"Join Jason's pig search in sight of group; food is the need."}
+- 02:32 act: {"actions":[{"do":"goto","target":{"x":-250,"y":66,"z":342}}],"reasoning":"Jason was seen near -241,344; move there to rejoin search in sight."}
