@@ -18,3 +18,4 @@
 - 20:27 act: {"actions":[{"do":"unstick"}],"say":"Still stuck in stone, nobody near. I'll keep calling out at dawn."}
 - 20:30 act: {"say":"Tommy here, awake at the west pit. I still have no planks or pickaxe. If anyone is near the edge, please come.","intent":{"goal":"call_for_help_and_wait","program":"rest","arguments":{},"wake_
 - 20:33 act: {"actions":[{"do":"unstick"}],"say":"Still sealed in the west stone pit with no planks or pickaxe. If you are near the edge, please come and give me some."}
+- 20:37 say: {"text":"Tommy, still in the stone pit at the west edge, (-313, 46, 322). I have no planks or pickaxe and no food. Anyone near, please bring planks or a pickaxe to the edge."}
