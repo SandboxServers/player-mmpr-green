@@ -122,3 +122,10 @@
 - 04:35 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":333}},{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"say":"Worf, moving to you now with the porkchop."}
 - 04:36 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"beef","count":1}],"say":"Worf, porkchop is yours. Beef now."}
 - 04:36 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat","count":1}],"say":"Worf, the wheat is the last of my food. It's for bread at the table."}
+- 04:37 say: {"text":"Tommy here, day 261, health 20, hunger 20. I have only a dirt block. Worf, Trini and Kimberly first for any food. I'll stay by the beds."}
+- 04:38 say: {"text":"Worf, I have no porkchop left; it went to you already. I hold only one dirt block. Ask Troi or Jason for the wheat."}
+- 04:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at dusk, day 261. Hunger 20, health 20, no food to give. Trying th
+- 04:42 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
+- 04:44 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
+- 04:51 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Tommy at dawn, day 262. Health 20, hunger 20, no food. Going to the north white bed to 
+- 04:53 act: {"actions":[],"say":"Tommy, day 262 morning. Beds only take sleep at night, so I'll join the west search in sight of the group. Any meat goes to Worf, then Trini.","intent":{"goal":"follow_group_west_
