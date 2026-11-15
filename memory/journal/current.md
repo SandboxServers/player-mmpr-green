@@ -18,3 +18,5 @@
 - 21:58 act: {"actions":[],"say":"Trini, Tommy here, still full, at 388,107,-1099. Found no animals north-west. I'll head toward your village and look for cows and chickens there. Tell me where you are."}
 - 21:59 act: {"actions":[{"do":"goto","target":{"x":409,"y":107,"z":-1060}}],"say":"Coming west to you, Trini. Tommy, full and with no food to spare, but I'll help look."}
 - 21:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Jason, Tommy here. Agreed, I'll rest at the beds tonight and search at first light. I'm full, so I'll share with anyone who has n
+- 22:00 act: {"say":"Trini, I hear you. I am at the beds and will stay near. I have no food spare, but I can keep watch tonight.","reasoning":"Trini invited me to the beds. I am well fed, so I should keep watch an
+- 22:01 Dusk at the beds (429,107,-1050), health 20, hunger 20, no food. Clark has 3 chickens; Billy hungry (13). Set rest intent to hold watch; told Trini I am staying near.
