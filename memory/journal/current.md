@@ -129,3 +129,8 @@
 - 14:41 act: {"actions":[{"do":"unstick"}],"say":"Still in the stone shaft at dusk. Trying to get out. Anyone nearby with planks or a pickaxe, please come to the east edge.","reasoning":"Stuck in a shaft at dusk w
 - 14:41 act: {"actions":[{"do":"mine","block":"stone","count":4}],"reasoning":"Enclosed in solid stone. Mining through is the only way out. Try mining 4 stone."}
 - 14:50 say: {"text":"Tommy, stuck in a stone shaft at y=48, no pickaxe. If anyone is near, please drop planks or a pickaxe, or dig me out."}
+- 14:55 act: {"actions":[{"do":"unstick"}],"say":"Still in the shaft at dusk-to-day, no food, hunger 17. Trying to climb out.","intent":{"goal":"climb_out_of_shaft","program":"rest","arguments":{},"wake_on":["goal
+- 14:57 act: {"actions":[{"do":"goto","target":{"x":-314,"y":50,"z":322}}],"say":"Trying to climb up the gap above me. Hunger is 17, no food.","intent":{"goal":"climb_up_gap","program":"rest","arguments":{},"wake_
+- 14:58 act: {"actions":[{"do":"mine","block":"dirt","count":4}],"say":"Digging dirt out of this shaft. Hunger 17, no food yet.","intent":{"goal":"dig_up_dirt","program":"gather","arguments":{"block":"dirt","count
+- 15:00 act: {"actions":[],"say":"Dusk. Water is near the dirt, so I won't dig it. I'll stay in this shaft through the night.","intent":{"goal":"hold_in_shaft_overnight","program":"rest","arguments":{},"wake_on":[
+- 15:10 say: {"text":"Tommy, day 293, still in the stone shaft at -313,49,322. Hunger 17, no food. Anyone passing: a pickaxe or 4 planks dropped at the edge would free me."}
