@@ -96,3 +96,11 @@
 - 04:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 04:08 act: {"actions":[{"do":"sleep"}],"say":"Tommy at dawn, day 260. No food either. I'm trying to sleep at the beds now that no creeper is near."}
 - 04:13 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}}],"say":"Tommy, day 260, daytime. Health 20 but no food. I'm moving to the north bed with the group. Trini gets any meat first."}
+- 04:19 say: {"text":"Tommy, day 260, morning. Health 20, hunger 20, no food on me. I'm staying at the white beds with Trini and Troi; any wheat goes to Trini first."}
+- 04:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy, night of day 260, at the white bed with the group. No food, hunger 20, health 20. Trying to sleep.","reasonin
+- 04:24 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep failed at the north bed because the way was blocked. Try the second bed beside it, using it first."}
+- 04:24 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed was refused as a bed, and sleep was blocked. Try a plain sleep once more, standing here with Zack in reach."}
+- 04:24 act: {"actions":[],"say":"Tommy, night of 260. Sleep is blocked at the beds again. I'm staying with LaForge, Clark and the group, health 20, hunger 20. I'll wait for dawn and try a bed then.","reasoning":"
+- 04:26 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"say":"Tommy: Kimberly's porkchop came to me by mistake. Trini is out of reach, so Worf, I'm giving it to you now, as Kimberly 
+- 04:27 act: {"actions":[],"say":"Tommy, night of 260. My give to Worf failed; the porkchop is still in my hand. Worf, Trini or Kimberly, tell me who is in reach and I'll hand it over. Trini gets it first if she i
+- 04:27 act: {"actions":[],"say":"Trini, I won't walk to you in the dark; golems and bowmen are between us. I hold your porkchop. Come to the white beds at -270,67,334 at dawn, or Data can bring you here, and I'll
