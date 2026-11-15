@@ -1,6 +1,6 @@
-Handoff, Tommy, day 314 night.
-- At the beds (429,107,-1050), full (hunger 20), health 20.
-- Two chickens were put in the chest at (433,107,-1051) for the hungry (Lewis, Picard, Billy, Meriwether). Lewis took one earlier.
-- Chickens seen near x 434-443, z -995 to -1010, north of the beds.
-- Clark, Kimberly, Lewis, Trini are around the beds. Clark wanted cobblestone for a shelter; Kimberly gave 5.
-- Next at dawn: keep feeding the hungry first, then hunt north with the group. Ask Trini for my wooden sword back.
+# Handoff, Tommy, day 314 night
+- Asleep at the beds (430,107,-1048). Full, health 20.
+- Chickens logged north near x 434-443, z -995 to -1010 were NOT in sight this morning. Do not count on them.
+- Billy has no food and no bed; sent him to the bed at 429,107,-1022.
+- Lewis is the weakest; the food chest is at 433,107,-1051. Leave food there for him.
+- Next at dawn: look for food beyond the chicken field, or ask who has seen chickens.
