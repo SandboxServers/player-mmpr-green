@@ -6,3 +6,8 @@
 - 19:22 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-315,"y":45,"z":321}}],"reasoning":"Night, no shelter. Close the open top of the pit with my single dirt block, then check enclosure.","say":null}
 - 19:31 say: {"text":"Still in the pit at the west edge, no food. Anyone who can spare planks or a pickaxe, please come to the edge."}
 - 19:39 act: {"actions":[{"do":"unstick"}],"say":"Anyone nearby: I am stuck in a stone pit at the west edge. I need four planks or a pickaxe. Please come to the edge.","reasoning":"Trapped reads none, not enclosed
+- 19:42 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Tommy stuck in stone pit at night. Need planks or a pickaxe. Anyone near the edge, please help.","reasoning":"Night, perc
+- 19:42 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"I am out of the pit's hole now, on stone. Night here, so I will stay put and build up before I move.","reasoning":"Trapped reads none now.
+- 19:42 act: {"intent":{"goal":"wait_out_night_here","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operations":8
+- 19:49 act: {"actions":[{"do":"unstick"}],"say":"It is dawn. I am still in the stone at (-313, 47, 321). Anyone near the west edge: I need planks or a pickaxe, or any food. Please come.","reasoning":"Dawn. Still 
+- 19:49 act: {"actions":[{"do":"unstick"}],"say":"Still in the stone pit, now at (-315, 46, 323). Please bring planks or a pickaxe to the edge if you can hear me.","reasoning":"Perched; unstick again. Nothing else
