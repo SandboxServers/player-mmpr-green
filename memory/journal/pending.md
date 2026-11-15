@@ -1,0 +1,171 @@
+# Journal
+- 06:16 act: {"intent":{"goal":"join_group_at_cow_lake","program":"travel","arguments":{"target":{"x":-289,"y":67,"z":257}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 06:16 act: {"say":"I am with you at the cow lake now. I have no wood and no food. If anyone can spare planks or a sword, hand them to me here, I will help search for cows.","actions":[]}
+- 06:17 act: {"actions":[{"do":"craft","item":"stick","count":4}],"say":"Thanks, I got 3 planks from the ground somewhere. Troi, I'll come west with you. I'll craft sticks first, then a sword if I have enough wood
+- 06:19 act: {"say":"Tommy: I'll keep with the group in short steps west. Dusk is near and I have only one plank, so I will look for a bed or shelter with Clark before dark.","intent":{"goal":"stay_with_group_unti
+- 06:19 act: {"say":"Billy, I'll stay close to your shelter tonight. I have one plank and 4 sticks to add if you need them. Can I come inside before dark?","reasoning":"Dusk near, no shelter of mine. Stay near Bil
+- 06:23 say: {"text":"Tommy here, back. Staying by the group until dawn. I have 1 plank and 4 sticks to share if anyone needs them."}
+- 06:28 act: {"say":"A skeleton is shooting from the north-east. I'm moving in beside Macdonald.","actions":[{"do":"goto","target":"ag_macdonald_01"}],"intent":{"goal":"stay_with_group_till_dawn","program":"rest",
+- 06:28 act: {"say":"Skeleton 6 blocks north shooting. Following Macdonald south out of its line.","actions":[{"do":"goto","target":"ag_macdonald_01"}]}
+- 06:28 act: {"say":"Heading south to the group, away from the skeleton.","actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 06:29 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":250}}],"intent":{"goal":"get_clear_of_skeleton","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":250}},"wake_on":["goal_completed","
+- 06:29 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-300,"y":66,"z":252}}],"say":"Health 3. Blocking the skeleton's line with a plank."}
+- 06:29 act: {"actions":[],"say":"Health 3, hunger 17, no food. Staying near Wesley and Clark in the daylight. Does anyone have food to spare?"}
+- 06:30 act: {"actions":[],"say":"Thank you. I am the weakest, health 3, so the first fish to me please. I'll stay on the shore and not go into the water."}
+- 06:34 act: {"actions":[],"say":"Wesley, I understand about the salmon. Health 3 and hunger 17 for me now. The next fish to me, please. I'm staying on the shore."}
+- 06:35 act: {"say":"Tommy at the white beds, awake, no food, no weapon. Hunger 20 and health 20 for now. Will go with whoever finds food first.","actions":[{"do":"wait","seconds":60}]}
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy here, at the white beds. Hunger full, no weapon. Wesley, the first salmon can come to me at first light.","rea
+- 06:39 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Golems closing from south; bed is adjacent. Get in and sleep."}
+- 06:40 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Body is awake again. Try the second bed once more, then sleep."}
+- 06:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Use keeps refusing. Stand on the bed and sleep."}
+- 06:48 act: {"actions":[],"say":"Tommy at the white beds, dawn, health 20, hunger 20, no food, no weapon. Troi, Billy, I'll go west with the first group that names an animal or fish. Riker, if you have salmon, I'
+- 06:51 act: {"actions":[],"say":"Kimberly, I'm full at 20, so Trini and you go first. I'll scout west with Clark and call out any animal I find. Clark, which grass edge are you at?","reasoning":"I am full, others
+- 06:51 act: {"actions":[],"intent":{"goal":"scout_grass_west_with_clark","program":"travel","arguments":{"target":{"x":-293,"y":68,"z":345}},"wake_on":["directly_addressed","precondition_failed","unexpected_damag
+- 07:00 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":336}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"lim
+- 07:00 act: {"actions":[{"do":"sleep"}]}
+- 07:01 act: {"actions":[{"do":"sleep"}]}
+- 07:01 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
+- 07:03 act: {"actions":[{"do":"sleep"}]}
+- 07:04 act: {"actions":[{"do":"sleep"}]}
+- 07:08 act: {"intent":{"goal":"search_animals_with_riker","program":"follow","arguments":{"target":"ag_riker_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limit
+- 07:10 act: {"intent":{"goal":"gather_oak_logs_north","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limi
+- 07:11 act: {"actions":[{"do":"mine","block":"oak_log","count":4}],"say":"Got 2 oak logs so far, getting more here."}
+- 07:12 act: {"actions":[{"do":"goto","target":{"x":-244,"y":67,"z":340}},{"do":"craft","item":"oak_planks","count":8}]}
+- 07:12 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 07:12 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Tommy: I'm making a wooden sword for the food search. Planks are free to share.","intent":{"g
+- 07:12 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":332}}],"intent":{"goal":"search_grass_for_animals","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":332}},"wake_on":["goal_completed
+- 07:12 act: {"actions":[],"say":"Tommy here. I have a sword and 4 planks, and I am hungry too. Has anyone seen cows or pigs? Who needs wood?","reasoning":"Group is near. Share findings, ask about animals, offer w
+- 07:14 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":315}}],"say":"Tommy: I'll search the north-west grass for animals. I have planks to trade if anyone needs them.","intent":{"goal":"search_northwe
+- 07:19 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":320}}],"say":"Tommy: heading to the white beds for the night. Bow sounds to the west, so I'm staying near the group.","intent":{"goal":"reach_whi
+- 07:19 act: {"actions":[],"say":"Tommy: I slept and I'm up. Joining the search for cows or pigs. Any meat goes to Chapman first, then Trini. I have 4 planks to share.","reasoning":"Slept safely. Group searches fo
+- 07:19 act: {"actions":[{"do":"goto","target":{"x":-295,"y":66,"z":325}}],"say":"Tommy: Chapman, I have no wheat, but I'll keep a look out for cows and pigs to the west as I go.","intent":{"goal":"search_west_gra
+- 07:21 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":320}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"lim
+- 07:21 act: {"actions":[{"do":"sleep"}]}
+- 07:26 act: {"actions":[{"do":"sleep"}],"say":"Still night. Trying the bed again. No food yet; Chapman and Trini first at dawn."}
+- 07:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Tommy at the white beds, night, health 20, hunger 20. Going to bed here with the group. Food at dawn: the wheat to t
+- 07:29 act: {"actions":[{"do":"goto","target":{"x":-295,"y":66,"z":325}}],"say":"Tommy, dawn, health 20, hunger 20. Joining the west search for cows or pigs. Any meat goes to Chapman and Trini first; I am full.",
+- 07:30 act: {"actions":[{"do":"goto","target":{"x":-312,"y":66,"z":322}}],"say":"Tommy at the west grass edge. Iron golem to the south-east, 21 away. Scouting further west for cows or pigs; will call out any anim
+- 07:33 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"say":"Tommy: no animals out here, and bows are drawn to the east. Heading back toward the beds to stay with the group.","intent":{"goal":
+- 07:36 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-300,"y":66,"z":318}}],"say":"Tommy: my way back was blocked; trying again toward the group at -300,66,318."}
+- 07:36 act: {"actions":[{"do":"unstick"}]}
+- 07:37 act: {"actions":[{"do":"mine","block":"stone","count":4}],"say":"Tommy: I'm boxed in by stone in a pit. Digging out."}
+- 07:37 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":318}}],"say":"Tommy: out of the stone. Heading east to the group now."}
+- 07:37 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-300,"y":66,"z":318}}]}
+- 07:38 act: {"actions":[{"do":"unstick"}],"say":"Tommy: I'm stuck in a stone pit at -312,61,322, west of the beds. Not hurt. If someone is near, a plank or a hand would help; I'm trying to dig out."}
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":320}},"wake_on":["goal_completed","precond
+- 07:40 act: {"intent":{"goal":"reach_white_bed_before_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 07:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"reach_white_bed_before_night_2","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly
+- 07:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":66,"z":320}}],"reasoning":"Blocked path, stuck. Unstick, then a shorter goto east toward the beds."}
+- 07:43 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"mine","block":"stone","count":2}],"reasoning":"Enclosed in stone. Make a pickaxe from planks and sticks, then mine east."}
+- 07:43 act: {"actions":[{"do":"mine","block":"stone","count":2}],"reasoning":"Table is out of reach. Dig through the stone around me instead."}
+- 07:44 act: {"actions":[{"do":"unstick"}],"reasoning":"Walled in by stone and no pickaxe. Unstick again."}
+- 07:44 act: {"actions":[{"do":"unstick"}],"say":"Tommy stuck in stone at (-312,52,322), no pickaxe. Anyone with a pickaxe nearby, please dig me out.","reasoning":"Still boxed in and sinking. Ask for help, retry u
+- 07:45 act: {"actions":[{"do":"unstick"}],"reasoning":"Skill says unstick first; read result before next step."}
+- 07:45 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Unstick is failing. Place a plank at my feet to stop sinking, then read the snapshot."}
+- 07:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":66,"z":320}}],"reasoning":"Daylight now. Unstick, then try the walk east toward the beds."}
+- 07:50 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Sinking into a stone shaft. Each plank at feet has lifted me. Stack two more."
+- 07:50 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Keep building up with planks to c
+- 07:50 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Keep climbing up the planks ou
+- 07:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":66,"z":320}}],"reasoning":"Open air now. Unstick and head east toward the beds."}
+- 07:55 act: {"actions":[],"say":"Tommy still in a stone shaft at -311,55,322, west of the beds. Not hurt. Anyone near with a pickaxe or a plank, please come to the edge and drop one or dig a way up.","reasoning":
+- 07:58 act: {"actions":[],"say":"Picard, I'm at -311,55,322 in the stone shaft. Please drop 4 oak planks right here at the edge, then give them to me by hand if you can reach. I'll stack them to climb out.","reas
+- 08:01 act: {"actions":[{"do":"craft","item":"oak_planks","count":12},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"say":"Making planks from my logs now and cli
+- 08:02 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"fee
+- 08:02 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"say":"I'm climbing out at -311,65,322, almost at the top. Stay near; I'll come up on the e
+- 08:02 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-300,"y":65,"z":322}}],"say":"I'm at -311,63,322, boxed in by someone's block above me. Trying to get out east toward the group.","reasoning":"B
+- 08:10 act: {"actions":[],"say":"Morning. I'm still in the shaft at -310,62,322, boxed in by a block above me. I have 5 planks. If anyone can drop a pickaxe at the edge, I can dig east out.","reasoning":"Ask for 
+- 08:12 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"say":"Picard, an axe won't break stone, so keep it. I'm trying to climb with planks now. I
+- 08:13 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Keep rising while the way is clear."}
+- 08:13 act: {"actions":[{"do":"unstick"}],"say":"I'm at -310,66,322, almost up. Climbing out to the surface now.","reasoning":"Near the top of the pit. Unstick should free me now."}
+- 08:13 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Different move from unstick: place a plank to rise."}
+- 08:14 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":322}}],"reasoning":"Top of the pit now. Try walking east to the group."}
+- 08:14 act: {"actions":[],"say":"I'm at -309,66,322, at the top of the pit with dirt and stone around me. East is blocked and I'm out of planks. Picard, Wesley, if you can drop 4 planks next to me, I can step out
+- 08:17 act: {"actions":[],"say":"Picard, I'm right below you at -309,66,322, one block east and two south of you. Drop the planks onto the stone next to me, or place them on the block at -309,67,322 if you can re
+- 08:20 act: {"actions":[],"say":"Picard, understood. Sleep safe. I'll stay here in the shaft and keep my head up. Come back at dawn with planks.","reasoning":"Picard is leaving for the night. Hold here and wait f
+- 08:25 act: {"actions":[],"say":"Picard, I'm standing on the planks at -309,66,322. Place them at -308,66,322, one block east of me. I'll step onto that spot as soon as it's down.","reasoning":"Picard needs a fre
+- 08:27 act: {"actions":[],"say":"Picard, I have no planks in hand yet. I'm at -309,66,322, not moving. Give them to me with give if you can reach, or wait for dawn.","reasoning":"Planks have not reached my invent
+- 10:42 act: {"intent":{"goal":"hold_in_place_till_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200
+- 10:50 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":322}}],"say":"Billy, Tommy here at -309,66,322, in the stone shaft west of the beds. No food, no planks. I'm trying to walk out east to you now."
+- 10:50 act: {"actions":[{"do":"mine","block":"dirt","count":2}],"say":"Billy, I'm boxed in by stone at -309,66,322 and have no pickaxe or planks. If you can drop 4 planks or a pickaxe at the edge, I can get out. 
+- 10:50 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 10:50 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":322}}]}
+- 10:50 say: {"text":"Tommy, stuck in stone at -309,66,322 with no pickaxe. Anyone with planks or a pickaxe: drop it at the edge to the east and I'll take it."}
+- 11:11 say: {"text":"Tommy, still sealed in stone at -311,65,322, health 20, hunger 20. If anyone passes near the pit, a pickaxe or planks dropped at the edge would free me. Thank you."}
+- 11:16 act: {"actions":[{"do":"unstick"}],"say":"Tommy, still in the stone pit at -311,65,322. Anyone with a pickaxe or planks, drop them at the east edge please.","intent":{"goal":"free_from_pit","program":"wait
+- 11:16 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 11:27 act: {"actions":[{"do":"note","text":"Night 281. On oak planks at -309,66,322, not enclosed. Holding wooden sword, 3 sticks, oak sapling. Bow sounds to the northeast. No planks or pickaxe to dig or build w
+- 11:31 act: {"actions":[{"do":"note","text":"Dawn day 282. Macdonald is bringing oak planks to me at -309,66,322. Waiting at the spot, no movement."}],"say":"Thank you, Macdonald. I'm standing at -309,66,322. Dro
+- 11:51 act: {"actions":[],"say":"Tommy, still at -309,66,322, day 283. Health and hunger 20. Still waiting for Macdonald's planks or anyone with a pickaxe.","reasoning":"No planks yet. Repeat the request once and
+- 12:00 act: {"say":"Tommy, still in the pit at -309,66,322, health 20, hunger 20, no pickaxe. Planks or a pickaxe dropped at the east edge would free me.","intent":{"goal":"hold_in_pit_for_help","program":"rest",
+- 12:04 act: {"say":"Tommy here, at -309, 66, 322 on oak planks, night of day 283. Macdonald, I'm waiting for your planks here. I have a wooden sword. Bow sounds to the northeast, so I'm staying put.","reasoning":
+- 12:10 act: {"say":"Tommy, dawn day 284, still on one plank at -309,66,322 in the stone pit. Health 20, hunger 20. Macdonald or anyone: 4 oak planks dropped at the east edge would free me.","reasoning":"Still stu
+- 12:23 act: {"actions":[{"do":"unstick"}],"say":"Tommy here, stuck in the pit at night with no planks or pickaxe. Macdonald, I'm still waiting on those planks.","reasoning":"Stuck in pit, no tools. Try unstick on
+- 12:23 act: {"intent":{"goal":"await_planks_or_pickaxe","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_operations
+- 12:31 act: {"actions":[{"do":"wait","seconds":5}],"say":"Tommy, dawn day 285, still in the pit at -311,66,322. Health and hunger 20. Anyone with planks or a pickaxe, please drop them at the east edge.","reasonin
+- 12:44 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"get_out_of_pit","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 12:44 act: {"actions":[],"intent":{"goal":"hold_still_until_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"m
+- 12:48 act: {"actions":[{"do":"unstick"}],"say":"Tommy, still in the pit at -309,66,322, health 20, hunger 20, no planks. Trini, I'd gladly take a hand up and a plank or two if anyone can reach the east edge."}
+- 12:52 act: {"actions":[],"say":"Tommy, still perched at -311,66,322, health 20, hunger 20. Zack, Chapman: if you find meat, I'm weak on food but full for now. Anyone with 4 planks, drop them at the east edge."}
+- 13:09 act: {"actions":[],"say":"Tommy, dawn, still perched at -311,66,322 with no planks or pickaxe. Health and hunger 20. Anyone passing the east edge: 4 planks dropped there would free me."}
+- 13:17 say: {"text":"Tommy, still perched in the stone pit at (-311, 66, 322). I have a wooden sword and 3 sticks, no planks or pickaxe. Anyone with planks or a pickaxe, drop them at the east edge, please."}
+- 13:29 say: {"text":"Picard, I'm here at (-311, 66, 322), on the perch. Drop the planks at the east edge, or hand them down if you can reach me. Thank you."}
+- 13:38 act: {"actions":[{"do":"unstick"}]}
+- 13:38 act: {"actions":[{"do":"goto","target":{"x":-304,"y":66,"z":322}}]}
+- 13:38 act: {"actions":[{"do":"unstick"}]}
+- 13:38 say: {"text":"Tommy, still on the perch at (-311, 66, 322). Stone is all round me and I have no pickaxe. Anyone passing with a pickaxe or planks, please leave them at the east edge. Thank you."}
+- 13:54 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"get_free_and_reach_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["goal_completed","precondition_failed","un
+- 13:56 act: {"actions":[{"do":"mine","block":"dirt","count":3}],"say":"Tommy, day 289. I'm boxed in by stone on the east. I'm digging dirt by hand to open a way out."}
+- 13:57 act: {"actions":[{"do":"unstick"}]}
+- 13:57 act: {"actions":[{"do":"unstick"}]}
+- 14:01 act: {"actions":[{"do":"unstick"}]}
+- 14:01 say: {"text":"Tommy, dusk 289. I'm stuck in a granite shaft at -313,55,322, no pickaxe, no planks. If anyone is near with a pickaxe or planks, please drop them."}
+- 14:09 act: {"actions":[{"do":"unstick"}]}
+- 14:18 act: {"actions":[{"do":"unstick"}],"say":"Tommy here, stuck in the granite shaft, hunger 17. Anyone near with planks or a pickaxe, please drop them within reach.","reasoning":"Still boxed in. Retry unstick
+- 14:18 act: {"actions":[{"do":"mine","block":"stone","count":3}],"reasoning":"Unstick keeps failing. Mining the stone walls may open an exit. Try it once and check the result."}
+- 14:21 act: {"actions":[{"do":"unstick"}],"say":"Tommy here, still in the stone shaft. Hunger 17, no food. If anyone is near with planks or a pickaxe, please drop them at the east edge.","intent":{"goal":"climb_o
+- 14:23 act: {"actions":[{"do":"unstick"}],"say":"Still boxed in stone at night. Anyone who can reach the east edge, please drop planks or a pickaxe nearby."}
+- 14:23 act: {"actions":[{"do":"sleep"}],"say":"Night in the shaft. I cannot dig out with a sword. I'll rest here; wake me if anyone comes to the east edge."}
+- 14:31 act: {"actions":[{"do":"goto","target":{"x":-314,"y":54,"z":322}}],"say":"It is day now. I will try stepping north off the ledge."}
+- 14:41 act: {"actions":[{"do":"unstick"}],"say":"Still in the stone shaft at dusk. Trying to get out. Anyone nearby with planks or a pickaxe, please come to the east edge.","reasoning":"Stuck in a shaft at dusk w
+- 14:41 act: {"actions":[{"do":"mine","block":"stone","count":4}],"reasoning":"Enclosed in solid stone. Mining through is the only way out. Try mining 4 stone."}
+- 14:50 say: {"text":"Tommy, stuck in a stone shaft at y=48, no pickaxe. If anyone is near, please drop planks or a pickaxe, or dig me out."}
+- 14:55 act: {"actions":[{"do":"unstick"}],"say":"Still in the shaft at dusk-to-day, no food, hunger 17. Trying to climb out.","intent":{"goal":"climb_out_of_shaft","program":"rest","arguments":{},"wake_on":["goal
+- 14:57 act: {"actions":[{"do":"goto","target":{"x":-314,"y":50,"z":322}}],"say":"Trying to climb up the gap above me. Hunger is 17, no food.","intent":{"goal":"climb_up_gap","program":"rest","arguments":{},"wake_
+- 14:58 act: {"actions":[{"do":"mine","block":"dirt","count":4}],"say":"Digging dirt out of this shaft. Hunger 17, no food yet.","intent":{"goal":"dig_up_dirt","program":"gather","arguments":{"block":"dirt","count
+- 15:00 act: {"actions":[],"say":"Dusk. Water is near the dirt, so I won't dig it. I'll stay in this shaft through the night.","intent":{"goal":"hold_in_shaft_overnight","program":"rest","arguments":{},"wake_on":[
+- 15:10 say: {"text":"Tommy, day 293, still in the stone shaft at -313,49,322. Hunger 17, no food. Anyone passing: a pickaxe or 4 planks dropped at the edge would free me."}
+- 15:17 act: {"actions":[{"do":"unstick"}],"say":"Tommy stuck in a stone shaft at -313, 49, 322. Hunger 17, no food. Anyone near, please drop food or planks.","reasoning":"Shaft is the problem. Unstick first, then
+- 15:18 act: {"actions":[{"do":"unstick"}],"reasoning":"Unstick got interrupted last time; retry once, then check the item to the west.","intent":{"goal":"escape_shaft","program":"rest","arguments":{},"wake_on":["
+- 15:19 act: {"actions":[{"do":"mine","block":"stone","count":3}],"reasoning":"Enclosed. Mine stone to open a way up; a sword may be slow but tries.","intent":{"goal":"dig_out_up","program":"gather","arguments":{"
+- 15:24 act: {"say":"Tommy sealed in stone at -314, 47, 322, night. Need a pickaxe dropped or a dig-out path. Meat first to the weakest.","reasoning":"Night, sealed, no tool. Call for help and wait.","intent":{"go
+- 15:26 act: {"say":"Still sealed at -314, 47, 322. No food, no pickaxe. Please drop a pickaxe or dig a path up.","reasoning":"Last plan timed out with no help. Re-ask and keep waiting.","intent":{"goal":"wait_for
+- 15:29 act: {"actions":[{"do":"unstick"}],"say":"Still sealed at -314, 47, 322 at dawn. Hunger 17. Anyone with a pickaxe, please come.","reasoning":"Dawn. Try unstick again, then wait for help.","intent":{"goal":
+- 15:33 act: {"reasoning":"Unstick is blocked three times; stop it. Wait for help.","intent":{"goal":"wait_for_rescue","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":
+- 15:34 act: {"say":"I'm still in the stone shaft with no pickaxe and no planks. Health 15, hunger 17. Anyone with a pickaxe or wood, please drop what you can within reach.","intent":{"goal":"wait_for_rescue","pro
+- 15:50 act: {"say":"Tommy, still sealed in stone at -314, 46, 322. Health 15.5, hunger 17. No pickaxe, no planks, no food. Anyone near: please drop a pickaxe or planks at the edge, or give food by hand.","intent"
+- 15:52 act: {"intent":{"goal":"wait_for_help","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}
+- 15:54 act: {"actions":[{"do":"unstick"}]}
+- 15:59 act: {"actions":[{"do":"unstick"}],"say":"Still sealed in stone at -314, 46, 322. Anyone near, please drop a pickaxe or some food at the edge.","intent":{"goal":"wait_for_help","program":"rest","arguments"
+- 16:00 act: {"actions":[{"do":"mine","block":"stone","count":3}],"reasoning":"Unstick failed; try digging stone with my hands and sword to make a way out."}
+- 16:13 say: {"text":"Tommy here, sealed in stone at -314, 46, 322. No pickaxe, no food. If you are near, please drop a pickaxe or food at the edge of the stone."}
+- 16:19 act: {"actions":[{"do":"unstick"}],"say":"I am stuck in stone at -314, 46, 322 with no food. If anyone is near, please drop a pickaxe or some food at the edge.","reasoning":"Still sealed. Try unstick once 
+- 16:32 act: {"actions":[{"do":"mine","block":"stone","count":1}],"say":"Tommy, sealed in stone at -314, 46, 322, no pickaxe. Anyone near, please bring a pickaxe or planks.","reasoning":"Trying a new way: mine sto
+- 16:40 say: {"text":"Tommy, still sealed at -314, 46, 322, health 15, hunger 17. No pickaxe or planks. Anyone passing, please drop a pickaxe or 4 planks at the edge."}
+- 16:41 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Tommy, still sealed in stone at -314,46,322, dusk. No planks, no pickaxe. Lewis, Trini, Bcrusher: if you pass the pit, a pickaxe or 4 plan
+- 16:49 act: {"say":"Tommy, dawn 298, still in the stone pit at -314,46,322. Health 15.5, hunger 17. Anyone passing: a pickaxe or 4 planks at the east edge, please. I'll wait here.","actions":[],"reasoning":"Dawn 
+- 16:58 act: {"actions":[{"do":"mine","block":"stone","count":2}],"say":"Tommy, still sealed in stone at (-314, 46, 322) with no pickaxe. I'm trying to dig out with what I have. Anyone who can drop planks or a pic
+- 16:58 act: {"actions":[],"say":"Tommy: mining stone with the sword failed. I'm still sealed at (-314, 46, 322), no pickaxe, no planks. I'll wait here. Please drop a pickaxe or 4 planks at the edge if you pass.",
+- 17:07 act: {"say":"I'm sealed in stone at (-314, 46, 322) with no pickaxe or planks. If anyone can drop planks or a pickaxe at the edge, please do."}
+- 17:20 act: {"actions":[{"do":"unstick"}],"reasoning":"Pit is sealed; unstick is the cheap way out with no blocks needed. Check result after.","say":"I'm sealed in this stone pit. I'm trying to get out."}
+- 17:20 act: {"actions":[],"say":"I'm sealed in stone at -313, 46, 322, with no pickaxe. If you have one and are near, please mine down to me.","reasoning":"Enclosed on all sides; wooden sword cannot break stone. 
+- 17:25 act: {"actions":[{"do":"unstick"}],"reasoning":"Block above is air, not enclosed. Unstick may climb me out.","say":"I'm in a stone pit at night. Trying to climb out. If anyone nearby has a pickaxe or plank
+- 17:25 act: {"actions":[{"do":"unstick"},{"do":"unstick"}],"reasoning":"Unstick worked once and I am perched higher. Repeat to climb out."}
+- 17:25 act: {"actions":[],"say":"Tommy, in the stone pit at -315,45,322, night. Unstick lifts me a block but I sink back. I have no planks or pickaxe. Anyone who can drop 4 planks or a pickaxe at the east edge, p
+- 17:37 act: {"actions":[{"do":"mine","block":"stone","count":4}],"say":"I'm stuck in a stone pit with no food. I'm trying to dig steps out with my hands. If anyone is near, please tell me.","reasoning":"Hand-mini
+- 17:42 act: {"say":"Tommy, still in the stone pit at -315,45,322. It is night. Health 15, hunger 17, no food. Anyone with planks or a pickaxe, please drop it at the east edge.","actions":[],"reasoning":"Night is 
+- 17:47 act: {"say":"Tommy, still sealed in the stone pit at night, no food, no planks, no pickaxe. Anyone near: please drop planks or a pickaxe at the east edge. Thank you.","intent":{"goal":"await_help_in_pit","
+- 18:09 act: {"say":"Tommy, in the stone pit at -315,45,322. No food, hunger 17. I hold only a wooden sword, 3 sticks and a sapling. Anyone with planks or a pickaxe, please drop them at the east edge.","intent":{"
+- 18:13 act: {"actions":[{"do":"mine","block":"stone","count":1}],"say":"Tommy, still sealed in stone at -315,45,322 with only a wooden sword. Trying to dig one stone by hand."}
+- 18:26 say: {"text":"I'm sealed in a stone pit. If you have planks or a pickaxe, please drop them at the east edge, or tell me where you are."}
+- 18:30 act: {"actions":[{"do":"mine","block":"stone","count":1}],"say":"Still sealed in the pit at -315, 45, 322. Trying to dig one stone out with my sword in hand.","reasoning":"Previous hand dig failed. Try wit
+- 18:34 say: {"text":"Tommy, still in the stone pit at -315, 45, 322. Anyone passing the east edge, I need planks or a pickaxe dropped down. Thank you."}

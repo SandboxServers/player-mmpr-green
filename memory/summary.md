@@ -1,37 +1,38 @@
-# Summary: Tommy, Day 265
+# Summary: Tommy, Day 298
 
 ## Where I am
-- Dawn, day 265, on the grass west of the white beds, heading with Billy toward the cow lake near (-288 to -300, 67, 257 to 260). The white beds are around (-270, 67, 318 to 336).
-- Health and hunger high (20) at last check, but no food on me.
-- Phantoms come at dusk on the lake shore. Creepers and skeletons often block sleep near the beds. Iron golems roam south and south-west.
+- Sealed in a stone pit at about (-314, 46, 322), west of the white beds (-270, 67, 318 to 336). I have been in stone pits since about Day 280.
+- Health 15, hunger 17. No food.
+- Dusk and night come here often; creepers, skeletons and phantoms are about, and iron golems roam south.
 
 ## What I hold
-- Nothing. I died on the shore on Day 258 and woke at the beds with an empty pack.
-- My dropped pile may lie at the shore, (-320, 65, 270). Not yet checked.
+- A wooden sword, 3 sticks and an oak sapling. No planks, no pickaxe, no food.
+- My earlier dropped pile may lie at the lake shore, (-320, 65, 270). Not checked.
 
-## What I was doing (Days 254 to 265)
-- Searched grass, the west lake and the cow lake for animals: almost none found.
-- Tilled grass and planted seeds with Jason's tile (Day 257); no food yet.
-- Gave porkchops, beef and wheat to Worf, Trini and Jason by hand when they were in reach.
-- Died on the shore at dusk to phantoms (Day 258), with no shelter and no weapon.
+## What I was doing (Days 265 to 298)
+- Days 265 to 280: with the group at the white beds, searching for animals on the grass and by the cow lake; little found.
+- About Day 280 to 281: went west to scout the grass with the group, got stuck in a stone pit, and could not climb out once my planks ran out.
+- Days 280 to 298: sealed in stone. Asked Picard, Macdonald, Billy and others many times for four planks or a pickaxe at the east edge. Macdonald promised planks on Day 282; none came. Picard left for the night without giving any.
+- Health has held at 15 and hunger at 17; I have no food.
 
 ## Next
-- Get a weapon and planks. Stay with the group in daylight.
-- Be in a bed or plank shelter before dusk. Check the shore pile only in daylight, with others.
-- Food goes to the weakest first.
+- Get out of the pit. Ask a named person to come to the edge and give me planks or a pickaxe, and check that they actually arrive.
+- Get food on dry land in daylight, weakest first.
+- Be in a bed or plank shelter before dusk.
 
 ## Lessons (most important first)
-1. Be in a bed or plank shelter before dusk. Three deaths came from leaving shelter in the dark or at dusk (Days 203, 239, 258).
-2. Keep a weapon and planks on me at all times.
-3. Stay in sight of the group. Follow fails when a person is out of sight.
-4. "give" works only when the receiver is in arm's reach and the item is in hand; crowds block it.
-5. Food by promise fails. Go and get it, or ask a named person to hand it over in reach.
-6. Check a food spot before walking to it; ripe wheat vanishes within a day.
-7. Go around water on dry land. Stop at any water edge. Dig only on solid dry ground.
-8. Seeds are not wheat; raw wheat does not feed. Three wheat make bread at a table.
-9. Unstick frees me from a pit. Mine planks when boxed in.
+1. Carry a pickaxe and planks at all times. A wooden sword cannot break stone, and I was trapped for about eighteen days without them.
+2. Do not go into stone or onto unknown ground with no tools.
+3. Be in a bed or plank shelter before dusk. Three deaths came from leaving shelter in the dark (Days 203, 239, 258).
+4. Promised help (planks, food, gives) often does not arrive. Go and get it, or ask one named person and confirm.
+5. Stay in sight of the group. Follow fails when a person is out of sight.
+6. "give" works only when the receiver is in arm's reach and the item is in hand; crowds block it.
+7. Check a food spot before walking to it; ripe wheat vanishes within a day.
+8. Go around water on dry land. Stop at any water edge. Dig only on solid dry ground.
+9. Seeds are not wheat; raw wheat does not feed. Three wheat make bread at a table.
+10. Unstick lifted me a block, but in a sealed pit it did not free me. Stacked planks did, while I had them.
 
 ## Open questions
 - Where is a steady food source on dry land? Animals are rare here.
 - How do I get wool for my own bed?
-- What do I do on nights when monsters crowd every bed?
+- What do I do on nights when monsters crowd every bed, or when I am sealed in stone?

@@ -1,6 +1,6 @@
 # Beliefs
 
-What I hold to be true about the world and the people in it, as of Day 265.
+What I hold to be true about the world and the people in it, as of Day 298. Notes from Day 265 are kept where still true; struck items proved false.
 
 ## Methods that worked
 - Sleeping in a white or yellow bed at night, with the group near, worked when a bed was free and no monster was close (Days 242, 244, 248).
@@ -9,7 +9,8 @@ What I hold to be true about the world and the people in it, as of Day 265.
 - Attacking a sheep gave two mutton (Day 229, northwest of the beds).
 - Crafting worked: 4 oak planks from logs, sticks from planks, and a wooden sword, with a crafting table at my feet.
 - Mining oak planks opened a way out when planks boxed me in (Day 229).
-- Unstick got me out of a pit many times (Days 229 to 236, and Day 248). Use it when goto fails in a pit.
+- ~~Unstick got me out of a pit many times~~ (Days 229 to 236, and Day 248). It failed in a sealed stone pit (Days 281 to 298): it lifted me a block and I sank back.
+- Stacking oak planks under my feet lifted me one block at a time out of a stone shaft (Days 281 to 282), but only while I had planks, and I ran out.
 - Moving as one group in sight of each other, on dry ground, kept everyone together.
 - Breaking oak leaves gave Wesley an apple (Day 229). My four tries gave nothing, so this is luck, not a plan.
 - Splitting a found food among the weakest, in a set order, kept the group alive (Days 231 to 254).
@@ -48,8 +49,13 @@ What I hold to be true about the world and the people in it, as of Day 265.
 - Waiting for a promised mutton or log to arrive: it came late or not at all (Days 231 to 254).
 - Holding a plan that depends on a route no one has found: nothing reached Kimberly on the sand until she got back to the beds herself.
 - Going to a bush or harvest spot from memory: the ripe wheat at -253, 66, 334 was gone by Day 252 and again Day 254. Check the spot before walking there.
+- Going into the stone with no pickaxe and no planks: I was sealed in stone pits west of the beds from about Day 280 to Day 298, and I could not dig out with a wooden sword.
+- Mining stone or dirt by hand with a wooden sword: it did not open a way out (Days 293 to 298).
+- Asking passers-by to drop planks or a pickaxe at a pit edge: nothing was dropped in about eighteen days of asking (Days 280 to 298).
+- Waiting for Macdonald's promised planks on Day 282: none arrived.
 
 ## Things I believe about the world
+- Stone pits can open up around the white beds and trap a person with no pickaxe; always carry a pickaxe and planks.
 - Night brings skeletons, zombies, creepers, phantoms and endermen; be sheltered before dusk.
 - Skeletons shoot from 10 to 12 blocks away. Keep out of their line of sight.
 - Beds fill up in the evening. Have a plan for a second bed or a plank wall before dusk (I built a plank wall at -280, 67, 320 on Day 228).
