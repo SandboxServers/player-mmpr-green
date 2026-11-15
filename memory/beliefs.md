@@ -1,6 +1,6 @@
 # Beliefs
 
-What I hold to be true about the world and the people in it, as of Day 254.
+What I hold to be true about the world and the people in it, as of Day 265.
 
 ## Methods that worked
 - Sleeping in a white or yellow bed at night, with the group near, worked when a bed was free and no monster was close (Days 242, 244, 248).
@@ -15,6 +15,9 @@ What I hold to be true about the world and the people in it, as of Day 254.
 - Splitting a found food among the weakest, in a set order, kept the group alive (Days 231 to 254).
 - Placing dirt on water one block at a time from solid grass reached a person (Day 210). Slow and risky.
 - Waiting a while and retrying sleep after a creeper moved off got me into a bed (Day 244).
+- Stepping within arm's reach of a person, then giving a held food, worked (Worf and Jason, Days 260 to 264). The gives failed in a crowd of people standing between us.
+- Tilling grass: the tile must be grass with clear air above it, one block lower than where I stood (Jason's tile, Day 257). Seeds then go on the air above the farmland.
+- Placing dirt on water one block at a time made a walkable causeway (Day 258), though salmon in deep water stayed out of reach.
 
 ## Methods that failed, and why
 - ~~Sleeping or resting out in the open near the yellow beds~~: skeletons shot me down to 0.33 health at dawn.
@@ -27,6 +30,12 @@ What I hold to be true about the world and the people in it, as of Day 254.
 - Giving items from the ground or from far away: "give" fails unless the receiver is in arm's reach and the items are off the ground.
 - Waiting for food to be handed to me: nobody delivered on time. Go and get it, or ask a specific person.
 - Carrying wheat seeds as food: seeds are not wheat, and they cannot make bread.
+- ~~Eating a raw wheat~~: "eat" on one wheat did nothing; wheat is not food by itself (Day 258). Three wheat make bread at a crafting table.
+- Sleeping on the shore or walking the lake edge at dusk: phantoms killed me at two health with no weapon (Day 258). This is the third death, after Days 203 and 239.
+- Waiting for ripe wheat to stay ripe: the patch at -276, 68, 289 was gone within a day (Days 258 to 265).
+- Gives through a crowd of people: "items on the ground" and blocked tosses, so the porkchop was held for days (Days 259 to 261).
+- Walking to a person I was told was in a spot: Jason was not in sight at the stated bed, so the give failed (Day 264).
+- Salmon in the west lake: I could not reach them from the bank or from a dirt causeway (Day 258).
 - Sending an unarmed runner out to hunt: a creeper killed the runner on Day 203.
 - Going to the sheep by the water at -283, 185: the sheep was gone when we arrived (Day 203).
 - Walking the direct route to the pig at -353, 65, 227 across the lake: the lake blocked the way, and I went into deep water (Day 203). Go around water on dry land.
@@ -54,3 +63,6 @@ What I hold to be true about the world and the people in it, as of Day 254.
 - Day 252: something unseen hit Troi near the pigs (health 2). Not a known mob; be wary of the east grass.
 - Day 253: a pig hunt east with the group found no animals. The pig area is largely empty.
 - The group has been short of food for about ten days. Porkchops went first to Worf, Data, Trini and Kimberly, not to me, which was right.
+- Day 262 to 265: no cows, pigs or sheep seen on the grass; a sheep spot north-west was empty, and the cow lake to the south-west was empty of cows on Day 265.
+- Beds take sleep only at night, and only when no monster is close. Sleep was refused at the beds on most nights from Day 254 to 265.
+- Phantoms come at dusk on the lake shore and over open grass.
