@@ -104,3 +104,21 @@
 - 04:26 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"say":"Tommy: Kimberly's porkchop came to me by mistake. Trini is out of reach, so Worf, I'm giving it to you now, as Kimberly 
 - 04:27 act: {"actions":[],"say":"Tommy, night of 260. My give to Worf failed; the porkchop is still in my hand. Worf, Trini or Kimberly, tell me who is in reach and I'll hand it over. Trini gets it first if she i
 - 04:27 act: {"actions":[],"say":"Trini, I won't walk to you in the dark; golems and bowmen are between us. I hold your porkchop. Come to the white beds at -270,67,334 at dawn, or Data can bring you here, and I'll
+- 04:29 act: {"say":"Trini, the porkchop is yours. Here it is.","actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}]}
+- 04:29 act: {"say":"Trini, the porkchop is still in my pack. I'm trying the hand-over again.","actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}]}
+- 04:29 act: {"say":"Trini, the give keeps failing, so I'm trying to get the porkchop into my hand first.","actions":[{"do":"use","entity":"ag_trini_01","item":"porkchop"}]}
+- 04:29 act: {"say":"Trini, Worf, Clark: my hand-overs of the porkchop keep failing ('items on the ground'). I still have it and will keep trying. Tell me who is weakest and where you stand.","actions":[]}
+- 04:30 act: {"say":"Trini, I'm putting the porkchop in my hand now, then giving it to you.","actions":[{"do":"use","at":{"x":-265,"y":67,"z":331},"item":"porkchop"},{"do":"give","to":"ag_trini_01","item":"porkcho
+- 04:30 act: {"actions":[{"do":"use","at":{"x":-270,"y":66,"z":334},"item":"porkchop"},{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}]}
+- 04:30 act: {"say":"Trini, you're in reach. Taking the porkchop out now.","actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}]}
+- 04:30 act: {"say":"Trini has the porkchop now. Worf and Clark, the weakest, come to the beds; Data is making bread at the table.","actions":[]}
+- 04:32 act: {"say":"Worf, you're in reach and weakest. Here is the porkchop, the beef and the wheat. Eat when you can.","actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1},{"do":"give","to":"ag
+- 04:32 act: {"say":"Worf, I'm stepping toward you. Giving the porkchop now.","actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}]}
+- 04:32 act: {"say":"Worf, two gives were blocked in the toss. I still hold a porkchop, beef and wheat. Tell me when you need them and I'll try again from close by.","actions":[]}
+- 04:33 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"say":"Worf, giving you the porkchop now.","intent":{"goal":"hold_for_worf","program":"trade_wait","arguments":{"with":"ag_worf
+- 04:33 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"say":"Worf, I'm next to you now. Porkchop coming.","intent":{"goal":"give_porkchop_to_worf
+- 04:34 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"beef","count":1}],"say":"Worf, the toss keeps hitting people standing between us. Could you step two blocks away from Kimberly and Lewis? I'll throw 
+- 04:34 act: {"actions":[],"say":"Worf, the gives are blocked by the crowd each time. I'm holding the porkchop and beef for you. Tell me if you move away and I'll throw them."}
+- 04:35 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":333}},{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"say":"Worf, moving to you now with the porkchop."}
+- 04:36 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"beef","count":1}],"say":"Worf, porkchop is yours. Beef now."}
+- 04:36 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat","count":1}],"say":"Worf, the wheat is the last of my food. It's for bread at the table."}
