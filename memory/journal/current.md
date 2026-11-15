@@ -1,1 +1,20 @@
 # Journal
+- 21:44 act: goto bed at spawn, sleep. Died earlier at night to unseen attackers (hit from the left, repeatedly). Dropped oak_sapling, wooden_sword, 3 stick at x=431 y=107 z=-1045. Billy and friends are near; Trini was struck and is calling for help. Sleeping now.
+- 21:45 act: {"actions":[],"say":"Tommy here. Thank you, Trini. I'm in the bed by the chest and I'll stay put until light. At dawn I'll go for my dropped sword near the signs and look for food with you."}
+- 21:48 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1045}}],"say":"Morning. I'm Tommy, health full, no food yet. I'm going to get the sword I dropped by the signs, then look for food with Billy an
+- 21:48 act: {"actions":[],"say":"My dropped things are gone from here, so I have nothing. I'm empty-handed, but my hunger is fine for now. Trini, I'll go north with you to look for animals. Tell me when you can b
+- 21:49 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Coming to you, Trini."}
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1051}}],"say":"I can't see you yet, Trini. I'm heading to the chest by the beds."}
+- 21:49 act: {"actions":[{"do":"open","at":{"x":433,"y":107,"z":-1051}}]}
+- 21:49 act: {"actions":[],"say":"The chest here seems empty. I'll wait here by the beds for Trini, Billy and Kimberly. Then we go north for animals together."}
+- 21:49 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Coming, Trini. Let's go north together for animals."}
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1065}}],"say":"I can't see Trini from here, so I'm going north alone to look for animals. I'll call out if I find one."}
+- 21:49 act: {"actions":[],"say":"Clark, Tommy here. I'm not hungry yet, so give your chickens to Meriwether first. I'm looking for animals myself to the north-west. Tell me if you see any."}
+- 21:50 act: {"actions":[],"say":"Trini, I can see you now. I think you have my wooden sword from the signs. Keep it for now. I'll wait here for you and Leonardo, then we search north together."}
+- 21:51 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1084}}],"say":"I'm full, so the food goes to Trini, Billy and Meriwether first. I'm going north-west to the item on the ground there, and I'll b
+- 21:52 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1087}}]}
+- 21:52 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1087}},{"do":"goto","target":{"x":398,"y":107,"z":-1087}}]}
+- 21:52 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1100}}],"say":"Tommy here. The dropped spot had only dirt and leaf litter, no food. I'm full, so I'm scouting north-west for animals. I'll call 
+- 21:58 act: {"actions":[],"say":"Trini, Tommy here, still full, at 388,107,-1099. Found no animals north-west. I'll head toward your village and look for cows and chickens there. Tell me where you are."}
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":409,"y":107,"z":-1060}}],"say":"Coming west to you, Trini. Tommy, full and with no food to spare, but I'll help look."}
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Jason, Tommy here. Agreed, I'll rest at the beds tonight and search at first light. I'm full, so I'll share with anyone who has n
