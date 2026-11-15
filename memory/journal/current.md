@@ -90,3 +90,9 @@
 - 04:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 04:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 04:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 04:05 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Tommy at the north-side white bed, night of day 259. Health 20, hunger 20, no food of mine. Trying to sleep here with the
+- 04:07 act: {"actions":[{"do":"sleep"}]}
+- 04:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at the white beds, dark, day 259. Trying the bed beside the south 
+- 04:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 04:08 act: {"actions":[{"do":"sleep"}],"say":"Tommy at dawn, day 260. No food either. I'm trying to sleep at the beds now that no creeper is near."}
+- 04:13 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}}],"say":"Tommy, day 260, daytime. Health 20 but no food. I'm moving to the north bed with the group. Trini gets any meat first."}
