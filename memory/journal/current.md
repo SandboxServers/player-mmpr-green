@@ -108,3 +108,4 @@
 - 12:52 act: {"actions":[],"say":"Tommy, still perched at -311,66,322, health 20, hunger 20. Zack, Chapman: if you find meat, I'm weak on food but full for now. Anyone with 4 planks, drop them at the east edge."}
 - 13:09 act: {"actions":[],"say":"Tommy, dawn, still perched at -311,66,322 with no planks or pickaxe. Health and hunger 20. Anyone passing the east edge: 4 planks dropped there would free me."}
 - 13:17 say: {"text":"Tommy, still perched in the stone pit at (-311, 66, 322). I have a wooden sword and 3 sticks, no planks or pickaxe. Anyone with planks or a pickaxe, drop them at the east edge, please."}
+- 13:29 say: {"text":"Picard, I'm here at (-311, 66, 322), on the perch. Drop the planks at the east edge, or hand them down if you can reach me. Thank you."}
