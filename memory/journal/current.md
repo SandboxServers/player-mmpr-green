@@ -13,3 +13,4 @@
 - 06:29 act: {"actions":[],"say":"Health 3, hunger 17, no food. Staying near Wesley and Clark in the daylight. Does anyone have food to spare?"}
 - 06:30 act: {"actions":[],"say":"Thank you. I am the weakest, health 3, so the first fish to me please. I'll stay on the shore and not go into the water."}
 - 06:34 act: {"actions":[],"say":"Wesley, I understand about the salmon. Health 3 and hunger 17 for me now. The next fish to me, please. I'm staying on the shore."}
+- 06:35 act: {"say":"Tommy at the white beds, awake, no food, no weapon. Hunger 20 and health 20 for now. Will go with whoever finds food first.","actions":[{"do":"wait","seconds":60}]}
