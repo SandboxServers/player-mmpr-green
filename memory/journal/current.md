@@ -134,3 +134,7 @@
 - 14:58 act: {"actions":[{"do":"mine","block":"dirt","count":4}],"say":"Digging dirt out of this shaft. Hunger 17, no food yet.","intent":{"goal":"dig_up_dirt","program":"gather","arguments":{"block":"dirt","count
 - 15:00 act: {"actions":[],"say":"Dusk. Water is near the dirt, so I won't dig it. I'll stay in this shaft through the night.","intent":{"goal":"hold_in_shaft_overnight","program":"rest","arguments":{},"wake_on":[
 - 15:10 say: {"text":"Tommy, day 293, still in the stone shaft at -313,49,322. Hunger 17, no food. Anyone passing: a pickaxe or 4 planks dropped at the edge would free me."}
+- 15:17 act: {"actions":[{"do":"unstick"}],"say":"Tommy stuck in a stone shaft at -313, 49, 322. Hunger 17, no food. Anyone near, please drop food or planks.","reasoning":"Shaft is the problem. Unstick first, then
+- 15:18 act: {"actions":[{"do":"unstick"}],"reasoning":"Unstick got interrupted last time; retry once, then check the item to the west.","intent":{"goal":"escape_shaft","program":"rest","arguments":{},"wake_on":["
+- 15:19 act: {"actions":[{"do":"mine","block":"stone","count":3}],"reasoning":"Enclosed. Mine stone to open a way up; a sword may be slow but tries.","intent":{"goal":"dig_out_up","program":"gather","arguments":{"
+- 15:24 act: {"say":"Tommy sealed in stone at -314, 47, 322, night. Need a pickaxe dropped or a dig-out path. Meat first to the weakest.","reasoning":"Night, sealed, no tool. Call for help and wait.","intent":{"go
