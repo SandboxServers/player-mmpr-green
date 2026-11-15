@@ -142,3 +142,6 @@
 - 15:29 act: {"actions":[{"do":"unstick"}],"say":"Still sealed at -314, 47, 322 at dawn. Hunger 17. Anyone with a pickaxe, please come.","reasoning":"Dawn. Try unstick again, then wait for help.","intent":{"goal":
 - 15:33 act: {"reasoning":"Unstick is blocked three times; stop it. Wait for help.","intent":{"goal":"wait_for_rescue","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":
 - 15:34 act: {"say":"I'm still in the stone shaft with no pickaxe and no planks. Health 15, hunger 17. Anyone with a pickaxe or wood, please drop what you can within reach.","intent":{"goal":"wait_for_rescue","pro
+- 15:50 act: {"say":"Tommy, still sealed in stone at -314, 46, 322. Health 15.5, hunger 17. No pickaxe, no planks, no food. Anyone near: please drop a pickaxe or planks at the edge, or give food by hand.","intent"
+- 15:52 act: {"intent":{"goal":"wait_for_help","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}
+- 15:54 act: {"actions":[{"do":"unstick"}]}
