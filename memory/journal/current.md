@@ -129,3 +129,8 @@
 - 04:44 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
 - 04:51 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Tommy at dawn, day 262. Health 20, hunger 20, no food. Going to the north white bed to 
 - 04:53 act: {"actions":[],"say":"Tommy, day 262 morning. Beds only take sleep at night, so I'll join the west search in sight of the group. Any meat goes to Worf, then Trini.","intent":{"goal":"follow_group_west_
+- 04:55 act: {"say":"Tommy, day 262, midday. Health 20, hunger 20, no food to give. I'm staying at the white beds in sight of Worf and Picard. Any meat goes to Worf, then Trini.","intent":{"goal":"stay_at_beds_unt
+- 04:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Tommy at dusk, day 262, at the white bed with the group. No food, hunger
+- 04:59 act: {"actions":[{"do":"sleep"}]}
+- 05:04 act: {"actions":[{"do":"sleep"}],"say":"Tommy at night, day 262, at the north white bed with the group. No food, health 20. Trying to sleep."}
+- 05:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at night, day 262, trying the south bed at -270,67,336 beside Kimberly. Golem six blocks away, no food."}
