@@ -64,3 +64,15 @@
 - 03:30 act: {"actions":[{"do":"goto","target":{"x":-323,"y":63,"z":264}},{"do":"attack","target":"salmon"}],"reasoning":"Salmon are food. Going to the water's edge and attacking the nearest one; a fish is a meat 
 - 03:31 act: {"actions":[{"do":"goto","target":{"x":-320,"y":66,"z":266}}],"reasoning":"I am in deep water and the attack failed because the way was blocked. Getting back to the dry dirt where I stood before, then
 - 03:31 act: {"say":"Salmon are in the lake at -320,62,262, to the north-west of me. They swim in deep water, so I cannot reach them from the bank. I'm back on dry dirt at -320,66,267. Anyone with a fishing rod or
+- 03:37 act: {"actions":[{"do":"goto","target":{"x":-319,"y":66,"z":266}},{"do":"place","block":"dirt","at":{"x":-318,"y":62,"z":265}}],"say":"I'm hungry, and the salmon are out of reach. I'll try putting dirt int
+- 03:37 act: {"actions":[{"do":"note","text":"Placing dirt onto water worked (dirt at -318,62,265 became a solid block). Hunger 12. Salmon 13-15 blocks NW in deep water."}],"reasoning":"Test confirmed: dirt can re
+- 03:37 act: {"actions":[{"do":"mine","block":"dirt","count":6}],"reasoning":"Need more dirt to build a causeway over the water toward the salmon."}
+- 03:37 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-320,"y":62,"z":265}},{"do":"goto","target":{"x":-320,"y":63,"z":265}}],"reasoning":"Extend the causeway north onto the water toward the salmon."}
+- 03:38 act: {"actions":[{"do":"goto","target":{"x":-320,"y":63,"z":265}},{"do":"place","block":"dirt","at":{"x":-320,"y":62,"z":264}},{"do":"goto","target":{"x":-320,"y":63,"z":264}},{"do":"place","block":"dirt",
+- 03:38 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-321,"y":62,"z":264}},{"do":"goto","target":{"x":-321,"y":63,"z":264}},{"do":"place","block":"dirt","at":{"x":-322,"y":62,"z":264}},{"do":"goto","tar
+- 03:38 act: {"actions":[{"do":"goto","target":{"x":-323,"y":63,"z":264}},{"do":"place","block":"dirt","at":{"x":-324,"y":62,"z":264}},{"do":"goto","target":{"x":-324,"y":63,"z":264}},{"do":"place","block":"dirt",
+- 03:38 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-325,"y":62,"z":264}},{"do":"goto","target":{"x":-325,"y":63,"z":264}},{"do":"place","block":"dirt","at":{"x":-326,"y":62,"z":264}},{"do":"goto","tar
+- 03:38 act: {"actions":[{"do":"goto","target":{"x":-325,"y":63,"z":264}},{"do":"place","block":"dirt","at":{"x":-326,"y":62,"z":264}},{"do":"goto","target":{"x":-326,"y":63,"z":264}}],"reasoning":"Last placement 
+- 03:38 act: {"actions":[{"do":"note","text":"Causeway of dirt now runs west along y=62 from the shore to x=-326 at z=264. Salmon keep swimming 11-14 blocks west. I'm at the end of it; waiting for one to come into
+- 03:38 act: {"actions":[{"do":"goto","target":{"x":-320,"y":66,"z":270}}],"reasoning":"Salmon keep fleeing and it is afternoon going toward dusk. Return to dry land and build a plank shelter before night."}
+- 03:38 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"reasoning":"Dusk is coming and I have no bed. Turn my two logs into planks for a shelter."}
