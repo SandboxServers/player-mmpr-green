@@ -120,3 +120,5 @@
 - 14:01 act: {"actions":[{"do":"unstick"}]}
 - 14:01 say: {"text":"Tommy, dusk 289. I'm stuck in a granite shaft at -313,55,322, no pickaxe, no planks. If anyone is near with a pickaxe or planks, please drop them."}
 - 14:09 act: {"actions":[{"do":"unstick"}]}
+- 14:18 act: {"actions":[{"do":"unstick"}],"say":"Tommy here, stuck in the granite shaft, hunger 17. Anyone near with planks or a pickaxe, please drop them within reach.","reasoning":"Still boxed in. Retry unstick
+- 14:18 act: {"actions":[{"do":"mine","block":"stone","count":3}],"reasoning":"Unstick keeps failing. Mining the stone walls may open an exit. Try it once and check the result."}
