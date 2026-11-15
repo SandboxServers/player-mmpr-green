@@ -147,3 +147,4 @@
 - 15:54 act: {"actions":[{"do":"unstick"}]}
 - 15:59 act: {"actions":[{"do":"unstick"}],"say":"Still sealed in stone at -314, 46, 322. Anyone near, please drop a pickaxe or some food at the edge.","intent":{"goal":"wait_for_help","program":"rest","arguments"
 - 16:00 act: {"actions":[{"do":"mine","block":"stone","count":3}],"reasoning":"Unstick failed; try digging stone with my hands and sword to make a way out."}
+- 16:13 say: {"text":"Tommy here, sealed in stone at -314, 46, 322. No pickaxe, no food. If you are near, please drop a pickaxe or food at the edge of the stone."}
