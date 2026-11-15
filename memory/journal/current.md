@@ -134,3 +134,8 @@
 - 04:59 act: {"actions":[{"do":"sleep"}]}
 - 05:04 act: {"actions":[{"do":"sleep"}],"say":"Tommy at night, day 262, at the north white bed with the group. No food, health 20. Trying to sleep."}
 - 05:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at night, day 262, trying the south bed at -270,67,336 beside Kimberly. Golem six blocks away, no food."}
+- 05:09 act: {"say":"Geldar here, daytime, health 20, no food. Scouting the grass west with the group for animals. Meat goes to Worf, then Trini.","actions":[{"do":"goto","target":{"x":-299,"y":66,"z":319}}],"inte
+- 05:12 act: {"say":"Tommy here at the west grass, midday day 263. No animals seen, no food, hunger 20. I'm holding here with Data, Troi and Riker. Worf first for any meat, then Trini.","actions":[]}
+- 05:14 act: {"say":"Tommy: a phantom is 17 blocks east, above. I'm moving back to the beds with the group. I have no food to give.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 05:22 act: {"say":"Tommy at the north white bed, night of day 263. No food, hunger 20, health 20. Trying to sleep now.","actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 05:22 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_north_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,
