@@ -145,3 +145,5 @@
 - 15:50 act: {"say":"Tommy, still sealed in stone at -314, 46, 322. Health 15.5, hunger 17. No pickaxe, no planks, no food. Anyone near: please drop a pickaxe or planks at the edge, or give food by hand.","intent"
 - 15:52 act: {"intent":{"goal":"wait_for_help","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}
 - 15:54 act: {"actions":[{"do":"unstick"}]}
+- 15:59 act: {"actions":[{"do":"unstick"}],"say":"Still sealed in stone at -314, 46, 322. Anyone near, please drop a pickaxe or some food at the edge.","intent":{"goal":"wait_for_help","program":"rest","arguments"
+- 16:00 act: {"actions":[{"do":"mine","block":"stone","count":3}],"reasoning":"Unstick failed; try digging stone with my hands and sword to make a way out."}
