@@ -156,3 +156,5 @@
 - 16:58 act: {"actions":[{"do":"mine","block":"stone","count":2}],"say":"Tommy, still sealed in stone at (-314, 46, 322) with no pickaxe. I'm trying to dig out with what I have. Anyone who can drop planks or a pic
 - 16:58 act: {"actions":[],"say":"Tommy: mining stone with the sword failed. I'm still sealed at (-314, 46, 322), no pickaxe, no planks. I'll wait here. Please drop a pickaxe or 4 planks at the edge if you pass.",
 - 17:07 act: {"say":"I'm sealed in stone at (-314, 46, 322) with no pickaxe or planks. If anyone can drop planks or a pickaxe at the edge, please do."}
+- 17:20 act: {"actions":[{"do":"unstick"}],"reasoning":"Pit is sealed; unstick is the cheap way out with no blocks needed. Check result after.","say":"I'm sealed in this stone pit. I'm trying to get out."}
+- 17:20 act: {"actions":[],"say":"I'm sealed in stone at -313, 46, 322, with no pickaxe. If you have one and are near, please mine down to me.","reasoning":"Enclosed on all sides; wooden sword cannot break stone. 
