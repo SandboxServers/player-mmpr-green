@@ -73,3 +73,11 @@
 - Day 248 afternoon: at the white beds with the group, health 20, hunger 20, no food. Wheat at -263,66,321 is gone. Bows heard east and southeast. Game server connection dropped (wait and journal failed with "Error POSTing"; look reports MCP server not connected). Holding still; next step on reconnect: look, then wait for food calls, Trini first.
 - 00:11 act: {"actions":[{"do":"note","text":"Day 248 midday: back at the white beds with the group. Health 20, hunger 20, no food. Holding here; bow heard southeast."}],"say":"Tommy back at the white beds. Health
 - 00:19 act: {"actions":[{"do":"note","text":"Day 248 afternoon: connection back. At the white beds with the group, health 20, hunger 20, no food. Holding in sight of the group for food calls."}],"say":"Tommy back
+- 00:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at the white beds, night of day 248. Health 20, hunger 20, no food. Going to try the bed with the group.","int
+- 00:24 act: {"actions":[{"do":"sleep"}]}
+- 00:24 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}],"say":"Tommy at the white bed, night of day 248. Health 20, hunger 20, no food. Sleep refused for monsters; retrying after a wait. Trini first at
+- 00:25 act: {"actions":[{"do":"sleep"}]}
+- 00:25 act: {"actions":[{"do":"wait","seconds":90},{"do":"sleep"}]}
+- 00:27 act: {"actions":[{"do":"sleep"}]}
+- 00:27 act: {"actions":[{"do":"wait","seconds":120},{"do":"sleep"}]}
+- 00:29 act: {"actions":[],"say":"Tommy at the white beds, dawn of day 249. Health 20, hunger 20, no food; sleep did not count. Trini, you are first for anything I find. I'll stay here in sight and call out any an
