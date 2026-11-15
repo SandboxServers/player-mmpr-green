@@ -21,3 +21,24 @@
 - 06:48 act: {"actions":[],"say":"Tommy at the white beds, dawn, health 20, hunger 20, no food, no weapon. Troi, Billy, I'll go west with the first group that names an animal or fish. Riker, if you have salmon, I'
 - 06:51 act: {"actions":[],"say":"Kimberly, I'm full at 20, so Trini and you go first. I'll scout west with Clark and call out any animal I find. Clark, which grass edge are you at?","reasoning":"I am full, others
 - 06:51 act: {"actions":[],"intent":{"goal":"scout_grass_west_with_clark","program":"travel","arguments":{"target":{"x":-293,"y":68,"z":345}},"wake_on":["directly_addressed","precondition_failed","unexpected_damag
+- 07:00 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":336}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"lim
+- 07:00 act: {"actions":[{"do":"sleep"}]}
+- 07:01 act: {"actions":[{"do":"sleep"}]}
+- 07:01 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
+- 07:03 act: {"actions":[{"do":"sleep"}]}
+- 07:04 act: {"actions":[{"do":"sleep"}]}
+- 07:08 act: {"intent":{"goal":"search_animals_with_riker","program":"follow","arguments":{"target":"ag_riker_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limit
+- 07:10 act: {"intent":{"goal":"gather_oak_logs_north","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limi
+- 07:11 act: {"actions":[{"do":"mine","block":"oak_log","count":4}],"say":"Got 2 oak logs so far, getting more here."}
+- 07:12 act: {"actions":[{"do":"goto","target":{"x":-244,"y":67,"z":340}},{"do":"craft","item":"oak_planks","count":8}]}
+- 07:12 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 07:12 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Tommy: I'm making a wooden sword for the food search. Planks are free to share.","intent":{"g
+- 07:12 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":332}}],"intent":{"goal":"search_grass_for_animals","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":332}},"wake_on":["goal_completed
+- 07:12 act: {"actions":[],"say":"Tommy here. I have a sword and 4 planks, and I am hungry too. Has anyone seen cows or pigs? Who needs wood?","reasoning":"Group is near. Share findings, ask about animals, offer w
+- 07:14 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":315}}],"say":"Tommy: I'll search the north-west grass for animals. I have planks to trade if anyone needs them.","intent":{"goal":"search_northwe
+- 07:19 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":320}}],"say":"Tommy: heading to the white beds for the night. Bow sounds to the west, so I'm staying near the group.","intent":{"goal":"reach_whi
+- 07:19 act: {"actions":[],"say":"Tommy: I slept and I'm up. Joining the search for cows or pigs. Any meat goes to Chapman first, then Trini. I have 4 planks to share.","reasoning":"Slept safely. Group searches fo
+- 07:19 act: {"actions":[{"do":"goto","target":{"x":-295,"y":66,"z":325}}],"say":"Tommy: Chapman, I have no wheat, but I'll keep a look out for cows and pigs to the west as I go.","intent":{"goal":"search_west_gra
+- 07:21 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":320}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"lim
+- 07:21 act: {"actions":[{"do":"sleep"}]}
+- 07:26 act: {"actions":[{"do":"sleep"}],"say":"Still night. Trying the bed again. No food yet; Chapman and Trini first at dawn."}
