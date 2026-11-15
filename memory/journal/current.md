@@ -126,3 +126,6 @@
 - 14:23 act: {"actions":[{"do":"unstick"}],"say":"Still boxed in stone at night. Anyone who can reach the east edge, please drop planks or a pickaxe nearby."}
 - 14:23 act: {"actions":[{"do":"sleep"}],"say":"Night in the shaft. I cannot dig out with a sword. I'll rest here; wake me if anyone comes to the east edge."}
 - 14:31 act: {"actions":[{"do":"goto","target":{"x":-314,"y":54,"z":322}}],"say":"It is day now. I will try stepping north off the ledge."}
+- 14:41 act: {"actions":[{"do":"unstick"}],"say":"Still in the stone shaft at dusk. Trying to get out. Anyone nearby with planks or a pickaxe, please come to the east edge.","reasoning":"Stuck in a shaft at dusk w
+- 14:41 act: {"actions":[{"do":"mine","block":"stone","count":4}],"reasoning":"Enclosed in solid stone. Mining through is the only way out. Try mining 4 stone."}
+- 14:50 say: {"text":"Tommy, stuck in a stone shaft at y=48, no pickaxe. If anyone is near, please drop planks or a pickaxe, or dig me out."}
