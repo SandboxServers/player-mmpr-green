@@ -102,3 +102,7 @@
 - 12:23 act: {"actions":[{"do":"unstick"}],"say":"Tommy here, stuck in the pit at night with no planks or pickaxe. Macdonald, I'm still waiting on those planks.","reasoning":"Stuck in pit, no tools. Try unstick on
 - 12:23 act: {"intent":{"goal":"await_planks_or_pickaxe","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_operations
 - 12:31 act: {"actions":[{"do":"wait","seconds":5}],"say":"Tommy, dawn day 285, still in the pit at -311,66,322. Health and hunger 20. Anyone with planks or a pickaxe, please drop them at the east edge.","reasonin
+- 12:44 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"get_out_of_pit","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 12:44 act: {"actions":[],"intent":{"goal":"hold_still_until_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"m
+- 12:48 act: {"actions":[{"do":"unstick"}],"say":"Tommy, still in the pit at -309,66,322, health 20, hunger 20, no planks. Trini, I'd gladly take a hand up and a plank or two if anyone can reach the east edge."}
+- 12:52 act: {"actions":[],"say":"Tommy, still perched at -311,66,322, health 20, hunger 20. Zack, Chapman: if you find meat, I'm weak on food but full for now. Anyone with 4 planks, drop them at the east edge."}
