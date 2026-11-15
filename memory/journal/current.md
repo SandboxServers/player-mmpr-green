@@ -156,3 +156,7 @@
 - 05:48 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Jason, on my way to the north beds with the porkchops. Tell me where you stand."}
 - 05:48 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"porkchop","count":2}],"say":"Jason, here are the 2 porkchops. Eat them first."}
 - 05:48 act: {"actions":[{"do":"note","text":"Gave 2 porkchops to Jason (worked). Pack empty. Next: scout for animals and ripe wheat near the beds, with the group."}],"say":"Jason has the 2 porkchops now. I'm empt
+- 05:49 act: {"say":"Jason, I gave you my 2 porkchops at the north beds, so you should have them. I have nothing in my pack now. I'm going to look for food on the grass and stay in sight of the group.","intent":{"
+- 05:53 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":300}}],"say":"Tommy here, dawn day 265. I have no food and no weapon. I'm heading to the sheep spot north-west, staying with Billy and Data. Mutt
+- 05:55 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}],"say":"No sheep here now. Going back to the yellow bed at -281,69,292 with the group. Still no food; any mutton goes to Jason first."}
+- 06:00 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}],"say":"Dusk. Going into the yellow bed for the night. No food on me; Jason first at dawn."}
