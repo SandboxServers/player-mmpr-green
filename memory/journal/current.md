@@ -7,3 +7,6 @@
 - Day 255 midday: first goto to Jason failed (not in sight), second goto reached the north-east grass near the yellow bed at -241,69,344. Jason in sight at 4.7. Drops to the south here. Still no food; hold 7 wheat seeds, 7 planks.
 - 02:32 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"reasoning":"Join Jason's pig search in sight of group; food is the need."}
 - 02:32 act: {"actions":[{"do":"goto","target":{"x":-250,"y":66,"z":342}}],"reasoning":"Jason was seen near -241,344; move there to rejoin search in sight."}
+- 02:35 act: {"say":"Tommy at midday, day 255. Hunger 14, no food. I'm staying at the white beds in sight of Jason and the group, and I'll search the grass nearby for animals. Any meat goes to Trini, Data, then Ja
+- 02:38 act: {"say":"Tommy, afternoon day 255. Still no food. Bows are firing from the west and south-west, so I'm moving to the yellow bed at -241,69,344 with Jason to be near the group before dusk.","intent":{"g
+- 02:42 act: {"actions":[{"do":"use","at":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"say":"Tommy at night, day 255, at the yellow bed with the group. Trying to sleep here now."}
