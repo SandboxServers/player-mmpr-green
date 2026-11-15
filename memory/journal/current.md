@@ -84,3 +84,9 @@
 - 08:20 act: {"actions":[],"say":"Picard, understood. Sleep safe. I'll stay here in the shaft and keep my head up. Come back at dawn with planks.","reasoning":"Picard is leaving for the night. Hold here and wait f
 - 08:25 act: {"actions":[],"say":"Picard, I'm standing on the planks at -309,66,322. Place them at -308,66,322, one block east of me. I'll step onto that spot as soon as it's down.","reasoning":"Picard needs a fre
 - 08:27 act: {"actions":[],"say":"Picard, I have no planks in hand yet. I'm at -309,66,322, not moving. Give them to me with give if you can reach, or wait for dawn.","reasoning":"Planks have not reached my invent
+- 10:42 act: {"intent":{"goal":"hold_in_place_till_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200
+- 10:50 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":322}}],"say":"Billy, Tommy here at -309,66,322, in the stone shaft west of the beds. No food, no planks. I'm trying to walk out east to you now."
+- 10:50 act: {"actions":[{"do":"mine","block":"dirt","count":2}],"say":"Billy, I'm boxed in by stone at -309,66,322 and have no pickaxe or planks. If you can drop 4 planks or a pickaxe at the edge, I can get out. 
+- 10:50 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 10:50 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":322}}]}
+- 10:50 say: {"text":"Tommy, stuck in stone at -309,66,322 with no pickaxe. Anyone with planks or a pickaxe: drop it at the edge to the east and I'll take it."}
