@@ -1,1 +1,11 @@
 # Journal
+- 22:51 act: {"intent":{"goal":"gather_chickens_north_east","program":"gather","arguments":{"block":"chicken","count":4},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":434,"y":107,"z":-998}}],"say":"The gather failed on chickens, so I am walking to the chicken field myself."}
+- 22:51 act: {"say":"Trini, good. I am full, so the chickens are for the weakest. I am at the field now and see none in sight yet. I will look around here."}
+- 22:54 act: {"say":"MacDonald, I see no chickens in sight here yet. The listed ones are to the south of me, past the fence. Trini has two at the beds, and Leonardo has one at the chest. Picard should go first."}
+- 22:55 act: {"say":"Billy, none in sight for me either. The field listing still shows three chickens just south of here, behind the fence. I will go around the fence to look."}
+- 22:56 act: {"actions":[{"do":"goto","target":{"x":436,"y":107,"z":-995}}]}
+- 22:56 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"The north-east field is empty now. The listed chickens are gone. I am heading back to the beds."}
+- 22:57 act: {"say":"Trini, I am back at the beds. The field is empty, so the chickens are not there now. Keep yours for Lewis or Picard, whoever is weakest."}
+- 23:10 act: {"say":"Lewis, Trini holds two chickens and Billy has melon in the chest at 433,107,-1023. Eat from there first, you are at 6."}
+- 23:14 act: {"say":"Lewis, I have two dirt for your shelter. Come into sight and I will give them to you."}

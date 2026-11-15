@@ -1,5 +1,6 @@
-# Handoff, Tommy, day 316 night
-- Full (hunger 20), health 20, at the beds near 430,107,-1050.
-- Food chest at 433,107,-1051. Lewis is taking Trini's chicken there. Trini is holding two chickens for whoever is hungry.
-- Chickens still seen north-east at x 434-443, z -995 to -1010, and one near x 501, z -1008. Billy is hunting there.
-- Next at dawn: check the food chest, give to the weakest, then watch the group.
+# Handoff, Tommy, day 317 morning
+- Health 20, hunger 20, at the beds near 430,107,-1049. Not enclosed, daytime, no errand running.
+- I hold 2 dirt for Lewis's shelter. Kimberly (in reach) has 9 dirt for Lewis too. Lewis not in sight yet.
+- Food chests: 433,107,-1051 and 433,107,-1023. Trini holds 2 raw chickens for whoever is weakest.
+- Chicken field (x 434-501, z -1010 to -995) was empty earlier; Trini went to a chicken at 469,107,-1026, Billy is searching south past the fence.
+- Next: when Lewis or Picard is in sight, give them the dirt or food. At dusk, go to a bed (429,107,-1050 or -1022), sleep, then reflect.
