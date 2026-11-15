@@ -158,3 +158,6 @@
 - 17:07 act: {"say":"I'm sealed in stone at (-314, 46, 322) with no pickaxe or planks. If anyone can drop planks or a pickaxe at the edge, please do."}
 - 17:20 act: {"actions":[{"do":"unstick"}],"reasoning":"Pit is sealed; unstick is the cheap way out with no blocks needed. Check result after.","say":"I'm sealed in this stone pit. I'm trying to get out."}
 - 17:20 act: {"actions":[],"say":"I'm sealed in stone at -313, 46, 322, with no pickaxe. If you have one and are near, please mine down to me.","reasoning":"Enclosed on all sides; wooden sword cannot break stone. 
+- 17:25 act: {"actions":[{"do":"unstick"}],"reasoning":"Block above is air, not enclosed. Unstick may climb me out.","say":"I'm in a stone pit at night. Trying to climb out. If anyone nearby has a pickaxe or plank
+- 17:25 act: {"actions":[{"do":"unstick"},{"do":"unstick"}],"reasoning":"Unstick worked once and I am perched higher. Repeat to climb out."}
+- 17:25 act: {"actions":[],"say":"Tommy, in the stone pit at -315,45,322, night. Unstick lifts me a block but I sink back. I have no planks or pickaxe. Anyone who can drop 4 planks or a pickaxe at the east edge, p
