@@ -5,3 +5,4 @@
 - 19:14 say: {"text":"I'm stuck in the stone pit at the west edge. I need planks or a pickaxe. Anyone near, please come to the edge."}
 - 19:22 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-315,"y":45,"z":321}}],"reasoning":"Night, no shelter. Close the open top of the pit with my single dirt block, then check enclosure.","say":null}
 - 19:31 say: {"text":"Still in the pit at the west edge, no food. Anyone who can spare planks or a pickaxe, please come to the edge."}
+- 19:39 act: {"actions":[{"do":"unstick"}],"say":"Anyone nearby: I am stuck in a stone pit at the west edge. I need four planks or a pickaxe. Please come to the edge.","reasoning":"Trapped reads none, not enclosed
