@@ -27,3 +27,18 @@
 - 03:01 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["goal
 - 03:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy trying the white bed again. No food, hunger 13. Meat goes to Trini and Data first.","intent":{"goal":"sleep_in
 - 03:05 act: {"actions":[{"do":"sleep"}]}
+- 03:08 act: {"actions":[{"do":"craft","item":"wooden_hoe","count":1}],"say":"Tommy at dawn, day 256. No food, hunger 13. I'm making a hoe to plant my wheat seeds near the beds. Meat goes to Data and Trini first."
+- 03:08 act: {"actions":[],"intent":{"goal":"find_tillable_ground","program":"wait","arguments":{"seconds":60},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200
+- 03:09 act: {"say":"Tommy, day 257. I hold 7 wheat seeds and a hoe now. I'll plant them on dirt near the beds, and Worf can help. Worf, come by. Meat goes to Ezra and Data first.","reasoning":"Worf asked about se
+- 03:12 act: {"say":"Tommy at the white beds, midday day 257. Riker, Worf: I have 7 seeds and a hoe. I'm still standing on planks with no open dirt, so point me to a dirt or grass patch and I'll till it. Data, Ezr
+- 03:13 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-269,"y":66,"z":327}}],"say":"Tommy: Riker, I'm trying to set a dirt plot just east of me at -269,66,327. I'll till it if it takes, then you plant be
+- 03:13 act: {"say":"Tommy: the spot east of me is blocked. Riker, Laforge, does anyone know open dirt or grass within a few blocks of the beds that is clear above? Point me to it and I'll till it.","reasoning":"P
+- 03:14 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Tommy: Jason, I'm coming to your plot to plant my 8 seeds beside you. I have a hoe too.","reasoning":"Jason has a working plot in sight of the 
+- 03:14 act: {"actions":[{"do":"till","at":{"x":-266,"y":66,"z":323}}],"say":"Tommy: Jason, Data, I'm tilling the grass under my feet at -266,66,323 to plant my seeds.","reasoning":"Grass under me with clear air a
+- 03:14 act: {"actions":[{"do":"till","at":{"x":-266,"y":66,"z":322}}],"reasoning":"First try failed on my own tile; this is a different tile next to Jason's working plot."}
+- 03:14 say: {"text":"Tommy: my two tills on the grass here both failed, \"that block cannot be tilled.\" Jason, which block did you till? I'll copy that exact spot."}
+- 03:15 act: {"actions":[{"do":"till","at":{"x":-266,"y":65,"z":323}}],"reasoning":"Jason's proven tile was grass one block lower with air above. Try the grass under my feet, y=65.","say":"Thanks Jason, trying the
+- 03:15 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-266,"y":65,"z":323}}],"reasoning":"Tile at -266,65,323 is now farmland. Plant one wheat seed there."}
+- 03:15 act: {"actions":[{"do":"goto","target":{"x":-267,"y":66,"z":323}},{"do":"place","block":"wheat_seeds","at":{"x":-266,"y":65,"z":323}}],"reasoning":"I was standing on the tilled tile, so the place was block
+- 03:15 say: {"text":"Tommy: tilled -266,65,323 fine, but planting seeds there says \"target is occupied\" and I can't step off it. Jason, did your seeds go on -265,65,323 with the top clear? I'll wait for your an
+- 03:16 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-266,"y":66,"z":323}}],"reasoning":"Jason says seeds go on the air above the tilled block, at y=66. Try it once.","say":"Trying the seeds at -
