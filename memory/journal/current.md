@@ -106,3 +106,4 @@
 - 12:44 act: {"actions":[],"intent":{"goal":"hold_still_until_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"m
 - 12:48 act: {"actions":[{"do":"unstick"}],"say":"Tommy, still in the pit at -309,66,322, health 20, hunger 20, no planks. Trini, I'd gladly take a hand up and a plank or two if anyone can reach the east edge."}
 - 12:52 act: {"actions":[],"say":"Tommy, still perched at -311,66,322, health 20, hunger 20. Zack, Chapman: if you find meat, I'm weak on food but full for now. Anyone with 4 planks, drop them at the east edge."}
+- 13:09 act: {"actions":[],"say":"Tommy, dawn, still perched at -311,66,322 with no planks or pickaxe. Health and hunger 20. Anyone passing the east edge: 4 planks dropped there would free me."}
