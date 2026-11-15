@@ -97,3 +97,4 @@
 - 11:31 act: {"actions":[{"do":"note","text":"Dawn day 282. Macdonald is bringing oak planks to me at -309,66,322. Waiting at the spot, no movement."}],"say":"Thank you, Macdonald. I'm standing at -309,66,322. Dro
 - 11:51 act: {"actions":[],"say":"Tommy, still at -309,66,322, day 283. Health and hunger 20. Still waiting for Macdonald's planks or anyone with a pickaxe.","reasoning":"No planks yet. Repeat the request once and
 - 12:00 act: {"say":"Tommy, still in the pit at -309,66,322, health 20, hunger 20, no pickaxe. Planks or a pickaxe dropped at the east edge would free me.","intent":{"goal":"hold_in_pit_for_help","program":"rest",
+- 12:04 act: {"say":"Tommy here, at -309, 66, 322 on oak planks, night of day 283. Macdonald, I'm waiting for your planks here. I have a wooden sword. Bow sounds to the northeast, so I'm staying put.","reasoning":
