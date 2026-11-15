@@ -90,3 +90,6 @@
 - 10:50 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 10:50 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":322}}]}
 - 10:50 say: {"text":"Tommy, stuck in stone at -309,66,322 with no pickaxe. Anyone with planks or a pickaxe: drop it at the edge to the east and I'll take it."}
+- 11:11 say: {"text":"Tommy, still sealed in stone at -311,65,322, health 20, hunger 20. If anyone passes near the pit, a pickaxe or planks dropped at the edge would free me. Thank you."}
+- 11:16 act: {"actions":[{"do":"unstick"}],"say":"Tommy, still in the stone pit at -311,65,322. Anyone with a pickaxe or planks, drop them at the east edge please.","intent":{"goal":"free_from_pit","program":"wait
+- 11:16 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
