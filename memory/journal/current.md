@@ -53,3 +53,15 @@
 - 23:22 act: {"actions":[{"do":"sleep"}],"say":"Tommy at the white bed, night of day 245. No food on me, health 20, hunger 20. Trying sleep with the group. Trini first at dawn."}
 - 23:24 act: {"actions":[{"do":"sleep"}]}
 - 23:41 act: {"actions":[{"do":"sleep"}]}
+- 23:48 say: {"text":"Tommy here, dawn day 247, at the white beds. Health 20, hunger 20, no food on me. I'm going to scout a short way east on the grass and call out any animal I see."}
+- 23:48 act: {"intent":{"goal":"scout_food_east","program":"travel","arguments":{"target":{"x":-255,"y":67,"z":327}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
+- 23:48 say: {"text":"Tommy: no food seen on the east grass. Riker, I'll come with you to the west lake for salmon, if you're going now. I'll stay in your sight."}
+- 23:49 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":330}}],"say":"Tommy: coming back to the beds to meet the group. Riker, tell me when you leave for the lake and I'll come with you."}
+- 23:49 act: {"actions":[{"do":"goto","target":{"x":-255,"y":66,"z":325}}],"say":"Tommy: iron golems are closing from the south-west. I'm moving east, away from them, and not attacking."}
+- 23:50 say: {"text":"Tommy ready, Riker. I'm 18 blocks east of the beds at the logs, in sight of Data and Jason. Tell me where you are and I'll walk to you before we leave for the lake."}
+- 23:52 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":332}}],"say":"Tommy: Riker, I won't board the boat or go onto deep water; I have no boat and the lake has taken people before. I'm walking back t
+- 00:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Tommy at the white bed, dusk day 247. No food, health 20. Going to sleep with the group; Trini first at light."}
+- 00:01 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}]}
+- 00:01 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 00:03 say: {"text":"Tommy here, at the white beds. No food yet. Trini first at light, I'll be with you."}
+- 00:03 act: {"actions":[{"do":"sleep"}]}
