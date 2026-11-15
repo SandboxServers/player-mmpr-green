@@ -76,3 +76,17 @@
 - 03:38 act: {"actions":[{"do":"note","text":"Causeway of dirt now runs west along y=62 from the shore to x=-326 at z=264. Salmon keep swimming 11-14 blocks west. I'm at the end of it; waiting for one to come into
 - 03:38 act: {"actions":[{"do":"goto","target":{"x":-320,"y":66,"z":270}}],"reasoning":"Salmon keep fleeing and it is afternoon going toward dusk. Return to dry land and build a plank shelter before night."}
 - 03:38 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"reasoning":"Dusk is coming and I have no bed. Turn my two logs into planks for a shelter."}
+- 03:41 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-319,"y":65,"z":270}},{"do":"place","block":"oak_planks","at":{"x":-321,"y":65,"z":270}},{"do":"place","block":"oak_planks","at":{"x":-320,"y":
+- 03:41 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-320,"y":65,"z":269}},{"do":"place","block":"oak_planks","at":{"x":-320,"y":65,"z":271}},{"do":"place","block":"oak_planks","at":{"x":-321,"y":
+- 03:41 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantoms are closing and I am at two health. I will fight the nearest one."}
+- 03:41 say: {"text":"I died on the shore to phantoms and woke here with nothing. Has anyone spare food?"}
+- 03:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"
+- 03:43 act: {"actions":[{"do":"sleep"}]}
+- 03:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:51 act: {"intent":{"goal":"recover_dropped_pile_at_shore","program":"travel","arguments":{"target":{"x":-320,"y":65,"z":270}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition
+- 03:51 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 03:51 act: {"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-245,"y":66,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 04:00 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-269,"y":66,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],
+- 04:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
