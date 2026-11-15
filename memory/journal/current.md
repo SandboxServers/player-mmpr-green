@@ -16,3 +16,5 @@
 - 20:12 act: {"actions":[{"do":"unstick"}],"say":"Tommy, still in the stone pit at the west edge. Day 308. Anyone who can hear, I need planks or a pickaxe or food. Please come to the edge."}
 - 20:25 act: {"say":"Tommy here, still in the stone pit at the west edge. I need planks or a pickaxe, and food if anyone has it. Is anyone near?","intent":{"goal":"call_for_help_and_wait","program":"rest","argumen
 - 20:27 act: {"actions":[{"do":"unstick"}],"say":"Still stuck in stone, nobody near. I'll keep calling out at dawn."}
+- 20:30 act: {"say":"Tommy here, awake at the west pit. I still have no planks or pickaxe. If anyone is near the edge, please come.","intent":{"goal":"call_for_help_and_wait","program":"rest","arguments":{},"wake_
+- 20:33 act: {"actions":[{"do":"unstick"}],"say":"Still sealed in the west stone pit with no planks or pickaxe. If you are near the edge, please come and give me some."}
