@@ -113,3 +113,10 @@
 - 13:38 act: {"actions":[{"do":"goto","target":{"x":-304,"y":66,"z":322}}]}
 - 13:38 act: {"actions":[{"do":"unstick"}]}
 - 13:38 say: {"text":"Tommy, still on the perch at (-311, 66, 322). Stone is all round me and I have no pickaxe. Anyone passing with a pickaxe or planks, please leave them at the east edge. Thank you."}
+- 13:54 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"get_free_and_reach_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["goal_completed","precondition_failed","un
+- 13:56 act: {"actions":[{"do":"mine","block":"dirt","count":3}],"say":"Tommy, day 289. I'm boxed in by stone on the east. I'm digging dirt by hand to open a way out."}
+- 13:57 act: {"actions":[{"do":"unstick"}]}
+- 13:57 act: {"actions":[{"do":"unstick"}]}
+- 14:01 act: {"actions":[{"do":"unstick"}]}
+- 14:01 say: {"text":"Tommy, dusk 289. I'm stuck in a granite shaft at -313,55,322, no pickaxe, no planks. If anyone is near with a pickaxe or planks, please drop them."}
+- 14:09 act: {"actions":[{"do":"unstick"}]}
