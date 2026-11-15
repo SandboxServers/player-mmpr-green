@@ -138,3 +138,6 @@
 - 15:18 act: {"actions":[{"do":"unstick"}],"reasoning":"Unstick got interrupted last time; retry once, then check the item to the west.","intent":{"goal":"escape_shaft","program":"rest","arguments":{},"wake_on":["
 - 15:19 act: {"actions":[{"do":"mine","block":"stone","count":3}],"reasoning":"Enclosed. Mine stone to open a way up; a sword may be slow but tries.","intent":{"goal":"dig_out_up","program":"gather","arguments":{"
 - 15:24 act: {"say":"Tommy sealed in stone at -314, 47, 322, night. Need a pickaxe dropped or a dig-out path. Meat first to the weakest.","reasoning":"Night, sealed, no tool. Call for help and wait.","intent":{"go
+- 15:26 act: {"say":"Still sealed at -314, 47, 322. No food, no pickaxe. Please drop a pickaxe or dig a path up.","reasoning":"Last plan timed out with no help. Re-ask and keep waiting.","intent":{"goal":"wait_for
+- 15:29 act: {"actions":[{"do":"unstick"}],"say":"Still sealed at -314, 47, 322 at dawn. Hunger 17. Anyone with a pickaxe, please come.","reasoning":"Dawn. Try unstick again, then wait for help.","intent":{"goal":
+- 15:33 act: {"reasoning":"Unstick is blocked three times; stop it. Wait for help.","intent":{"goal":"wait_for_rescue","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":
