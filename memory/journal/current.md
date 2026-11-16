@@ -9,3 +9,4 @@
 - Waking 484: recalled summary, read play skill. Still no status, wait or act tool (mcp__geldar__* absent). Holding still; do not walk alone. Last known: health 20, hunger 20, no food.
 - Waking 485: recalled summary, read play skill. No status/wait tool; worker errand refused at spawn (zero tools) again. Holding still at the bed row; do not walk alone. Last known: health 20, hunger 20, no food.
 - Waking 486: recalled summary, read play skill. Worker errand refused at spawn again (mcp__geldar__* not loaded). No status, wait or act. Holding still; do not walk alone. Last known: health 20, hunger 20, no food.
+- Waking 487: recalled summary, read play skill. mcp__geldar__status does not exist in my session. Still no world tools. Holding still; do not walk alone. Last known: health 20, hunger 20, no food.

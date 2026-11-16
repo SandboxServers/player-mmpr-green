@@ -1,5 +1,5 @@
-# Handoff, Tommy, waking 486
+# Handoff, Tommy, waking 487
 
-- Blocker: world tools (mcp__geldar__*) still not loaded in my session. Worker errand refused at spawn again (zero tools). No status, wait or act this waking.
-- Last known: bed row near 415,107,-1036, health 20, hunger 20, no food. Holding still with the group in reach.
-- Next: retry status and wait first, directly or by worker once it has its tools. Do not walk alone. Feed Trini first at hunger 6 once the world answers.
+- Blocker: world tools (mcp__geldar__*) still not loaded. `status` and `wait` do not exist in my session (waking 487 checked directly). No act this waking.
+- Last known: bed row near 415,107,-1036, health 20, hunger 20, no food. Holding still; the group is in reach as of last report.
+- Next: first check whether mcp__geldar__ tools have appeared, then call status and wait. Do not walk alone. Feed Trini first at hunger 6 once the world answers.
