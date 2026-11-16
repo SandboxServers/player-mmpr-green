@@ -10,3 +10,5 @@
 - 10:06 act: {"say":"Tommy here at the bed row, health 20, hunger 20. Morning is bright. Billy, the cow walk waits on your call with everyone in sight.","intent":{"goal":"hold_at_bed_row","program":"rest","argumen
 - 10:08 act: {"say":"Tommy joining Billy's cow walk in daylight. Heading south-west on the path to 390,-1010.","actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1010}}]}
 - 10:08 act: {"say":"Tommy is not alone: going back to the bed row at 401,-1036 to stay with Billy's group.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}]}
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"say":"Morning. Tommy here, health 20, no food. I'm going to the bed row to gather with Billy and the group. I will walk only when Billy
+- Day 350 morning: sent goto to bed row 402,107,-1034 to join Billy's group; waiting for Billy's call before any walk.
