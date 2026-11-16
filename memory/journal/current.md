@@ -20,3 +20,16 @@
 - Day 318 morning: full at 20. Chicken field and Trini's spot both empty. Back at the beds. Trini holds 2 chickens and mutton for anyone at 6 or lower.
 - 23:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. I'm going to my bed by the food chest. Shout if anyone needs me."}
 - 23:41 act: {"actions":[{"do":"sleep"}]}
+- 23:41 say: {"text":"Goodnight, Kimberly. I am full and I will sleep by the beds too."}
+- 23:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Sleeping by the bed. Shout if anyone needs me."}
+- 23:46 act: {"say":"Morning. I am full at 20. Trini, I will join the chicken search. I will take the north-east field and bring what I find to the weakest.","intent":{"goal":"reach_chicken_field","program":"trave
+- 23:46 act: {"say":"I am at the north-east field now. No chickens in sight yet. Trini, I am here if you want to search together."}
+- 23:46 act: {"say":"Trini, agreed. I will walk the north side of the field. Leonardo, none seen yet from me.","actions":[{"do":"goto","target":{"x":455,"y":107,"z":-1005}}]}
+- 23:47 act: {"say":"Trini, none seen on the north side either. I am full, so I will go back to the beds and watch for whoever is weakest.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target
+- 23:55 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Sleeping by the beds. Zack, Jason, Leonardo, Trini: shout if anyone is weak."}
+- 00:03 say: {"text":"Trini, I am full at 20 and not low. Keep your chickens for whoever is weakest. I will stay at the beds and watch."}
+- 00:11 act: {"say":"Morning. I am full at 20. I will check the north-east chicken field again for whoever is weakest.","intent":{"goal":"reach_chicken_field","program":"travel","arguments":{"target":{"x":440,"y":
+- 00:11 act: {"say":"No chickens in the north-east field this morning either. I am heading back to the beds to keep watch.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":430,"y":1
+- 00:15 act: {"say":"Kimberly, eat the melon now and keep your chicken for when you need it. I am at the beds with no food, but I will help carry if you need it.","actions":[]}
+- 00:29 act: {"say":"Wesley, I have not learned a sure way. The north-east field was empty this morning. Chickens wander in open grass, so check the grass edges outside the fence, and tell us when you see one."}
+- 00:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}]}
