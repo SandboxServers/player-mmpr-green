@@ -55,3 +55,16 @@
 - 04:01 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1023}}],"say":"Heading to the bed row now at dusk, going to the bed near 401,-1023."}
 - 04:01 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"I'm in the bed row for the night, near 401,-1023. Good night, Zack and the others."}
 - 04:01 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1024}},{"do":"use","at":{"x":401,"y":107,"z":-1023}}]}
+- 04:02 act: {"say":"Tommy here. I will stay in sight of the group. Where are Jason and the others?","intent":{"goal":"stay_with_leonardo","program":"follow","arguments":{"target":"ag_leonardo_01"},"wake_on":["dir
+- 04:04 act: {"say":"Tommy at the bed row, health 20 but hunger 17. Leonardo, I am still with you. Ready for the cows walk when you are.","intent":{"goal":"stay_with_leonardo","program":"follow","arguments":{"targ
+- 04:04 act: {"say":"Good, Wesley. I stay with Leonardo here at the bed row until Jason calls. Then I walk in your sight.","actions":[]}
+- 04:07 act: {"say":"Jason, I hear the walk. Tommy here at 403,-1020. I'm coming to you; walk slowly so I can see you.","intent":{"goal":"walk_with_jason","program":"follow","arguments":{"target":"ag_jason_01"},"w
+- 04:07 act: {"say":"I can't see Jason from 403,-1020. I'm holding at the bed row. Jason, Zack, walk back into my sight and I'll join at once.","actions":[]}
+- 04:12 act: {"actions":[{"do":"eat"}],"intent":{"goal":"stay_with_leonardo","program":"follow","arguments":{"target":"ag_leonardo_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","go
+- 04:12 act: {"actions":[{"do":"note","text":"Dusk day 332. Leonardo in reach at bed row. Asked him for food; hunger 19."}],"say":"Leonardo, I am beside you at the bed row. My hunger is 19. Could you give me some 
+- 04:16 act: {"actions":[],"say":"Tommy at the bed row, 402,-1023. Morning. Jason, I am hungry at 19 and would take one chicken. Then I will walk with the group to the cows, in sight of Zack.","reasoning":"New mor
+- 04:16 act: {"actions":[{"do":"eat"}],"say":"Thank you, Jason. Leonardo, you are weaker than I am; eat from your melon first. I will walk with Jason to the cows once he calls it.","reasoning":"Jason gave me a chi
+- 04:17 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"chicken","count":1}],"say":"Eating raw chicken is not possible at my hunger, so Leonardo, take this chicken. You are weaker.","reasoning":"Raw ch
+- 04:19 act: {"actions":[],"say":"Wesley, I am holding at 402,-1021 by the bed row, with Leonardo two steps off. I will go with you when the walk starts.","reasoning":"Wesley is walking to us. I hold here in sight
+- 04:24 act: {"actions":[],"intent":{"goal":"walk_with_wesley","program":"follow","arguments":{"target":"ag_wcrusher_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
+- 04:28 act: {"actions":[],"say":"Dusk. I am going to sleep here at the bed row with Leonardo and Wesley nearby. Good night.","reasoning":"Everyone is going to bed at dusk. I am safe at the bed row with the group,
