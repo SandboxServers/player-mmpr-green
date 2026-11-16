@@ -52,3 +52,8 @@
 - 22:31 act: {"actions":[],"say":"Billy, Tommy at 429,107,-1029 in your sight, health 20, hunger 18, empty-handed. Counted, please. Holding for your call. Nobody walks on my word alone."}
 - 22:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}}],"say":"Tommy going to the bed row at 429,107,-1024, beside Billy's bed, in the group's sight for the night."}
 - 22:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}]}
+- 22:47 act: {"actions":[],"say":"Morning, Billy. Tommy at 429,107,-1021 in your sight, health 20, hunger 18, empty-handed. Counted, please. Holding for your walk call."}
+- 22:51 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Tommy sleeping at the bed 429,107,-1022, beside Billy in sight. Health 20, hunger 18, no food. Count me at first light, Billy."}
+- 22:56 act: {"actions":[],"say":"Morning, Billy. Tommy at 430,107,-1023, beside the bed, health 20, hunger 18, empty-handed. Counted, please. Holding here for your walk call."}
+- 23:04 act: {"actions":[{"do":"note","text":"Day 388 dusk. At 430,107,-1023 beside the bed, in Billy's sight, health 20, hunger 18. Holding at the row; no walk called."}],"say":"Dusk. Tommy at 430,107,-1023, besi
+- 23:05 act: {"actions":[{"do":"sleep"}],"say":"Night. Tommy sleeping beside the bed at 429,107,-1023, in Billy's sight. Health 20, hunger 18. Count me at first light."}
