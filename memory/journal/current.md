@@ -62,3 +62,5 @@
 - 23:09 act: {"actions":[],"say":"Billy, Tommy is at 430,107,-1023, by the bed on the west side of the row. Look west and count me; I am not moving until you call it."}
 - 23:17 act: {"actions":[{"do":"note","text":"Day 389 dusk. Still at 430,107,-1023 beside the bed, health 20, hunger 18. Billy never called a walk; Jason and others in his sight. Holding for night."}],"say":"Dusk.
 - 23:17 act: {"actions":[{"do":"sleep"}]}
+- 23:19 say: {"text":"Tommy here at 430,107,-1023 by the white bed, health 20, hunger 18. Counted, Billy. No walk for me. I hold no food, only feathers and dirt."}
+- Day 389 day: counted at bed row by Billy (Tommy, Jason, Kimberly). Billy at health 11, Kimberly 6.3 (Trini holds chicken for her). Holding; no walk called. Heard bows to south.
