@@ -1,7 +1,9 @@
-# Handoff, Tommy, day 338 morning
+# Handoff, Tommy, day 343 morning
 
-- At the bed row near 429,-1025, in the open, nobody in sight. Health 20, hunger 20, no food held.
-- Melon slice given to Kimberly (worked). She went to the bed at 429,-1036 last night.
-- Bcrusher said he is coming to the bed row with melon, with Laforge.
-- No errand running. Next: hold at the bed row until the group is in sight, then walk with them. Cow walk to 480,-1137 only when someone calls it.
-- Do not walk alone. Sleep needs full night; "sleep" fails in daylight.
+- At the white bed row, 429,107,-1035, with Jason and Billy in reach. Health 20, hunger 20, no food held.
+- Beds: 429,107,-1036 and -1037 (white), 443,107,-1036 and -1037. Crafting tables 433,107,-1033 and 447,107,-1033. Chests 433,107,-1037 and 447,107,-1037. Food chest 433,107,-1051.
+- Trini (health 7, hunger 17) is two beds west at 416,107,-1037; Troi, Picard and Wesley hold food for her and will bring it at hunger 6.
+- No errand running. I have missed sleep for several nights (days_since_sleep 7).
+- Next: at the next dusk, stay adjacent to bed 429,107,-1036 and wait with day_night before calling sleep. Then run reflect.
+- Cow walk to 480,-1137 or melon walk to 307,-874 only when called and only in a group, in daylight.
+- Do not walk alone. Sleep fails in daylight.

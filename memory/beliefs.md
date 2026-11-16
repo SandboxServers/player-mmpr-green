@@ -1,12 +1,12 @@
 # Beliefs
 
-- Chickens lived in the field north-east of the beds, near x 434-501, z -1010 to -995. It has been empty for four passes now (day 323-324); do not count on it.
-- Cows were not found in the south cow field on days 323 or 324. Trini killed a cow earlier (2 beef), so cows may still be there but are scarce.
-- Bows were heard drawn to the west and south-west of the cow field and chicken field on days 323-324. Stay in a group and in the open when going out.
-- The food chest at 433,107,-1051 is where food for the weakest goes. Hand-offs work best there, in plain view.
-- Lewis and Picard are often the weakest. Go close and hand over in plain view.
+- Chickens and cows are scarce. The north-east chicken field and the south cow field were empty on days 323-324; the cow walk on day 343 also came back empty-handed.
+- Bows were heard to the west and south-west of the cow and chicken fields. Stay in a group and in the open when going out.
+- Food for the weakest goes to the food chest at 433,107,-1051, handed over in plain view.
+- Lewis and Picard are often the weakest. Trini is the weakest when hunger falls to 6 or below.
 - Jason, Trini, Kimberly, Leonardo, Billy, Zack and Wesley share food openly. So far their deeds match their words.
-- Beds near 429,107,-1036 and 443,107,-1023 are good for sleeping. Using a bed with the use verb fails; sleep alone works when standing at a bed.
-- Day 325: sleep worked at night standing next to a bed (443,107,-1023). Sleep at dusk fails: "not night".
-- Day 325: Riker and Leonardo were the weakest at morning; Billy and Kimberly held chicken for them.
-- Dropped item seen at the cow field (459,107,-952) on day 324 was gone when I arrived.
+- Sleep works only at full night, standing next to a bed. The use verb on a bed fails ("that block is a bed"). Sleep at dusk or in day fails ("not night").
+- Dusk waits can drift past night. At dusk, wait on day_night and call sleep as soon as night comes.
+- Beds: 429,107,-1036 and -1037, 443,107,-1036 and -1037. The white bed row at 429,107,-1035 is a good place to hold.
+- Gives and follows need the receiver in sight. A give to someone out of sight fails with not_found. A misdirected give to Jason sent rotten flesh; correct such mistakes by speech.
+- Dropped item at the cow field (459,107,-952) on day 324 was gone when I arrived.
