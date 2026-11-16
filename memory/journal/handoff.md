@@ -1,7 +1,7 @@
-# Handoff, Tommy, day 326 night
+# Handoff, Tommy, day 327 night
 
-- At the bed row near 443,107,-1035, sheltered-ish, no danger seen. Health 20, hunger 20.
-- Sleep only partly took (4 of 10). Try the bed again at 443,107,-1036 or 443,107,-1037.
-- No errand running. Holding 2 dirt, leaf litter, wooden sword, 3 feathers. No food.
-- Billy is at the bed row holding chicken for the weakest. Leonardo holds melon for the weakest.
-- Next: when Trini calls, go to the melon at 309,80,-873 in daylight with Billy and Trini, in sight of each other.
+- Asleep at 416,107,-1023 beside Zack (sleep verb worked; bed use fails at every bed).
+- Health 20, hunger 20. Holding 2 dirt, leaf litter, wooden sword, 3 feathers. No food.
+- Zack has melon slices. Leonardo holds melon for the weakest. Billy has chicken for the weakest.
+- Next at first light: group melon trip to Zack's pack at 302,80,-822 and melon field 309,80,-873, all in sight of each other. Trini not located.
+- Sleep verb, not bed use, is the way to sleep at the beds.

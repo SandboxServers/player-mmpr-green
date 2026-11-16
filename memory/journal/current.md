@@ -6,3 +6,29 @@
 - 02:14 act: {"say":"Billy, Trini: I am at the bed row 441,107,-1024, full on food, ready to go to the melon with you in daylight. Call me when you move."}
 - 02:19 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}]}
 - 02:19 act: {"actions":[{"do":"sleep"}]}
+- 02:20 act: {"say":"Tommy here at the beds, health 20, hunger 20. I am not weakest, so the melon is for Riker or Lewis or Johnny. I will go with Billy and Trini to the melon at 309,80,-873 in daylight when Trini 
+- 02:24 act: {"say":"Tommy coming to 427,-1024 now to join Zack, Billy and Leonardo. I will keep you in sight for the melon trip.","actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1024}}]}
+- 02:24 act: {"say":"Tommy is here with Zack and Billy, in daylight. Trini, where are you? We move to Zack's pack at 302,80,-822 together, keeping each other in sight."}
+- 02:25 act: {"say":"Going with you both now, Zack and Billy. I will stay close and keep you in sight.","intent":{"goal":"follow_zack_to_melon","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["di
+- 02:25 act: {"say":"Billy, I am still at 427,-1025 with you. Zack is out of my sight now. Zack, where are you? I will not go into the melon field until we can see each other."}
+- 02:29 act: {"say":"It is dusk, so the melon trip waits for morning. I am going to my bed at 443,107,-1023 now. Leonardo, Billy, Zack: keep your food for the weakest and sleep close.","actions":[{"do":"goto","tar
+- 02:30 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 02:30 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1036}},{"do":"use","at":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 02:33 act: {"say":"Morning. Tommy is ready. I am going to Leonardo at 430,107,-1023 now to join the melon trip in view of all of you.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1024}}]}
+- 02:33 act: {"say":"Tommy at 430,107,-1025, in the open. I cannot see anyone yet. Zack, Billy, Leonardo: call me when you are in sight and we go together."}
+- 02:33 act: {"say":"Zack, I see you. Tommy is coming to you now.","actions":[{"do":"goto","target":"ag_zack_01"}]}
+- 02:36 act: {"say":"Billy, Zack and I are here by the beds. Come into view and we'll go to the melon together.","actions":[],"reasoning":"Billy wants both of us in his sight before moving. Zack is adjacent. Tell 
+- 02:36 act: {"actions":[],"say":"A bow is drawn to the southwest. I'll hold here by the beds until Zack and Billy are in sight.","reasoning":"Bow sound to the southwest. Zack is coming back to the beds. Hold posi
+- 02:37 act: {"actions":[],"say":"Zack sees me here at 426,-1025. Billy, Leonardo, come into my view and we'll form up on you.","reasoning":"Zack and I are in each other's view. Billy needs to see us both. I stay 
+- 02:37 act: {"actions":[{"do":"goto","target":"Leonardo"}],"say":"Going to Leonardo's side, Zack is with me.","reasoning":"Leonardo asked us to come to his side to form up. Walk to him so Billy can see us all."}
+- 02:37 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1022}}],"say":"Leonardo is not in my sight. I'm walking to the bed row at 428,-1022 where he stood.","reasoning":"Leonardo is out of sight, so g
+- 02:38 act: {"actions":[],"say":"Staying close to you, Zack. Billy, Leonardo, call out when you see us.","reasoning":"Zack is in reach and going to Leonardo's bed. Stay close and keep watch on the bow sounds."}
+- 02:40 act: {"actions":[{"do":"note","text":"Day 327 afternoon: holding at the bed row 427,-1022 with Zack in reach. Billy and Leonardo still not in sight; bows keep sounding south. Melon trip still waiting on th
+- 02:41 act: {"actions":[],"say":"Leonardo, I see you and Zack. Billy, where are you? We wait for you before the melon field.","reasoning":"Leonardo and Zack are with me. Billy is the last to come. Ask him to show
+- 02:42 act: {"actions":[{"do":"give","to":"Billy","item":"melon_slice","count":1}],"say":"Billy, here is one melon slice; Billy has nothing in hand. I keep one for Leonardo if he runs low. Now to the melon field 
+- 02:42 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"melon_slice","count":1}],"say":"The sun is low, so we should not go to the melon field now. We stay by the beds tonight and go at first light, all t
+- 02:42 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"melon_slice","count":1}],"say":"Billy, here is my last melon slice for you. We stay at the beds tonight and go at first light.","reasoning":"Billy h
+- 02:42 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1023}}],"say":"Coming to the bed at 415,-1023 with you, Zack.","reasoning":"Zack is going to a bed at 415,-1023 for the night. Go there with him
+- 02:42 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Trying the bed at 415,-1023. Good night, Zack.","reasoning":"This bed has not been tried before. Use it once. If it fails, rest here w
+- 02:42 act: {"actions":[{"do":"note","text":"Bed use at 415,107,-1023 failed too (that block is a bed). Zack is lying down with the sleep verb. I will do the same at dusk, beside Zack, and not repeat bed use."}],
+- 02:43 act: {"actions":[{"do":"note","text":"Dusk day 327: sleep verb worked beside Zack at 416,107,-1023. Health 20, hunger 20. Melon trip at first light with Zack, Billy, Leonardo."}],"reasoning":"Sleep took, d
