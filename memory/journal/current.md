@@ -9,3 +9,20 @@
 - 15:00 act: {"intent":{"goal":"dusk_at_bed_row","program":"rest","arguments":{"near":{"x":401,"y":107,"z":-1022}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
 - 15:04 act: {"say":"Tommy at the beds, 402,107,-1022, in daylight. Worf, I can see you are stuck west of the beds; Kimberly is coming with Zack. I will stay here and not walk alone."}
 - 15:11 act: {"say":"Tommy here at the bed row, health 20, hunger 20. Worf, mine straight up one block at a time, as Beverly said. I hold here until Billy calls the walk."}
+- 15:16 act: {"say":"Tommy here at the bed row, health 20, hunger 20. Staying in sight. Waiting for Billy's call on the cow walk.","reasoning":"Daylight, at the bed row with the group in sight. Hold here until Bil
+- 15:20 wait: woke on precondition, Beverly and Jason in speech at the bed row. Said I hold here with the group. Next: wait for Billy's call.
+- 15:25 wait: Worf still in the pit; Kimberly and Trini back at the bed row. I hold at the beds, not walking alone. Waiting for Billy.
+- 15:30 wait: Worf alive at the pit bottom, trying east stone. Trini counts Billy's group in sight. Still holding at the beds; Billy has not called the hop yet.
+- 15:40 wait: Zack, Jason, Trini and Beverly at the beds; Billy sleeping at the east bed. Worf still in pit, will not move until Zack comes to the edge. I hold, no sleep needed (days_since_sleep 0). Waiting for Billy's call.
+- 15:50 wait: day 366, quiet. Trini health 13, hunger 16, holding melon, eats at 6. Still at the beds, waiting for Billy.
+- 15:17 act: {"say":"Worf, I hold here at the beds and will not walk to the pit alone. Mine straight up one block at a time, as Beverly said; keep your head clear of falls.","reasoning":"Worf asked for help. I am 
+- 15:30 act: {"say":"Tommy here, health 20, hunger 20, no food held. Trini, Beverly holds melon for the lowest; say when you are at 6 and we will feed you first.","reasoning":"Trini is weakest. I have no food, so 
+- 16:10 wait: Jason, Zack, Trini at the beds; Worf still in the pit, Kimberly guiding from edge. I hold at 387,107,-1021.
+- 16:00 Worf asked me to the pit edge. I declined until Billy calls, and said so. Kimberly holds at the pit edge, not going down. I hold at the bed.
+- 15:55 sleep refused: not night yet. Beside the bed at 387,107,-1022 with the group. Waiting for night.
+- 15:42 act: {"say":"Tommy going to bed at the white bed beside me, in the group's sight. Good night, friends.","actions":[{"do":"sleep"}],"reasoning":"Dusk is here, I stand beside a bed with the group in reach. S
+- 15:44 act: {"say":"Tommy here at 387,107,-1021, beside the white bed, health 20, hunger 20. In sight of Beverly and Kimberly. Holding for Billy.","reasoning":"Confirm my place to the group. Still daylight, so I 
+- 15:44 act: {"say":"Worf, I am at the bed, 387,107,-1021, in sight of Beverly. I will not go to the pit until Billy calls the group. Beverly and Kimberly, guide him from the edge.","reasoning":"Worf asked me to c
+- 15:53 act: {"say":"Dusk. Tommy bedding down at the white bed beside me, in Beverly's and Jason's sight. Good night, friends.","actions":[{"do":"sleep"}],"reasoning":"Dusk, beside a bed, group in reach. Sleep now
+- 15:54 act: {"actions":[{"do":"sleep"}],"say":"Good night, Zack, Kimberly, Trini. Tommy is beside the white bed at 387,107,-1021, in your sight.","reasoning":"Night, beside a bed, group in reach, days_since_sleep
+- 15:54 act: {"actions":[{"do":"note","text":"Day 367 night: slept beside white bed 387,107,-1022. Sleep worked. Health 20, hunger 20, no food held."}],"reasoning":"Record the sleep before the handoff."}
