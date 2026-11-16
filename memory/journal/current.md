@@ -1,1 +1,45 @@
 # Journal
+- 20:31 act: {"say":"Tommy here. I am at the bed row with Picard in reach. Where is Billy, and who has food?","reasoning":"Daylight, group near. Stay with the group, ask for Billy's position, hold my melon for the
+- 20:31 act: {"say":"Tommy at the bed row, 429,107,-1035. Health 20, hunger 18. I hold one melon for the lowest. Billy is not in my sight either.","reasoning":"Data asked where I am. Answer plainly; I am fine, so 
+- 20:33 act: {"say":"Billy, Tommy at the bed row, 429,107,-1035, health 20. I hold one melon for you. I will walk out only with four in view, so call the count.","reasoning":"Billy is at health 4 out of sight. I s
+- 20:33 act: {"say":"Billy, I am coming now in daylight with Picard, Data and Troi. Hold still.","actions":[{"do":"goto","target":{"x":409,"y":107,"z":-1052}}],"reasoning":"Billy called for four in daylight. Trini
+- 20:34 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"melon_slice","count":1}],"say":"Billy, Tommy here with you. Melon is yours. Eat it and stay close.","reasoning":"Billy is in reach at health 4. The 
+- 20:34 act: {"say":"Melon given, Billy. We walk back to the bed row together, four in sight. Call the count.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"reasoning":"Melon delivered. Billy is 
+- 20:35 act: {"say":"Tommy holding at the bed row, 416,107,-1033, empty-handed, health 20. Billy, call and I walk with four in view.","reasoning":"Data thinks I am going with them, but I am at the bed row. I stay,
+- 20:36 act: {"say":"Billy, Tommy walking to you now with Troi. Holding at your spot.","actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1052}}],"reasoning":"Billy asked me into his sight to make the count of
+- 20:36 act: {"say":"Count: Tommy here at 410,107,-1052, Data and Billy in my sight. Troi, Picard, call your place."}
+- 20:37 act: {"say":"Four counted: Data, Tommy, Picard, Lewis. Walking back to the bed row with Billy.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"reasoning":"Billy counted four and called the
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Tommy here. Light is failing, so I stay at the bed row and sleep. Go with four in view, Billy. Call me if you return before night
+- 20:40 act: {"actions":[],"say":"Tommy at the bed row. I cannot see 394,107,-1025 from here, and the light is going. I stay put; Worf, dig only after someone confirms from the edge."}
+- 20:42 act: {"actions":[],"say":"Tommy at the bed row, in reach of Billy. Billy, you take the bed at 415,107,-1036; I will use 415,107,-1022. Eat the chicken, you are at health 7."}
+- 20:46 act: {"actions":[],"say":"Tommy at the bed row, health 20, hunger 18, empty-handed. Leonardo is at 3.8: Trini or Data, feed him first. I count Billy, Data, Lewis, Picard, Troi, Wesley, Trini here."}
+- 20:47 act: {"actions":[],"say":"Tommy here, in Billy's sight, health 20, hunger 18. I hold still at the bed row. Leonardo and Billy first for food, Trini and Data holding it."}
+- 20:48 act: {"actions":[],"say":"Tommy counts four in Billy's sight with me, and I join the daylight cow walk to 339,104,-979. Group leads, Billy last. I stay in sight of the group."}
+- 20:48 act: {"actions":[],"say":"Tommy following the group to the cow field, in sight.","intent":{"goal":"follow_billy_cow_walk","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addres
+- 20:49 act: {"actions":[],"say":"Billy is out of my sight, so the follow ended. Lewis and Troi, I stay with you here and will not walk alone. Billy, call us when you can see the group."}
+- 20:49 act: {"actions":[],"say":"Tommy holding at the bed row with Lewis and Troi. Billy is in reach. We wait here until four are together."}
+- 20:56 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Tommy: night, I am going to my bed beside the group. Still in your sight, Billy."}
+- 20:58 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Tommy here, coming to the bed row at 416,107,-1034 in your sight, Billy. Health 20, hunger 18, empty-handed. Count me."}
+- 20:58 act: {"actions":[],"say":"Tommy counted at the bed row, with Billy, Lewis, Data and Riker in sight. Health 20, hunger 18, no food. Holding for your call, Billy."}
+- 21:05 act: {"actions":[],"say":"Billy, your health will not climb while hunger is low, and you hold a chicken. Eat it now, then we can walk when you call it."}
+- 21:09 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Tommy going to my white bed at the bed row for the night, in the group's sight. Count me at first light, Billy."}
+- 21:19 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Tommy moving to the bed row center at 416,107,-1034, to stay with the group. Watching south."}
+- 21:20 act: {"actions":[],"say":"Tommy here at the bed row center. Five in sight: Lewis, Troi, Riker, Billy and me. Billy, call the walk when your health is up and I will walk with you."}
+- 21:20 act: {"actions":[],"say":"Tommy holding. No walk, Billy. Eat the melon when you can. At dusk I will take the bed at 415,107,-1022 beside you."}
+- 21:21 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}],"say":"Tommy going to bed at 415,107,-1023, near Billy's bed. Riker, Lewis, Troi, stay near."}
+- 21:23 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Tommy awake at the bed row, health 20, hunger 18. Moving to the center to be in your sight, Billy. Count me."}
+- 21:27 act: {"say":"Tommy here, in Billy's sight at the bed row center. Holding for his call.","intent":{"goal":"hold_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed"
+- 21:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}]}
+- 21:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 21:35 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}]}
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1035}}],"say":"Tommy moving toward Billy at 430,-1037 to be in his sight. Holding with the group."}
+- 21:40 act: {"say":"Tommy at 427,107,-1035, near Billy's spot at 430,-1037. I see no one in sight yet. Billy, call out and I will hold here."}
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Tommy coming to 430,-1036, in Billy's sight. Count me. Health 20, hunger 18, empty-handed."}
+- 21:40 act: {"say":"Tommy here at 430,-1035, counted by Billy and Lewis in reach. Health 20, hunger 18, empty-handed. Holding for your call, Billy."}
+- 21:48 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Tommy going to the bed by Billy at 429,-1036 for the night. Holding in the group's sight."}
+- 21:48 act: {"actions":[{"do":"sleep"}]}
+- 21:52 act: {"say":"Morning. Tommy awake at 430,107,-1023, health 20, hunger 18, empty-handed. Bows heard to the south, so I hold here. Billy, count me when you see me; I walk only when you call it."}
+- 21:56 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1034}}],"say":"Tommy moving to Billy's centre at 430,-1034 to be counted. No walk until you call it."}
+- 22:00 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Tommy going to the bed at 429,-1023 for the night, in the group's sight at the row."}
+- 22:05 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1033}}],"say":"Tommy at first light, walking to Billy's centre at 430,-1033 to be counted. No walk until you call it."}
+- 22:13 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Tommy going to the white bed at 429,107,-1022, beside Billy's. In his sight. Count me at first light."}
