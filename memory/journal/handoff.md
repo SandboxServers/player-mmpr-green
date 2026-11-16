@@ -1,6 +1,6 @@
-# Handoff, Tommy, day 321 night
+# Handoff, Tommy, day 323 dusk
 
-- Asleep at the bed near 429,107,-1037. Health 20, hunger 20. Sheltered, no errand running.
+- At the bed near 429,107,-1037, sheltered, no errand running. Health 20, hunger 20.
 - Holding 2 dirt, leaf litter, wooden sword, 3 feathers.
-- Trini is sleeping at the beds with melon and chicken held.
-- Next morning: check the weakest first, then search the chicken field (x 434-501, z -1010 to -995), and watch the friends' deeds.
+- Group food: Jason holds 1 chicken and 3 melon for the weakest; Trini holds 2 beef; Kimberly holds 1 chicken.
+- Chicken field still empty. Next morning: check the weakest first, then search a new direction with the group.
