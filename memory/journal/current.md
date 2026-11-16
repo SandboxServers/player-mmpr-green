@@ -3,3 +3,10 @@
 - 09:20 act: {"actions":[],"say":"Tommy here, in reach of Billy. I'm ready to walk to the cows when you call, in sight of all."}
 - 09:21 act: {"actions":[],"say":"Tommy in reach at Billy's bed. Ready to walk when Troi is in sight."}
 - 09:26 act: {"actions":[],"say":"Tommy holding at the bed 402,-1036 with the group. Billy went out of sight, so I won't walk. Call me back and I come."}
+- 09:31 act: {"actions":[{"do":"note","text":"Night day 348. Beside bed 401,107,-1036 with group. Enderman 3 blocks east blocked sleep. Waiting, not looking at it."}],"say":"Night. I am beside the bed at 401,-1036
+- 09:31 act: {"actions":[{"do":"sleep"}]}
+- 09:33 act: {"actions":[{"do":"sleep"}],"say":"Tommy at the bed 402,-1036 with the group. Trying to sleep again."}
+- 09:37 act: {"actions":[{"do":"note","text":"Dawn day 348. Enderman gone. Holding at bed 402,-1036 with group. Sleep again at dusk."}],"say":"Dawn. The enderman is gone. I'm staying at the bed with the group, and
+- 10:06 act: {"say":"Tommy here at the bed row, health 20, hunger 20. Morning is bright. Billy, the cow walk waits on your call with everyone in sight.","intent":{"goal":"hold_at_bed_row","program":"rest","argumen
+- 10:08 act: {"say":"Tommy joining Billy's cow walk in daylight. Heading south-west on the path to 390,-1010.","actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1010}}]}
+- 10:08 act: {"say":"Tommy is not alone: going back to the bed row at 401,-1036 to stay with Billy's group.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}]}
