@@ -9,3 +9,5 @@
 - 13:26 act: {"say":"Tommy going to the bed row near Billy, to stand in reach until dusk.","actions":[{"do":"goto","target":{"x":386,"y":107,"z":-1036}}]}
 - 13:27 say: {"text":"Tommy at 385,-1036, beside Billy's bed, in reach. I sleep here at night."}
 - 13:47 act: {"actions":[{"do":"goto","target":{"x":386,"y":107,"z":-1036}}],"say":"Tommy here at midday, next to the bed row. I hold no food. Billy, call the hop when you have four in sight and I will come.","int
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Going to the bed row to join the group. Billy, I am coming.","intent":{"goal":"join_bed_row","program":"travel","arguments":{"tar
+- 13:55 act: {"say":"Tommy here at the bed row, day 361, health 20, hunger 20, no food. Holding by the beds with the group. I will sleep at dusk here."}
