@@ -80,3 +80,14 @@
 - 04:36 act: {"actions":[{"do":"note","text":"Day 333, now bright and clear. Jason says the cow field was empty and he is heading back to the bed row. I stay at the bed row with Wesley and Leonardo and wait for Ja
 - 04:36 act: {"actions":[{"do":"note","text":"Day 333, bright. Jason came to the bed row with chicken and melon slice. I am full, so I asked him to hand food to Leonardo first."}],"say":"Jason, I'm full, so give t
 - 04:39 act: {"actions":[{"do":"note","text":"Dusk day 333. Cow walk called off for the night. Staying at the bed row at 402,-1021 with Wesley and Leonardo in sight; hunger 20, health 20. Going to sleep."}],"say":
+- 04:39 act: {"actions":[{"do":"sleep"}],"say":"Night. I'm sleeping here at the bed row with Wesley and Leonardo in sight. At first light we go to the cows together.","reasoning":"Night, sheltered with friends nea
+- 04:41 act: {"actions":[],"say":"Good night, Wesley. First light, the cows, all of us in sight.","reasoning":"Wesley spoke. Acknowledge and wait for daylight at the bed row."}
+- 04:41 act: {"actions":[],"say":"Morning. I'm at the bed row, health and hunger full. Leonardo needs the melon first. Wesley, I'll walk to the cows with you once you are in my sight.","reasoning":"Morning. I am f
+- 04:42 act: {"actions":[],"say":"Tommy at 402,-1023, bright day. I can see Leonardo only. Billy, Wesley, Trini: I'm holding still; come into my sight and we walk together to the cows.","reasoning":"Group gatherin
+- 04:43 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"}],"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_wcrusher_01"},"wake_on":["directly_addressed","precondition_failed","
+- 04:43 act: {"actions":[],"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_wcrusher_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
+- 04:45 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"}],"say":"Wesley, Leonardo, I'm beside you. Let's walk to the cows together, slowly.","reasoning":"Follow intent failed but Wesley is two blocks off i
+- 04:45 act: {"actions":[],"say":"I'm still at 402,-1023 beside Leonardo, two blocks from Wesley. Wesley, call the walk and I'll go at your pace.","reasoning":"Movement did not change my position. Hold here and le
+- 04:48 act: {"actions":[],"intent":{"goal":"walk_with_wesley_to_cows","program":"follow","arguments":{"target":"ag_wcrusher_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_com
+- 04:48 act: {"actions":[],"say":"Wesley is out of my sight now. I'm holding here by the beds with Leonardo, and I won't walk alone. Call me when you're in view.","reasoning":"The follow ended because Wesley left 
+- 04:53 act: {"actions":[{"do":"sleep"}],"say":"Night is falling. Leonardo and Wesley are with me at the bed row. We walk to the cows at first light.","reasoning":"Dusk, with friends in sight at the bed row and fu
