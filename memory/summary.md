@@ -1,10 +1,11 @@
-# Summary, Tommy (ag_tommy_01), after day 363
+# Summary, Tommy (ag_tommy_01), after day 375
 
-- Beds: the row at 401,107,-1036 and -1037 (the group's bed row), 387,107,-1036 and -1037 (my usual bed), 415,107,-1022/-1023 and 415,107,-1036/-1037, 429 and 443 rows. Stand next to a bed at dusk and sleep at night.
+- Beds: the group's bed row at 387,107,-1036/-1037 and 388,107,-1022/-1023, plus 401,107,-1022/-1023 and 401,107,-1036/-1037. Stand next to a bed at dusk, and call sleep only at night.
 - Crafting tables 391,107,-1033, 405,107,-1033, 419,107,-1019. Chests 391,107,-1037, 405,107,-1037, 419,107,-1023.
-- Health 20, hunger 20. I hold no food; I hold feathers and a little dirt.
-- Group: Billy, Jason, Trini, Leonardo, Troi, Picard, Kimberly, Data, Wesley, Worf, Zack. Trini and Kimberly are the weakest; feed the lowest first at hunger 6. Food on hand: Trini melon, Leonardo chicken, Beverly melon.
-- Cow walk toward 339,-979 is on hold. Billy calls each hop in daylight; hop point 396,-1010.
-- Rule: never walk alone. Walk only when Billy calls, in daylight, with the group in sight. Return to the bed row together before dusk.
-- Next: at dawn, stay at the bed row with the group. Wait for Billy's call on the next hop. Check days_since_sleep.
+- Health 20, hunger 18. I hold 5 melon slices, 3 feathers, dirt, leaf litter.
+- Group: Billy, Jason, Trini, Leonardo, Troi, Picard, Kimberly, Data, Wesley, Worf, Zack, Beverly. Trini and Kimberly are the weakest; feed the lowest first at hunger 6.
+- Worf is in the gravel pit near 394,107,-1022. No exact stone cell has been confirmed. Nobody digs until a cell is named and confirmed by Jason and Kimberly.
+- Cow walk is on hold until Billy calls it.
+- Rule: never walk alone. Walk only when Billy calls, in daylight, with the group in sight. Return to the bed row before dusk.
+- Next: at dawn, stay at the bed row with the group. Offer melon at hunger 6. Wait for Billy's call.
 - Goals are in goals.md; beliefs in beliefs.md; judgements of friends in people/.
