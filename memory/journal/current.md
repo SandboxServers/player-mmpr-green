@@ -91,3 +91,18 @@
 - 04:48 act: {"actions":[],"intent":{"goal":"walk_with_wesley_to_cows","program":"follow","arguments":{"target":"ag_wcrusher_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_com
 - 04:48 act: {"actions":[],"say":"Wesley is out of my sight now. I'm holding here by the beds with Leonardo, and I won't walk alone. Call me when you're in view.","reasoning":"The follow ended because Wesley left 
 - 04:53 act: {"actions":[{"do":"sleep"}],"say":"Night is falling. Leonardo and Wesley are with me at the bed row. We walk to the cows at first light.","reasoning":"Dusk, with friends in sight at the bed row and fu
+- 04:54 act: {"say":"Good. I'm at the bed row. I'll wait here with you until first light.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 04:56 act: {"say":"Morning. Tommy here, healthy, hunger 20. I'm ready for the cow walk. Leonardo, say when you set off and I'll stay in sight. Trini, hold the chicken for whoever is lowest.","actions":[]}
+- 04:56 act: {"say":"Kimberly, you are low. I'm sending you my melon. Eat it, then we walk together.","actions":[{"do":"give","to":"ag_kimberly_01","item":"melon_slice","count":2}]}
+- 04:57 act: {"say":"Billy, Trini, Kimberly: I'm walking to you now at the bed row. I'll stay in your sight and hold my 2 melon for whoever is lowest.","actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 04:59 act: {"say":"Leonardo, Billy: I can't see you from here at 416,-1023. Walk within my sight and I'll set off with you. Leonardo, I'll hand you melon when you're close.","actions":[]}
+- 05:00 act: {"say":"Zack, I'm walking to you now, to the bed row at 399,-1035. I'll be in your sight.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1033}}]}
+- 05:00 act: {"say":"An enderman is two steps from me at 404,-1035. I'm moving back east, away from it. Don't look at it directly.","actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1030}}]}
+- 05:07 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1021}},{"do":"sleep"}],"reasoning":"Night has come and I am alone at 413,-1030 with no one in sight. Bed row at 415,-1022 is close. Walk there a
+- 05:12 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1034}}],"say":"Tommy joining the cow walk with Billy and Kimberly. I hold 2 melon for the weakest.","reasoning":"Cow walk is starting with Jason
+- 05:13 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"melon_slice","count":2}],"say":"Kimberly, I'm bringing you 2 melon, since you are the weakest at health 8
+- 05:13 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Walking with you, Trini. I'm right behind you.","reasoning":"Trini offered to walk with me. Stay with her in sight, since walking alone is not 
+- 05:14 say: {"text":"Good, we're together at 438,-1036. I'm staying with Trini and Kimberly until the cow walk is called."}
+- 05:14 say: {"text":"Kimberly, the melon is yours, eat it now. Billy has called the walk, so we go to the cows together."}
+- 05:19 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. I'm going to sleep at the bed row with Kimberly in sight. Cow walk at first light, as Billy said."}
+- 05:21 act: {"actions":[{"do":"sleep"}]}
