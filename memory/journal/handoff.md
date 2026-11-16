@@ -1,8 +1,8 @@
-# Handoff, Tommy, day 328 night
+# Handoff, Tommy, day 331 night
 
-- Slept with the sleep verb at 415,107,-1022 (bed beside Zack's group). Night skipped; now waking into day 329.
-- Health 20, hunger 20. Holding 2 dirt, leaf litter, wooden sword, 3 feathers. No food.
-- Group: Zack has melon, Leonardo holds melon for the weakest, Jason at the beds (hunger 19, no sword), Billy out of sight, Wesley at 401,-1049 with melon for the weakest.
-- Next at first light: gather Zack, Jason, Leonardo (and Billy if in sight), then go north to the pile at 411,-1055 together. Then melon trip: 309,80,-873 and Zack's pack 302,80,-822.
-- Skeletons shoot from the east and north-west near the beds; move in a group, in sight of each other.
-- Sleep verb, not bed use, is the way to sleep at the beds.
+- Slept at the bed row near 401,107,-1024, health ~20, hunger ~17. No errand running.
+- Holding 1 melon slice, dirt, leaf litter, 3 feathers, 2 rotten flesh.
+- Leonardo holds about 4 melon and 1 chicken; Jason 5 chicken; Wesley 4 melon; Billy 1 melon.
+- Next morning: find the group at the bed row, join the daylight walk to the cows at 364,-1010 and the chicken field at 360,-1008, in sight of them.
+- Later: melon trip to 309,80,-873 and Zack's pack at 302,80,-822, in a group in daylight.
+- Do not walk alone. Bed clicks fail; sleep from the bed row.

@@ -1,1 +1,57 @@
 # Journal
+- 02:59 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}},{"do":"note","text":"Morning. Going to Jason at the bed row with the group, as Leonardo asked."}],"say":"Morning. I am coming to the bed 
+- 03:00 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wooden_sword","count":1}],"say":"Jason, take my wooden sword. You need it more than I do. We go to the pile together, in sight of each other."}
+- 03:00 say: {"text":"Jason has my sword now. I have none, but I will walk with you. Let us go to the pile together, always in sight of each other."}
+- 03:00 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1051}}],"say":"Coming to you now, Jason. Leonardo, stay with me."}
+- 03:00 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1044}}],"say":"A skeleton with a bow to the north-east, about 11 away. We pull back toward the beds together, out of its line."}
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1030}}],"say":"I was shot. Moving south to the beds. Jason, come to me."}
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1036}}],"say":"Going to you at the bed row, 404,-1036. I have no sword; I will stand with the group."}
+- 03:01 say: {"text":"Zack, Jason, I am with you now. Hunger 19 for me. I will take a slice only if the weakest has had theirs. Let us plan the melon trip together."}
+- 03:02 say: {"text":"I will go with you to the pile and to Kimberly, in sight of all of you. I do not need the melon; the weakest first."}
+- 03:02 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":411,"y":107,"z":-1051}}],"say":"Thank you, Zack. Eating now, then we go to the pile."}
+- 03:02 say: {"text":"I am at the pile, 411,-1050, with Zack in sight. Items lie at 413,-1054. Jason, come here to us. We take the items together."}
+- 03:03 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Wesley, Jason, Zack: I have no food and no sword. Let's go to Kimberly at 415,-1064 together, all in sight of each other, then sort the melon at
+- 03:04 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Going with Zack to Kimberly. Staying in sight of the group."}
+- 03:04 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Agreed, Zack. Back to the bed row together before dark. Kimberly tomorrow."}
+- 03:05 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Coming to you at the bed row, Zack. Staying with you."}
+- 03:05 act: {"actions":[],"say":"Wesley, I don't know the chicken field either. I am not weak yet. Keep your melon for Kimberly."}
+- 03:09 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"say":"Dusk. I am going to the beds with you, Zack and Jason. Kimberly in the morning."}
+- 03:09 act: {"actions":[{"do":"sleep"}]}
+- 03:12 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Morning. I'm with Zack. We go to Kimberly together, in sight of each other."}
+- 03:13 act: {"actions":[],"say":"Tommy here, at the bed row 402,107,-1023. I'll hold here for the group and go to Kimberly together. Wesley, Zack, Jason: call when you're in sight."}
+- 03:13 act: {"actions":[{"do":"goto","target":"Jason"}],"say":"Tommy with you now. Wesley, follow to Jason, we go to Kimberly together."}
+- 03:13 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Walking to you, Zack. Going to the west bed row now."}
+- 03:14 act: {"actions":[],"say":"Zack is with me at 402,-1036. Jason, Wesley, Leonardo: come to this spot, then we walk to Kimberly."}
+- 03:14 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1062}}],"say":"Going with the group to Kimberly now. I hold a melon slice for her if she is weak."}
+- 03:14 act: {"actions":[],"say":"I'm at 415,-1061 by the crafting table. Kimberly, are you here? Zack, Jason, Wesley, Leonardo: call if you see me."}
+- 03:16 act: {"actions":[],"say":"Kimberly, Tommy here. I'll keep my melon slice for whoever is weakest. Trini, I'm at 415,-1061 with Jason."}
+- 03:16 act: {"actions":[],"say":"Tommy here. I'm with the group. I'll walk to the cows with Trini and Wesley in daylight, and I want to learn where the chicken field is."}
+- 03:19 act: {"actions":[],"say":"Tommy at 415,-1061 with Zack and Wesley. Jason, call when you're ready to walk to the cows; I'll go in your sight."}
+- 03:22 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}}],"say":"It's dusk, so the cow walk waits for daylight. I'm heading to the bed row at 416,-1036 with Zack. I'm holding my melon slice for 
+- 03:24 act: {"actions":[{"do":"goto","target":{"x":364,"y":107,"z":-1010}}],"say":"It's day now. Zack, I'm walking with you to the cows at 364,-1010. Wcrusher, Jason, come into sight and follow us."}
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}],"say":"I'm alone out here at 364,-1010 and a bow was drawn to the west. Pulling back toward the bed row at 401,-1036."}
+- 03:27 act: {"actions":[],"say":"Staying by Jason at the bed row. I won't look at the enderman. Trini, keep walking west."}
+- 03:31 act: {"actions":[],"say":"Morning 330. I'm ready to search for Johnny with Jason, in sight of the group. Health 12, hunger 17. I'll keep my melon for the weakest."}
+- 03:31 act: {"actions":[],"say":"Jason, I don't see you from 401,-1035. Walk into my sight and I'll come with you to the cows."}
+- 03:32 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1058}}],"say":"Wesley, I'm walking to you at 403,-1058 to join the search for Johnny."}
+- 03:32 act: {"actions":[],"say":"Tommy at 403,-1057 in the afternoon sun. Nobody is in my sight. Wesley, Jason, Zack: walk into view and I'll join the cow search."}
+- 03:37 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Night is here. Zack, Billy, I'm heading to the bed at 401,-1037 where Jason is. Stay in my sight. Good news that Johnny is safe."
+- 03:38 act: {"actions":[],"say":"Tommy here at the bed row, health 12, hunger 17. I hold one melon slice for whoever is weakest. Zack, when the group calls the cows walk I'll go with you, staying in sight."}
+- 03:39 act: {"actions":[],"say":"Wesley, thanks. I am at the bed row 402,-1037, with Zack. I'll eat my melon slice if my health does not rise. Zack knows the cows and the chicken field is still unknown to me."}
+- 03:39 act: {"actions":[{"do":"eat"}],"say":"Thank you Zack and Jason. I'm eating my melon now. Jason, keep your chickens for others; I'll take the melon only if I need more."}
+- 03:43 act: {"actions":[],"say":"Tommy at the bed row, health 14.8, hunger 17. Billy, I'm fine for now, keep your melon for Leonardo or Kimberly."}
+- 03:47 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. I'm going to the bed at 401,-1037 for the night. Zack, stay in sight."}
+- 03:51 say: {"text":"Tommy here, morning 331, health 15, hunger 17. Wesley, I'd take one melon slice. Then I'll walk to the cows with Zack, Jason and Leonardo, in sight."}
+- 03:52 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1025}}],"say":"Going to Leonardo at the bed row for the melon, in daylight."}
+- 03:52 say: {"text":"Tommy at the bed row 401,-1026. Leonardo, I don't see you yet; Jason, I'm the one at 15 health. Please step into my sight and hand me one melon."}
+- 03:52 act: {"actions":[{"do":"eat"}],"say":"Thank you, Jason. Eating the melon now."}
+- 03:52 say: {"text":"Thank you Jason, hunger 19 now, health 15. I'll walk with you to the cows; lead on and I stay in your sight."}
+- 03:53 act: {"intent":{"goal":"follow_jason_to_cows","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"
+- 03:53 say: {"text":"Tommy at the bed row 401,-1026, alone now; Jason is out of my sight. I'll wait here in the daylight. Call me when you're in sight and I'll join."}
+- 03:54 act: {"actions":[{"do":"note","text":"Midday day 331 at the bed row 401,-1026. Leonardo came in reach holding melon slices. Waiting for him to give me food, then joining the cows walk."}],"say":"Leonardo, 
+- 03:54 act: {"actions":[],"say":"Thank you, Leonardo. I will walk with you to the cows, staying in your sight.","intent":{"goal":"follow_leonardo_to_cows","program":"follow","arguments":{"target":"ag_leonardo_01"
+- 03:56 act: {"actions":[],"say":"Leonardo, I am still here beside you. Are we walking to the cows now? I will follow when you move.","intent":{"goal":"follow_leonardo_to_cows","program":"follow","arguments":{"tar
+- 03:57 act: {"actions":[{"do":"eat"}],"say":"Thank you, Leonardo. I have your two melon and I am eating now. I can't see you yet; I'll wait here for you to come back into sight."}
+- 04:01 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1023}}],"say":"Heading to the bed row now at dusk, going to the bed near 401,-1023."}
+- 04:01 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"I'm in the bed row for the night, near 401,-1023. Good night, Zack and the others."}
+- 04:01 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1024}},{"do":"use","at":{"x":401,"y":107,"z":-1023}}]}
