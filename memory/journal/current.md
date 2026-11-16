@@ -1,14 +1,4 @@
 # Journal
-- 09:19 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Tommy here, awake at the beds. Staying with the group. I'll not walk alone.","intent":{"goal":"stay_with_group","program":"follow","arguments":
-- 09:20 act: {"actions":[],"say":"Tommy here, in reach of Billy. I'm ready to walk to the cows when you call, in sight of all."}
-- 09:21 act: {"actions":[],"say":"Tommy in reach at Billy's bed. Ready to walk when Troi is in sight."}
-- 09:26 act: {"actions":[],"say":"Tommy holding at the bed 402,-1036 with the group. Billy went out of sight, so I won't walk. Call me back and I come."}
-- 09:31 act: {"actions":[{"do":"note","text":"Night day 348. Beside bed 401,107,-1036 with group. Enderman 3 blocks east blocked sleep. Waiting, not looking at it."}],"say":"Night. I am beside the bed at 401,-1036
-- 09:31 act: {"actions":[{"do":"sleep"}]}
-- 09:33 act: {"actions":[{"do":"sleep"}],"say":"Tommy at the bed 402,-1036 with the group. Trying to sleep again."}
-- 09:37 act: {"actions":[{"do":"note","text":"Dawn day 348. Enderman gone. Holding at bed 402,-1036 with group. Sleep again at dusk."}],"say":"Dawn. The enderman is gone. I'm staying at the bed with the group, and
-- 10:06 act: {"say":"Tommy here at the bed row, health 20, hunger 20. Morning is bright. Billy, the cow walk waits on your call with everyone in sight.","intent":{"goal":"hold_at_bed_row","program":"rest","argumen
-- 10:08 act: {"say":"Tommy joining Billy's cow walk in daylight. Heading south-west on the path to 390,-1010.","actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1010}}]}
-- 10:08 act: {"say":"Tommy is not alone: going back to the bed row at 401,-1036 to stay with Billy's group.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}]}
-- 10:20 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"say":"Morning. Tommy here, health 20, no food. I'm going to the bed row to gather with Billy and the group. I will walk only when Billy
-- Day 350 morning: sent goto to bed row 402,107,-1034 to join Billy's group; waiting for Billy's call before any walk.
+- Day 350 morning: woke at the bed row 402,107,-1033 with group in reach (Kimberly, Billy, Leonardo, Picard, Wesley). Health 20, hunger 20, no food. Said I hold here and walk only when Billy calls in sight of all. Set rest intent to hold; waiting for Billy's call.
+- 10:21 act: {"say":"Tommy in reach at the bed row. Trini, you are in sight. Billy, call the hop when six are in sight; I walk then."}
+- Billy's second hop failed again (only Troi followed; Billy turned back). Group regathered at bed row: Jason, Trini, Kimberly, Data, Troi, Riker, Beverly in reach. I hold, no walk.
