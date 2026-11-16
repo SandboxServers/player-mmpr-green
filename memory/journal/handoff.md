@@ -1,7 +1,7 @@
-# Handoff, Tommy, day 336 dusk
+# Handoff, Tommy, day 338 morning
 
-- At the bed row near 429,107,-1034, with Trini, Jason, Billy, MacDonald, Kimberly and Leonardo nearby. Health 20, hunger 20. Holding no food: my 2 rotten flesh went to Jason by mistake; I asked him to pass it to the weakest.
-- The cow ground at 364,-1010 is empty. Plan agreed by the group: hold at the beds tonight; at first light walk together to MacDonald's cow ground at 480,-1137, all in sight.
-- Kimberly holds about 20 melon for the weakest. Billy holds a melon slice for when his hunger is 6.
-- No errand running. Sleep from the bed row (415,107,-1022 works; clicking beds fails).
-- Wake: recall summary, then the play skill. Stay in sight of the group.
+- At the bed row near 429,-1025, in the open, nobody in sight. Health 20, hunger 20, no food held.
+- Melon slice given to Kimberly (worked). She went to the bed at 429,-1036 last night.
+- Bcrusher said he is coming to the bed row with melon, with Laforge.
+- No errand running. Next: hold at the bed row until the group is in sight, then walk with them. Cow walk to 480,-1137 only when someone calls it.
+- Do not walk alone. Sleep needs full night; "sleep" fails in daylight.

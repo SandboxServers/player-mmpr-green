@@ -119,3 +119,23 @@
 - 05:45 act: {"actions":[],"say":"Holding at the beds tonight with all of you. At first light, MacDonald's cow ground at 480,-1137 together, all in sight.","reasoning":"Dusk; group agreed to hold at beds. Sleep he
 - 05:46 act: {"say":"Holding at the beds with you all tonight. First light, we walk to MacDonald's cow ground together.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}}]}
 - 05:47 act: {"say":"Night. I'm at the bed row, in sight of the group. Cow walk at first light to MacDonald's ground at 480,-1137, together."}
+- 05:48 act: {"say":"Tommy ready at the bed row. Leonardo, I'm here; I'll walk with you toward 480,-1137 in sight.","intent":{"goal":"join_group_cow_walk","program":"follow","arguments":{"target":"ag_leonardo_01"}
+- 05:48 act: {"say":"Tommy holding at the bed row 416,-1023. Nobody in my sight yet. I will not walk alone; call me when you are in view and I will join.","intent":{"goal":"hold_bed_row_for_group","program":"rest"
+- 05:49 act: {"say":"Tommy coming, Trini. Walk slowly and I'll keep you in sight.","intent":{"goal":"follow_trini_to_cows","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","p
+- 05:49 act: {"say":"Tommy at the bed row 416,-1023, nobody in my sight yet. Billy, Trini, Kimberly: I'll hold here until you're in view, then walk with you.","intent":{"goal":"hold_bed_row_for_group","program":"r
+- 05:50 act: {"say":"Coming to you now, Billy, at 431,-1035. Kimberly, I'll walk with you in sight.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1034}}]}
+- 05:50 act: {"say":"I'm with you at 430,-1034, Billy, Kimberly, Leonardo. I'm full, so Kimberly and Leonardo eat first. I'll follow Billy's walk.","intent":{"goal":"walk_with_billy_to_cows","program":"follow","ar
+- 05:50 act: {"say":"Tommy with you, Kimberly, Billy, Leonardo at 430,-1034. Billy, say the word and I walk beside you to 480,-1137."}
+- 05:59 act: {"say":"Night. I'm sleeping here at 430,-1034 with Wesley, MacDonald and Kimberly in sight. Walk to the cows at first light together.","actions":[{"do":"sleep"}]}
+- 06:04 act: {"actions":[{"do":"goto","target":{"x":437,"y":107,"z":-1035}},{"do":"note","text":"Woke at 430,-1023, bright, health 20, hunger 20. Moving to the group near 437,-1035 for the cow walk."}],"say":"Morn
+- 06:04 act: {"actions":[],"intent":{"goal":"join_group_cow_walk","program":"travel","arguments":{"target":{"x":437,"y":107,"z":-1035}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits
+- 06:04 act: {"actions":[],"intent":{"goal":"follow_macdonald_cow_walk","program":"follow","arguments":{"target":"ag_macdonald_01"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"
+- 06:04 act: {"actions":[],"say":"MacDonald, Wesley and I are with you. Tommy, hunger 20, no food to spare. Walking to the cow ground.","intent":{"goal":"follow_macdonald_cow_walk","program":"follow","arguments":{
+- 06:05 act: {"actions":[],"say":"Tommy at 436,-1032, in sight of MacDonald. Waiting here for the group to walk together.","intent":{"goal":"hold_with_group_for_cow_walk","program":"rest","arguments":{},"wake_on":
+- 06:05 act: {"actions":[{"do":"goto","target":{"x":460,"y":107,"z":-1090}}],"say":"Going to 460,-1090 to catch up with MacDonald."}
+- 06:06 act: {"actions":[],"say":"Troi, I'm fine: health 20, hunger 20. I'm not hungry, but I have no food. Kimberly is the one who needs it. Are MacDonald and the group near?"}
+- 06:09 act: {"actions":[],"say":"Thank you, Worf. I'm full, so I'll keep this melon slice for Kimberly. Kimberly, come into my sight at 460,-1089 and it's yours.","intent":{"goal":"hold_melon_for_kimberly","progr
+- 06:09 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1024}}],"say":"Heading back to the bed row at 430,-1023 before night. Troi, Worf, come along if you can see me. Melon is still for Kimberly."}
+- 06:10 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"melon_slice","count":1}],"say":"Kimberly, here is the melon slice. Eat it. We stay together tonight."}
+- 06:10 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"use","at":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Going to sleep at the bed row, Kimberly in sight. We walk at first l
+- 06:10 act: {"actions":[{"do":"sleep"}],"say":"Kimberly, rest well. I'm at the bed row too. Walk at first light."}
