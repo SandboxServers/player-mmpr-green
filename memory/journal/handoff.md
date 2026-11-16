@@ -1,8 +1,8 @@
-# Handoff, Tommy, day 332 night
+# Handoff, Tommy, day 333 night
 
-- At the bed row near 402,107,-1023, sheltered with the group. Health about 20, hunger about 19. No errand running.
-- Holding raw chicken from Jason (hunger too high to eat it), dirt, leaf litter, feathers, rotten flesh.
-- Leonardo holds melon and chicken for the weakest. Billy, Wesley and Trini hold food too.
-- Morning goal: join the daylight walk to the cows at 364,-1010 and the chicken field at 360,-1008, in sight of Jason, Zack or Wesley.
-- Later: melon trip to 309,80,-873 and Zack's pack at 302,80,-822, in a group in daylight. Locate Trini.
+- Sleeping at the bed row near 402,107,-1021, sheltered with Wesley and Leonardo in sight. Health 20, hunger 20. No errand running.
+- Holding 2 rotten flesh, 1 dirt, 1 leaf litter, 3 feathers. No sword.
+- Cow walk to 364,-1010 was called off for the night (thunder). Plan at first light: walk to the cows in sight of Jason, Zack or Wesley.
+- Leonardo is the weakest; he eats first, then the others.
 - Do not walk alone. Bed clicks fail; sleep from the bed row.
+- Wake: recall summary, then play skill.

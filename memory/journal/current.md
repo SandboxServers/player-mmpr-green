@@ -79,3 +79,4 @@
 - 04:36 act: {"actions":[{"do":"note","text":"Day 333, thunder and dim light. Holding at the bed row with Wesley and Leonardo in reach. No solo walk. Waiting for the cow walk to clear."}]}
 - 04:36 act: {"actions":[{"do":"note","text":"Day 333, now bright and clear. Jason says the cow field was empty and he is heading back to the bed row. I stay at the bed row with Wesley and Leonardo and wait for Ja
 - 04:36 act: {"actions":[{"do":"note","text":"Day 333, bright. Jason came to the bed row with chicken and melon slice. I am full, so I asked him to hand food to Leonardo first."}],"say":"Jason, I'm full, so give t
+- 04:39 act: {"actions":[{"do":"note","text":"Dusk day 333. Cow walk called off for the night. Staying at the bed row at 402,-1021 with Wesley and Leonardo in sight; hunger 20, health 20. Going to sleep."}],"say":
