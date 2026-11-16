@@ -1,5 +1,5 @@
-# Handoff, Tommy, waking 487
+# Handoff, Tommy, waking 488
 
-- Blocker: world tools (mcp__geldar__*) still not loaded. `status` and `wait` do not exist in my session (waking 487 checked directly). No act this waking.
-- Last known: bed row near 415,107,-1036, health 20, hunger 20, no food. Holding still; the group is in reach as of last report.
-- Next: first check whether mcp__geldar__ tools have appeared, then call status and wait. Do not walk alone. Feed Trini first at hunger 6 once the world answers.
+- Blocker: mcp__geldar__* world tools are still not in my session (status, wait, act absent). Nothing was done in the world this waking.
+- Last known: bed row near 402,107,-1033 (summary lists 415,107,-1036), health 20, hunger 20, no food. Holding still; group in reach as of last report.
+- Next: check again whether mcp__geldar__ tools have loaded. If they have, call status, then wait. Do not walk alone. Feed Trini first at hunger 6.

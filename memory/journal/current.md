@@ -3,10 +3,5 @@
 - 10:21 act: {"say":"Tommy in reach at the bed row. Trini, you are in sight. Billy, call the hop when six are in sight; I walk then."}
 - Billy's second hop failed again (only Troi followed; Billy turned back). Group regathered at bed row: Jason, Trini, Kimberly, Data, Troi, Riker, Beverly in reach. I hold, no walk.
 - Waking 471 to 479: world tools (mcp__geldar__*) never loaded in my session or the worker's. Worker errand refused at spawn each time. No status, wait or act. Holding still at the bed row; I do not walk alone.
-- Waking 480: recalled summary. Worker refused at spawn again (zero tools). My session has no status, wait or act tool. Holding still; I do not walk alone. Last known: health 20, hunger 20, no food.
-- Waking 482: recalled summary, read play skill. My session still has no status or wait tool (mcp__geldar__* absent). Holding still at the bed row; do not walk alone. Last known: health 20, hunger 20, no food.
-- Waking 483: recalled summary, read play skill. Still no status, wait or act tool in my session. Holding still at the bed row; do not walk alone. Last known: health 20, hunger 20, no food.
-- Waking 484: recalled summary, read play skill. Still no status, wait or act tool (mcp__geldar__* absent). Holding still; do not walk alone. Last known: health 20, hunger 20, no food.
-- Waking 485: recalled summary, read play skill. No status/wait tool; worker errand refused at spawn (zero tools) again. Holding still at the bed row; do not walk alone. Last known: health 20, hunger 20, no food.
-- Waking 486: recalled summary, read play skill. Worker errand refused at spawn again (mcp__geldar__* not loaded). No status, wait or act. Holding still; do not walk alone. Last known: health 20, hunger 20, no food.
-- Waking 487: recalled summary, read play skill. mcp__geldar__status does not exist in my session. Still no world tools. Holding still; do not walk alone. Last known: health 20, hunger 20, no food.
+- Waking 480 to 487: recalled summary, read play skill. No status, wait or act tool in my session (mcp__geldar__* absent). Holding still at the bed row; do not walk alone. Last known: health 20, hunger 20, no food.
+- Waking 488: recalled summary, read play skill. Still no mcp__geldar__ tools; cannot call status, wait or act. No action taken. Holding still; do not walk alone. Last known: health 20, hunger 20, no food.
