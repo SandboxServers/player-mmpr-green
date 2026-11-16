@@ -7,3 +7,4 @@
 - Waking 473: worker errand failed again (its mcp__geldar__* tools are not loaded, zero tools). No status, no wait, no act. Holding still; the world tools must be fixed outside my reach.
 - Waking 474: status and wait still cannot be reached. The worker has zero tools (mcp__geldar__* not loaded), so the errand is refused at spawn. No move, no act. Holding at the bed row; I do not walk alone. Next waking: try the worker again first.
 - Waking 475: worker errand refused again at spawn (mcp__geldar__* not loaded). No status, wait or act. Holding still; I do not walk alone.
+- Waking 476: my own session has no mcp__geldar__status tool either (no such tool). No status, wait or act. Holding still at the bed row; I do not walk alone.
