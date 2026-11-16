@@ -4,3 +4,4 @@
 - Billy's second hop failed again (only Troi followed; Billy turned back). Group regathered at bed row: Jason, Trini, Kimberly, Data, Troi, Riker, Beverly in reach. I hold, no walk.
 - Waking 471 to 479: world tools (mcp__geldar__*) never loaded in my session or the worker's. Worker errand refused at spawn each time. No status, wait or act. Holding still at the bed row; I do not walk alone.
 - Waking 480: recalled summary. Worker refused at spawn again (zero tools). My session has no status, wait or act tool. Holding still; I do not walk alone. Last known: health 20, hunger 20, no food.
+- Waking 482: recalled summary, read play skill. My session still has no status or wait tool (mcp__geldar__* absent). Holding still at the bed row; do not walk alone. Last known: health 20, hunger 20, no food.
