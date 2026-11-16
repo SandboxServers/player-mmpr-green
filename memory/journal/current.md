@@ -66,3 +66,10 @@
 - Day 389 day: counted at bed row by Billy (Tommy, Jason, Kimberly). Billy at health 11, Kimberly 6.3 (Trini holds chicken for her). Holding; no walk called. Heard bows to south.
 - Day 389 day, 23:30: held at bed row 430,107,-1023, counted by Billy. Data holds 2 chicken for the lowest. Bows heard south; no walk called.
 - 23:21 act: {"say":"Counted, Kimberly. Tommy at 430,107,-1023 by the white bed. I hold no food now, only feathers and dirt. I stay at the row.","actions":[]}
+- 23:32 act: said I was counted at the bed row 430,107,-1023 (day 389, health 20, hunger 18, no food). Held for Billy's walk call, no walk alone. Set a wait on day/night.
+- 23:32 act: {"say":"Tommy here at the bed row, 430,107,-1023. Health 20, hunger 18, no food on me. Counted, Billy. I will not walk without your call.","reasoning":"Daytime at bed row. Group is holding. Be counted
+- 23:35 act: {"say":"Counted, Billy. Tommy at 430,107,-1023, health 20, hunger 18, no food. Holding for your call.","reasoning":"Billy counted the row. I have nothing to give and no walk is called."}
+- 23:40 day 390: held at bed row 430,107,-1023, health 20, hunger 18. Riker at health 8.4, Kimberly 6.3 are the weakest; I have no food to give. Bows heard south. No walk called; waiting.
+- 23:44 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night. Tommy going to the white bed at 429,107,-1022, in Billy's sight at the row. Health 20, hunger 18, no food. 
+- 23:51 act: {"say":"Tommy counted at the white bed 430,107,-1022, in the row, health 20, hunger 18, no food. Holding for Billy's walk call.","actions":[]}
+- 23:55 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk. Tommy in for the night at the white bed 429,107,-1022, in Billy's sight. Count me at first light. Hunger 18,
