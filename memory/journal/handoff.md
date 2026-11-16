@@ -1,7 +1,6 @@
 # Handoff, Tommy, day 321 night
 
 - Asleep at the bed near 429,107,-1037. Health 20, hunger 20. Sheltered, no errand running.
-- Holding 2 dirt, a wooden sword, 3 feathers.
-- Kimberly was at health 8 and got melon from Jason, Trini, Leonardo and Wesley. Johnny and Lewis are still not seen. Billy and Trini hold chickens and mutton for the weakest.
-- North-east chicken field was empty on day 320. Wesley asked me how to find chickens; I told him to check the grass edges.
-- Next morning: check the weakest first, then search the chicken field, and watch the friends' deeds.
+- Holding 2 dirt, leaf litter, wooden sword, 3 feathers.
+- Trini is sleeping at the beds with melon and chicken held.
+- Next morning: check the weakest first, then search the chicken field (x 434-501, z -1010 to -995), and watch the friends' deeds.
