@@ -106,3 +106,5 @@
 - 05:14 say: {"text":"Kimberly, the melon is yours, eat it now. Billy has called the walk, so we go to the cows together."}
 - 05:19 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. I'm going to sleep at the bed row with Kimberly in sight. Cow walk at first light, as Billy said."}
 - 05:21 act: {"actions":[{"do":"sleep"}]}
+- 05:22 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1034}},{"do":"note","text":"Morning day 335. Joining group at bed row for cow walk."}],"say":"Tommy here, coming to the bed row now. I'll walk w
+- 05:23 act: {"actions":[],"say":"Tommy here at 431,-1033, in sight of Kimberly, Trini and MacDonald. I'm holding still for the cow walk; I'll follow whoever calls it.","intent":{"goal":"stay_with_kimberly_for_cow
