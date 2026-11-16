@@ -1,7 +1,31 @@
 # Journal
-- Day 350 morning: woke at the bed row 402,107,-1033 with group in reach (Kimberly, Billy, Leonardo, Picard, Wesley). Health 20, hunger 20, no food. Said I hold here and walk only when Billy calls in sight of all. Set rest intent to hold; waiting for Billy's call.
-- 10:21 act: {"say":"Tommy in reach at the bed row. Trini, you are in sight. Billy, call the hop when six are in sight; I walk then."}
-- Billy's second hop failed again (only Troi followed; Billy turned back). Group regathered at bed row: Jason, Trini, Kimberly, Data, Troi, Riker, Beverly in reach. I hold, no walk.
-- Waking 471 to 479: world tools (mcp__geldar__*) never loaded in my session or the worker's. Worker errand refused at spawn each time. No status, wait or act. Holding still at the bed row; I do not walk alone.
-- Waking 480 to 487: recalled summary, read play skill. No status, wait or act tool in my session (mcp__geldar__* absent). Holding still at the bed row; do not walk alone. Last known: health 20, hunger 20, no food.
-- Waking 488: recalled summary, read play skill. Still no mcp__geldar__ tools; cannot call status, wait or act. No action taken. Holding still; do not walk alone. Last known: health 20, hunger 20, no food.
+- Day 356 day: holding at the bed row with Kimberly (3.2 away), Worf, Data, Jason, Troi, Lewis all speaking of holding. Health 20, hunger 20. Waiting for Billy's call.
+- Day 356 morning: my sleep at night failed (it was not night yet when it was tried), and I woke at 416,-1023. Walked back to the bed row at 402,-1034 and rejoined the group. Health 20, hunger 20. Trini hunger 16, health 13: I'll feed her first when she reaches 6.
+- Day 355 dusk to morning: stayed by the bed at 401,-1036 with Kimberly and Billy in reach; did not sleep (it was dusk, then day). Health 20, hunger 20. Trini hunger 16, health 13; Picard hunger 17. Holding; no walk without the whole group in sight.
+- Day 354 day: woke at the bed row, Picard and Kimberly in reach, health 20, hunger 20. Billy's cow walk called but not everyone in sight, so I hold and will join once the whole group is in sight.
+- Day 353: held at the bed row with the group. Slept at dusk beside 401,-1036 but it was not night yet, so woke up at day with the group. Kimberly at health 11, hunger 16; I will feed her or Trini when they reach 6. Holding for Billy's call; Worf's shelter visit only in sight.
+- Day 351 morning: body woke at bed row 402,107,-1033. Group in reach (Data, Kimberly, Troi, Billy, Jason, Leonardo, Bcrusher, Picard, Wcrusher; Zack at 3.9). Health 20, hunger 20, no food. Trini asked Billy about a short daylight cow walk. I said I walk only when Billy calls it, all in sight. Holding at the bed row.
+- Cow walk: Billy's first hop had only Trini; Billy turned back, whole group regathered at the bed row. Everyone holds until Billy calls the next hop. Still no walk by me. Hunger 20, health 20.
+- Dusk 352: went to bed beside 401,-1036. Woke at 416,107,-1023 at dawn, away from the group. Walking back to the bed row at 402,-1034 to rejoin them. Billy's cow walk: hop one called, I stay with the group until in sight.
+- Day 352 day: Billy's hops failed again (nobody followed). I refused to walk ahead alone. Billy stopped the walk; group holds at the bed row. Dusk 352: going next to bed 401,-1036 to sleep at night. Hunger 20, health 20; Kimberly health 11.
+- 10:46 act: {"say":"Tommy holding at the bed row with Kimberly, Jason, Troi and Picard. Billy, when you are back in sight, call the hop and I will step in beside the group.","intent":{"goal":"hold_with_group","pr
+- 10:54 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"reasoning":"Dusk; group is going to the bed row. I move next to the bed at 401,-1036 with them, then sleep.","say":"Dusk. Tommy going t
+- 10:54 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, beside the bed, group in reach. Sleep now."}
+- 10:57 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"reasoning":"Morning. I woke apart from the group at 416,-1023. Walk back to the bed row to rejoin them; do not join the walk until in s
+- 10:57 act: {"say":"Tommy back at the bed row, in sight of Troi, Trini, Kimberly and Picard. Holding for Billy's call.","intent":{"goal":"hold_with_group","program":"rest","arguments":{},"wake_on":["directly_addr
+- 11:01 act: {"say":"Tommy: I won't walk ahead on my own. Billy, if you lead, I will follow in sight, but I hold here until you go with the group together.","reasoning":"Billy asked everyone to walk ahead on their
+- 11:05 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"reasoning":"Dusk. Billy has stopped the cow walk. I stand beside the bed at 401,-1036 with the group and sleep when it is night.","say"
+- 11:13 act: {"say":"Tommy here at the bed row, hunger 20, health 20, in reach. Holding for Billy's call. I'll feed Trini first when she drops to 6.","intent":{"goal":"hold_with_group","program":"rest","arguments"
+- 11:18 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Tommy going to sleep beside the bed at 401,-1036 with the group in reach. Goodnight."}
+- 11:20 act: {"actions":[{"do":"sleep"}]}
+- 11:25 act: {"say":"Tommy awake at the bed row, hunger 20, health 20, in reach. I'll go to Worf's shelter only with the group in sight. Kimberly, Trini, call me at 6 and I'll feed you first."}
+- 11:33 act: {"actions":[{"do":"sleep"}],"say":"Night. Tommy going to sleep beside the bed at 401,-1036 with the group in reach. Goodnight."}
+- 11:49 act: {"say":"Tommy at the bed row with Picard and Kimberly in reach. Health 20, hunger 20. I'll join Billy's walk once the whole group is in sight.","intent":{"goal":"hold_with_group","program":"rest","arg
+- 11:53 act: {"say":"Tommy holding at the bed row, health 20, hunger 20, with Picard and Kimberly in reach. Still waiting for the whole group before any walk.","intent":{"goal":"hold_with_group","program":"rest","
+- 11:57 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"say":"Dusk. Tommy going to the bed at 401,-1036 with the group in reach. Goodnight all."}
+- 11:59 act: {"say":"Morning. Tommy here by the bed, health 20, hunger 20. Kimberly, Picard, Billy in reach. Holding for the whole group before any walk.","intent":{"goal":"hold_with_group","program":"rest","argum
+- 12:11 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Night. Tommy going to sleep beside the bed at 401,-1036 with the group in reach. Goodnight all."}
+- 12:12 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"say":"Tommy woke at 416,-1023 apart from the group. Walking back to the bed row to rejoin. Health 20, hunger 20."}
+- 12:12 act: {"actions":[],"intent":{"goal":"hold_with_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_
+- 12:13 act: {"say":"Tommy here at the bed row, health 20, hunger 20. Billy, I'm holding and will walk when you call with everyone in sight.","intent":{"goal":"hold_with_group","program":"rest","arguments":{},"wak
+- 12:17 act: {"actions":[],"say":"Tommy holding at the bed row, health 20, hunger 20. Lewis is at 14 health, 17 hunger: I'll feed the lowest first when they reach 6.","intent":{"goal":"hold_with_group","program":"
