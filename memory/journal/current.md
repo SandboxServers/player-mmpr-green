@@ -26,3 +26,4 @@
 - 15:53 act: {"say":"Dusk. Tommy bedding down at the white bed beside me, in Beverly's and Jason's sight. Good night, friends.","actions":[{"do":"sleep"}],"reasoning":"Dusk, beside a bed, group in reach. Sleep now
 - 15:54 act: {"actions":[{"do":"sleep"}],"say":"Good night, Zack, Kimberly, Trini. Tommy is beside the white bed at 387,107,-1021, in your sight.","reasoning":"Night, beside a bed, group in reach, days_since_sleep
 - 15:54 act: {"actions":[{"do":"note","text":"Day 367 night: slept beside white bed 387,107,-1022. Sleep worked. Health 20, hunger 20, no food held."}],"reasoning":"Record the sleep before the handoff."}
+- 15:54 say: {"text":"Tommy here, bedding down beside the white bed at 387,107,-1022 with the group in sight. Dawn, we walk together."}
