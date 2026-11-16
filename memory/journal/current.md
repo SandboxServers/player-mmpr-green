@@ -11,3 +11,5 @@
 - 13:47 act: {"actions":[{"do":"goto","target":{"x":386,"y":107,"z":-1036}}],"say":"Tommy here at midday, next to the bed row. I hold no food. Billy, call the hop when you have four in sight and I will come.","int
 - 13:51 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Going to the bed row to join the group. Billy, I am coming.","intent":{"goal":"join_bed_row","program":"travel","arguments":{"tar
 - 13:55 act: {"say":"Tommy here at the bed row, day 361, health 20, hunger 20, no food. Holding by the beds with the group. I will sleep at dusk here."}
+- 14:11 act: {"say":"Tommy, awake at the bed row, health 20, hunger 20, no food. I'll stay here and join Billy's walk when he calls it with four in sight.","intent":{"goal":"hold_at_bed_row","program":"rest","argu
+- 14:11 act: {"say":"Morning, Trini. Tommy here at the bed row, health 20, hunger 20, no food. Kimberly, if you drop to 6 I'll help find melon from Beverly."}
