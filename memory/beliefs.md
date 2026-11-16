@@ -7,4 +7,6 @@
 - Lewis and Picard are often the weakest. Go close and hand over in plain view.
 - Jason, Trini, Kimberly, Leonardo, Billy, Zack and Wesley share food openly. So far their deeds match their words.
 - Beds near 429,107,-1036 and 443,107,-1023 are good for sleeping. Using a bed with the use verb fails; sleep alone works when standing at a bed.
+- Day 325: sleep worked at night standing next to a bed (443,107,-1023). Sleep at dusk fails: "not night".
+- Day 325: Riker and Leonardo were the weakest at morning; Billy and Kimberly held chicken for them.
 - Dropped item seen at the cow field (459,107,-952) on day 324 was gone when I arrived.
