@@ -1,1 +1,11 @@
 # Journal
+- 13:21 say: {"text":"Tommy at the bed row, 388,-1037. Health 20, hunger 20, no food. Billy, I hold here until you call the hop and four are in sight."}
+- 13:21 act: {"say":"Tommy going to Billy's bed at 388,-1051 in daylight, with Trini and Kimberly.","actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 13:22 say: {"text":"Tommy: I cannot see Billy from 388,-1037. Holding here at the bed row. Billy, call me in sight and I come."}
+- 13:25 act: {"say":"Tommy walking north to 388,-1049 to join Billy's group in daylight.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1049}}]}
+- 13:25 say: {"text":"Tommy here with Billy, Zack, Trini and Kimberly in reach. Holding for Billy's hop call. Health 20, hunger 20."}
+- 13:25 act: {"say":"Tommy moving to 386,-1040 to come into Billy's sight. Zack, Trini, stay in reach.","actions":[{"do":"goto","target":{"x":386,"y":107,"z":-1040}}]}
+- 13:25 say: {"text":"Tommy at 386,-1041, Kimberly in sight. Billy, I can see the bed row; holding here for your call."}
+- 13:26 act: {"say":"Tommy going to the bed row near Billy, to stand in reach until dusk.","actions":[{"do":"goto","target":{"x":386,"y":107,"z":-1036}}]}
+- 13:27 say: {"text":"Tommy at 385,-1036, beside Billy's bed, in reach. I sleep here at night."}
+- 13:47 act: {"actions":[{"do":"goto","target":{"x":386,"y":107,"z":-1036}}],"say":"Tommy here at midday, next to the bed row. I hold no food. Billy, call the hop when you have four in sight and I will come.","int

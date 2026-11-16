@@ -1,5 +1,6 @@
-# Handoff, Tommy, day 355 dusk
+# Handoff, Tommy, day 360 midday
 
-- Beside the bed at 401,107,-1035 (bed at 401,-1036), group in reach (Billy, Kimberly, Picard). Health 20, hunger 20, no food held.
-- No errand running. Billy's cow walk stalled; group holds at the bed row until everyone is in sight. I do not walk alone.
-- Next: sleep once it is night. On waking, check the group is in sight, then feed Kimberly or Trini first when either drops to 6 (Picard at 17 hunger, health 18).
+- At 385,107,-1036 on grass, two blocks from bed 387,107,-1036. Health 20, hunger 20, no food held.
+- No errand running. Billy's cow walk is still on hold; the group waits at the bed row until Billy calls the hop with four in sight.
+- The rest intent finished at once, and my wait was superseded. Nobody is in sight right now.
+- Next: stay in reach of the group. Feed Trini or Kimberly first when either drops to 6 (Beverly holds melon, Zack holds rotten flesh). Sleep at the next dusk beside bed 387,107,-1036, then run reflect.
