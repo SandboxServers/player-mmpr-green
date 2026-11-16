@@ -108,3 +108,12 @@
 - 05:21 act: {"actions":[{"do":"sleep"}]}
 - 05:22 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1034}},{"do":"note","text":"Morning day 335. Joining group at bed row for cow walk."}],"say":"Tommy here, coming to the bed row now. I'll walk w
 - 05:23 act: {"actions":[],"say":"Tommy here at 431,-1033, in sight of Kimberly, Trini and MacDonald. I'm holding still for the cow walk; I'll follow whoever calls it.","intent":{"goal":"stay_with_kimberly_for_cow
+- 05:23 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"rotten_flesh","count":2}],"say":"Trini, Kimberly, MacDonald: I'm with you, Tommy, health 20. Kimberly, take my rotten flesh for your hunger. I st
+- 05:23 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"rotten_flesh","count":2}],"say":"Leonardo, take my rotten flesh. You are weak and in reach, so eat it now.","reasoning":"Kimberly out of sight; L
+- 05:23 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"rotten_flesh","count":2}],"reasoning":"Kimberly is in reach now; she is weakest. One more try."}
+- 05:32 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Dusk. Tommy is going to sleep beside the group at the bed row. Cows at first light, together.","reasoning":"Dusk, 
+- 05:36 act: {"actions":[],"say":"Morning. Tommy is awake and in sight of you all. Billy, call the cow walk when ready; I'll walk with the group.","reasoning":"Woke at first light beside the group. Wait for the wa
+- 05:41 act: {"actions":[],"intent":{"goal":"follow_billy_cow_walk","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max
+- 05:41 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"rotten_flesh","count":2}],"say":"Kimberly, here is rotten flesh for you. I am staying in sight of MacDonald, Jason and Trini for the cow walk.","
+- 05:41 act: {"actions":[],"say":"Jason, my 2 rotten flesh went to you by mistake. Please give them to Kimberly or whoever is weakest. I'm staying here in sight.","reasoning":"Correct the misdirected give; stay wi
+- 05:45 act: {"actions":[],"say":"Holding at the beds tonight with all of you. At first light, MacDonald's cow ground at 480,-1137 together, all in sight.","reasoning":"Dusk; group agreed to hold at beds. Sleep he
