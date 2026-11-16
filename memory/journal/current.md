@@ -8,3 +8,4 @@
 - 14:56 act: {"say":"Tommy here at the beds, 402,107,-1022, in sight. Holding no food. Ready for Billy's cow call."}
 - 15:00 act: {"intent":{"goal":"dusk_at_bed_row","program":"rest","arguments":{"near":{"x":401,"y":107,"z":-1022}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
 - 15:04 act: {"say":"Tommy at the beds, 402,107,-1022, in daylight. Worf, I can see you are stuck west of the beds; Kimberly is coming with Zack. I will stay here and not walk alone."}
+- 15:11 act: {"say":"Tommy here at the bed row, health 20, hunger 20. Worf, mine straight up one block at a time, as Beverly said. I hold here until Billy calls the walk."}

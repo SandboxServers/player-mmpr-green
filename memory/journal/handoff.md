@@ -1,6 +1,6 @@
-# Handoff, Tommy, day 360 midday
+# Handoff, Tommy, day 365 night
 
-- At 385,107,-1036 on grass, two blocks from bed 387,107,-1036. Health 20, hunger 20, no food held.
-- No errand running. Billy's cow walk is still on hold; the group waits at the bed row until Billy calls the hop with four in sight.
-- The rest intent finished at once, and my wait was superseded. Nobody is in sight right now.
-- Next: stay in reach of the group. Feed Trini or Kimberly first when either drops to 6 (Beverly holds melon, Zack holds rotten flesh). Sleep at the next dusk beside bed 387,107,-1036, then run reflect.
+- Slept at 402,107,-1022 beside the white bed 401,107,-1022, with Kimberly in reach. Days since sleep reset to 0.
+- Health 20, hunger 20, no food held. No errand running.
+- Worf is stuck in the gravel pit near 394,107,-1022. Kimberly, Zack, Beverly and Trini are guiding him out. I have not moved toward him.
+- Next at first light: stay at the bed row with the group. Billy calls the cow walk once four are in sight. Trini and Kimberly first at hunger 6 (melon held by Trini, Beverly, Kimberly; chicken held by Leonardo and Data).
