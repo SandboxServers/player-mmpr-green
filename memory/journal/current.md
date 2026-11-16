@@ -29,3 +29,18 @@
 - 12:12 act: {"actions":[],"intent":{"goal":"hold_with_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_
 - 12:13 act: {"say":"Tommy here at the bed row, health 20, hunger 20. Billy, I'm holding and will walk when you call with everyone in sight.","intent":{"goal":"hold_with_group","program":"rest","arguments":{},"wak
 - 12:17 act: {"actions":[],"say":"Tommy holding at the bed row, health 20, hunger 20. Lewis is at 14 health, 17 hunger: I'll feed the lowest first when they reach 6.","intent":{"goal":"hold_with_group","program":"
+- 12:17 act: {"say":"Tommy here, morning 356, health 20, hunger 20. In sight with Kimberly at the bed row. I will walk only when Billy calls the hop and four or more are in sight."}
+- 12:21 act: {"say":"Tommy moving with the group on Billy's call, toward 396,-1010. Kimberly, stay in sight.","actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1010}}]}
+- 12:21 act: {"say":"Tommy at 396,-1010 with Jason and Kimberly in reach. Trini is 14 away, holding melon. Holding here until Billy calls the next step."}
+- 12:25 act: {"say":"Tommy: night is falling and we are out in the open. I go to the bed row at 401,-1036 now with Jason, Kimberly, Trini and Worf in reach. Follow me in sight.","actions":[{"do":"goto","target":{"
+- 12:25 act: {"say":"Tommy at the bed row, dim light, Leonardo in reach. Health 20, hunger 20. I sleep when it is night, beside 401,-1036."}
+- 12:33 act: {"say":"Tommy ready for Billy's hop toward 396,-1010, morning 357. Health 20, hunger 20. Moving with the group in sight.","actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1010}}]}
+- 12:34 act: {"say":"Tommy at 396,-1010 with Jason in reach. Holding for the rest of the group and Billy's next call."}
+- 12:34 act: {"say":"Tommy at hop one with Worf, Trini, Kimberly and Jason in sight. Sun is low, so we go back to the bed row at 401,-1036 together before dark."}
+- 12:35 act: {"say":"Tommy: group in sight, Troi, Worf, Kimberly, Jason. Going back to the bed row at 401,-1035 now.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}]}
+- 12:35 act: {"say":"Tommy at the bed row at dusk, Trini, Kimberly and Leonardo in reach. I sleep when it is night."}
+- 12:43 act: {"say":"Tommy moving on Billy's hop toward 396,-1010 with Trini, Jason, Troi and Kimberly in sight.","actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1010}}]}
+- 12:43 act: {"say":"Tommy here at 396,-1010 with Troi. Holding until more of the group is in sight, then I'll walk back to the bed row.","actions":[]}
+- 12:46 act: {"say":"Tommy: bows are being drawn all around us, so I'm walking back to the bed row with Trini, Jason and Troi, where Billy, Zack and Kimberly are.","actions":[{"do":"goto","target":{"x":401,"y":107
+- 12:48 act: {"say":"Tommy: dusk is coming. I'm moving beside the bed at 401,-1036 with the group in reach, and will sleep when it is truly night.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}]}
+- 13:04 act: {"say":"Tommy: night has come. Going beside the bed at 401,-1036 with Trini and Kimberly in reach, to sleep.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}},{"do":"sleep"}]}
