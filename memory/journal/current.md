@@ -13,3 +13,4 @@
 - 13:55 act: {"say":"Tommy here at the bed row, day 361, health 20, hunger 20, no food. Holding by the beds with the group. I will sleep at dusk here."}
 - 14:11 act: {"say":"Tommy, awake at the bed row, health 20, hunger 20, no food. I'll stay here and join Billy's walk when he calls it with four in sight.","intent":{"goal":"hold_at_bed_row","program":"rest","argu
 - 14:11 act: {"say":"Morning, Trini. Tommy here at the bed row, health 20, hunger 20, no food. Kimberly, if you drop to 6 I'll help find melon from Beverly."}
+- 14:27 act: {"say":"Tommy here, at the white beds, health 20, hunger 20. I hold no food. I will stay by the beds until the group is in sight, and walk only with Billy's call.","reasoning":"Daytime, group nearby b
