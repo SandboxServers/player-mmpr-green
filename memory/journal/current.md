@@ -27,3 +27,74 @@
 - 15:54 act: {"actions":[{"do":"sleep"}],"say":"Good night, Zack, Kimberly, Trini. Tommy is beside the white bed at 387,107,-1021, in your sight.","reasoning":"Night, beside a bed, group in reach, days_since_sleep
 - 15:54 act: {"actions":[{"do":"note","text":"Day 367 night: slept beside white bed 387,107,-1022. Sleep worked. Health 20, hunger 20, no food held."}],"reasoning":"Record the sleep before the handoff."}
 - 15:54 say: {"text":"Tommy here, bedding down beside the white bed at 387,107,-1022 with the group in sight. Dawn, we walk together."}
+- 15:55 act: {"say":"Tommy here at the bed row, 387,107,-1021, health 20, hunger 20. Holding for Billy's cow call, not walking alone."}
+- 15:58 act: {"say":"Tommy at 387,107,-1021, in sight of Trini and Zack. I hold no food. Kimberly, go to Trini for the melon at 6. I stay here until Billy calls."}
+- 16:20 day 367 dawn: days_since_sleep 0. Held at the bed row 387,107,-1021 with Trini, Zack, Beverly. Kimberly at 11 health, hunger 17, holding her own food; going to the bed row. Billy has not called the hop yet. Waiting.
+- 16:06 act: {"say":"Night. Tommy beside the white bed at 387,107,-1021, in the group's sight. Good night, friends.","actions":[{"do":"sleep"}]}
+- 16:10 act: {"say":"Morning. Tommy at 388,107,-1023 by the white bed, health 20, hunger 20, no food held. Holding for Billy's cow call with the group in sight."}
+- day 368 dawn: slept beside the bed at 387,107,-1021, sleep worked (6 of 10 asleep, then woke). Worf still in pit; Beverly and Jason helping from edge. Holding at the beds, no food held. Waiting for Billy.
+- 16:19 act: {"say":"Night. Tommy beside the white bed at 388,107,-1023, Beverly in reach. Good night.","actions":[{"do":"sleep"}]}
+- 16:23 act: {"say":"Tommy at 388,107,-1037 by the beds, in sight of Trini and Zack. Kimberly, come to the group here. I hold no food, but I will stand with you."}
+- 16:25 act: {"say":"Jason, Kimberly: I will come to the pit edge with you, in daylight, all in sight. I will not go down; I will stand at the edge and watch. Jason, say when you are in my sight."}
+- 16:26 act: {"say":"Coming to you, Jason, in daylight, with Kimberly. Staying on the edge.","actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 16:26 act: {"say":"Jason, I cannot see you from 388,107,-1037. Come back to the white beds with Beverly and Kimberly, and we all go to the edge together, in sight of each other."}
+- 16:27 act: {"say":"Coming now to 396,107,-1026, Beverly in sight, Kimberly ahead. Jason, hold the edge.","actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1026}}]}
+- 16:30 wait: arrived at 396,107,-1027 with Kimberly in reach, Jason 3 blocks off. Holding at the edge in sight, not going down. Health 20, hunger 20, no food held.
+- 16:27 act: {"say":"Tommy at the edge in sight of Jason and Kimberly. I hold here and do not go down. Worf, mine one block at a time as Jason says."}
+- 16:30 act: {"say":"Dusk. Tommy walking to the white beds at 388,107,-1023 with Kimberly, to bed down with Jason. Worf, stay in the pit tonight; we come at first light.","actions":[{"do":"goto","target":{"x":388,
+- 16:31 act: {"say":"Tommy at the white bed row, 388,107,-1022, with Jason in reach. Kimberly, stay close. I will sleep when night comes."}
+- 16:32 act: {"say":"Night. Tommy beside the white bed at 388,107,-1022, Jason and Kimberly in reach. Good night, friends. First light, we go to the pit together.","actions":[{"do":"sleep"}]}
+- 16:34 act: {"say":"Morning. Tommy at the white beds, 402,107,-1023, health 20, hunger 20, no food. Ready to go to the pit edge together. Beverly, Jason, Kimberly, say when you are in sight."}
+- 16:34 act: {"say":"Walking to Jason at 388,107,-1030 now, to gather in sight before the pit edge.","actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1029}}]}
+- 16:34 act: {"say":"Tommy here with Jason and Beverly, in sight. Kimberly, come to us. Then we walk to the pit edge together."}
+- 16:35 act: {"say":"Kimberly, Jason, Beverly, Tommy: all four in sight at 389,107,-1028. Jason, say the word and we walk to the pit edge together. I will not go down."}
+- 16:35 act: {"say":"Tommy going to the pit edge at 396,107,-1026 with Beverly, in sight of Jason and Kimberly. Staying on the edge, not going down.","actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1026}}]}
+- 16:41 dusk: Worf stays in the pit tonight, Jason named the plank 393,107,-1022 for first light. I walked to the bed 388,107,-1022 with Jason and Kimberly, and sleep is queued beside it.
+- day 369 midday: slept beside the bed at 388,107,-1022 with Jason and Kimberly, sleep worked. Gathered four in sight, now at the pit edge 395,107,-1026 with Jason and Kimberly in reach. Worf still in the pit. I hold on the edge, not going down. Health 20, hunger 20, no food.
+- 16:39 act: {"say":"Worf, Tommy here at the edge. I hold no pick, and I will not go down. Jason and Kimberly, please dig the block beside Worf if you have a tool. I hold here in sight."}
+- 16:39 act: {"say":"Jason, Tommy has no pick either. I can only stand at the edge and watch. Kimberly, you mine the block Jason names, nothing else."}
+- 16:43 act: {"say":"Dusk. Tommy walking to the white beds with Jason and Kimberly, in sight. Worf, stay in the pit tonight; we come at first light.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1023}}]}
+- 16:44 act: {"say":"Tommy at the white bed 388,107,-1022, Jason and Kimberly in reach. Good night, friends. First light, we go to the pit together.","actions":[{"do":"sleep"}]}
+- 16:44 act: {"say":"Tommy at the bed row, 401,107,-1021, beside the east bed. Jason, Kimberly, I cannot see you from here. Come to me, or say where you lie, and I will stay put until first light."}
+- 16:48 act: {"say":"Morning. Tommy at 402,107,-1023, walking to the pit edge at 396,107,-1026 in sight of Kimberly and Beverly. I will not go down.","actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1026}}]}
+- 16:48 act: {"say":"Tommy at the pit edge, in sight of Jason, Kimberly and Beverly. I hold here and do not go down. Worf, say when you step up."}
+- 16:50 wait: morning day 370 at the pit edge 396,107,-1025 with Jason, Kimberly, Beverly in reach. Worf not yet stepped up; Kimberly waits to mine the plank 393,107,-1022 once Worf is clear. Holding, health 20, hunger 20, no food.
+- 16:52 act: {"say":"Tommy at the edge, in sight. Worf, Kimberly's dig of the plank changed nothing. Stay clear, and say what you see at 393,107,-1022 before anyone digs again."}
+- 16:56 act: {"say":"Tommy agrees with Jason: Kimberly, do not dig blind. Worf, name the block type at 394,108,-1022 and whether you see sky above it. I hold at the edge."}
+- 16:57 act: {"say":"Dusk. Tommy walking back to the white beds with Kimberly, in sight of Jason. Worf, stay in the pit tonight, safe; we come at first light.","actions":[{"do":"goto","target":{"x":388,"y":107,"z"
+- 16:57 act: {"say":"Tommy at the white bed row, 388,107,-1022, with Jason in reach. Kimberly, come into sight. I will sleep when night comes."}
+- 17:02 act: {"say":"Morning. Tommy at the white bed 388,107,-1022, holding for Jason and Kimberly. Say when you are in sight, and we walk to the edge together."}
+- 17:04 act: {"say":"Tommy walking to the pit edge at 396,107,-1026 to join Jason and Kimberly, in sight. I dig nothing and go down nowhere.","actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1026}}]}
+- 17:04 act: {"say":"Tommy at the edge with Jason, Kimberly and Beverly in reach. I hold here, dig nothing, go down nowhere. Worf, tell us when you rise."}
+- 17:06 act: {"actions":[{"do":"note","text":"Midday day 370: Worf's step failed (no headroom). He asks for a block to dig or a place to stand. Tommy holds at the edge 396,107,-1025 with Jason, Kimberly, Beverly i
+- 17:07 act: {"actions":[{"do":"note","text":"Holding at the edge with Jason and Kimberly. Jason: no blind digging, he names a block only when Worf has seen one he can reach."}],"say":"Agreed, Jason. Tommy stays a
+- 17:09 act: {"actions":[{"do":"note","text":"Afternoon day 370: Worf sees plank walls and gap on his right near gravel and stone. Jason says no dig yet; asks Worf to name one block type he can reach that is not p
+- 17:13 act: {"actions":[{"do":"note","text":"Dusk day 371: Jason, Beverly and Kimberly are out of my sight. Tommy stays at the edge 396,107,-1025 and will not walk alone. Worf holds in the pit for the night; firs
+- 17:13 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1028}}],"say":"Tommy at the edge 396,107,-1025, morning. Walking to the gather spot 389,107,-1028 now. Jason, Beverly, Kimberly, say when you se
+- 17:13 act: {"actions":[{"do":"note","text":"Morning day 371: walked to gather spot 389,107,-1027. Beverly in sight at 10 blocks; Jason and Kimberly not yet seen. Holding here, no digging."}],"say":"At the gather
+- 17:15 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1025}}],"say":"Tommy walking with Jason and Kimberly to the pit edge 396,107,-1025. Dig nothing until Worf names a stone spot."}
+- 17:15 act: {"actions":[{"do":"note","text":"Morning day 371: at pit edge area 395,107,-1025 with Jason, Kimberly in sight. Waiting for Worf's exact stone spot. No digging."}]}
+- 17:15 act: {"actions":[{"do":"note","text":"Morning day 371: at pit edge with Jason, Kimberly, Beverly in sight. Jason asks Worf for one exact stone position. Tommy digs nothing."}],"say":"Tommy at the edge, all
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1024}},{"do":"note","text":"Dusk day 371: Worf cannot give an exact stone spot; nobody digs. Tommy walks with Jason and Kimberly to the beds at 
+- 17:24 act: {"actions":[{"do":"note","text":"Dusk day 371: at the bed row 388,107,-1025 with Jason in sight. Holding here until night, then sleep beside the bed. Nothing dug."}],"say":"Tommy holding at the bed ro
+- 17:28 act: {"actions":[{"do":"note","text":"Morning day 372: night passed at the bed row 388,107,-1025 with Jason in sight; I did not sleep. Kimberly awake at the bed. Nothing dug; waiting for Jason's call and W
+- 17:30 act: {"actions":[{"do":"goto","target":{"x":395,"y":107,"z":-1024}},{"do":"note","text":"Midday day 371: walked to the pit edge with Jason, Kimberly and Beverly. Nobody digs; waiting on Worf's exact stone 
+- 17:34 act: {"actions":[{"do":"note","text":"Day 372 midday: at the pit edge with the group. Worf's mine changed nothing; no exact spot yet. I hold and dig nothing."}]}
+- 17:38 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1025}},{"do":"note","text":"Dusk day 372: walking with Jason, Kimberly and Beverly from the pit edge to the bed row. Nothing dug; Worf still in 
+- 17:42 act: {"actions":[{"do":"note","text":"Morning day 373: night passed at the bed row with Jason in sight; I did not sleep. Nothing dug. Still waiting on Worf's exact stone spot."}],"say":"Morning. Tommy at t
+- 17:46 act: {"actions":[{"do":"goto","target":{"x":395,"y":107,"z":-1024}},{"do":"note","text":"Midday day 373: walked to the pit edge with the group. Worf still has no exact stone spot. Nothing dug."}],"say":"To
+- 17:54 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1025}}],"say":"A phantom hit me at the pit edge. Walking back to the bed row with the group."}
+- 17:54 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 17:54 act: {"actions":[{"do":"note","text":"Night day 373: phantoms hit me at the pit edge (health 16). Got back to the bed row at 388,107,-1022. Sleep refused: monsters near. Group is out of sight; holding by t
+- 17:54 act: {"actions":[{"do":"sleep"}]}
+- 17:56 act: {"actions":[{"do":"note","text":"Day 373 morning: phantoms cleared. Sleep was refused at night (monsters). Holding at bed row 388,107,-1022 with the group arriving. Health 18.5, hunger 17, no food hel
+- 17:56 act: {"actions":[],"say":"Thank you both. I am at the bed row, 388,107,-1022, and I cannot see you from here. Kimberly, please give me 6 melon slices when you are in reach. Jason, I will take a chicken nex
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1024}}],"say":"Kimberly, I am one step north at 388,107,-1022 by the beds. Where are you? I am ready for the melon."}
+- 18:00 act: {"actions":[{"do":"note","text":"Day 373 morning: at bed row 388,107,-1023 waiting for Kimberly's melon (6 slices). Beverly says she is at the bed row with one chicken; I cannot see anyone yet. Worf s
+- 18:01 act: {"actions":[{"do":"eat"}],"say":"Thank you Kimberly, I have the 6 melon. I will eat now. Jason, I see your chicken coming; I will keep it for when I am lower."}
+- 18:01 act: {"actions":[{"do":"note","text":"Day 373: Kimberly gave 6 melon; ate one (hunger 17 to 19). Holding by the beds at 388,107,-1023 with Kimberly in reach. Jason's chicken is on the way. Nothing dug. Wai
+- 18:06 act: {"actions":[{"do":"sleep"}],"say":"Good night. Tommy at the beds, Kimberly and Jason in reach. Worf, stay safe in the pit."}
+- 18:07 act: {"actions":[{"do":"sleep"}]}
+- 18:11 act: {"actions":[{"do":"note","text":"Day 374 morning: slept at the bed row, woke with group in sight at 388,107,-1037. Health 20, hunger 18, holding 5 melon. Offered melon to anyone low. Kimberly health 6
+- 18:12 act: {"actions":[{"do":"note","text":"Day 374 morning: at bed row 388,107,-1037, health 20, hunger 18. Trini hunger 17, Jason holds 1 chicken, Worf in pit (no exact stone). Nothing to give yet; holding 5 m
+- 18:20 act: {"actions":[{"do":"note","text":"Day 374 dusk: at bed row 388,107,-1037 with Bcrusher in reach, health 20, hunger 18, holding 5 melon. Going to sleep beside the white bed."},{"do":"sleep"}],"say":"Goo
