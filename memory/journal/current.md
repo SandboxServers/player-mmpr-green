@@ -64,3 +64,5 @@
 - 23:17 act: {"actions":[{"do":"sleep"}]}
 - 23:19 say: {"text":"Tommy here at 430,107,-1023 by the white bed, health 20, hunger 18. Counted, Billy. No walk for me. I hold no food, only feathers and dirt."}
 - Day 389 day: counted at bed row by Billy (Tommy, Jason, Kimberly). Billy at health 11, Kimberly 6.3 (Trini holds chicken for her). Holding; no walk called. Heard bows to south.
+- Day 389 day, 23:30: held at bed row 430,107,-1023, counted by Billy. Data holds 2 chicken for the lowest. Bows heard south; no walk called.
+- 23:21 act: {"say":"Counted, Kimberly. Tommy at 430,107,-1023 by the white bed. I hold no food now, only feathers and dirt. I stay at the row.","actions":[]}
