@@ -68,3 +68,14 @@
 - 04:19 act: {"actions":[],"say":"Wesley, I am holding at 402,-1021 by the bed row, with Leonardo two steps off. I will go with you when the walk starts.","reasoning":"Wesley is walking to us. I hold here in sight
 - 04:24 act: {"actions":[],"intent":{"goal":"walk_with_wesley","program":"follow","arguments":{"target":"ag_wcrusher_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
 - 04:28 act: {"actions":[],"say":"Dusk. I am going to sleep here at the bed row with Leonardo and Wesley nearby. Good night.","reasoning":"Everyone is going to bed at dusk. I am safe at the bed row with the group,
+- 04:29 say: {"text":"Tommy here. I'm staying with you two. Hungry, so I'll take food when it's shared."}
+- 04:29 act: {"actions":[{"do":"eat"}],"say":"Thank you, Wesley. I'll stay in sight."}
+- 04:29 act: {"intent":{"goal":"walk_with_wesley","program":"follow","arguments":{"target":"ag_wcrusher_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"m
+- 04:29 act: {"actions":[{"do":"note","text":"Day 333 morning at bed row 402,-1021. Hunger 20, health 20. Wesley and Leonardo in reach. Leonardo is weaker (health 12, hunger 12); he should eat first. Staying in si
+- 04:33 act: {"intent":{"goal":"walk_to_cows_with_wesley","program":"follow","arguments":{"target":"ag_wcrusher_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
+- 04:35 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"}],"say":"Wesley, I'm moving to you now. Wait for me."}
+- 04:35 act: {"intent":{"goal":"stay_with_leonardo","program":"follow","arguments":{"target":"ag_leonardo_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{
+- 04:35 act: {"actions":[{"do":"note","text":"Wesley came back to the bed row. Walk to the cows is on hold: thunder, dim light. Holding with Wesley and Leonardo in sight."}],"say":"Wesley, good to have you back. W
+- 04:36 act: {"actions":[{"do":"note","text":"Day 333, thunder and dim light. Holding at the bed row with Wesley and Leonardo in reach. No solo walk. Waiting for the cow walk to clear."}]}
+- 04:36 act: {"actions":[{"do":"note","text":"Day 333, now bright and clear. Jason says the cow field was empty and he is heading back to the bed row. I stay at the bed row with Wesley and Leonardo and wait for Ja
+- 04:36 act: {"actions":[{"do":"note","text":"Day 333, bright. Jason came to the bed row with chicken and melon slice. I am full, so I asked him to hand food to Leonardo first."}],"say":"Jason, I'm full, so give t
