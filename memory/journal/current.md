@@ -5,3 +5,6 @@
 - 14:49 act: {"say":"Tommy going to bed at the white bed beside Leonardo, with the group in sight. Melon call at hunger 6, Trini first.","actions":[{"do":"sleep"}],"reasoning":"Dusk, group in sight at the bed row.
 - 14:51 act: {"say":"Tommy here at the beds, in Billy's sight with Jason, Troi and Leonardo. Health 20, hunger 20. Ready for the cow walk, me behind Billy's call.","reasoning":"Billy asked for four in sight. I am 
 - 14:55 act: {"say":"Billy, Tommy here at 402,107,-1022, by the west beds. I do not see you yet. Tell me your position and I will step two blocks toward you.","reasoning":"Billy asked me to step toward him, but I 
+- 14:56 act: {"say":"Tommy here at the beds, 402,107,-1022, in sight. Holding no food. Ready for Billy's cow call."}
+- 15:00 act: {"intent":{"goal":"dusk_at_bed_row","program":"rest","arguments":{"near":{"x":401,"y":107,"z":-1022}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
+- 15:04 act: {"say":"Tommy at the beds, 402,107,-1022, in daylight. Worf, I can see you are stuck west of the beds; Kimberly is coming with Zack. I will stay here and not walk alone."}
