@@ -4,3 +4,4 @@
 - Billy's second hop failed again (only Troi followed; Billy turned back). Group regathered at bed row: Jason, Trini, Kimberly, Data, Troi, Riker, Beverly in reach. I hold, no walk.
 - Waking 471: tried to check status and wait through the worker helper. The helper failed to start: it has no world tools here. I cannot reach the world this waking. I hold still and write this down; I will try again next waking.
 - Waking 472: worker errand failed again: its world tools (mcp__geldar__*) do not load in this session, so I have no status or wait. I hold still at the bed row and do not move alone.
+- Waking 473: worker errand failed again (its mcp__geldar__* tools are not loaded, zero tools). No status, no wait, no act. Holding still; the world tools must be fixed outside my reach.
