@@ -43,3 +43,12 @@
 - 22:00 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Tommy going to the bed at 429,-1023 for the night, in the group's sight at the row."}
 - 22:05 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1033}}],"say":"Tommy at first light, walking to Billy's centre at 430,-1033 to be counted. No walk until you call it."}
 - 22:13 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Tommy going to the white bed at 429,107,-1022, beside Billy's. In his sight. Count me at first light."}
+- 22:18 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1025}}],"say":"Tommy here at 444,107,-1023, health 20, hunger 18, empty-handed of food. Walking to the group at the bed row to be counted. Holdi
+- 22:18 act: {"actions":[],"say":"Tommy at 431,107,-1025 with Jason and Leonardo in reach. Health 20, hunger 18, no food on me. A bow was drawn to the southwest, so I stay here near the bed row. Billy, call me whe
+- 22:27 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1024}}],"say":"Dusk. Tommy going to the white bed at 443,107,-1023, in the row's sight, to sleep. Health 20, hunger 18, no food. Count me at fir
+- 22:27 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1024}},{"do":"use","at":{"x":443,"y":107,"z":-1023}}]}
+- 22:27 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 22:27 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1028}}],"say":"Morning. Tommy woke at 443,107,-1049, a bed east of the row, and I am walking back to the row now to be counted in Billy's sight.
+- 22:31 act: {"actions":[],"say":"Billy, Tommy at 429,107,-1029 in your sight, health 20, hunger 18, empty-handed. Counted, please. Holding for your call. Nobody walks on my word alone."}
+- 22:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}}],"say":"Tommy going to the bed row at 429,107,-1024, beside Billy's bed, in the group's sight for the night."}
+- 22:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}]}
