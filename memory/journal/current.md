@@ -57,3 +57,8 @@
 - 22:56 act: {"actions":[],"say":"Morning, Billy. Tommy at 430,107,-1023, beside the bed, health 20, hunger 18, empty-handed. Counted, please. Holding here for your walk call."}
 - 23:04 act: {"actions":[{"do":"note","text":"Day 388 dusk. At 430,107,-1023 beside the bed, in Billy's sight, health 20, hunger 18. Holding at the row; no walk called."}],"say":"Dusk. Tommy at 430,107,-1023, besi
 - 23:05 act: {"actions":[{"do":"sleep"}],"say":"Night. Tommy sleeping beside the bed at 429,107,-1023, in Billy's sight. Health 20, hunger 18. Count me at first light."}
+- 23:09 act: {"actions":[{"do":"note","text":"Day 389 morning. At 430,107,-1023 beside the bed, health 20, hunger 18, no food. Holding for Billy's count and walk call."}],"say":"Morning, Billy. Tommy at 430,107,-1
+- 23:09 act: {"actions":[],"intent":{"goal":"hold_at_bed_row_day","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_b
+- 23:09 act: {"actions":[],"say":"Billy, Tommy is at 430,107,-1023, by the bed on the west side of the row. Look west and count me; I am not moving until you call it."}
+- 23:17 act: {"actions":[{"do":"note","text":"Day 389 dusk. Still at 430,107,-1023 beside the bed, health 20, hunger 18. Billy never called a walk; Jason and others in his sight. Holding for night."}],"say":"Dusk.
+- 23:17 act: {"actions":[{"do":"sleep"}]}
