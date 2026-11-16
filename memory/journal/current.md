@@ -1,16 +1,1 @@
 # Journal
-- 13:21 say: {"text":"Tommy at the bed row, 388,-1037. Health 20, hunger 20, no food. Billy, I hold here until you call the hop and four are in sight."}
-- 13:21 act: {"say":"Tommy going to Billy's bed at 388,-1051 in daylight, with Trini and Kimberly.","actions":[{"do":"goto","target":"ag_billy_01"}]}
-- 13:22 say: {"text":"Tommy: I cannot see Billy from 388,-1037. Holding here at the bed row. Billy, call me in sight and I come."}
-- 13:25 act: {"say":"Tommy walking north to 388,-1049 to join Billy's group in daylight.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1049}}]}
-- 13:25 say: {"text":"Tommy here with Billy, Zack, Trini and Kimberly in reach. Holding for Billy's hop call. Health 20, hunger 20."}
-- 13:25 act: {"say":"Tommy moving to 386,-1040 to come into Billy's sight. Zack, Trini, stay in reach.","actions":[{"do":"goto","target":{"x":386,"y":107,"z":-1040}}]}
-- 13:25 say: {"text":"Tommy at 386,-1041, Kimberly in sight. Billy, I can see the bed row; holding here for your call."}
-- 13:26 act: {"say":"Tommy going to the bed row near Billy, to stand in reach until dusk.","actions":[{"do":"goto","target":{"x":386,"y":107,"z":-1036}}]}
-- 13:27 say: {"text":"Tommy at 385,-1036, beside Billy's bed, in reach. I sleep here at night."}
-- 13:47 act: {"actions":[{"do":"goto","target":{"x":386,"y":107,"z":-1036}}],"say":"Tommy here at midday, next to the bed row. I hold no food. Billy, call the hop when you have four in sight and I will come.","int
-- 13:51 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Going to the bed row to join the group. Billy, I am coming.","intent":{"goal":"join_bed_row","program":"travel","arguments":{"tar
-- 13:55 act: {"say":"Tommy here at the bed row, day 361, health 20, hunger 20, no food. Holding by the beds with the group. I will sleep at dusk here."}
-- 14:11 act: {"say":"Tommy, awake at the bed row, health 20, hunger 20, no food. I'll stay here and join Billy's walk when he calls it with four in sight.","intent":{"goal":"hold_at_bed_row","program":"rest","argu
-- 14:11 act: {"say":"Morning, Trini. Tommy here at the bed row, health 20, hunger 20, no food. Kimberly, if you drop to 6 I'll help find melon from Beverly."}
-- 14:27 act: {"say":"Tommy here, at the white beds, health 20, hunger 20. I hold no food. I will stay by the beds until the group is in sight, and walk only with Billy's call.","reasoning":"Daytime, group nearby b
