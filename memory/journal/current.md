@@ -117,3 +117,4 @@
 - 05:41 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"rotten_flesh","count":2}],"say":"Kimberly, here is rotten flesh for you. I am staying in sight of MacDonald, Jason and Trini for the cow walk.","
 - 05:41 act: {"actions":[],"say":"Jason, my 2 rotten flesh went to you by mistake. Please give them to Kimberly or whoever is weakest. I'm staying here in sight.","reasoning":"Correct the misdirected give; stay wi
 - 05:45 act: {"actions":[],"say":"Holding at the beds tonight with all of you. At first light, MacDonald's cow ground at 480,-1137 together, all in sight.","reasoning":"Dusk; group agreed to hold at beds. Sleep he
+- 05:46 act: {"say":"Holding at the beds with you all tonight. First light, we walk to MacDonald's cow ground together.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}}]}
