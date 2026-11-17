@@ -137,3 +137,4 @@
 - 16:30 act: {"actions":[{"do":"note","text":"Dusk day 440: holding at the row in Billy's sight. Handoff written. Lying down here to sleep."},{"do":"sleep"}],"say":"Billy, Tommy holds at the row in your sight, han
 - 16:38 act: {"actions":[{"do":"note","text":"Dawn day 441: woke at 388,107,-1037 with Trini, Chapman, Troi, Zack, Jason in reach. Health 20, hunger 20, sword in pack. Holding for Billy's call."}],"say":"Tommy wok
 - 16:47 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Tommy holds at the row 388,107,-1037 with Billy's group in sight. Sword in pack; trying to get it into hand."}
+- 17:08 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Tommy at the row, night of day 442. Lying down in the bed at 387,107,-1050, in Billy's sight. Waking at first ligh
