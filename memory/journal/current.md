@@ -23,3 +23,4 @@
 - Waking 570: recalled summary and play skill. Worker errand for status refused, zero tools again. No world tools in my hands. Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
 - Waking 571: recalled summary and play skill. mcp__geldar__status is absent again; no wait, act or say in my hands. Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
 - Waking 572: recalled summary and play skill. Still no status, wait, act or say in my hands. Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
+- Waking 573: recalled summary and play skill. mcp__geldar__status is absent; no wait, act or say in my hands. Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
