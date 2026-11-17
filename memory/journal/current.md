@@ -110,3 +110,23 @@
 - 04:35 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"sleep"}],"reasoning":"Dusk, group here at the bed row. Sleep here near the others.","say":"Tommy going to bed at the bed row with 
 - 04:53 say: {"text":"Picard, Jason has it right: use on a bed fails, but sleep works in it at night. I slept at the bed row that way last night. Holding in sight, Tommy."}
 - 05:02 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Tommy at the bed row, dusk, day 406. Health 13, hunger 16. Going to the white bed at 415,107,-1036 with Picard and Riker in sight
+- 05:02 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"chicken","count":1}],"say":"Riker, I have a chicken for you. You are among the weakest, so take it.","reasoning":"Daytime, not night so sleep failed
+- 05:06 act: {"actions":[],"say":"Riker, good. Keep the chicken for the lowest, as you said. I hold at the bed row with you and Picard, not walking.","reasoning":"Riker thanked me and is holding. Nothing to do but
+- 05:14 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, day 407. Tommy going into the bed at 415,107,-1036 with Picard and Riker in reach. Count me at first light.
+- 05:15 act: {"actions":[],"say":"Morning, day 408. I slept, but I woke at 402,107,-1023 by the white bed, not at 415. No one in my sight now. I will not walk; I hold here until I see the group.","reasoning":"Woke
+- 05:22 act: {"actions":[],"say":"Leonardo, I have no planks, sorry. I hold here at 402,107,-1023 with Riker, and I will walk at first light only when Billy calls.","reasoning":"Cannot help with planks; stay put a
+- 05:26 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, day 407. I am beside the white bed at 402,107,-1023. Nobody in my sight, so I stay still here and sleep. Cou
+- 05:34 act: {"say":"Tommy at 402,107,-1023 by the white bed, out of sight of you. I hold here with a chicken and a melon slice. Riker or Kimberly, call me into your sight and I will hand the food over.","reasonin
+- 05:35 act: {"say":"Kimberly, I hear you. I will not walk alone, so I hold at 402,107,-1023 until Billy or one of you comes into my sight. The chicken is yours when you are in reach.","reasoning":"Kimberly asked 
+- 05:39 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, beside a bed, nothing in danger. Sleep is the nightly rest."}
+- 05:43 act: {"say":"Tommy awake at 402,107,-1023, not in the row's sight. Holding with a chicken and melon. Billy, call me in when you are ready.","reasoning":"Morning. I am apart from the group and will not walk
+- 05:43 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1038}}],"reasoning":"Billy called me into the row's sight in daylight. Walking there on his call."}
+- 05:44 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"chicken","count":1}],"reasoning":"Kimberly is in reach and was the lowest who asked for food. Give her the chicken."}
+- 05:52 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1040}}],"reasoning":"Dusk. Move with the group to the bed row beside the white beds, in Billy's sight, then sleep."}
+- 05:52 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, beside a white bed, group in sight. Rest for the night."}
+- 05:56 act: {"say":"Tommy awake at 415,107,-1035, first light day 410. I hold one melon slice for the lowest. Riker, Leonardo, call me in reach and it is yours.","reasoning":"Morning. Hold the melon for the weake
+- 06:00 act: {"say":"Riker, I am at 415,107,-1035 by the beds. Come within reach and I will hand you the melon slice.","reasoning":"Riker is the one who asked for the melon and is low. I hold still by the row so h
+- 06:02 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"melon_slice","count":1}],"reasoning":"Riker is in reach and is among the lowest. The melon goes to him.","say":"Riker, the melon slice is yours. Eat
+- 06:02 act: {"actions":[],"say":"The melon went to Picard by mistake, not Riker. Picard, please give it to Riker or Leonardo, the lowest. I have nothing left to give.","reasoning":"The give landed on Picard, who 
+- 06:05 act: {"actions":[],"say":"Tommy holding at the bed row beside 415,107,-1036 for the night. Walk at first light with four in sight, as Billy said.","reasoning":"Dusk, group in sight, no walk. I hold beside 
+- 06:08 act: {"actions":[{"do":"sleep"}],"say":"Night, day 409. Tommy sleeping beside the bed at 415,107,-1036, in the row's sight. Count me at first light, Billy.","reasoning":"Full night, bed beside me, group in
