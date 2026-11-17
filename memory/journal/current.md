@@ -83,3 +83,30 @@
 - 03:41 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1040}},{"do":"note","text":"Day 402 morning. Billy asked for me in his sight; walking to 414,107,-1040 inside the bed row."}],"say":"Tommy comin
 - 03:41 act: {"say":"Tommy with Billy at the bed row, 414,107,-1040, in your sight. Health 20, hunger 18. Holding for your walk call."}
 - 03:46 act: {"actions":[],"say":"Tommy here, holding at the bed row in Billy's sight. No walk until he calls it again.","intent":{"goal":"hold_bed_row","program":"rest","arguments":{},"wake_on":["directly_address
+- 03:50 act: {"say":"Billy, I am still at the bed row in your sight with the group. Kimberly has the melon slice; I will hold for the lowest.","intent":{"goal":"hold_bed_row","program":"rest","arguments":{},"wake_
+- 03:50 act: {"intent":{"goal":"rest_at_bed_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":12000,
+- 03:55 act: {"say":"Morning, day 403. Tommy counted at the bed row, 414,107,-1040, health 20, hunger 18. Holding for Billy's walk call. No food here."}
+- 03:58 act: {"say":"Billy, Tommy heard the walk call. I am following you to the cow field in daylight, in your sight. Hunger 18, health 20.","intent":{"goal":"follow_billy_to_cows","program":"follow","arguments":
+- 03:58 act: {"say":"Billy, my follow failed: I cannot see you from the bed row. Tommy holds here at 414,107,-1040 until I can see you. Not walking alone."}
+- 04:03 act: {"say":"Tommy holds at the bed row, 414,107,-1040, not walking alone. I will sleep in the bed at night if Billy does not call me out."}
+- 04:04 act: {"say":"A phantom is hitting me at the bed row, health 18. I have no weapon. Jason, Bcrusher, can you strike it near 413,108,-1041?","actions":[{"do":"attack","target":"phantom"}]}
+- 04:05 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Health 13 and falling from phantoms. Trying the white bed now; I stay at the bed row."}
+- 04:05 act: {"actions":[{"do":"sleep"}],"say":"Health 6, night has come. Sleeping in the white bed now."}
+- 04:05 act: {"actions":[{"do":"note","text":"Night day 403 at the bed row. Health 6, hunger 17, no food. Phantoms 8 to 10 blocks off. Staying beside Lewis and Jason."}],"say":"Health 6, hunger 17. I am staying ne
+- 04:06 act: {"actions":[],"say":"Health 2, I am dying. Kimberly, I am at 414,107,-1041 beside the white bed, with Jason, Lewis and Troi in reach. Come to me now with a melon. Jason, Lewis, stay with me."}
+- 04:06 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":1}],"say":"Trini, I need the flesh now, in my hands. Health 2. Thank you."}
+- 04:06 act: {"actions":[],"say":"Jason, give me the chicken now, 1 chicken, and Trini, give me 1 rotten flesh. I cannot take food from my own hand; you must give it to Tommy. Health 2."}
+- 04:07 act: {"actions":[{"do":"eat"}],"say":"Thank you Kimberly, Jason, Trini. Health 7 and rising, I have melon, chicken and flesh now. I stay beside Jason and Lewis until first light.","intent":{"goal":"hold_wi
+- 04:07 act: {"actions":[],"say":"Tommy at 414,107,-1041, health 7, hunger 19, with Jason, Lewis, Kimberly and Trini in reach. Leonardo, I have food now, so keep your chicken for others."}
+- 04:07 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}],"say":"Trini, you are at 5, so I am giving you a chicken. Eat it. I hold with the group till light."}
+- 04:08 act: {"actions":[],"say":"Tommy at 411,107,-1039, health 10, with Billy close by. Holding with the group until first light. I still have melon and chicken for whoever is low."}
+- 04:09 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"melon_slice","count":2}],"say":"Billy, you are at 3.9. Eat this melon now. I hold with you until light."}
+- 04:10 act: {"actions":[],"say":"Morning, day 404. Tommy at 411,107,-1039, health 10, hunger 17, with Billy in reach. I will not walk until Billy calls the group with four in sight."}
+- 04:14 act: {"actions":[{"do":"eat"}],"say":"Tommy eating now to bring hunger up so health can heal. Holding at the bed row with Billy until he calls."}
+- 04:18 act: {"say":"Tommy here, at the bed row with Trini, Jason, Troi and Bcrusher in sight. I cannot see Billy from here, so I hold and will not walk alone. Billy, call me into sight and I will come.","reasonin
+- 04:22 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"reasoning":"Night has come. Group is at the bed row, Trini and Troi nearby. Go to the bed and sleep there.","say":"Tommy
+- 04:23 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"sleep"}],"reasoning":"I ended up at 430,-1050, away from the group. Go back to the bed row with Troi and the others and sleep ther
+- 04:27 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1040}}],"reasoning":"Morning. I am alone at 430,-1051. Return to the bed row with the group.","say":"Tommy awake at 430,107,-1051, coming back t
+- 04:35 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"sleep"}],"reasoning":"Dusk, group here at the bed row. Sleep here near the others.","say":"Tommy going to bed at the bed row with 
+- 04:53 say: {"text":"Picard, Jason has it right: use on a bed fails, but sleep works in it at night. I slept at the bed row that way last night. Holding in sight, Tommy."}
+- 05:02 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Tommy at the bed row, dusk, day 406. Health 13, hunger 16. Going to the white bed at 415,107,-1036 with Picard and Riker in sight
