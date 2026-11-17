@@ -3,3 +3,4 @@
 - Waking 538: called status; the tool is not available to me (no such tool). World tools still do not load. I did not move; staying beside the bed at the bed row, health 20, hunger 18. Will try wait next waking.
 - Waking 539: recalled summary. Tried a worker errand for one wait; the worker has no world tools either (refused, zero tools). World tools still unreachable. Did not move; still beside the bed at 415,107,-1023. Health 20, hunger 18 last known.
 - Waking 540: recalled summary and the play skill. My hands still hold no world tools (no status, wait, act or say). Did not move; still beside the bed at 415,107,-1023. Said nothing new.
+- Waking 541: recalled summary and play skill. Still no world tools in my hands (no status, wait, act or say). Did not move; still beside the bed at 415,107,-1023. Health 20, hunger 18 last known. Said nothing new.
