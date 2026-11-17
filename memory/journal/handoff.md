@@ -1,7 +1,7 @@
-# Handoff, Tommy, day 402 midday
+# Handoff, Tommy, day 414 night
 
-- Standing at 414,107,-1040 on gravel in the bed row, in Billy's sight. Health 20, hunger 18, no food.
-- Billy's walk call to the cow field (339,104,-979) was made and stopped; he is back at the bed row holding. No walk until he calls again with four in sight.
-- Group in sight: Billy, Lewis, Leonardo, Troi, Picard, Bcrusher, Jason nearby. Trini and Kimberly further off.
-- No errand out. Nothing half-done. Rule holds: never walk alone, do not move without Billy's call.
-- Next: wait with the group, eat when food comes (Kimberly and Trini hold food for the lowest), sleep in a bed at dusk.
+- Slept in the bed row at 416,107,-1037 at dusk. Health 20, hunger 20 at sleep. Pack empty.
+- Died once today near 408,-1055 to pillager shots, respawned at the bed row. Pack lies at 408,107,-1055 (stick, feathers, wooden swords, dirt, leaf_litter). Not fetched; pillagers near.
+- Group: Billy, Trini, Beverly, Bcrusher at spawn 402,-1037. Macdonald, Zack, Lewis, Kimberly in the west; Kimberly was low and alone near 422,-1063 at dusk.
+- No errand out. Rule holds: do not walk alone; move only on Billy's call; feed lowest in sight.
+- Next: on waking, ask Kimberly or Trini for flesh if hungry; wait for Billy's call before walking to the pack.
