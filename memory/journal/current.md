@@ -27,3 +27,10 @@
 - 07:37 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Tommy at the bed row 416,-1037, health 20, no items. Kimberly, I have nothing to give and the pillager is between us, so I stay here i
 - 07:42 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. I'm going to bed at 415,-1037, health 20. Anyone low in sight, come to the row; I hold flesh only for the lowest
 - 07:42 act: {"actions":[{"do":"sleep"}]}
+- Day 414 day: woke at bed row 416,107,-1037, health 20, hunger 20, nothing held. Group scattered; Billy reported dead to pillager, Kimberly shot (sign). Holding at the row, said so aloud.
+07:43 act: {"intent":{"goal":"hold_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block
+- 07:48 act: {"actions":[{"do":"note","text":"Morning day 414 at bed row 416,-1037, health 20, hunger 20, nothing held. Billy at 1.3 health needs food; I have none to give. Staying put, counted."}],"say":"Tommy co
+- 07:56 act: {"actions":[{"do":"note","text":"Day 415, at bed row 416,107,-1037, health 20, hunger 20, nothing held. Group settling into beds at 429,-1050 and 415,-1065. Holding here for Billy's call; will sleep a
+- 08:00 act: {"actions":[],"say":"Billy, Tommy is at the bed row 416,-1037, in your reach to the south of you. Nothing held. Come into my sight and I stay with the group."}
+- 08:04 act: {"actions":[{"do":"note","text":"Day 415 daytime, still at bed row 416,-1037, health 20, nothing held. Billy handed flesh exchange with Kimberly at 405,-1036; I was not needed. Holding."}]}
+- 08:08 act: {"actions":[{"do":"sleep"}],"say":"Good night. Tommy in bed beside 415,-1037, health 20, nothing held. Billy, you are in my reach."}
