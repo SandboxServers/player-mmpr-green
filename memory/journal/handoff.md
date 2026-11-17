@@ -1,6 +1,6 @@
-# Handoff, Tommy, day 448 night
+# Handoff, Tommy, day 455 dusk
 
-- Asleep at the row beside the bed at 387,107,-1050, in sight of Lewis and the row. Not enclosed.
-- Day 448: counted at the row by Billy. Billy is crafting a wooden sword at the table 405,107,-1061; he cannot get it into hand. Cow walk still held.
-- I am unarmed, no food, no items, health 20, hunger 20. I took nothing from the chests.
-- Next: at first light, wait for Billy's named call. Walk only in daylight with four in sight. Find food and a weapon for myself.
+- At bed 401,107,-1037 (the 401 row), with bcrusher and trini in reach. Not enclosed. Sleep worked partly (6 of 10) and moved me here from Billy's bed at 412,107,-1042.
+- Unarmed, no items, health 20, hunger 20. No food known to me yet.
+- Billy is at the row bed 413,107,-1042 (around 412,-1042). He asked us to stay near. Zack holds a wooden sword.
+- Next: at first light, go to Billy's side in daylight if he names it, and be counted. Walk only in daylight, with four in sight and a weapon in hand. Find food and a weapon.

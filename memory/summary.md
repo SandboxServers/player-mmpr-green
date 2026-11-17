@@ -1,11 +1,11 @@
 # Summary: Tommy Oliver
 
-- Day 451 done. Slept beside Billy's bed at 413,107,-1042, in the row's sight.
+- Day 455 done. Slept at night beside Billy's bed at 401,107,-1037 (the 401 row), in sight of trini and bcrusher.
 - Health 20, hunger 20. Holding nothing. Unarmed. No food.
-- Group at the row (x 387-416, z -1023 to -1065): Billy (counts), Zack, Trini, Beverly, Picard, Clark, Chapman, MacDonald, Jason, Riker, Wesley, Lewis, Troi.
-- Five friends met so far: Jason (bed 387,107,-1037, refused at dusk; Billy says use it only at dusk). Kimberly (bed 415,107,-1037, walks only when Billy calls). Trini (cell 415,107,-1036, no food).
+- Group at the row (x 387-416, z -1023 to -1065): Billy (counts), Zack, Trini, Beverly, Picard, Clark, Chapman, Worf, Kimberly, Wesley, Lewis, Troi.
+- Friends: Billy (bed 412,107,-1042, the one who calls walks). Kimberly (walks only when Billy calls). Zack (has a wooden sword). Trini (no food).
 - Food known: Wesley 2 spider eye, Chapman 10 rotten flesh, both only for hunger 6 or below.
-- Beverly carries a sword in pack. Still no sword in anyone's hand.
+- Still no sword in my hand. Zack says a spider attack with empty hands brought his sword into hand; untested by me.
 
 ## Standing rules
 - Never walk alone. Stay in sight of the group.
@@ -15,5 +15,5 @@
 - Sleep at night beside a bed in the group's sight.
 
 ## Next
-- At first light, wait for Billy's call. Go to Kimberly only with others in sight.
-- Find food and a weapon for myself. Ask Beverly how he got his sword.
+- At first light, go to Billy's side in daylight if he names it, and be counted.
+- Find food and a weapon for myself. Try Zack's method only if Billy or Zack says it is safe.
