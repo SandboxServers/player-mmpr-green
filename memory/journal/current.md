@@ -139,3 +139,11 @@
 - 16:47 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Tommy holds at the row 388,107,-1037 with Billy's group in sight. Sword in pack; trying to get it into hand."}
 - 17:08 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Tommy at the row, night of day 442. Lying down in the bed at 387,107,-1050, in Billy's sight. Waking at first ligh
 - 17:12 act: {"say":"Tommy here at the row, night. Lying down in sight of Billy. Walking at first light on Billy's call.","actions":[{"do":"sleep"}]}
+- 17:14 act: {"say":"Morning. I am at the row with Billy, health 20, no food. I hold a wooden sword in my pack. Billy, what is the call for today?","actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 17:14 act: {"actions":[{"do":"note","text":"Day 443 morning: at the row beside Billy, health 20, hunger 20. Sword still in pack, no food. Waiting for Billy's call."}]}
+- 17:18 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1}],"say":"Billy, I hold a wooden sword in my pack and I am giving it to you, since you have no weapon. Hold it for the group'
+- 17:18 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1047}},{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1}]}
+- 17:18 act: {"actions":[{"do":"note","text":"Day 443: gave my wooden sword to Billy for the group walk. Holding nothing now. Dusk at the row, in Billy's sight."}]}
+- 17:18 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 17:26 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Tommy lies down by the bed here, in Billy's and Zack's sight. Holding for first light."}
+- 17:27 act: {"actions":[{"do":"note","text":"Night 443: slept in a bed at the row, in Billy's sight. Gave my wooden sword to Billy. Holding nothing, health 20, hunger 20."}]}
