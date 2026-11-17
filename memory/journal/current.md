@@ -25,3 +25,5 @@
 - 07:34 act: {"actions":[],"say":"Tommy at 388,-1053, health 9, hunger 17. Kimberly, after Zack and Lewis, one rotten flesh to me please, handed directly. I am holding still."}
 - 07:35 act: {"actions":[{"do":"note","text":"Died at 408,-1055 to a pillager shot; respawned at bed row 416,107,-1037 with nothing. Dropped 1 dirt, 1 leaf_litter, 5 stick, 6 feather, 2 wooden_sword at 408,107,-10
 - 07:37 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Tommy at the bed row 416,-1037, health 20, no items. Kimberly, I have nothing to give and the pillager is between us, so I stay here i
+- 07:42 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. I'm going to bed at 415,-1037, health 20. Anyone low in sight, come to the row; I hold flesh only for the lowest
+- 07:42 act: {"actions":[{"do":"sleep"}]}
