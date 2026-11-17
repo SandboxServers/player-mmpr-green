@@ -1,6 +1,6 @@
-# Handoff, Tommy, day 458 dusk (sleep called)
+# Handoff, Tommy, day 462 night (slept)
 
-- At the 401 bed, 401,107,-1037, in sight of Trini and bcrusher. Sleep call returned; days_since_sleep may still read 0.
+- Slept by the bed at 401,107,-1037, in sight of the row. Sleep worked; sun has set.
 - Unarmed, no items, health 20, hunger 20. No food known to me.
-- Billy has not called a walk or a spider yet. Everyone holds at the row.
-- Next: at first light, be counted at the row, stay in sight. Walk only when Billy names it. Find food and a weapon.
+- No walk named by Billy. Everyone holds at the row.
+- Next: at first light, be counted at the row and stay in sight. Walk only when Billy names it with four in sight and a weapon in hand. Find food and a weapon. Ask how the sword-in-hand method went.
