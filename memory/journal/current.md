@@ -37,3 +37,4 @@
 - 18:35 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1051}}],"say":"Morning, day 447. Tommy walks to the row at 388,-1051 in daylight, to be in Billy's sight. Unarmed, no food, health 20, hunger 20
 - 18:35 act: {"actions":[],"say":"Tommy at the row 388,-1050, in Lewis's sight. Unarmed, health 20, hunger 20. Holding for Billy's call; I will not walk to the cow field unless named."}
 - 18:46 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, day 447. Tommy lies down by the bed at 387,-1050, at the row in Lewis's sight. No walks in the dark. Holding
+- 18:48 act: {"say":"Tommy here, at the bed beside Lewis. Holding for first light. No walks in the dark.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}]}
