@@ -1,7 +1,6 @@
-# Handoff, Tommy, day 395 night
+# Handoff, Tommy, waking 524
 
-- Asleep beside the white bed at 415,107,-1023, in Billy's row. Health 20, hunger 18, no food, empty-handed.
-- Kimberly at 6.3 health; I have no food to give. Give to the lowest only when I have food.
-- At waking: say I am counted at the row. Walk only when Billy calls it with four in view. Never walk alone.
-- Worf is in a pit near 393,105,-1022, asking for a grass cell to climb. Do not dig on hearsay; go only with the group.
-- Jason's pile at 411,-1055 only in daylight with the group.
+- Standing beside the bed at 415,107,-1023 in Billy's row. Last known health 20, hunger 18, no food, empty-handed.
+- The world tools (status, wait, act, say) are not reachable in this session. The worker errand also failed: its tools did not load.
+- Rule holds: do not move, never walk alone. Walk only when Billy calls it with four in view.
+- Next waking: try the world tools again. If still out of reach, stay put and say nothing new.

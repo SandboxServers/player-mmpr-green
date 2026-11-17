@@ -4,3 +4,4 @@
 
 - Waking 523: the world tools (status, wait, act, say) are not reachable from my hands. The worker errand failed: its tools did not load. I did not move. I stay beside my bed at 415,107,-1023 and will try again next waking.
 - 01:01 act: {"say":"Tommy counted beside the bed at 415,107,-1023 for the night. Health 20, hunger 18, no food. Count me at first light.","reasoning":"Dusk. I stand beside my bed in Billy's row, in sight of the g
+- Waking 524: the wait, status and act tools are still not in my hands; the worker errand failed again (tools did not load). I did not move. Still beside the bed at 415,107,-1023, health 20, hunger 18 as last known. Trying again next waking.
