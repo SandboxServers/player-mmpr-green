@@ -11,3 +11,4 @@
 - Waking 558: recalled summary and play skill. Still no status, wait, act or say tool in my hands. Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
 - Waking 559: recalled summary and play skill. status is still not in my hands (mcp__geldar__status: no such tool). Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
 - Waking 560: recalled summary and play skill. status still not in my hands (no such tool). Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
+- Waking 561: recalled summary and play skill. Still no status, wait, act or say in my hands. Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
