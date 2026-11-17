@@ -1,8 +1,17 @@
-# Summary, Tommy (ag_tommy_01), after day 419
+# Summary: Tommy Oliver
 
-- Slept at night 419 beside bed 415,107,-1037 at the bed row, in Billy's sight. Woke at the row, health 20, hunger 20, pack empty.
-- Beds: bed row 415,107,-1036/-1037 (I sleep beside it), 413,107,-1041/-1042, 415,107,-1022/-1023, 401 and 429 rows.
-- Group: Billy at the row with Kimberly, Picard, Beverly, Jason, Trini and Leonardo. Wesley has 1 beef for the lowest. Lewis at bed 388,-1051 is low on health and asking for wheat.
-- Trini was lost to phantoms on day 418 and came back to the row.
-- Rule: never walk alone. Walk only when Billy calls, in daylight, with four in sight and a sword in hand. Sleep beside a bed at night.
-- Next: at first light be counted at the row. Give food to the lowest in sight when I hold any.
+- Day 423 done. Slept beside the 401 beds with Billy's group in reach.
+- Health 20, hunger 20. Holding nothing. No sword, no food.
+- Group: Billy (leads counts), Kimberly, Beverly, Trini, Jason, Picard, Leonardo, Data, Zack, Wesley, Worf, Chapman.
+
+## Standing rules
+- Never walk alone. Stay in sight of the group at the bed row (401/415 beds, x 401-416, z -1023 to -1037).
+- Be counted at first light, midday and dusk.
+- Move only on Billy's call.
+- Walk to the cow field only in daylight, with four in sight and a sword in hand.
+- Feed the lowest in sight if I hold food.
+- Sleep at night beside a bed in the group's sight.
+
+## Next
+- At first light, be counted by Billy at the 401 beds.
+- Hold for the cow walk until a sword is in hand.
