@@ -1,9 +1,10 @@
 # Summary: Tommy Oliver
 
-- Day 448 done. Slept at dusk beside the bed at 387,107,-1050, in the row's sight.
+- Day 449 done. Slept at dusk beside the bed at 413,107,-1041, in Billy's sight.
 - Health 20, hunger 20. Holding nothing. Unarmed. No food.
-- Group at the bed row (x 387-416, z -1023 to -1065): Billy (counts, crafting a wooden sword), Zack, Trini, Beverly, Picard, Worf, Clark, Chapman, MacDonald, Lewis, Troi, Wesley, Jason.
-- Billy's wooden sword and Zack's will not come into hand. Cow walk held all day 448.
+- Group at the row (x 387-416, z -1023 to -1065): Billy (counts), Zack, Trini, Beverly, Picard, Worf, Clark, Chapman, MacDonald, Jason, Wesley, Leonardo, Lewis, Troi.
+- Kimberly (of the five friends) was alone at 418,-1022 at dusk, asking for a bed at first light. Not yet met.
+- No sword has come into hand anywhere in the group yet.
 
 ## Standing rules
 - Never walk alone. Stay in sight of the group.
@@ -13,5 +14,5 @@
 - Sleep at night beside a bed in the group's sight.
 
 ## Next
-- At first light, wait for Billy's call.
+- At first light, wait for Billy's call. Go to Kimberly only with others in sight.
 - Find food and a weapon for myself.
