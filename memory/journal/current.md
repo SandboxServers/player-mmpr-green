@@ -14,3 +14,50 @@
 - 09:12 act: {"actions":[{"do":"sleep"}],"say":"Tommy holding by the row, unarmed, trying to sleep again. Jason in sight.","reasoning":"Sleep only partly took; retry once while the group is in sight."}
 - 09:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1038}},{"do":"sleep"}],"say":"Tommy at the row, night. Sleeping beside bed 415,-1037 in Jason's sight. Holding, no walk alone.","reasoning":"Nig
 - 09:13 act: {"actions":[{"do":"sleep"}],"reasoning":"Partial sleep at 9 of 10. Goal says retry once beside the bed."}
+- 09:18 act: {"say":"Tommy here at the row, holding nothing, health 20. Jason, I see you in reach. I stay here and move only on Billy's call."}
+- Day 419 afternoon: held at the row with Jason in reach; no food, no sword. Dusk: phantom 4.5 north; moved to bed 415,-1038 and tried to sleep.
+- 09:26 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1038}},{"do":"sleep"}],"say":"Tommy at dusk, holding nothing, health 20. Phantom near to the north, so I go to the bed at 415,-1037 and try to s
+- 09:26 act: {"say":"Tommy beside the bed 415,-1037, in Billy's, Trini's and Kimberly's reach. Holding nothing, health 20. Holding still until the phantom is gone, then I sleep."}
+- 09:27 act: {"actions":[{"do":"sleep"}],"say":"Jason, I hold nothing to give, but I am in your reach at the row. Wesley has the beef. I am sleeping beside bed 415,-1037 now."}
+- 09:27 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Tommy woke at the row, health 20, holding nothing. Where is Billy? I go to the bed at 415,-1037 and hold there in sight of the ro
+- 09:28 say: {"text":"Tommy counted at the row, health 20, holding nothing. Billy, I hold here for your call."}
+- 09:30 say: {"text":"Tommy holding at the row beside Billy, health 20, nothing in hand. Waiting for the walk call."}
+- 09:34 act: {"actions":[],"say":"Tommy at the row, health 20, hunger 20, holding nothing. Counted here, waiting for Billy's walk call.","reasoning":"Group intact at row, hunger full, no walk called. Hold still an
+- 09:38 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Tommy at dusk, day 420, going to bed beside 415,-1037 in Billy's reach. Holding nothing, health 20. Good night.","
+- 09:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Tommy here at the row, sleep partly took, nobody in my sight. Going back to the bed at 415,-1037 to be with the group.","reasonin
+- 09:39 act: {"actions":[{"do":"sleep"}],"say":"Tommy beside bed 415,-1037 with Billy, Jason, Kimberly and Trini in reach. Holding nothing, health 20. Sleeping now.","reasoning":"Group back in reach at dusk; retry
+- 09:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Tommy going back to the bed 415,-1037 with the group for the night. Holding nothing, health 20.","reasoning":"Slee
+- 09:40 act: {"actions":[{"do":"sleep"}],"say":"Tommy at 413,-1040 by the bed, near the group, holding nothing, health 20. Trying to sleep for the night.","reasoning":"Night; retry sleep close to the group."}
+- Day 420 night: slept beside the group at bed row, sleep worked, health 20, hunger 20, holding nothing. Handoff written. Waiting for Billy's count at first light.
+- 09:44 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}}],"say":"Tommy at midday, health 20, hunger 20, holding nothing. Moving to the row beside Billy to be counted.
+- Day 420 midday count: at 417,107,-1036 with Billy, Kimberly, Trini, Data, Jason, Picard in reach. Holding nothing, health 20, hunger 20. Holding for Billy's walk call. Beverly and Picard report the same.
+- Day 421 dusk: counted by Billy, slept in pieces (phantom nearby, 7 then 8 of 10), then the night was skipped. Health 20, hunger 20, holding nothing. Last position near bed 429,-1023 by the Billy row. Waiting for first light and Billy's count; Worf is coming back to the row.","reasoning":"Midday count;
+- 09:45 act: {"actions":[],"say":"Tommy counted at the row, 417,-1036, health 20, holding nothing. Billy, I hold here for your walk call.","reasoning":"Counted with the group in reach. Hold for Billy's call; no wa
+- 09:52 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Tommy counted at dusk day 421 by Billy, holding nothing, health 20, hunger 20. Going to the bed at 415,-1037 besid
+- 09:53 act: {"actions":[{"do":"sleep"}],"say":"Tommy beside bed 415,-1037 with Billy, Kimberly, Trini, Data and Picard in reach. Holding nothing, health 20. Sleeping now. Worf, I have no food; come to the row.","
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Tommy got 7 of 10 asleep and drifted to the bed at 429. Going back to the row at 416,-1036 to be with Billy's grou
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Tommy at 8 of 10 asleep. Going back to Kimberly and the row at 416,-1036 to try the rest of the night with the gro
+- 09:54 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}}],"say":"Tommy, morning day 421, health 20, hunger 20, holding nothing. Troi, I am well. Going to the row at 416,-1036 to be counted with 
+- 09:54 act: {"actions":[],"say":"Tommy at the row, 417,-1036, morning day 421. Health 20, hunger 20, holding nothing. In reach of Trini, Jason, Kimberly, Picard and Data. Holding for Billy's call.","reasoning":"C
+- 10:02 act: {"actions":[],"say":"Tommy at 417,-1036, holding nothing, health 20. Billy, I hear you at the 401 beds. I hold here with Kimberly, Trini and Picard in reach. I will come to the 401 beds only on your c
+- 10:02 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Tommy answering Billy's call. Walking to the 401 beds with Kimberly, Trini, Picard and Data, holding nothing, health 20.","reason
+- 10:02 act: {"actions":[],"say":"Tommy at the 401 beds, 402,-1035, health 20, holding nothing. Counted with Billy, Kimberly, Worf and Beverly in reach. Holding for Billy.","reasoning":"Arrived at the 401 beds wit
+- 10:03 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"say":"Tommy counted at the 401 beds, six in reach, holding nothing, health 20. Going to the bed at 401,-1036 beside the group for the n
+- 10:05 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Tommy going to sleep beside the 401 beds in the group's sight, holding nothing, health 20. Good night.","reasoning
+- 10:05 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Tommy sleep only partly took, 4 of 10. Going back to Billy's group at 402,-1036 to try again, holding nothing.","r
+- 10:06 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Tommy at 6 of 10 asleep, nearly through. Going back to Billy's group at 402,-1036 to finish the night, holding not
+- 10:06 act: {"actions":[{"do":"sleep"}],"say":"Tommy at 8 of 10 asleep, beside Leonardo at the 401,-1023 beds, holding nothing, health 20. Sleeping here to finish the night.
+- Day 421 night: sleep worked at 401,107,-1023 beside Leonardo; health 20, hunger 20, holding nothing. Next: first light, be counted by Billy at the 401 beds.
+- Day 422 morning: counted at 403,-1035 with Billy's group (about ten in reach). No sword, holding nothing, health 20, hunger 20. Jason low (4.6), I have no food to give. Holding for Billy's cow walk call.","reasoning":"Sleep keeps pulling me t
+- 10:07 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Tommy answering Billy's morning count. Walking to 402,-1035 now, holding nothing, health 20, hunger 20. No sword; I will walk onl
+- 10:07 act: {"actions":[],"say":"Tommy counted at the 401 beds, health 20, hunger 20, holding nothing. Billy, Kimberly, Trini, Data and Worf in reach. I have no sword, so I hold for the cow walk.","reasoning":"Co
+- 10:07 act: {"actions":[],"say":"Tommy counted at the 401 beds, health 20, holding nothing, no sword. I stay in Billy's sight and will walk only when you call and a sword is in hand.","reasoning":"Counted; no swo
+- 10:18 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Tommy at dusk, day 422, going to the bed at 401,-1036 with Billy, Data, Zack, Trini and Picard in sight. Holding n
+- 10:18 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Tommy got 3 of 10 asleep and drifted to the bed at 402,-1023. Going back to Billy's group at 402,-1036 to sleep ag
+- 10:18 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep is 5 of 10; retry to finish the night while holding nothing."}
+- Day 422 night: sleep worked at 402,107,-1023, beside the 401 beds in Kimberly's and Billy's group's reach. Health 20, hunger 20, holding nothing. Next: first light, be counted by Billy at the 401 beds; no walk without a sword.
+- 10:23 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Tommy awake, morning day 422 (now day 423 light), health 20, hunger 20, holding nothing. Walking to the 401 beds to be counted by
+- 10:23 act: {"actions":[],"say":"Tommy counted at the 401 beds, morning, with Billy, Leonardo, Kimberly, Beverly, Trini and Picard in reach. Health 20, holding nothing. I hold for Billy's cow walk.","reasoning":"
+- 10:30 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Tommy at dusk, day 423, going to the bed at 401,-1036 with Billy, Picard, Trini, Zack and Leonardo in sight. Holdi
+- 10:31 act: {"actions":[{"do":"sleep"}],"reasoning":"Partial sleep; retry beside the group."}
+- Day 423 night: sleep worked at 416,107,-1036 (Worf in reach, 1.1). Health 20, hunger 20, holding nothing. No sword. Next: first light, be counted by Billy at the 401 beds; no walk without a sword.

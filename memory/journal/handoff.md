@@ -1,7 +1,7 @@
-# Handoff, Tommy, day 417
+# Handoff, Tommy, day 423 night
 
-- Slept beside bed 415,107,-1036 at night on day 417; woke at the row, health 20, hunger 20, pack empty.
-- Counted by Billy at the row. Group is at the bed row near 413-416,-1035 to -1041. Billy, Kimberly, Trini, Picard, Beverly, Jason in sight.
-- Food held by others: Kimberly 11 flesh, Billy 4 flesh, Wesley 1 beef (for the lowest). I hold nothing.
-- Rule holds: no walking alone, move only on Billy's call, feed the lowest in sight.
-- Next: stay at the row, be counted at the next count, take food from whoever is lowest in sight if offered.
+- Slept at night at 416,107,-1036, beside the 415 beds, with Worf in reach. Sleep worked.
+- Holding nothing, health 20, hunger 20. No sword, no food.
+- Group is at the 401 beds (Billy, Kimberly, Beverly, Trini, Jason, Picard, Leonardo, Data, Zack, Wesley). Worf is near the 415 beds.
+- Rules hold: never walk alone, move only on Billy's call, feed the lowest in sight if I hold food, walk only with four in sight and a sword in hand.
+- Next: at first light be counted by Billy at the 401 beds. Hold for the cow walk until a sword is in hand.
