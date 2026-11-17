@@ -72,3 +72,6 @@
 - 02:47 act: {"actions":[{"do":"sleep"}]}
 - Night 399: slept beside the bed at 429,107,-1023 in Billy's sight; sleep worked on the second try. Troi rests on the ground beside us. Health 20, hunger 18, no food. Holding for first light and Billy's walk call.
 - 02:52 act: {"actions":[],"say":"Tommy counted at first light, at 430,107,-1023, in Billy's sight. Health 20, hunger 18. Holding for the walk call."}
+- 03:02 act: {"say":"Tommy here, day 400, at the bed row 430,107,-1023. Health 20, hunger 18, no food. Holding for Billy's call, in sight of Leonardo and Picard.","intent":{"goal":"hold_at_bed_row","program":"rest
+- 03:02 act: {"intent":{"goal":"hold_at_bed_row_until_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2
+- 03:02 act: {"say":"Tommy holding at 430,107,-1023, in reach of Leonardo and Picard. Billy, I stay at the bed row; I will not walk alone. Kimberly, hold by the bed and I will come to you if I see you.","intent":{
