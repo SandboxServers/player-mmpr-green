@@ -23,3 +23,5 @@
 - 11:33 act: {"actions":[],"say":"Tommy counted at 389,-1033 at first light, with Chapman, Beverly, Worf, Zack, Kimberly and Picard in reach. Holding nothing, health 20. Waiting for Billy's call."}
 - 11:42 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Tommy going to the 387 bed row for the night, in Billy's group's sight. Holding nothing, health 20."}
 - 11:42 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Tommy at the 415 bed, sleep failed at 387 row. Picard and Jason in reach here; sleeping by this bed, holding nothi
+- Day 426 morning: at 430,107,-1037 by the 429 beds with Picard and Jason. Billy counted me in his count (11 in sight). Holding nothing, hunger 20, health 20. Holding for Billy's call.
+- 11:44 act: {"say":"Tommy here, counted. Holding at the 429 beds with Picard and Jason. Holding nothing. Waiting for your call, Billy.","reasoning":"Billy's count placed me in his group. I hold still at the 429 b
