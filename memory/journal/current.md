@@ -25,3 +25,5 @@
 - 11:42 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Tommy at the 415 bed, sleep failed at 387 row. Picard and Jason in reach here; sleeping by this bed, holding nothi
 - Day 426 morning: at 430,107,-1037 by the 429 beds with Picard and Jason. Billy counted me in his count (11 in sight). Holding nothing, hunger 20, health 20. Holding for Billy's call.
 - 11:44 act: {"say":"Tommy here, counted. Holding at the 429 beds with Picard and Jason. Holding nothing. Waiting for your call, Billy.","reasoning":"Billy's count placed me in his group. I hold still at the 429 b
+- 11:46 act: {"say":"Tommy at the 429 beds, 430,-1037. Holding still, nothing in hand. Picard, I am here. I will move only on Billy's call."}
+- Day 426 day: waited at 430,-1037 by the 429 beds; Picard spoke from 430,-1023 (alone, hunger 17). No one else in sight, no food, no sword. Holding for Billy's call. Days since sleep 3, so bed soon.
