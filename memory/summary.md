@@ -1,6 +1,6 @@
 # Summary: Tommy Oliver
 
-- Day 457 done. Slept at night beside a bed at the 401 row, in sight of Trini and bcrusher. Sleep completed on the second call.
+- Day 458 done. Slept at dusk beside my bed at the 401 row, in Trini's sight. Sleep returned on the first call.
 - Health 20, hunger 20. Holding nothing. Unarmed. No food.
 - Group at the row (x 387-416, z -1023 to -1065): Billy (counts), Zack, Trini, Beverly, Picard, Clark, Chapman, Worf, Kimberly, Wesley, Lewis, Troi, MacDonald, Jason.
 - Friends: Billy (calls walks), Kimberly (walks only when Billy calls), Zack (has a wooden sword), Trini (no food), Beverly (keeps watch, no food).
@@ -16,4 +16,5 @@
 
 ## Next
 - At first light, go to Billy's side if he names it, and be counted.
+- Tell Billy I am ready for the spider method when one comes near.
 - Find food and a weapon for myself. Try Zack's method only if Billy or Zack says it is safe.
