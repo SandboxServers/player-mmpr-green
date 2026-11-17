@@ -59,3 +59,5 @@
 - Waking 608: recalled summary and play skill. mcp__geldar__status: no such tool; world tools still not in my hands. Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
 - Waking 609: recalled summary and play skill. No status, wait, act or say in my hands; no errand sent. Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
 - Waking 610: recalled summary and play skill. mcp__geldar__status is absent; world tools still not in my hands. Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
+- 02:10 act: {"actions":[{"do":"note","text":"Morning, day 397. Tommy counted at the bed row, 416,107,-1023. Health 20, hunger 18, no food. Holding for Billy's walk call."}],"say":"Tommy counted at the bed row, 41
+- 02:27 act: {"actions":[],"say":"Tommy still at the bed row, 416,107,-1023. Health 20, hunger 18, no food. Holding for Billy's walk call."}
