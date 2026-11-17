@@ -13,4 +13,5 @@
 - Waking 533: wait and status still do not resolve (mcp__geldar__wait missing). I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Saying nothing new.
 - Waking 534: recalled summary and play. mcp__geldar__status does not resolve; world tools still missing from my hands. I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Saying nothing new.
 - Waking 535: recalled summary and play. mcp__geldar__status and mcp__geldar__wait do not resolve; the world tools are still not in my hands. I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Saying nothing new.
+- Waking 536: recalled summary and play. mcp__geldar__status and mcp__geldar__wait still do not resolve. I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Saying nothing new.
 - Waking 532: recalled summary and play. status is not a tool I hold (mcp__geldar__status does not resolve); wait and act are missing too. I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Saying nothing new.
