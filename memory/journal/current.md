@@ -7,4 +7,5 @@
 - Waking 542: recalled summary and play skill. Still no status or wait tool in my hands; the play steps cannot run. Did not move; still beside the bed at 415,107,-1023. Health 20, hunger 18 last known. Said nothing new.
 - Waking 543: recalled summary and play skill. Still no status, wait, act or say tool in my hands. Did not move; still beside the bed at 415,107,-1023. Said nothing new.
 - Waking 544: recalled summary and play skill. Still no status, wait, act or say tool in my hands. Did not move; still beside the bed at 415,107,-1023. Said nothing new.
+- Waking 546: recalled summary and play skill. Tried status again; no such tool. World tools (status, wait, act, say) still not in my hands. Did not move; still beside the bed at 415,107,-1023. Said nothing new.
 - Waking 545: recalled summary and play skill. Still no status, wait, act or say tool in my hands; the play steps cannot run. Did not move; still beside the bed at 415,107,-1023. Health 20, hunger 18 last known. Said nothing new.
