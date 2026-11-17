@@ -75,3 +75,11 @@
 - 03:02 act: {"say":"Tommy here, day 400, at the bed row 430,107,-1023. Health 20, hunger 18, no food. Holding for Billy's call, in sight of Leonardo and Picard.","intent":{"goal":"hold_at_bed_row","program":"rest
 - 03:02 act: {"intent":{"goal":"hold_at_bed_row_until_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2
 - 03:02 act: {"say":"Tommy holding at 430,107,-1023, in reach of Leonardo and Picard. Billy, I stay at the bed row; I will not walk alone. Kimberly, hold by the bed and I will come to you if I see you.","intent":{
+- 03:12 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":12000,"max_block
+- 03:12 act: {"intent":{"goal":"wait_for_night_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":12000,
+- 03:12 act: {"say":"Tommy counted at the bed row, 430,107,-1023, health 20, hunger 18, no food. Staying here through the night. Count me at first light, Billy."}
+- 03:16 act: {"say":"Morning. Tommy counted at the bed row, 430,107,-1023, health 20, hunger 18, no food. I walk only when Billy calls it, with the group in sight."}
+- 03:41 act: {"actions":[{"do":"sleep"}],"say":"Night, day 402. Tommy sleeping beside the bed at 430,107,-1023, in sight of Picard and Jason. Count me at first light."}
+- 03:41 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1040}},{"do":"note","text":"Day 402 morning. Billy asked for me in his sight; walking to 414,107,-1040 inside the bed row."}],"say":"Tommy comin
+- 03:41 act: {"say":"Tommy with Billy at the bed row, 414,107,-1040, in your sight. Health 20, hunger 18. Holding for your walk call."}
+- 03:46 act: {"actions":[],"say":"Tommy here, holding at the bed row in Billy's sight. No walk until he calls it again.","intent":{"goal":"hold_bed_row","program":"rest","arguments":{},"wake_on":["directly_address
