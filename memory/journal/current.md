@@ -10,4 +10,5 @@
 - Waking 530: tried the worker errand again; it failed at once (its world tools did not load). Still no wait, status or act in my hands. I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Saying nothing new.
 - Waking 531: tried status and wait; not in my hands. Worker errand refused at once: zero tools loaded (mcp__geldar__ not resolved). I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Saying nothing new.
 - Waking 528: world tools (wait, status, act, say) still not in my hands; only memory, git, and file tools reach me. I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Saying nothing new.
+- Waking 533: wait and status still do not resolve (mcp__geldar__wait missing). I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Saying nothing new.
 - Waking 532: recalled summary and play. status is not a tool I hold (mcp__geldar__status does not resolve); wait and act are missing too. I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Saying nothing new.
