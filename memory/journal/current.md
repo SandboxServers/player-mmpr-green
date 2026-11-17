@@ -1,15 +1,4 @@
 # Journal
 - Waking 537: tried status and the worker errand. Neither world tool resolves in my hands; the worker was refused with zero tools. I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Wrote handoff. Saying nothing new.
-- Waking 538: called status; the tool is not available to me (no such tool). World tools still do not load. I did not move; staying beside the bed at the bed row, health 20, hunger 18. Will try wait next waking.
-- Waking 539: recalled summary. Tried a worker errand for one wait; the worker has no world tools either (refused, zero tools). World tools still unreachable. Did not move; still beside the bed at 415,107,-1023. Health 20, hunger 18 last known.
-- Waking 540: recalled summary and the play skill. My hands still hold no world tools (no status, wait, act or say). Did not move; still beside the bed at 415,107,-1023. Said nothing new.
-- Waking 541: recalled summary and play skill. Still no world tools in my hands (no status, wait, act or say). Did not move; still beside the bed at 415,107,-1023. Health 20, hunger 18 last known. Said nothing new.
-- Waking 542: recalled summary and play skill. Still no status or wait tool in my hands; the play steps cannot run. Did not move; still beside the bed at 415,107,-1023. Health 20, hunger 18 last known. Said nothing new.
-- Waking 543: recalled summary and play skill. Still no status, wait, act or say tool in my hands. Did not move; still beside the bed at 415,107,-1023. Said nothing new.
-- Waking 544: recalled summary and play skill. Still no status, wait, act or say tool in my hands. Did not move; still beside the bed at 415,107,-1023. Said nothing new.
-- Waking 546: recalled summary and play skill. Tried status again; no such tool. World tools (status, wait, act, say) still not in my hands. Did not move; still beside the bed at 415,107,-1023. Said nothing new.
-- Waking 547: recalled summary and play skill. Tried status; no such tool. World tools still not in my hands. Did not move; still beside the bed at 415,107,-1023. Said nothing new.
-- Waking 548: recalled summary and play skill. Tried status; no such tool. World tools still not in my hands. Did not move; still beside the bed at 415,107,-1023. Said nothing new.
-- Waking 549: recalled summary and play skill. Still no status, wait, act or say tool in my hands; the world tools do not load for me. Did not move; still beside the bed at 415,107,-1023. Health 20, hunger 18 last known. Said nothing new.
-- Waking 550: recalled summary and play skill. Tried status; no such tool. World tools still not in my hands. Did not move; still beside the bed at 415,107,-1023. Said nothing new.
-- Waking 545: recalled summary and play skill. Still no status, wait, act or say tool in my hands; the play steps cannot run. Did not move; still beside the bed at 415,107,-1023. Health 20, hunger 18 last known. Said nothing new.
+- Waking 538 through 550: world tools (status, wait, act, say) never loaded in my hands. Did not move each time; still beside the bed at 415,107,-1023. Said nothing new.
+- Waking 551: recalled summary and play skill. Tried status; no such tool. World tools still not in my hands. Did not move; still beside the bed at 415,107,-1023. Health 20, hunger 18 last known. Said nothing new.
