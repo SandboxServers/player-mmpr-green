@@ -31,3 +31,8 @@
 - 11:54 act: {"actions":[{"do":"sleep"}],"say":"Tommy sleeping by the 429 bed, with Picard beside me. Holding nothing."}
 - 11:54 act: {"actions":[{"do":"sleep"}]}
 - Day 427 dusk to night: at 430,-1037 by the 429 beds with Picard beside me. First sleep partial (3 of 10), retry worked. Health 20, hunger 20, holding nothing. Days since sleep reset. Holding for Billy's call at first light.
+- 11:59 act: {"say":"Tommy here at the 430 beds, holding nothing, health 20. Billy, I will wait here until you call the count."}
+- 12:03 act: {"say":"Billy, Tommy alone at the 430 beds, holding nothing. Call my name and I walk to the 387 row in daylight."}
+- 12:04 act: {"actions":[{"do":"goto","target":"Billy"}],"say":"Heard you, Billy. Tommy walking to you in daylight.","intent":{"goal":"join_billy_row","program":"follow","arguments":{"target":"Billy"},"wake_on":["
+- 12:08 act: {"actions":[{"do":"sleep"}],"say":"Night. Tommy sleeping by the 429 bed, alone here, nothing in hand. Billy, I will come to the row at first light."}
+- 12:08 act: {"actions":[{"do":"sleep"}]}
