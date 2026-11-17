@@ -1,4 +1,4 @@
-# Handoff, Tommy, waking 544
+# Handoff, Tommy, waking 548
 
 - Standing beside the bed at the bed row, 415,107,-1023. Last known health 20, hunger 18, no food. Did not move.
 - World tools (status, wait, act, say) still not in my hands; the worker has none either. No errand out, nothing half-done.
