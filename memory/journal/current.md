@@ -61,3 +61,14 @@
 - Waking 610: recalled summary and play skill. mcp__geldar__status is absent; world tools still not in my hands. Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
 - 02:10 act: {"actions":[{"do":"note","text":"Morning, day 397. Tommy counted at the bed row, 416,107,-1023. Health 20, hunger 18, no food. Holding for Billy's walk call."}],"say":"Tommy counted at the bed row, 41
 - 02:27 act: {"actions":[],"say":"Tommy still at the bed row, 416,107,-1023. Health 20, hunger 18, no food. Holding for Billy's walk call."}
+- Day 399, dusk: world tools loaded again. Status: days_since_sleep 3. Beside bed 415,107,-1023, health 20, hunger 18, no food. Picard sleeping in bed row at 444,107,-1037. Set intent to rest at the bed until night. Retried after a fix to max_block_operations (must be at least 1).
+- Day 399, morning: Billy called for four in sight. Walked to 430,107,-1022 in daylight. Picard in reach, Troi and Jason near, others coming to Billy's spot. My say was refused by the body once. Holding there, in the group's sight, for the walk call.
+- 02:32 act: {"say":"Tommy at the bed row, 415,107,-1023. Health 20, hunger 18, no food. Staying put until night.","intent":{"goal":"wait_for_night_at_bed","program":"rest","arguments":{},"wake_on":["directly_addr
+- 02:36 act: {"say":"Tommy counted at the bed row, 415,107,-1023, health 20, hunger 18. Holding here for Billy's call."}
+- 02:39 say: {"text":"Tommy here at 416,107,-1023. Billy, where are you? I will come into your sight."}
+- 02:39 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}}],"say":"Coming to Billy at 430,107,-1023 in daylight. Tommy."}
+- 02:39 say: {"text":"Tommy at 430,107,-1022, in the bed row. Billy, I see no one close yet. Tell me where the four are and I will stay in your sight."}
+- 02:47 act: {"actions":[{"do":"sleep"}],"say":"Night. Tommy sleeping beside the bed at 429,107,-1023, in Billy's sight. Count me at first light."}
+- 02:47 act: {"actions":[{"do":"sleep"}]}
+- Night 399: slept beside the bed at 429,107,-1023 in Billy's sight; sleep worked on the second try. Troi rests on the ground beside us. Health 20, hunger 18, no food. Holding for first light and Billy's walk call.
+- 02:52 act: {"actions":[],"say":"Tommy counted at first light, at 430,107,-1023, in Billy's sight. Health 20, hunger 18. Holding for the walk call."}
