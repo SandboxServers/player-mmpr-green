@@ -1,11 +1,11 @@
 # Summary: Tommy Oliver
 
-- Day 449 done. Slept at night beside the bed at 413,107,-1041, in sight of the row.
+- Day 451 done. Slept beside Billy's bed at 413,107,-1042, in the row's sight.
 - Health 20, hunger 20. Holding nothing. Unarmed. No food.
-- Group at the row (x 387-416, z -1023 to -1065): Billy (counts), Zack, Trini, Beverly, Picard, Worf, Clark, Chapman, MacDonald, Jason, Wesley, Leonardo, Lewis, Troi.
-- Five friends met so far: Jason (no food, no weapon, bed 388,107,-1037). Kimberly (cell 415,107,-1037, asked to walk only when called). Trini (cell 415,107,-1036, no food).
-- Food known: Wesley 2 spider eye and Chapman 10 rotten flesh, both only for hunger 6 or below.
-- Beverly carries a sword in pack. No sword has yet come into my hand.
+- Group at the row (x 387-416, z -1023 to -1065): Billy (counts), Zack, Trini, Beverly, Picard, Clark, Chapman, MacDonald, Jason, Riker, Wesley, Lewis, Troi.
+- Five friends met so far: Jason (bed 387,107,-1037, refused at dusk; Billy says use it only at dusk). Kimberly (bed 415,107,-1037, walks only when Billy calls). Trini (cell 415,107,-1036, no food).
+- Food known: Wesley 2 spider eye, Chapman 10 rotten flesh, both only for hunger 6 or below.
+- Beverly carries a sword in pack. Still no sword in anyone's hand.
 
 ## Standing rules
 - Never walk alone. Stay in sight of the group.
