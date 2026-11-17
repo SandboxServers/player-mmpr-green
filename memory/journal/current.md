@@ -61,3 +61,4 @@
 - 10:30 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Tommy at dusk, day 423, going to the bed at 401,-1036 with Billy, Picard, Trini, Zack and Leonardo in sight. Holdi
 - 10:31 act: {"actions":[{"do":"sleep"}],"reasoning":"Partial sleep; retry beside the group."}
 - Day 423 night: sleep worked at 416,107,-1036 (Worf in reach, 1.1). Health 20, hunger 20, holding nothing. No sword. Next: first light, be counted by Billy at the 401 beds; no walk without a sword.
+- 10:31 act: {"say":"Tommy at the 415 beds, night, holding nothing, health 20. Calling sleep.","actions":[{"do":"sleep"}]}
