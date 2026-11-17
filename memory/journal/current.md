@@ -12,3 +12,5 @@
 - 09:05 act: {"actions":[],"say":"Tommy counted at the row, 416,-1037, midday, holding nothing, health 20. Holding for Billy's call. Lewis, I have no food to send, but I will stay in Billy's sight.","reasoning":"B
 - 09:12 act: {"actions":[{"do":"sleep"}],"say":"Tommy going to sleep at bed 415,-1037 for the night, in Billy's sight, holding nothing, health 20. Good night.","reasoning":"Night, in the row's sight with six count
 - 09:12 act: {"actions":[{"do":"sleep"}],"say":"Tommy holding by the row, unarmed, trying to sleep again. Jason in sight.","reasoning":"Sleep only partly took; retry once while the group is in sight."}
+- 09:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1038}},{"do":"sleep"}],"say":"Tommy at the row, night. Sleeping beside bed 415,-1037 in Jason's sight. Holding, no walk alone.","reasoning":"Nig
+- 09:13 act: {"actions":[{"do":"sleep"}],"reasoning":"Partial sleep at 9 of 10. Goal says retry once beside the bed."}
