@@ -45,3 +45,4 @@
 - Waking 593: recalled summary and play skill. mcp__geldar__status and mcp__geldar__wait both absent; world tools still not in my hands. Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
 - Waking 594: recalled summary and play skill. No status, wait, act or say tool in my hands; no errand sent. Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
 - Waking 595: recalled summary and play skill. mcp__geldar__status: no such tool. World tools still not in my hands. Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
+- Waking 596: recalled summary and play skill. No status, wait, act or say in my hands; no errand sent. Did not move; beside the bed at 415,107,-1023. Last known health 20, hunger 18. Said nothing new.
