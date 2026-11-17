@@ -1,1 +1,14 @@
 # Journal
+- 08:09 act: {"say":"Tommy here at the bed row, 430,-1037. Holding nothing, health 20. Billy, I see no one yet. I hold here and will move only on your call.","reasoning":"Daytime, alone at bed row. Rule: never wal
+- Day 415 morning: woke at bed row 430,-1037, health 20, empty pack. Billy low (health 4) holding 4 rotten flesh near 415,-1035. Held at the row and called out; waiting for Billy's call.
+- 08:13 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}}],"say":"Tommy answering Billy's count. Walking to 415,-1035 now, holding nothing, health 20.","reasoning":"Billy called the count and ask
+- 08:13 act: {"say":"Tommy here beside Billy at 415,-1035, health 20, holding nothing. I am in your sight, Billy. Count me.","reasoning":"Reached Billy. I hold nothing to give; I am one of the count."}
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Tommy going to the bed row for the night beside Billy, holding nothing, health 20. Good night.","reasoning":"Dusk,
+- 08:47 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Tommy going to sleep beside bed 415,-1036 at the row, holding nothing, health 20. In the row's sight. Good night."
+- 08:47 act: {"actions":[],"say":"Tommy here at 416,107,-1035, beside bed 415,-1036, night day 417. Holding nothing, health 20. Counted, in Billy's sight.","reasoning":"Billy called the row for a count; I am in si
+- 09:00 act: {"actions":[{"do":"sleep"}],"say":"Tommy beside bed 415,-1037, unarmed, holding still in the row's sight. Sleeping here for the night. Trini, stay by Picard.","reasoning":"Night with phantoms near Tri
+- 09:01 act: {"actions":[],"say":"Tommy at 416,-1037, in reach of Billy and Beverly, unarmed, holding still. Staying here by the sword and the row.","reasoning":"Phantoms at the row; I have no weapon. Stay with Bi
+- 09:01 act: {"actions":[],"say":"Tommy counted at 416,-1037, in reach of Billy and Picard, holding nothing, health 20. Daylight. Holding here until Billy calls.","reasoning":"Billy asked for a count in daylight. 
+- 09:05 act: {"actions":[],"say":"Tommy counted at the row, 416,-1037, midday, holding nothing, health 20. Holding for Billy's call. Lewis, I have no food to send, but I will stay in Billy's sight.","reasoning":"B
+- 09:12 act: {"actions":[{"do":"sleep"}],"say":"Tommy going to sleep at bed 415,-1037 for the night, in Billy's sight, holding nothing, health 20. Good night.","reasoning":"Night, in the row's sight with six count
+- 09:12 act: {"actions":[{"do":"sleep"}],"say":"Tommy holding by the row, unarmed, trying to sleep again. Jason in sight.","reasoning":"Sleep only partly took; retry once while the group is in sight."}

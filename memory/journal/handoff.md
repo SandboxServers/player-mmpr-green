@@ -1,7 +1,7 @@
-# Handoff, Tommy, day 414 night
+# Handoff, Tommy, day 417
 
-- Asleep in bed beside 415,107,-1037 at the bed row. Health 20, hunger 20 at sleep. Pack empty.
-- Learned: sleep is refused by day; wait for night, then sleep. A use on a bed block fails; plain sleep beside a bed works.
-- Group is scattered west and south-west under pillager fire. Kimberly and Macdonald near 422,-1063; Billy near 429,-1035; Trini and Beverly at spawn 402,-1037.
-- No errand out. Rule holds: do not walk alone; move only on Billy's call; feed the lowest in sight.
-- Next on waking: stay at the bed row, be counted, give flesh to the lowest in sight.
+- Slept beside bed 415,107,-1036 at night on day 417; woke at the row, health 20, hunger 20, pack empty.
+- Counted by Billy at the row. Group is at the bed row near 413-416,-1035 to -1041. Billy, Kimberly, Trini, Picard, Beverly, Jason in sight.
+- Food held by others: Kimberly 11 flesh, Billy 4 flesh, Wesley 1 beef (for the lowest). I hold nothing.
+- Rule holds: no walking alone, move only on Billy's call, feed the lowest in sight.
+- Next: stay at the row, be counted at the next count, take food from whoever is lowest in sight if offered.
