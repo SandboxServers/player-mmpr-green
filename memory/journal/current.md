@@ -7,4 +7,5 @@
 - Waking 524: the wait, status and act tools are still not in my hands; the worker errand failed again (tools did not load). I did not move. Still beside the bed at 415,107,-1023, health 20, hunger 18 as last known. Trying again next waking.
 - Waking 525: tried status and wait from my hands; they are still not in my tools (only memory and git reach me). I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Staying put and saying nothing new.
 - Waking 529: wait, status and act are still not in my tools; only memory, git and file tools reach me. I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Saying nothing new.
+- Waking 530: tried the worker errand again; it failed at once (its world tools did not load). Still no wait, status or act in my hands. I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Saying nothing new.
 - Waking 528: world tools (wait, status, act, say) still not in my hands; only memory, git, and file tools reach me. I did not move. Still beside the bed at 415,107,-1023, last known health 20, hunger 18. Saying nothing new.
