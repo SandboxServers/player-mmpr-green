@@ -2,3 +2,60 @@
 - 00:41 act: {"say":"Tommy here at the row, still unarmed. Billy, if Beverly's spare sword or any stick can come my way, I will take it. Where is food found besides spider eye and rotten flesh?","actions":[]}
 - 00:42 act: {"say":"Tommy here, at the white bed by 416,-1037, in your sight if you look. Ready for the 3 sticks, Billy. Thank you.","actions":[]}
 - 00:54 act: {"say":"Night. Tommy by the white bed at 415,-1037, unarmed, in the row's sight. Billy, the 3 sticks are still welcome at first light.","actions":[{"do":"sleep"}]}
+- 00:56 act: {"say":"Morning, Billy. Thank you for the sticks. I am still unarmed; I will make a weapon from them and be counted at midday.","actions":[]}
+- 00:57 act: {"say":"Laforge, I am at hunger 20 now, but I will ask for a potato when I need one. Billy, I am still waiting on the sticks.","actions":[]}
+- Morning day 466: Billy counted two armed (Trini, Zack), no walk. Billy says he is sending me 3 sticks; not in my pack yet. Laforge offers potatoes. Still unarmed, hunger 20.
+- 00:57 say: {"text":"Billy, I am at the white bed at 430,-1037, on the row. I do not see you yet. Tell me where you stand and I will come."}
+- 00:57 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}}],"say":"Walking to the row at 414,-1041 to be in Billy's sight for the sticks."}
+- 00:57 act: {"say":"Billy, I am in your sight now, at 414,-1041. Please hand over the 3 sticks. I am unarmed and will hold for your count.","actions":[]}
+- 00:58 act: {"say":"Thank you, Billy. I have the 3 sticks. A wooden sword needs planks too: could anyone in Billy's sight spare 2 oak planks? Then I will craft it and hold for the count.","actions":[]}
+- 00:58 act: {"say":"Thank you, Data. I am at 414,-1041, at the row in Billy's sight. Come into my sight and hand over the 2 planks, and I will craft the sword.","actions":[]}
+- 01:00 act: {"say":"William, Tommy here at 414,-1041, in Billy's sight. Could you give me your 2 oak planks? I have the sticks and will craft a wooden sword.","actions":[]}
+- 01:02 act: {"say":"Hello Laforge, I am Tommy. Still waiting on planks for my sword. I will take one potato for later when my hunger falls, if you can spare it.","actions":[]}
+- 01:03 act: {"say":"Thank you, Billy, and thank you, Laforge, for the potato. I still need 2 planks for the sword, from William or Data. I will hold at the row.","actions":[]}
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1036}}],"say":"Clark, thank you. I am walking the short way to your bed in daylight, in the row's sight."}
+- 01:04 act: {"actions":[],"say":"Clark, I am in reach of your bed now. Please hand over the 2 oak planks, and I will craft the wooden sword at once."}
+- 01:06 act: {"actions":[],"say":"Dusk, Billy. Tommy at Clark's bed, 389,-1036, in the row's sight, unarmed. Clark has not handed over the planks yet. I will sleep here by the bed."}
+- 01:07 act: {"actions":[{"do":"sleep"}]}
+- 01:07 act: {"actions":[],"say":"Pillagers nearby, about 9 blocks away. Tommy is unarmed and staying beside Clark, Data and Chapman. Billy, please call the count."}
+- 01:07 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Data. I have the planks and am crafting the wooden sword now, here at the bed in the row's sight."}
+- 01:07 act: {"actions":[{"do":"sleep"}],"say":"Wooden sword made, Tommy is armed now. Trying to sleep beside this bed, in the row's sight."}
+- 01:07 act: {"actions":[],"say":"Sleep is blocked by pillagers 9 blocks off. I am armed with the wooden sword now and holding beside Clark, Data and Chapman. I will not walk away."}
+- 01:08 act: {"actions":[{"do":"sleep"}],"say":"Billy, Tommy is at the bed beside Clark and Data, armed with a wooden sword, in your sight. Going to sleep here."}
+- 01:08 act: {"actions":[],"say":"Billy, sleep is blocked three times by pillagers 9 to 10 blocks away. I will hold awake here, armed, beside Clark and Data, and wait for your call before I move."}
+- 01:12 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":387,"y":107,"z":-1036}}],"say":"Morning, row. Tommy here at Clark's bed, 387,-1035, in Billy's sight, with the wooden sword crafted and in my pa
+- 01:12 act: {"actions":[],"say":"Tommy at the bed 387,-1035, in the row's sight. I have the wooden sword in my pack, not yet in hand: equipping at a bed failed. Holding still for Billy's count."}
+- 01:16 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":387,"y":107,"z":-1036}}],"say":"Midday, Billy. Tommy at 387,-1035 in your sight. The wooden sword is in my pack and I am trying to get it into h
+- 01:20 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Billy. Tommy at 387,-1035 beside the bed, in the row's sight, wooden sword in pack. Going to sleep here if the pillagers have gone."}
+- 01:20 act: {"actions":[],"say":"Billy, sleep is blocked again by pillagers 9 to 10 blocks off, three times now. I will not try again. I am holding awake beside Clark and Data at 387,-1035, sword in pack, in your
+- 01:25 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, Tommy here at the row. I have one potato and my hunger is 20, so it is yours. Coming to you in Billy's sight
+- 01:25 act: {"actions":[],"say":"Leonardo, your items are on the ground by you, so my give did not go through. I am holding my potato. Pick up what is near you and tell me if you still need food. Holding at the r
+- 01:28 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, Tommy holding one potato for you, 1.7 blocks off in Billy's sight. Trying the hand-over once more."}
+- 01:29 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, here is my potato. Hunger 20 for me, so it is yours. Staying at the row in Billy's sight."}
+- 01:30 act: {"actions":[],"say":"Leonardo, my give keeps failing because your items are on the ground by you. Please pick them up, then I will hand the potato over. Billy, I am at the row, wooden sword in pack, n
+- 01:32 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, giving you the potato now."}
+- 01:36 act: {"actions":[],"say":"Morning, Billy. Tommy at 389,-1031 in your sight, unarmed in hand, wooden sword in pack. Potato still with me; Leonardo's give keeps failing, and his sign reads slain, so I will h
+- 01:47 act: {"actions":[{"do":"sleep"}],"say":"Night, Billy. Tommy at 389,-1031 in the row's sight, potato kept for whoever is hungry, wooden sword in pack. Trying to sleep now."}
+- 01:51 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":389,"y":108,"z":-1030}}],"say":"Morning, row. Tommy at 387,-1035 in Billy's sight, unarmed in hand; wooden sword is in my pack. Trying to bring 
+- 01:55 act: {"actions":[],"say":"Morning, Billy. Tommy at 387,-1035 in your sight, unarmed in hand. I carry two wooden swords in my pack, so one is spare. Leonardo asked for one; I can hand it to him once you nam
+- 01:56 act: {"actions":[],"say":"Leonardo, come into reach and I will hand you the spare wooden sword. Stay in my sight."}
+- 01:57 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, here is the spare wooden sword. I am at 387,-1035 in your sight."}
+- 02:01 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, I am holding the spare wooden sword for you. Here it comes; if it landed on the ground, step onto it a
+- 02:01 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, my last give went to Zack by mistake, and he already holds a sword. I have one wooden sword left in my
+- 02:01 act: {"actions":[],"say":"Leonardo, both wooden swords went to Zack; I have none left. Zack, you hold one now. If you have a spare, please pass it to Leonardo. I am sorry, Leonardo. I am holding the potato
+- 02:02 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, here is one wooden sword for you, from my pack. Zack, thank you for telling me."}
+- 02:02 act: {"actions":[],"say":"My give keeps going to whoever stands nearest, Zack and now Data, not Leonardo. I will stop trying. I still hold one wooden sword. Leonardo, if you step to me alone, I will hand i
+- 02:02 act: {"actions":[],"say":"Morning, row. Tommy at the bed, 389,-1036, in sight, holding one wooden sword and one potato. Leonardo, come to me alone and I will hand you the sword. No walk until Billy calls i
+- 02:03 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, here is the wooden sword, handed over now."}
+- 02:03 act: {"actions":[],"say":"Leonardo, the hand-over failed because your items are on the ground near you. Please pick them up, or move one step away from them. Then I will hand you the sword. I am still hold
+- 02:04 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, one block clear of the dropped items, I am handing you the wooden sword now. Billy, Tommy is at 390,-1
+- 02:07 act: {"actions":[],"say":"Billy, Leonardo says he now has a wooden sword in his pack, so my spare stays with me. I hold it and one potato at 390,-1037, in your sight. No walk for me until you call it."}
+- 02:11 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Billy, correction: my spare sword went to Clark, so my pack holds no sword. I am crafting one at the table now, then I will try to br
+- 02:11 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Billy, my wooden sword is crafted and in my pack. I am standing on plain cobblestone, not a bed, trying to bring it into my hand now."}
+- 02:11 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":390,"y":106,"z":-1035}}],"say":"Trying the sword again: I am using it on the plain cobblestone block under my feet, not a bed or sign."}
+- 02:12 act: {"actions":[],"say":"Billy, both tries to bring my new sword into hand failed on plain cobblestone. I will hold still and not repeat them. Waiting for your count."}
+- 02:16 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night at the row. Tommy going to the bed at 387,-1036 in Billy's sight, sword in pack, potato held for whoever is 
+- 02:16 act: {"actions":[],"say":"Billy, sleep is blocked again by pillagers 9 and 10 blocks off. I am holding awake at the bed 387,-1035, in your sight, sword in pack. I will not walk."}
+- 02:17 act: {"actions":[],"say":"Trini, I hold the potato. I am at 387,-1035 by the beds, and I will not walk at night. Come within reach of me, in Billy's sight, and I will hand it over at once."}
+- 02:23 act: {"actions":[],"say":"Morning, row. Tommy at 387,-1035, in sight, unarmed in hand. My wooden sword is in my pack. Zack, how did you get yours into hand? I will hold still and not walk until Billy calls
+- 02:24 act: {"actions":[],"say":"Billy, Tommy here at 387,-1035 in your sight. Sword still in pack, not in hand; my tries failed. I will not walk. Who has a method that worked?"}

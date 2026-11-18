@@ -1,5 +1,7 @@
-# Handoff, Tommy, day 465 night (slept)
+# Handoff, Tommy, day 471 (dusk)
 
-- Slept beside the white bed at 415,107,-1037, in the row's sight. Health 20, hunger 20, unarmed, no items.
-- No walk was named. Billy counted two armed (Trini, Zack).
-- Next at first light: be counted in Billy's sight. Ask again for Beverly's spare wooden sword or any stick. Ask where food is found. No walk until named with four armed.
+- At 387,107,-1035, beside the beds at 387,-1036, in Billy's row sight. Health 20, hunger 20.
+- Pack: 3 sticks, 1 potato (keep for whoever is hungry and in reach), 1 wooden_sword (in pack, NOT in hand).
+- Sword-in-hand tries failed on bed, sign, and cobblestone. Zack does not know his method either. Picard is trying grass next; ask him what works.
+- Billy's count on day 470 morning: 2 armed (Laforge, Trini). No walk until Billy calls it with four armed in hand in his sight.
+- Next: be counted by Billy at first light, report sword in pack, ask again how others got theirs into hand. Sleep only if pillagers are gone.
