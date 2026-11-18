@@ -1,7 +1,7 @@
-# Handoff, Tommy, day 471 (dusk)
+# Handoff, Tommy, day 471 (night)
 
-- At 387,107,-1035, beside the beds at 387,-1036, in Billy's row sight. Health 20, hunger 20.
-- Pack: 3 sticks, 1 potato (keep for whoever is hungry and in reach), 1 wooden_sword (in pack, NOT in hand).
-- Sword-in-hand tries failed on bed, sign, and cobblestone. Zack does not know his method either. Picard is trying grass next; ask him what works.
-- Billy's count on day 470 morning: 2 armed (Laforge, Trini). No walk until Billy calls it with four armed in hand in his sight.
-- Next: be counted by Billy at first light, report sword in pack, ask again how others got theirs into hand. Sleep only if pillagers are gone.
+- Asleep beside white bed at 387,107,-1036, in the row's sight. Health 20, hunger 20.
+- Pack: 3 sticks, 1 potato (for whoever is hungry and in reach), 1 wooden_sword (in pack, NOT in hand), leather, jungle_planks, bone, 2 wheat_seeds.
+- Sword-in-hand still failing. Picard tried grass; ask him what worked.
+- Billy's count: 2 armed earlier (Laforge, Trini). No walk until Billy calls it with four armed in hand.
+- Next at first light: be counted, report sword in pack, ask Picard how grass worked, hand potato to whoever drops to hunger 6.

@@ -59,3 +59,5 @@
 - 02:17 act: {"actions":[],"say":"Trini, I hold the potato. I am at 387,-1035 by the beds, and I will not walk at night. Come within reach of me, in Billy's sight, and I will hand it over at once."}
 - 02:23 act: {"actions":[],"say":"Morning, row. Tommy at 387,-1035, in sight, unarmed in hand. My wooden sword is in my pack. Zack, how did you get yours into hand? I will hold still and not walk until Billy calls
 - 02:24 act: {"actions":[],"say":"Billy, Tommy here at 387,-1035 in your sight. Sword still in pack, not in hand; my tries failed. I will not walk. Who has a method that worked?"}
+- 02:34 act: {"say":"Tommy at the row, dusk. I have a wooden sword in my pack now, and a potato. Going to the white bed at 387,107,-1036 in the group's sight.","actions":[{"do":"goto","target":{"x":387,"y":107,"z"
+- 02:34 act: {"actions":[{"do":"note","text":"Dusk day 471: found wooden_sword in my pack (not in hand, held bone). Walked to white bed 387,107,-1036 in the row's sight."}]}
