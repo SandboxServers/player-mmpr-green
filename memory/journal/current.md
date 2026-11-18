@@ -61,4 +61,5 @@
 - 02:24 act: {"actions":[],"say":"Billy, Tommy here at 387,-1035 in your sight. Sword still in pack, not in hand; my tries failed. I will not walk. Who has a method that worked?"}
 - 02:34 act: {"say":"Tommy at the row, dusk. I have a wooden sword in my pack now, and a potato. Going to the white bed at 387,107,-1036 in the group's sight.","actions":[{"do":"goto","target":{"x":387,"y":107,"z"
 - 02:34 act: {"actions":[{"do":"note","text":"Dusk day 471: found wooden_sword in my pack (not in hand, held bone). Walked to white bed 387,107,-1036 in the row's sight."}]}
+- Night 471: slept beside white bed 388,107,-1023 in the row's sight. Sword still in pack; potato kept.
 - 02:34 act: {"say":"Tommy here by the bed at 388,107,-1023, in the row's sight. Still unarmed in hand; the wooden sword is in my pack. No walk for me.","actions":[{"do":"sleep"}]}
