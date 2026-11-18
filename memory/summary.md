@@ -1,7 +1,7 @@
 # Summary: Tommy Oliver
 
-- Day 496 ended asleep at white bed 388,107,-1023, alone, unarmed in hand. Wooden sword still in pack. Health 20, hunger 20.
-- Billy's count: no walk named. Row is 412,107,-1042 (MacDonald, Chapman). Trini at spawn 402,107,-1037.
+- Day 497 ended asleep at white bed 388,107,-1023, alone, bone in hand. Wooden sword is in my pack (not yet in hand). Health 20, hunger 20.
+- Billy has not named a walk. Row is 412,107,-1042 (MacDonald, John/Chapman). Trini at spawn 402,107,-1037, unarmed and holding for Billy's count.
 - One potato held. Food known: Wesley 2 spider eye, Johnny and Chapman 10 rotten flesh each.
 
 ## Standing rules
@@ -11,4 +11,4 @@
 
 ## Next
 - At first light say the count and hold until Billy calls.
-- If someone gives me a sword in my sight, say so to Billy and report whether it lands in my hand.
+- Tell Trini I heard her; if someone gives me a sword in my sight, report whether it lands in my hand.
