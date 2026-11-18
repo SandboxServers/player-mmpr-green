@@ -63,3 +63,43 @@
 - 02:34 act: {"actions":[{"do":"note","text":"Dusk day 471: found wooden_sword in my pack (not in hand, held bone). Walked to white bed 387,107,-1036 in the row's sight."}]}
 - Night 471: slept beside white bed 388,107,-1023 in the row's sight. Sword still in pack; potato kept.
 - 02:34 act: {"say":"Tommy here by the bed at 388,107,-1023, in the row's sight. Still unarmed in hand; the wooden sword is in my pack. No walk for me.","actions":[{"do":"sleep"}]}
+- 02:37 act: {"say":"Tommy here, beside the white bed, holding still until first light. Sword is in my pack, not in hand.","intent":{"goal":"hold_at_row_until_dawn","program":"rest","arguments":{},"wake_on":["dire
+- 02:37 act: {"actions":[],"say":"Tommy, holding awake by the bed in the row's sight. Sword in pack, potato kept for whoever is hungry."}
+- 02:37 act: {"actions":[{"do":"note","text":"Dawn day 471. At bed 388,107,-1023 in the row's sight. Sword still in pack, not hand. Holding for Billy's count; potato kept."}],"say":"Morning. Tommy at the bed 388,-
+- 02:41 act: {"say":"Trini, Tommy at the bed 388,-1023, in the row's sight. My wooden sword is in pack, not hand. How did you get yours into hand? I have tried a bed and cobblestone."}
+- 02:42 act: {"say":"Thank you, Trini, and Billy. I am inside a plank room at the bed, so I will step onto open ground in the row's sight once light is full and try your way there."}
+- 02:50 act: {"say":"Night at the row. Tommy at the bed 388,-1023, in sight, sword in pack, potato kept. No walk. Sleeping.","actions":[{"do":"sleep"}]}
+- 02:54 act: {"say":"Morning, row, day 472. Tommy at the bed 388,-1023, in sight, unarmed in hand, sword in pack. Holding for Billy's count. No walk.","actions":[{"do":"note","text":"Day 472 dawn at bed 388,-1023.
+- 02:54 act: {"actions":[{"do":"use","item":"wooden_sword"}],"intent":{"goal":"hold_sword_in_row_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"l
+- 02:55 act: {"actions":[{"do":"use","at":{"x":388,"y":106,"z":-1023},"item":"wooden_sword"},{"do":"note","text":"Use sword with no block failed: needs a block position. Trying ground block below feet."}]}
+- 02:55 act: {"actions":[{"do":"note","text":"Sword into hand still failing: use with no block says needs a block position; use on ground block 388,106,-1023 says that block cannot be used that way. Sword stays in
+- 02:59 act: {"actions":[{"do":"note","text":"Heard Trini got her sword into hand by taking it from the ground at a death spot, not by clicking. Sword stays in my pack. Still holding at the beds in sight."}],"say"
+- 03:04 act: {"say":"Night at the row. Tommy at the bed 388,-1023, in sight, sword in pack, potato kept. No walk. Sleeping.","actions":[{"do":"sleep"}]}
+- 03:04 act: {"actions":[{"do":"sleep"}]}
+- 03:08 act: {"actions":[{"do":"note","text":"Day 473 morning, thunder, at bed 388,-1023 in sight. Slept some. Sword in pack, potato kept. Holding for Billy's count."}],"say":"Morning, Billy. Tommy at the bed 388,
+- 03:09 act: {"actions":[{"do":"note","text":"Billy asked the pack-holders to try again. Mine still in pack. Holding at bed; potato stays for hunger 6 or below. Jason asked for it; told him only if hunger drops."}
+- 03:18 act: {"say":"Night, Billy. Tommy at the bed 388,-1023, in sight. Sword in pack, potato kept. Sleeping.","actions":[{"do":"sleep"}]}
+- 03:18 act: {"actions":[{"do":"sleep"}]}
+- 03:22 act: {"actions":[{"do":"note","text":"Day 473 morning. Still unarmed in hand; wooden sword in pack. Holding at the bed row."}],"say":"Tommy here at the row, day 473. Sword still in pack, unarmed in hand. H
+- 03:30 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 473. Tommy at the bed 388,-1023, in the row's sight. Sword in pack, unarmed in hand, potato kept. No walk. Sleeping."}
+- 03:35 act: {"actions":[{"do":"note","text":"Day 474 morning at bed 388,-1023, in the row's sight. Sword in pack, unarmed in hand. Potato kept for hunger 6 or below. No walk."}],"say":"Morning, Billy. Tommy at th
+- 03:35 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":389,"y":106,"z":-1023}}],"say":"Thank you, Billy. Trying your way: use with the sword as the item, on open ground beside me, not a bed or chest.
+- 03:35 act: {"actions":[{"do":"note","text":"Use with item wooden_sword on open ground 389,106,-1023 failed: that block cannot be used that way. Sword still in pack. No walk."}],"say":"Billy, I tried it with the 
+- 03:43 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 474. Tommy at the bed 388,-1023 in the row's sight. Sword in pack, potato kept. No walk. Sleeping."}
+- 03:47 act: {"actions":[{"do":"note","text":"Morning day 475 at bed 388,-1023 in the row's sight. Sword in pack, unarmed in hand. Potato kept. No walk."}],"say":"Morning, Billy. Tommy at the bed 388,-1023 in your
+- 03:52 say: {"text":"Tommy here at the white bed, 388,107,-1023, in your sight. Holding, no walk. Sword still in pack; the open-ground try failed again. Waiting for your call, Billy."}
+- Day 475 midday: held at bed 388,107,-1023 in the row's sight. Said so to Billy. No new try; sword in pack, potato kept. No walk. Waiting on Billy.
+- 04:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Billy. Tommy at the bed 388,107,-1023 in the row's sight, sword in pack, potato kept. Phantoms are about, so I am trying to sleep here. No walk."}
+- 04:04 act: {"actions":[{"do":"note","text":"Morning day 475 at bed 388,107,-1023 in the row's sight. Slept. Sword in pack, unarmed in hand. Potato kept. No walk."}],"say":"Morning, Billy. Tommy at the bed 388,10
+- 04:12 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk day 476 at bed 388,107,-1023 in the row's sight. Sword in pack, unarmed in hand. Potato kept. No walk. Sleeping."}],"say":"Dusk, Billy. Tommy at th
+- 04:17 act: {"actions":[{"do":"note","text":"Morning day 477 at bed 388,107,-1023 in the row's sight. Slept. Sword in pack, zero armed in hand. Potato kept. No walk."}],"say":"Morning, Billy. Tommy at the bed 388
+- 04:29 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night day 476 at bed 388,107,-1023 in the row's sight. Sword in pack, zero armed. Potato kept. Trying to sleep."}],"say":"Night, Billy. Tommy at the bed
+- 04:34 act: {"say":"Morning, row. Tommy at the bed 388,107,-1023, unarmed in hand, wooden sword in pack. Holding for Billy's count. No walk.","reasoning":"First light, day 477. Hold at the bed in sight, report co
+- 04:42 act: {"say":"Night, Billy. Tommy at the bed 388,107,-1023 in your sight. Unarmed, no walk. Sleeping.","reasoning":"Dusk on 477. Shelter is the bed in the row's sight, no errand out. Sleep.","actions":[{"do
+- 04:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 2 of 10 asleep. Try the bed again, still in sight."}
+- 04:46 act: {"say":"Morning, row. Tommy alive at the bed 388,107,-1023, health 20, hunger 20. Unarmed, sword in pack. Holding, no walk.","reasoning":"Morning after sleep. Count and hold; Billy names walks.","inte
+- 04:58 act: {"actions":[{"do":"sleep"}],"reasoning":"Night on 478, in the row's sight at my bed. Sleep.","say":"Night, row. Tommy at the bed 388,107,-1023, unarmed, sword in pack, no walk."}
+- 05:19 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk on 479. At my bed in the row's sight. Sleep.","say":"Night, row. Tommy at the bed 388,107,-1023, unarmed, no walk."}
+- 05:23 act: {"say":"Morning, row. Tommy at the bed 388,107,-1023, health 20, hunger 20, unarmed, sword in pack. Holding, no walk. Billy, I am fine, thanks.","reasoning":"Morning 480 count. Billy thinks my health 
+- 05:31 act: {"say":"Tommy at bed 388,107,-1023. Hunger 20, unarmed, sword in pack, no walk. Holding for the night.","reasoning":"Night call. Report count and hold at bed; not in danger."}
+- 05:36 act: {"say":"Morning, row. Tommy at bed 388,107,-1023, health 20, hunger 20, unarmed, sword in pack. No walk. Holding for Billy's call.","reasoning":"Morning count again. Hold, keep the potato for hunger 6
