@@ -1,7 +1,7 @@
 # Summary: Tommy Oliver
 
-- Day 489 ended asleep at my white bed 388,107,-1023, alone, out of the row's sight, by Billy's word to hold still. Health 20, hunger 20.
-- Wooden sword still in my pack, not in hand. Billy named no give or walk.
+- Day 490 ended asleep at my white bed 388,107,-1023, alone, out of the row's sight, by Billy's word to hold still. Health 20, hunger 20.
+- Wooden sword still in my pack, not in hand. Billy named no give or walk. Leonardo sleeps beside Billy at the row.
 - Holding one potato for hunger 6 or below. Food known: Wesley 2 spider eye, Johnny and Chapman 10 rotten flesh.
 
 ## Standing rules
