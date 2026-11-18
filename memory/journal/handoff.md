@@ -1,7 +1,6 @@
-# Handoff, Tommy, morning day 501
+# Handoff, Tommy, night 510
 
-- At the row, 412-413,107,-1042, beside Chapman. Not enclosed, safe. Health 8.9, hunger 16, unarmed, no food.
-- Slept through night 501 at the row (sleep worked once an enderman was out of range).
-- MacDonald said he is at the beds, hunger 20, unarmed. Trini at spawn, no food or sword.
-- Billy has not called a walk. Hold at the row for his call; count at dawn, midday, dusk.
-- Next: ask for food when someone has spare; never walk alone; no sword try without the group in daylight.
+- Going to bed 401,107,-1036 beside Trini at spawn 402,107,-1037. Sleeping there tonight.
+- Health 20, hunger 17, no food. Trini, Chapman and MacDonald have no food. Chapman will bring rotten flesh when Billy calls the walk.
+- No errand running. Holding for Billy's call. Morning: count with the group, ask for food, stay in sight.
+- Items held: wooden_sword, stone_sword, white_bed, leather, cobblestone x5, bone, arrow, phantom_membrane, sticks, wheat_seeds, oak_sign.
