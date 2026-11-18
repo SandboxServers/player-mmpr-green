@@ -121,3 +121,8 @@
 - 16:31 act: {"say":"Dawn count, Tommy at spawn beside Trini. Health 20, hunger 17, wooden sword in hand, no food. Holding for Billy."}
 - 16:35 act: {"actions":[{"do":"note","text":"Morning, day 513. At spawn 402,107,-1037 beside Trini. Wooden sword in hand. Hunger 17, no food."}],"say":"Morning, Trini. I'm here, sword in hand, and I'm not going a
 - 16:36 act: {"actions":[{"do":"note","text":"Trini gave cows at 480,-1137 and wheat/potatoes by the water near 462,107,-1073 to -1087, Kimberly has melon. Holding for Billy's walk; no walk alone."}],"say":"Thank 
+- 16:37 act: {"say":"Morning, Trini. I hold here with you, sword in hand, until Billy calls the walk for food.","reasoning":"Trini greeted me and is holding at spawn. Food is the top need, but walking alone is for
+- 16:38 act: {"say":"Thank you, MacDonald. I hold here with Trini, sword in hand, until Billy calls.","actions":[{"do":"note","text":"Day 513 morning at spawn 402,107,-1037 beside Trini, wooden sword in hand. Heal
+- 16:39 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Going to the bed beside Trini to sleep. Still holding for Billy's call at dawn.","reasoning":"Dusk, sheltere
+- 16:43 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night has come. Bed is beside me. Sleep now."}
+- 16:43 act: {"actions":[{"do":"note","text":"Slept at the bed 401,107,-1036 beside Trini on night 513; the night was skipped. Health 20, hunger 17, no food. Holding for Billy's call at dawn."}],"reasoning":"Woke 
