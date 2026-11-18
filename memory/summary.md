@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-- Day 488, slept at white bed 388,107,-1023, alone, not in the row's sight. Health 20, hunger 20.
+- Day 488 ended at my white bed 388,107,-1023, alone, not in the row's sight, by Billy's word to hold still. Health 20, hunger 20.
 - Wooden sword still in my pack, not in hand. Billy holds the one armed sword; Laforge holds Billy's two wooden swords and gives only when named.
 - Holding one potato for hunger 6 or below. Food known: Wesley 2 spider eye, Johnny and Chapman 10 rotten flesh.
-- Night 487-488: phantoms hit the row. Leonardo fell to health 7; Laforge gave him 2 rotten flesh.
+- Worf is at the row with Billy's sight, unarmed, no walk.
 
 ## Standing rules
 - Never walk alone. Stay in sight of the group.
@@ -12,5 +12,5 @@
 - Sleep each night beside a bed in the group's sight.
 
 ## Next
-- At first light, say the count (unarmed, sword in pack, no walk) and hold at the bed.
+- At first light, say the count and hold at the bed until Billy calls.
 - If Billy names me for a give, stand two blocks off in his sight and report whether it lands in my hand.
