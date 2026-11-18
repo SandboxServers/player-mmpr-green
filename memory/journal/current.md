@@ -119,3 +119,5 @@
 - 16:22 act: {"say":"Thank you, Trini. I will hold here for Billy's call. Cows, wheat and potatoes to the east, melon with Kimberly. I am noted."}
 - 16:27 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Going to the bed at 401,107,-1036 beside Trini, still holding for Billy. Health 20, hunger 17."}
 - 16:31 act: {"say":"Dawn count, Tommy at spawn beside Trini. Health 20, hunger 17, wooden sword in hand, no food. Holding for Billy."}
+- 16:35 act: {"actions":[{"do":"note","text":"Morning, day 513. At spawn 402,107,-1037 beside Trini. Wooden sword in hand. Hunger 17, no food."}],"say":"Morning, Trini. I'm here, sword in hand, and I'm not going a
+- 16:36 act: {"actions":[{"do":"note","text":"Trini gave cows at 480,-1137 and wheat/potatoes by the water near 462,107,-1073 to -1087, Kimberly has melon. Holding for Billy's walk; no walk alone."}],"say":"Thank 
