@@ -126,3 +126,48 @@
 - 16:39 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Going to the bed beside Trini to sleep. Still holding for Billy's call at dawn.","reasoning":"Dusk, sheltere
 - 16:43 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night has come. Bed is beside me. Sleep now."}
 - 16:43 act: {"actions":[{"do":"note","text":"Slept at the bed 401,107,-1036 beside Trini on night 513; the night was skipped. Health 20, hunger 17, no food. Holding for Billy's call at dawn."}],"reasoning":"Woke 
+- 16:44 act: {"say":"Tommy here at the bed with Trini. Health 20, hunger 17, wooden sword in hand. Holding for Billy's call.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["dire
+- 16:48 act: {"say":"No food yet, Trini. I hold here beside you, sword in hand, until Billy calls the walk east.","actions":[{"do":"note","text":"Day 513 morning at spawn beside Trini. Health 20, hunger 17, no foo
+- 16:56 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, and phantoms are to the south. Going to the bed beside Trini, sword in hand. Hunger 17, no food."}
+- 16:56 act: {"actions":[{"do":"sleep"}]}
+- 16:56 act: {"actions":[{"do":"note","text":"Night 514: slept at bed 401,107,-1036 beside Trini. Health 20, hunger 17, no food, wooden sword in hand. Phantoms south. Holding until dawn for Billy's call."}]}
+- 16:57 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"stone_sword","count":1}],"say":"Leonardo, here is my stone sword. Strike the phantoms and stay near Trini and me. I keep the wooden sword."}
+- 16:57 act: {"actions":[{"do":"note","text":"Night 514: gave stone sword to Leonardo failed (items on ground near him). Kept wooden sword. Holding at bed with Trini until dawn."}]}
+- 16:59 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"stone_sword","count":1}],"say":"Leonardo, I will try the stone sword once more. Hold it in your hand when it reaches you.","reasoning":"Leonardo 
+- 16:59 act: {"actions":[{"do":"note","text":"Night 514: second give of stone_sword went to Trini instead of Leonardo (it left my pack). Told Leonardo to ask Trini for it. Holding at bed with wooden sword until da
+- 16:59 act: {"actions":[],"say":"Good, Trini. Leonardo, the stone sword is with you now. Stay beside us and hold it in your hand.","reasoning":"Trini is handling the sword hand-off. I confirm and keep holding."}
+- 17:02 act: {"actions":[{"do":"note","text":"Dawn 514-515: counted at bed beside Trini. Health 20, hunger 17, wooden_sword in hand. Stone sword went to Leonardo via Trini. Chapman unarmed, asks for a sword. Waiti
+- 17:02 act: {"actions":[],"say":"Billy, Tommy here, armed with my wooden sword in hand, health 20, hunger 17. Holding beside Trini for your call.","reasoning":"Billy counts armed people before the walk. Confirm I
+- 17:05 act: {"actions":[{"do":"note","text":"Day 515 morning: holding at bed beside Trini, wooden sword in hand. Billy's walk east waits for Chapman's confirm of stone sword. Still no food."}],"reasoning":"Billy 
+- 17:09 act: {"actions":[],"say":"Billy, yes, Tommy has the wooden sword in hand, health 20. Holding still beside Trini until you call.","reasoning":"Billy asked who holds a sword in hand. Confirm and keep holding
+- 17:09 act: {"actions":[{"do":"note","text":"Day 515: Billy says no walk to the cows today; hold at the row until morning. I hold at bed beside Trini with wooden sword in hand, health 20, hunger 17."}],"reasoning
+- 17:10 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, I am giving you one wooden sword from my pack. I keep the other in my hand. Hold it.","reasoning":"Cla
+- 17:11 act: {"actions":[{"do":"note","text":"Dusk 515: give of wooden_sword to Leonardo also went to Trini (not him). Not retrying. Walking to the bed at 401,107,-1036 with the group, to sleep with wooden sword i
+- 17:11 act: {"actions":[{"do":"note","text":"Dusk 515: at bed 401,107,-1036 with Clark and Zack close. Handoff written. Going to sleep with wooden sword in hand."}],"reasoning":"Shelter, group in sight, sword in 
+- 17:11 act: {"actions":[{"do":"note","text":"Dusk 515: sleep called at bed 401,107,-1036 with the wooden sword in hand. Group in sight. Waiting for morning call from Billy."}],"say":"Going to sleep at the bed, sw
+- 17:12 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, I'm giving you the spare wooden sword from my pack now. I keep mine in hand."}
+- 17:12 act: {"actions":[{"do":"note","text":"Night 514: Leonardo asked for a sword. My give to him failed, out of reach; he has moved about 4 blocks off. Holding my wooden sword in hand, staying in the group's si
+- 17:16 act: {"actions":[{"do":"note","text":"Night 515: Leonardo got a wooden sword from Chapman and Trini; it is in his pack. I hold mine in hand. Waiting for dawn and Billy's call."}]}
+- 17:17 act: {"actions":[{"do":"note","text":"Dawn 516: morning count. Health 20, hunger 17. Wooden sword in hand at 407,107,-1035, with Trini, Zack, Clark and Leonardo near. Going to the row."}],"say":"Billy, Tom
+- 17:18 act: {"actions":[],"say":"Billy, Tommy counted: wooden sword in hand. Leonardo has his wooden sword in pack, not yet in hand."}
+- 17:18 act: {"intent":{"goal":"walk_with_billy_to_cows","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_tick
+- 17:18 act: {"actions":[{"do":"note","text":"Morning 516: four armed on Billy's count (Billy, Chapman, Tommy, Laforge) and the walk to the cow field started. My follow to Billy failed, he was out of reach. I will
+- 17:19 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Coming back with you, Billy. Sword in hand."}
+- 17:19 act: {"actions":[{"do":"note","text":"Morning 516: back at the row with Billy, sword in hand, in sight of Leonardo, Trini, Zack and Clark. Billy says he was shot by pillagers at 379,-1022, respawned with a
+- 17:19 act: {"actions":[{"do":"note","text":"Midday 515: Billy says no cow walk; we hold at the row. Jason gave Wesley his sword. Leonardo has the wooden sword in pack, trying to bring it into hand on grass. I st
+- 17:24 act: {"actions":[{"do":"note","text":"Midday 515 (cont.): everyone holds at the beds per Billy. No food anywhere in the group. I hold at 407,107,-1035 with my sword in hand, in Billy's sight."}]}
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"note","text":"Dusk 515: holding at the row all day. No food in the group; Billy calls no walk. Going to the bed at 401,107,-1036 w
+- 17:28 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 17:28 act: {"actions":[{"do":"note","text":"Dusk 515: use on the bed 401,107,-1036 was refused (it is a bed, bed use refused before too). Trying sleep here next to the group with the sword in hand."},{"do":"slee
+- 17:32 act: {"actions":[{"do":"note","text":"Night 515: asleep beside the bed at 402,107,-1036 with Trini and Chapman in reach, sword in hand. Morning count when Billy calls."}]}
+- 17:36 act: {"actions":[{"do":"note","text":"Dawn 516: morning count at the row. Tommy here at 402,107,-1037, sword in hand, health 20, hunger 17, no food. Holding for Billy's call."}],"say":"Tommy here at the ro
+- 17:40 act: {"actions":[{"do":"note","text":"Morning 516 (cont.): Billy holds the group at the row; no walk. Chapman's sword reached his hand by a give. I hold with my sword in hand, hunger 17, no food."}]}
+- 17:43 act: {"actions":[{"do":"note","text":"Dusk 516: at the row near the beds with Trini and Chapman in reach. Billy's last count: holding, no walk. I hold with my wooden sword in hand, hunger 17, no food."}],"
+- 17:43 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk 516: nothing new for me. Going to sleep beside the bed at the row, in the group's sight, sword in hand."}]}
+- 17:45 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1},{"do":"note","text":"Night 516: phantoms hit Leonardo, health 1.3, unarmed, beside me. I have no food. Gave him a wooden
+- 17:46 act: {"actions":[{"do":"note","text":"Night 516: my wooden sword went to Trini by mistake, not Leonardo. Asked Trini to pass it on. I am now unarmed, no food."}],"say":"Trini, the wooden sword I gave went 
+- 17:50 act: {"actions":[{"do":"note","text":"Night 516: holding at the beds beside Leonardo, Trini, Chapman. I am unarmed now (sword went to Leonardo via Trini). No food. Waiting for morning count."}]}
+- 17:51 act: {"actions":[{"do":"note","text":"Dawn 517: Billy's count lists me armed, but I am unarmed now; my sword went to Leonardo. Holding at the row, no food. Asked Worf for a sword by give."}],"say":"Billy, 
+- 17:52 act: {"actions":[{"do":"note","text":"Dawn 517: Leonardo at health 1.3 asks for food. I have none; my pack holds only sticks, seeds, bone and a bed. Holding at the row."}],"say":"Leonardo, Tommy: I have no
+- 17:56 act: {"actions":[{"do":"note","text":"Day 517: Billy checked the chest for Leonardo, no bread. I am unarmed, no food, holding at the row by Billy's call. Nothing to act on."}]}
+- 18:04 act: {"actions":[{"do":"note","text":"Night 517: unarmed, no food, hunger 17, holding at the row by the beds with the group. Going to sleep in the bed at 401,107,-1037."}]}

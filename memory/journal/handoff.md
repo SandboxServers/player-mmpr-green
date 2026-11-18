@@ -1,7 +1,6 @@
-# Handoff, Tommy, day 513 dusk
+# Handoff, Tommy, night 517
 
-- Sheltered at the bed 401,107,-1036 beside Trini, going to sleep.
-- Health 20, hunger 17, no food. Trini, MacDonald and Chapman have none to give yet.
-- No errand running. Holding for Billy's call for the walk east (cows 480,-1137; wheat and potatoes near 462,107,-1073 to -1087; Kimberly has melon).
-- Items: wooden_sword in hand; stone_sword, stones, sticks and others in pack.
-- Morning: count with the group, ask for food, stay in sight, never walk alone.
+- At the row at about 402,107,-1037, beside the beds at 401,107,-1036 and -1037. Leonardo 1.8 away, Chapman and Trini close. Not enclosed; group in sight.
+- Health 20, hunger 17, no food in the group. Dawn 517 count: Chapman has a stone sword; Leonardo, Billy and I are unarmed.
+- I am unarmed. Pack: 3 sticks, 2 wheat seeds, bone, oak sign, phantom membrane, arrow, white bed, leather, 5 cobblestone.
+- No errand running. Morning: count with the group at the row when Billy calls it. Ask for food, get a sword if one is spare, stay in sight, never walk alone.
