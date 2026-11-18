@@ -115,3 +115,7 @@
 - 16:16 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1033}},{"do":"goto","target":{"x":401,"y":107,"z":-1035}},{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, day 5
 - 16:16 act: {"actions":[{"do":"note","text":"Night 512 at the bed 401,107,-1036 beside Trini. Sleep: 1 of 2 asleep. Item on the ground 2 south, not taken. Health 20, hunger 17, no food."},{"do":"sleep"}]}
 - 16:20 act: {"actions":[{"do":"note","text":"Dawn day 512 at the bed beside Trini. Slept through the night. Health 20, hunger 17, sword in hand, no food. Holding for Billy's call."}],"say":"Dawn count, day 512: T
+- 16:22 act: {"say":"Tommy here at the row. Health 20, hunger 17, wooden sword in hand. Trini, do you know where food comes from besides spider eye and rotten flesh?"}
+- 16:22 act: {"say":"Thank you, Trini. I will hold here for Billy's call. Cows, wheat and potatoes to the east, melon with Kimberly. I am noted."}
+- 16:27 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Going to the bed at 401,107,-1036 beside Trini, still holding for Billy. Health 20, hunger 17."}
+- 16:31 act: {"say":"Dawn count, Tommy at spawn beside Trini. Health 20, hunger 17, wooden sword in hand, no food. Holding for Billy."}
