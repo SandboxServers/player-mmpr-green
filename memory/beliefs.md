@@ -16,5 +16,7 @@
 - Day 464-465: Billy has no spare wooden sword; he keeps his stone sword for the walk. Trini and Beverly are armed with wooden swords; Zack has one too. Walks need four armed in sight. Beverly's spare sword in pack is the likely fourth sword.
 - Gravel is a poor place to take a sword into hand: Beverly's try failed on gravel (day 465) and she is retrying on grass.
 
+- Day 483: no one in the row has got a wooden sword into hand yet (Clark, Trini, Worf, Zack, Data, Picard all failed). Billy calls hold until someone is armed in hand.
+
 Curious next: where food will come from; where the bows come from; where Billy is.
 Tell next: Billy, that I am still unarmed and want Beverly's spare sword if he names it.
