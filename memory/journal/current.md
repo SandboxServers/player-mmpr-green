@@ -104,3 +104,5 @@
 - 15:37 act: {"actions":[{"do":"sleep"}]}
 - 15:37 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 15:41 act: {"actions":[],"say":"Morning count: Tommy at spawn with Trini, health 20, hunger 17, no food. Holding for Billy's call."}
+- 15:47 say: {"text":"Tommy here at spawn, beside Trini. Health 20, hunger 17, wooden sword in hand. Holding for Billy's call. Still no food."}
+- 15:51 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}]}
