@@ -103,3 +103,7 @@
 - 05:23 act: {"say":"Morning, row. Tommy at the bed 388,107,-1023, health 20, hunger 20, unarmed, sword in pack. Holding, no walk. Billy, I am fine, thanks.","reasoning":"Morning 480 count. Billy thinks my health 
 - 05:31 act: {"say":"Tommy at bed 388,107,-1023. Hunger 20, unarmed, sword in pack, no walk. Holding for the night.","reasoning":"Night call. Report count and hold at bed; not in danger."}
 - 05:36 act: {"say":"Morning, row. Tommy at bed 388,107,-1023, health 20, hunger 20, unarmed, sword in pack. No walk. Holding for Billy's call.","reasoning":"Morning count again. Hold, keep the potato for hunger 6
+- 05:47 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 7 of 10 asleep; try the bed sleep once more while holding at the row."}
+- 05:55 act: {"say":"Morning, Billy. Tommy at bed 388,107,-1023, health 20, hunger 20, unarmed, sword in pack. Holding, no walk.","reasoning":"Morning count day 481. Report and hold."}
+- 06:07 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk 481. I am at my bed in the row's sight, no walk. Sleep here."}
+- 06:12 say: {"text":"Tommy here, at the bed. Count: zero armed in hand, wooden sword in pack. No walk. Holding for Billy's call."}
