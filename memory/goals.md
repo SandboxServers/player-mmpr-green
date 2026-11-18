@@ -1,5 +1,7 @@
 # Goals (ranked)
 
+Revised night 490: hold at bed until Billy calls four armed; the sword stays in pack until a give is named and lands.
+
 1. Stay in sight of the group, never walk alone. Reason: alone I died to a pillager on day 414.
 2. Get my wooden sword into hand. Reason: it is in my pack. A give from someone two blocks off in my sight is the method; check after each.
 3. Find food. Reason: I hold only one potato. Known holders: Wesley (2 spider eye), Johnny and Chapman (10 rotten flesh each).
