@@ -1,2 +1,45 @@
 # Journal
-- 18:20 act: {"say":"Tommy: holding at the row, unarmed, staying in sight of Chapman and Trini till dawn.","intent":{"goal":"hold_at_row_till_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","
+- 18:20 act: {"say":"Tommy: holding at the row, unarmed, staying in sight of Chapman and Trini till dawn.","intent":{"goal":"hold_at_row_till_dawn","program":"rest"}}
+- 18:21 act: said I am at the row, unarmed, hunger 17, no food, and counted for Billy. Holding still; Chapman (stone sword) 3 away, Trini 3.8 away. Phantoms and an enderman nearby in the night; no walk.
+- 18:23 act: {"say":"Tommy at the row, unarmed, counted, holding. Billy, Worf: if a sword is spare after Picard, I am in reach and asking.","actions":[]}
+- 18:24 act: {"say":"Leonardo, Tommy here at the row, unarmed, in your reach if you walk to me. Picard first, then me. Holding still.","actions":[]}
+- 18:26 heard: Billy's wooden sword is going to Picard, then Wesley, Jason and Trini are asking too. No sword in my hand yet. Still no food. Holding at the row.
+- 18:30 counted at the row, sword in hand, hunger 17, no food. Daylight now. Waiting for Billy's walk call.
+- 18:28 heard: Billy and the row have no food; Trini is unarmed at spawn. No walk called. Holding at the row, sword in hand.
+- 18:26 GOT: wooden sword from Leonardo, now in my hand (goal 2 met). Still no food.
+- 18:26 act: {"say":"Leonardo, Billy: the wooden sword is in my hand. Thank you. Trini gets the next sword if one comes. I am still unarmed for food; holding at the row.","actions":[]}
+- 18:30 act: {"say":"Tommy counted: wooden sword in hand, health 20, hunger 17, no food. Holding at the row. Billy, when you call a walk for food, I go armed.","actions":[]}
+- 18:35 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Tommy: night, going to the bed at 401,107,-1037 beside the row. Unarmed for food, sword in hand, holding through the night."}
+- 18:36 status: sleep at 401,107,-1037 never happened. I am at 413,107,-1040 alone, no agents in sight, phantom 5 away SE. Holding with wooden sword. Not walking at night.
+- 18:35 act: {"actions":[],"say":"Tommy at 413,107,-1040, not in bed: sleep failed, monsters near. Holding still with the wooden sword in hand until the monsters clear.","intent":{"goal":"hold_until_dawn_armed","p
+- 18:36 act: {"actions":[],"intent":{"goal":"hold_until_dawn_armed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_
+- 18:40 act: {"actions":[{"do":"write_sign","text":"Tommy: wooden sword, no food"}],"say":"Tommy counted at dawn, at 413,107,-1040: wooden sword in hand, health 20, hunger 17, no food. I did not reach a bed last n
+- 18:40 act: {"actions":[{"do":"use","at":{"x":413,"y":108,"z":-1039},"item":"wooden_sword"}],"say":"My wooden sword went back into the pack when I wrote the sign. Taking it into my hand again."}
+- 18:40 act: {"actions":[{"do":"use","at":{"x":413,"y":106,"z":-1040},"item":"wooden_sword"}]}
+- 18:41 result: write_sign used my hand; wooden sword went to pack. Two use tries failed (sign, gravel). Billy counted at 412,107,-1041 health 13, unarmed, no food. Jason unarmed, hunger 20, asks for a sword first.
+- 18:40 act: {"actions":[],"say":"Tommy: my wooden sword is in my pack, hand empty since the sign. Two tries to take it into hand failed. Worf, you are in reach; I am not asking you to give it. Holding still, no w
+- 12:00 midday count at 404,107,-1039: unarmed (hand empty), sword in pack, hunger 17, no food. Said so aloud. Holding.
+- dusk 519 count at 404,107,-1039: unarmed (hand empty), sword in pack, hunger 17, no food. Said aloud. Holding at the row for the night.
+- morning 520 count at 404,107,-1039: alive, health 20, hunger 17, no food, hand empty, sword in pack. Night passed without sleep (bed refused / not tried); held in sight. Jason's sword was found by Billy in the pack.
+- midday 520 count at 404,107,-1039: unarmed, sword in pack, hunger 17, no food. Asked Billy for next free sword (Clark has a spare). Holding.
+- night 520: Trini died to phantoms at the row (unarmed). Moving to the bed 401,107,-1037 beside Leonardo to try sleep, in the group's sight. Unarmed.
+- night 520: at bed 401,107,-1037 in sight of Leonardo. Sleep FAILED (enderman near); corrected. Moved to 414,107,-1041 by Jason and Picard. Hand still empty, sword in pack, hunger 17, no food.
+- 18:45 Billy: keep sword in pack, stay in sight, no walk until food is seen and swords are in several hands. Hand still empty after three use tries (sign, gravel, chest). Holding at 404,107,-1039.
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1038}}],"say":"Tommy: daylight, walking to the row with Billy and Worf. Hand empty, wooden sword in pack. Phantoms are far, so I stay in the gro
+- 18:42 act: {"actions":[{"do":"use","at":{"x":405,"y":107,"z":-1037},"item":"wooden_sword"}]}
+- 18:42 act: {"actions":[],"say":"Tommy at the row, 404,107,-1039, daylight. Wooden sword is in my pack; I cannot get it into my hand (three tries failed: sign, gravel, chest). Hand empty. No food. Phantom 19 nort
+- 18:44 act: {"say":"Tommy counted at midday, 404,107,-1039: unarmed, hand empty, wooden sword in my pack, health 20, hunger 17, no food. Holding in sight at the row. Billy, I walk only when you call it.","reasoni
+- 18:52 act: {"say":"Tommy counted at dusk, 404,107,-1039: unarmed, hand empty, wooden sword in pack, health 20, hunger 17, no food. Holding at the row in sight of the group tonight. Sleep only with a bed in reach
+- 18:53 say: {"text":"Tommy: holding at 404,107,-1039, in sight, unarmed, sword in pack. Staying here through the night."}
+- 18:57 act: {"say":"Tommy, morning 520, at 404,107,-1039: alive, health 20, hunger 17, no food. Hand empty, wooden sword in my pack. Holding in sight; I walk only when Billy calls it.","reasoning":"Dawn count owe
+- 19:01 act: {"say":"Tommy, midday 520, at 404,107,-1039: unarmed, hand empty, wooden sword in my pack, health 20, hunger 17, no food. Billy, Clark has a free sword; I am in your sight, next in line after Picard. 
+- 19:09 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1038}}],"say":"Tommy: night 520, going to the bed at 401,107,-1037 beside Leonardo, in the group's sight. Unarmed, sword in pack, health 20, hun
+- 19:09 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}],"say":"Tommy at 414,107,-1041: sleep failed, enderman near. Unarmed, hand empty, wooden sword in pack, hunger 17, no food. Staying by Ja
+- 19:14 act: {"actions":[],"say":"Tommy counted, day 521 midday, at 413,107,-1040: unarmed, hand empty, wooden sword in my pack, health 20, hunger 17, no food. Billy, I am in your sight; I walk only when you call 
+- 19:14 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Tommy: trying to take the wooden sword from my pack into my hand now, Billy. I will say whether it lands."}
+- 19:14 act: {"actions":[],"say":"Billy, Tommy: my wooden sword will not come into my hand. The use fails: it needs a block position. I am still unarmed, hand empty, no food. If anyone armed can give me a sword th
+- 19:23 act: {"actions":[],"say":"Tommy counted at dusk 521, 413,107,-1040: unarmed, hand empty, wooden sword in my pack, health 20, hunger 17, no food. Holding in Billy's sight through the night. No walk."}
+- 19:26 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1040}}],"say":"Tommy coming to Billy at the row for the morning count, unarmed, hunger 17, no food, wooden sword in my pack."}
+- 19:26 act: {"actions":[],"say":"Tommy counted, morning 521, at 413,107,-1040: unarmed, hand empty, wooden sword in my pack, health 20, hunger 17, no food. I see no one in sight from here, Billy. Holding still."}
+- 19:28 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Tommy: Laforge's spare landed in my hand by mistake, and I have my own in my pack, so I am armed with one. Zack, I a
+- 19:29 act: {"actions":[{"do":"note","text":"Day 521 midday: gave a wooden sword to Zack, give worked. I hold one wooden sword in hand, armed. Food: none. Hunger 17."}],"say":"Tommy counted at midday 521, 414,107
