@@ -112,3 +112,6 @@
 - 16:01 act: {"say":"Wandering trader, Tommy here. Do you sell food? I have cobblestone and leather to trade.","reasoning":"A trader is 3 blocks away at spawn. Food is my need. Ask, stay here, trade only what I ho
 - 16:03 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night has come. Bed is one block away beside Trini. Go there and sleep, staying in her sight."}
 - 16:08 act: {"actions":[{"do":"note","text":"Morning day 511 at the bed 401,107,-1035, beside Trini. Health 20, hunger 17, wooden sword in hand, no food. MacDonald at the beds, unarmed. Holding for Billy's call."
+- 16:16 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1033}},{"do":"goto","target":{"x":401,"y":107,"z":-1035}},{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, day 5
+- 16:16 act: {"actions":[{"do":"note","text":"Night 512 at the bed 401,107,-1036 beside Trini. Sleep: 1 of 2 asleep. Item on the ground 2 south, not taken. Health 20, hunger 17, no food."},{"do":"sleep"}]}
+- 16:20 act: {"actions":[{"do":"note","text":"Dawn day 512 at the bed beside Trini. Slept through the night. Health 20, hunger 17, sword in hand, no food. Holding for Billy's call."}],"say":"Dawn count, day 512: T
