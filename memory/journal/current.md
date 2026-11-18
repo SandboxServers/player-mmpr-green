@@ -13,3 +13,4 @@
 - 09:31 act: {"say":"Dusk, Billy. Tommy at my bed 388,107,-1023, unarmed, sword in pack. I cannot see the row from here and will not walk alone. Holding for first light.","reasoning":"Dusk. Standing rule: never wa
 - Day 492 morning: Billy says count armed, walk to cow field only with four. Most of the row is unarmed in pack. I hold at my bed, unarmed, no one has given me a sword. Days since sleep: 2.
 - 09:35 act: {"say":"Morning, Billy. Tommy at my bed 388,107,-1023, sword in pack, not in hand. Count stands at two armed. Holding here.","reasoning":"First light. Report the count honestly and hold; no walk named
+- 09:44 act: {"say":"Tommy at the white bed 388,107,-1023, first light. Unarmed, no walk taken. Holding here for Billy's call.","intent":{"goal":"hold_at_bed_for_billy","program":"rest","arguments":{},"wake_on":["
