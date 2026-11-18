@@ -34,3 +34,5 @@
 - 12:45 act: {"actions":[{"do":"note","text":"Afternoon day 501. Still at the row, health 8.9, hunger 16. Trini at spawn with no food or sword. No walk called by Billy. Holding."}],"say":"Afternoon count, day 501:
 - 12:49 act: {"actions":[{"do":"sleep"}]}
 - 12:51 act: {"actions":[{"do":"note","text":"Woke day 501 morning at the row beside Chapman. Night skipped by sleep. Health 8.9, hunger 16, no food. MacDonald says he is at the beds."}],"say":"Tommy here, beside 
+- 12:52 act: {"actions":[{"do":"note","text":"Morning count day 501: Tommy at the row 412,107,-1042, health 8.9, hunger 16, empty-handed, no sword in pack, holding for Billy."}],"say":"Morning count: Tommy at the 
+- 12:56 act: {"actions":[{"do":"note","text":"Midday day 502 at the row 412,107,-1042. Health 8.9, hunger 16, unarmed, no food. Holding for Billy's call."}],"say":"Midday count: Tommy at the row, health 9, hunger 
