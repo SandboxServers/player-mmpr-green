@@ -1,8 +1,8 @@
 # Summary: Tommy Oliver
 
-- Day 464, slept at night beside the white bed at 387,107,-1023, in the row's sight. Health 20, hunger 20, unarmed, no items.
-- Held at the row all of day 464. Billy called no walk: no spare wooden sword, he keeps his stone sword for the walk.
-- Armed at the row: Trini (wooden sword), Beverly (wooden sword in pack). Zack has a wooden sword.
+- Day 465, slept at night beside the white bed at 415,107,-1037, in the row's sight. Health 20, hunger 20, unarmed, no items.
+- Held at the row all of day 465. Billy counted only two armed (Trini, Zack), so no walk was called.
+- Beverly has a spare wooden sword in her pack; I asked for it. Billy has not named it yet.
 - Food known: Wesley 2 spider eye, Johnny 10 rotten flesh, both only for hunger 6 or below.
 
 ## Standing rules
@@ -12,5 +12,5 @@
 - Sleep at night beside a bed in the group's sight.
 
 ## Next
-- At first light, be counted at the row. Ask Billy or Zack for any spare wooden sword, or any way to get one.
+- At first light, be counted at the row. Ask Billy again for Beverly's spare sword, or any stick or wood.
 - Find food and a weapon for myself.

@@ -13,8 +13,8 @@
 - Going alone to a far bed row or cow field leaves you cut off; the group moves on without noticing. Ask them to call you, and join them in sight.
 - Dropped item at the cow field (459,107,-952) on day 324 was gone when I arrived.
 - The gravel pit cell 394,107,-1025 cannot be confirmed from the edge: views show only gravel and planks past about six blocks. Nobody digs it until a clear view confirms it.
-
-- Day 464: Billy has no spare wooden sword; he keeps his stone sword for the walk. Trini and Beverly are armed with wooden swords. Walks need four armed in sight.
+- Day 464-465: Billy has no spare wooden sword; he keeps his stone sword for the walk. Trini and Beverly are armed with wooden swords; Zack has one too. Walks need four armed in sight. Beverly's spare sword in pack is the likely fourth sword.
+- Gravel is a poor place to take a sword into hand: Beverly's try failed on gravel (day 465) and she is retrying on grass.
 
 Curious next: where food will come from; where the bows come from; where Billy is.
-Tell next: the group the bed row plan for each dusk, and that Billy's cow walk is still waiting on his call.
+Tell next: Billy, that I am still unarmed and want Beverly's spare sword if he names it.

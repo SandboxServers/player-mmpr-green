@@ -1,6 +1,5 @@
-# Handoff, Tommy, day 464 night (slept)
+# Handoff, Tommy, day 465 night (slept)
 
-- Slept by the white bed at 401,107,-1036, in Billy's sight. Woke at the row, health 20, hunger 20, unarmed, no items.
-- Held at the row. Trini, Zack and Beverly armed (wooden swords). Billy has only his stone sword, kept for the walk.
-- Food: none known to me. Wesley holds 2 spider eye, Johnny rotten flesh, both for hunger 6 or below. Clark holds 4 oak planks.
-- Next: at first light be counted in Billy's sight. Ask Billy or Trini for any sword or stick; ask where food is found; no walk until named with four armed.
+- Slept beside the white bed at 415,107,-1037, in the row's sight. Health 20, hunger 20, unarmed, no items.
+- No walk was named. Billy counted two armed (Trini, Zack).
+- Next at first light: be counted in Billy's sight. Ask again for Beverly's spare wooden sword or any stick. Ask where food is found. No walk until named with four armed.
