@@ -16,6 +16,8 @@
 - Day 464-465: Billy has no spare wooden sword; he keeps his stone sword for the walk. Trini and Beverly are armed with wooden swords; Zack has one too. Walks need four armed in sight. Beverly's spare sword in pack is the likely fourth sword.
 - Gravel is a poor place to take a sword into hand: Beverly's try failed on gravel (day 465) and she is retrying on grass.
 
+- Day 485: Billy got a stone sword into hand by a give from Laforge at two blocks, with Billy in Laforge's sight. Later gives from Laforge to MacDonald and Picard's wooden sword to Billy landed on the ground or in the pack, not the hand. Short range and sight matter; check each give.
+- Day 485: Billy is the one who names gives and calls walks. Dusk sleep at bed 388,107,-1023 worked in the row's sight.
 - Day 483: no one in the row has got a wooden sword into hand yet (Clark, Trini, Worf, Zack, Data, Picard all failed). Billy calls hold until someone is armed in hand.
 
 Curious next: where food will come from; where the bows come from; where Billy is.
