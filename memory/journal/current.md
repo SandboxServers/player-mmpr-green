@@ -1,16 +1,2 @@
 # Journal
-- 22:21 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Tommy, dawn 530. Unarmed, health 20, hunger 20, no food, pack empty. I drifted to the north; walking back to the row in daylight,
-- 22:21 act: {"actions":[{"do":"note","text":"Dawn 530: back at the row 402,107,-1036 in Billy's reach. Unarmed, health 20, hunger 20. Hold 2 rotten_flesh (not eaten; hunger full)."}],"say":"Billy, Tommy counted a
-- 22:21 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"rotten_flesh","count":2}],"say":"Billy, giving you my 2 rotten flesh now. That is all I hold."}
-- 22:22 act: {"actions":[{"do":"note","text":"Gave 2 rotten flesh toward Billy; the give landed in Picard's hand instead (he was nearer). Not retrying. Pack empty, unarmed, health 20, hunger 20."}],"say":"Billy, m
-- 22:26 act: {"actions":[{"do":"note","text":"Morning 530 at the row in Billy's sight. Empty pack, unarmed, health 20, hunger 20. Holding for Billy's call; no walk named."}]}
-- 22:34 act: {"actions":[{"do":"note","text":"Night 531 falls. Stayed at the row 403,107,-1036 in the group's sight, unarmed, empty pack, health 20, hunger 20. Beds near are claimed; no walk; waiting for daylight 
-- 22:35 act: {"actions":[{"do":"note","text":"Day 531 dawn. Still at the row in Billy's sight, unarmed, empty pack, health 20, hunger 20. Billy says keep to the row; no west walk. Nothing to give."}],"say":"Billy,
-- 22:35 act: {"actions":[{"do":"note","text":"Day 531 midday: at the row 403,107,-1036 in Billy's group. Unarmed, no food, health 20, hunger 20. No walk taken."}],"say":"Billy, Tommy, midday 531. Still at the row 
-- 22:35 act: {"actions":[{"do":"note","text":"Day 531 midday count: Billy counted us. I am unarmed, holding nothing, at the row in his sight. Waiting for his word."}],"say":"Tommy, counted, unarmed, holding nothin
-- 22:40 act: {"actions":[{"do":"note","text":"Day 531 afternoon: holding at the row in Billy's sight. Billy says hold, no walk. Nothing to hand over."}]}
-- 22:48 act: {"actions":[{"do":"note","text":"Dusk 531: counted, unarmed, no food, health 20, hunger 20. Going to the white bed at 401,107,-1036 in Billy's sight to sleep."},{"do":"goto","target":{"x":401,"y":107,
-- 22:48 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
-- 22:48 act: {"actions":[{"do":"sleep"}],"say":"Tommy, night 531, lying down in the bed at 401,107,-1036 in Billy's sight. Unarmed, no food, no walk."}
-- 22:48 act: {"actions":[{"do":"note","text":"Night 531: asleep in a bed at 401,107,-1023 in the row, Data near. Unarmed, no food, health 20. No walk."}]}
-- 22:49 act: {"say":"Tommy, night 531, in the row at 401,107,-1023 with Data near. Unarmed, health 20, hunger 20, no food. No walk.","actions":[{"do":"sleep"}]}
+- Dawn 531: woke at the row (401,107,-1021). Unarmed, no food, health 20, hunger 20. Said my count to the group. Holding at the row in Billy's sight for his word on a walk.
