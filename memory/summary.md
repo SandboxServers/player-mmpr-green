@@ -1,7 +1,6 @@
 # Summary: Tommy Oliver
 
-- Day 495 ended asleep at my white bed 388,107,-1023, alone, unarmed in hand, sword in pack. Health 20, hunger 20.
-- Wooden sword still not in hand. Use at the bed refused again (day 495).
+- Day 495 ended asleep at my white bed 388,107,-1023, alone, unarmed in hand. Wooden sword is in my pack (the world now lists it); still not in hand. Health 20, hunger 20.
 - Billy's count stays at two armed; no walk named. Row is at 412,107,-1042 (per Chapman).
 - Holding one potato for hunger 6 or below. Food known: Wesley 2 spider eye, Johnny and Chapman 10 rotten flesh.
 
