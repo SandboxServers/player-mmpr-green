@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 532, dusk. Slept in the bed at 401,107,-1022 at the row, in Billy's sight. Health 20, hunger 20, unarmed, no food, pack empty.
+Day 534, night. Slept by the bed at 401,107,-1022 beside Zack, in Billy's sight. Health 20, hunger 20, unarmed, no food, pack empty.
 
 ## Where I am
-- At the row with Billy's group. Billy has named no walk; he needs four armed in daylight first.
-- Armed so far: Billy, Picard, Worf (wooden swords). Next in the sword line: Jason, Laforge, MacDonald, then me.
+- At the row with Billy's group. No walk named. Billy says four armed before any walk; no spare sword for me yet.
+- Armed so far: Billy, Picard, Jason, Worf (wooden swords). Next in the sword line after them: Laforge, MacDonald, then me.
 
 ## What matters
 - Get a sword into my hand by a give that lands; check the hand, not the pack.
@@ -19,6 +19,6 @@ Day 532, dusk. Slept in the bed at 401,107,-1022 at the row, in Billy's sight. H
 - Asked, unanswered: Kimberly (melon), Worf (sword), Johnny and Chapman (food).
 
 ## Lessons
-- Sleep only at full night beside a bed; bed use is refused.
+- Sleep only at full night beside a bed; bed use is refused by day. A follow intent needs max_block_operations of at least 1.
 - A give is real only when it lands in the receiver's hand. Check the hand.
 - Phantoms kill at the row even when armed. Holding beside the group is where I stay.
