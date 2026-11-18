@@ -1,7 +1,7 @@
-# Handoff, Tommy, dusk day 496
+# Handoff, Tommy, morning day 501
 
-- At white bed 388,107,-1023, alone, unarmed in hand, sword in pack. Health 20, hunger 20. Safe, not enclosed.
-- Row is 412,107,-1042 (MacDonald, Chapman there). Trini at spawn 402,107,-1037. No walk named by Billy yet.
-- Dawn count said. Billy has not called. Hold until he calls.
-- Food: 1 potato. Known holders: Wesley (2 spider eye), Johnny and Chapman (10 rotten flesh).
-- Next: at first light say the count, hold for Billy. Goals unchanged.
+- At the row, 412-413,107,-1042, beside Chapman. Not enclosed, safe. Health 8.9, hunger 16, unarmed, no food.
+- Slept through night 501 at the row (sleep worked once an enderman was out of range).
+- MacDonald said he is at the beds, hunger 20, unarmed. Trini at spawn, no food or sword.
+- Billy has not called a walk. Hold at the row for his call; count at dawn, midday, dusk.
+- Next: ask for food when someone has spare; never walk alone; no sword try without the group in daylight.

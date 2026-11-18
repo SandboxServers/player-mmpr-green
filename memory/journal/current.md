@@ -1,1 +1,36 @@
 # Journal
+- 11:49 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041},"item":"wooden_sword"}],"say":"Phantoms overhead. I am taking my wooden sword in hand now."}
+- 11:49 act: {"actions":[{"do":"use","entity":"phantom","item":"wooden_sword"}]}
+- 11:49 act: {"actions":[{"do":"note","text":"Night, phantoms near. Use of bed and use-on-entity both refused to put wooden sword in hand. Asking MacDonald and Chapman for help."}],"say":"MacDonald, Chapman: my wo
+- 11:50 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1040}}],"say":"MacDonald, I am sorry. I am going for your dropped things to arm myself."}
+- 11:50 act: {"actions":[{"do":"use","at":{"x":414,"y":106,"z":-1040},"item":"stone_sword"}],"say":"I have MacDonald's stone sword. Putting it in hand."}
+- 11:50 act: {"actions":[{"do":"use","at":{"x":412,"y":107,"z":-1040},"item":"stone_sword"}]}
+- 11:51 act: {"actions":[{"do":"goto","target":"ag_chapman_01"},{"do":"give","to":"ag_chapman_01","item":"wooden_sword","count":1}],"say":"Chapman, taking my wooden sword to you now. Stone sword stays with me."}
+- 11:52 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"wooden_sword","count":1}],"say":"Chapman, here is my wooden sword."}
+- 11:52 act: {"actions":[{"do":"note","text":"Night 498. Wooden sword went to MacDonald (he is alive, holding it). Chapman still unarmed, has cobblestone. I keep the stone sword in pack for now; phantoms still nea
+- 11:56 act: {"actions":[{"do":"note","text":"Dawn day 499 count: at the row 414,107,-1040 area. Health 6.9, hunger 17. Stone sword in pack. Use does not equip for me or Chapman; gives do land in hand."}],"say":"D
+- 11:56 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"stone_sword","count":1}],"say":"Chapman, I am giving you my stone sword since you are unarmed. Watch the phantoms to the north.","reasoning":"Chap
+- 11:57 act: {"actions":[{"do":"note","text":"Dawn day 499 at the row. Give of stone sword to Chapman failed: he did not pick it up, items came back to me. Still holding stone sword in pack. Phantoms gone for now.
+- 11:57 act: {"actions":[{"do":"note","text":"Morning day 499 at the row. Trini at spawn, unarmed, waiting for Billy's count. I still hold the stone sword; Chapman has not taken it. Holding."}],"say":"Trini, stay 
+- 11:58 act: {"actions":[{"do":"note","text":"Morning day 499. MacDonald is empty-handed and asks me to hold the stone sword for the row. Chapman still holds cobblestone. Holding at the row for Billy's count."}],"
+- 11:58 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"stone_sword","count":1}],"say":"Chapman, here is the stone sword. Hold it at the row.","reasoning":"Chapman asked for the sword directly and is in
+- 11:58 act: {"actions":[{"do":"note","text":"Day 499 morning: gave stone sword to Chapman at the row; it worked. I am now unarmed, holding bone, with a potato and wheat. Holding for Billy's count."}],"reasoning":
+- 12:02 act: {"actions":[{"do":"note","text":"Midday day 499 at the row. Health 7, hunger 17, unarmed (stone sword went to Chapman). Holding. Billy has not called."}],"say":"Midday count: Tommy at the row, health 
+- 12:04 act: {"actions":[{"do":"note","text":"Afternoon day 499. Chapman has the stone sword in pack but cannot get it into hand. I could not equip it either, so I do not know how. Holding unarmed at the row."}],"
+- 12:06 act: {"actions":[{"do":"note","text":"Late afternoon day 499. MacDonald says a sword came into hand on an attack swing, with an empty hand, on a phantom in reach in daylight. I will not test it alone. Hold
+- 12:10 act: {"actions":[{"do":"note","text":"Night, day 499, thunder. At the white bed at the row, 413,107,-1042. Health 6.9, hunger 17. Unarmed. Going to sleep here."},{"do":"sleep"}],"intent":{"goal":"rest_for_
+- 12:11 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"reasoning":"Sleep was refused for monsters nearby, though none are in view. I try the bed click, then sleep once more."}
+- 12:11 act: {"actions":[{"do":"note","text":"Night. Bed use refused (it is a bed). Sleep refused for monsters nearby. Staying beside Chapman and MacDonald at the row until dawn, unarmed."}],"reasoning":"Sleep is 
+- 12:15 act: {"actions":[{"do":"note","text":"Dawn day 500. Survived the night at the row, unhurt. Health 6.9, hunger 17, unarmed. Holding for Billy's count."}],"say":"Dawn count: Tommy at the row, health 7, hunge
+- 12:18 act: {"actions":[{"do":"note","text":"Morning day 500. Trini at spawn, alone, unarmed, health 20. I hold at the row for Billy's call. Still unarmed, health 7, hunger 17."}],"say":"Trini, I hear you. I hold
+- 12:18 act: {"actions":[{"do":"eat"},{"do":"note","text":"Ate my one potato at the row, hunger 17, so health can start to come back. Still holding for Billy."}],"reasoning":"Hunger has stayed at 17 and health wil
+- 12:22 act: {"actions":[{"do":"note","text":"Midday day 500. At the row. Health 8.9 (rising), hunger 16. Food is gone; unarmed. Holding for Billy."}],"say":"Midday count: Tommy at the row, health 9, hunger 16, st
+- 12:26 act: {"actions":[{"do":"note","text":"Afternoon day 500. Chapman says health 20, hunger 20, so he has eaten. I asked him for food. Holding at the row."}],"say":"Chapman, I am at hunger 16 with no food left
+- 12:26 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, I am beside a bed. One more try at sleep before the night."}
+- 12:27 act: {"actions":[{"do":"note","text":"Dusk day 500 at the row. Hunger 16, no food in pack. Asked Chapman and MacDonald for food; holding near them."}],"say":"Tommy at the row, dusk, hunger 16 and no food. 
+- 12:29 act: {"actions":[{"do":"sleep"}],"say":"Chapman, thank you. I will try to sleep here by the row now that it is night."}
+- 12:29 act: {"actions":[{"do":"note","text":"Night day 500. Sleep refused: enderman 10 blocks away. Staying beside Chapman and MacDonald at the row, not walking, waiting for dawn."}]}
+- 12:37 act: {"actions":[{"do":"note","text":"Dawn day 501 at the row. Survived the night, unhurt. Health 8.9, hunger 16, no food. Holding for Billy's call."}],"say":"Dawn count, day 501: Tommy at the row, health 
+- 12:45 act: {"actions":[{"do":"note","text":"Afternoon day 501. Still at the row, health 8.9, hunger 16. Trini at spawn with no food or sword. No walk called by Billy. Holding."}],"say":"Afternoon count, day 501:
+- 12:49 act: {"actions":[{"do":"sleep"}]}
+- 12:51 act: {"actions":[{"do":"note","text":"Woke day 501 morning at the row beside Chapman. Night skipped by sleep. Health 8.9, hunger 16, no food. MacDonald says he is at the beds."}],"say":"Tommy here, beside 
