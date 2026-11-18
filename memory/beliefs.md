@@ -14,5 +14,7 @@
 - Dropped item at the cow field (459,107,-952) on day 324 was gone when I arrived.
 - The gravel pit cell 394,107,-1025 cannot be confirmed from the edge: views show only gravel and planks past about six blocks. Nobody digs it until a clear view confirms it.
 
+- Day 464: Billy has no spare wooden sword; he keeps his stone sword for the walk. Trini and Beverly are armed with wooden swords. Walks need four armed in sight.
+
 Curious next: where food will come from; where the bows come from; where Billy is.
 Tell next: the group the bed row plan for each dusk, and that Billy's cow walk is still waiting on his call.
