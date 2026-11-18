@@ -36,3 +36,5 @@
 - 12:51 act: {"actions":[{"do":"note","text":"Woke day 501 morning at the row beside Chapman. Night skipped by sleep. Health 8.9, hunger 16, no food. MacDonald says he is at the beds."}],"say":"Tommy here, beside 
 - 12:52 act: {"actions":[{"do":"note","text":"Morning count day 501: Tommy at the row 412,107,-1042, health 8.9, hunger 16, empty-handed, no sword in pack, holding for Billy."}],"say":"Morning count: Tommy at the 
 - 12:56 act: {"actions":[{"do":"note","text":"Midday day 502 at the row 412,107,-1042. Health 8.9, hunger 16, unarmed, no food. Holding for Billy's call."}],"say":"Midday count: Tommy at the row, health 9, hunger 
+- 12:57 act: {"say":"Midday count: Tommy at the row, health 9, hunger 16. No sword in my hand, none in my pack now. Holding for Billy.","reasoning":"Look shows no sword in my inventory, so I cannot give one. Hold 
+- 13:01 act: {"actions":[{"do":"note","text":"Day 502 afternoon, at the row 412,107,-1042. Health 8.9, hunger 16, unarmed, no food. Nothing new; holding for Billy's call."}],"reasoning":"Quiet wait. Holding at the
