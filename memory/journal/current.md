@@ -1,1 +1,1 @@
-# Journal
+Day 483 night. Woke at the white bed 388,107,-1023. Said the count (unarmed, sword in pack, no walk). Clark, Trini and Jason report the same: no one has the sword into hand yet. Slept at the bed in the row's sight. Next: at first light, say count, ask Billy or Trini how a sword gets into hand.
