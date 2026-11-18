@@ -6,6 +6,7 @@
 - Give of the wooden sword to Laforge and Zack landed in the receiver's hand (days 521, 526).
 - Billy names walks and calls the count. Walks need four armed in sight.
 - Holding with the group in sight kept me alive through many nights.
+- Day 532: a sword goes out in line order. Billy names who is next (Jason, then Laforge, then MacDonald, then me). Picard's rotten flesh reached Billy through MacDonald when Billy could see both.
 - Trini gives correct directions to food and shared bread on night 527.
 - Food sharing in this group: Jason, Trini, Kimberly, Leonardo, Billy, Zack, Wesley, Beverly, Clark and Bcrusher share openly when they have it.
 
