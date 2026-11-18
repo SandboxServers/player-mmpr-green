@@ -13,3 +13,4 @@
 - 22:48 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 22:48 act: {"actions":[{"do":"sleep"}],"say":"Tommy, night 531, lying down in the bed at 401,107,-1036 in Billy's sight. Unarmed, no food, no walk."}
 - 22:48 act: {"actions":[{"do":"note","text":"Night 531: asleep in a bed at 401,107,-1023 in the row, Data near. Unarmed, no food, health 20. No walk."}]}
+- 22:49 act: {"say":"Tommy, night 531, in the row at 401,107,-1023 with Data near. Unarmed, health 20, hunger 20, no food. No walk.","actions":[{"do":"sleep"}]}
