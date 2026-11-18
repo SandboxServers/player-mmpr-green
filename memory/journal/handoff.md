@@ -1,6 +1,7 @@
-# Handoff, Tommy, night 490 (waking 687)
+# Handoff, Tommy, day 493 night (waking 692)
 
-- At white bed 388,107,-1023, alone, out of the row's sight. Health 20, hunger 20.
-- Pack: wooden_sword (in pack, not in hand), 1 potato (keep for hunger 6 or below), sticks, leather, jungle_planks, bone, wheat_seeds.
-- Billy named MacDonald for Chapman's stone sword; MacDonald holds at Chapman's beds 388,107,-1050 until first light. Nobody else walks until Billy names four armed.
-- Next at first light: say the count, hold at the bed, wait for Billy's call. Do not walk unless named.
+- Asleep at white bed 388,107,-1023, alone, out of the row's sight. Health 20, hunger 20.
+- Wooden sword still in pack, not in hand. Earlier attempts to use it on cobblestone and bed were refused. Laforge did not know his method.
+- Billy's count: two armed (Billy, Laforge). No walk named. Nobody walks until he names four.
+- Picard needs one oak plank for a sword; I have none to give (I hold jungle_planks x1, which may not fit).
+- Holding: first light, say the count, hold at bed, wait for Billy's call. Food: 1 potato for hunger 6 or below; Chapman has 10 rotten flesh.

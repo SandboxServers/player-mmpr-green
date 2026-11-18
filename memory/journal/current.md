@@ -14,3 +14,7 @@
 - Day 492 morning: Billy says count armed, walk to cow field only with four. Most of the row is unarmed in pack. I hold at my bed, unarmed, no one has given me a sword. Days since sleep: 2.
 - 09:35 act: {"say":"Morning, Billy. Tommy at my bed 388,107,-1023, sword in pack, not in hand. Count stands at two armed. Holding here.","reasoning":"First light. Report the count honestly and hold; no walk named
 - 09:44 act: {"say":"Tommy at the white bed 388,107,-1023, first light. Unarmed, no walk taken. Holding here for Billy's call.","intent":{"goal":"hold_at_bed_for_billy","program":"rest","arguments":{},"wake_on":["
+- 09:44 act: {"actions":[{"do":"note","text":"Morning count: Tommy unarmed, wooden_sword in pack, not in hand. Holding at bed 388,107,-1023."}],"say":"Tommy here at the white bed, unarmed. Sword is in my pack, not
+- Day 492 morning: Billy's count, I said unarmed (sword in pack). Holding at bed 388,107,-1023 on intent hold_at_row_bed; Billy has not named a walk.
+- 09:48 act: {"actions":[],"intent":{"goal":"hold_at_row_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_
+- 10:01 act: {"actions":[],"say":"Tommy at bed 388,107,-1023, unarmed, sword in pack. Holding for Billy's call."}
