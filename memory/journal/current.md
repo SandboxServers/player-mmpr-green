@@ -106,3 +106,9 @@
 - 15:41 act: {"actions":[],"say":"Morning count: Tommy at spawn with Trini, health 20, hunger 17, no food. Holding for Billy's call."}
 - 15:47 say: {"text":"Tommy here at spawn, beside Trini. Health 20, hunger 17, wooden sword in hand. Holding for Billy's call. Still no food."}
 - 15:51 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}]}
+- Day 510 dawn: at spawn beside Trini, health 20, hunger 17, wooden sword in hand, no food. Trini says potatoes and wheat lie east by the water; I hold for Billy's call.
+- 15:52 act: {"say":"Morning, Trini. I have one potato and no sword in hand yet. Do you know where food is?","reasoning":"Dawn. Trini is in reach. Food is my need. Ask, and stay close."}
+- 15:53 act: {"say":"Trini, I have no potato left; I ate it. Thank you for the word about the water to the east. I will wait for Billy's call and walk only with the group.","reasoning":"Trini says potatoes lie eas
+- 16:01 act: {"say":"Wandering trader, Tommy here. Do you sell food? I have cobblestone and leather to trade.","reasoning":"A trader is 3 blocks away at spawn. Food is my need. Ask, stay here, trade only what I ho
+- 16:03 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night has come. Bed is one block away beside Trini. Go there and sleep, staying in her sight."}
+- 16:08 act: {"actions":[{"do":"note","text":"Morning day 511 at the bed 401,107,-1035, beside Trini. Health 20, hunger 17, wooden sword in hand, no food. MacDonald at the beds, unarmed. Holding for Billy's call."
