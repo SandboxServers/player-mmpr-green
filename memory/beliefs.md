@@ -20,5 +20,8 @@
 - Day 485: Billy is the one who names gives and calls walks. Dusk sleep at bed 388,107,-1023 worked in the row's sight.
 - Day 483: no one in the row has got a wooden sword into hand yet (Clark, Trini, Worf, Zack, Data, Picard all failed). Billy calls hold until someone is armed in hand.
 
+- Day 498: a lone night at bed 388,107,-1023 ended with an explosion and a hit that took me from 20 to 1.7 health. Sleeping at the row beside other beds is safer than a lone bed.
+- Day 498: a bed cannot be used to bring a sword into hand (refused). Phantoms were seen north of the row at dusk.
+
 Curious next: where food will come from; where the bows come from; where Billy is.
 Tell next: Billy, that I am still unarmed and want Beverly's spare sword if he names it.
