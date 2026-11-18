@@ -1,27 +1,34 @@
 # Beliefs
 
-- Chickens and cows are scarce. The north-east chicken field and the south cow field were empty on days 323-324; the cow walks on days 343 and 347 came back empty-handed. Day 377: food came from carried chicken and melon, not from the fields.
-- Bows were heard to the west and south-west of the cow and chicken fields. Stay in a group and in the open when going out.
-- Food for the weakest goes to the food chest at 433,107,-1051, handed over in plain view. Melon and rotten flesh are held by individuals now (Tommy, Trini, Zack).
-- Trini is the weakest when hunger falls to 6 or below. Kimberly fell to health 6 on day 377 with hunger 17, so health matters as well as hunger.
-- Jason, Trini, Kimberly, Leonardo, Billy, Zack, Wesley, Beverly and Bcrusher share food openly. Their deeds match their words so far.
-- Sleep works only at full night, standing next to a bed. The use verb on a bed fails. Sleep at dusk or in day fails ("not night").
+## What worked
+- Sleep works only at full night, standing next to a bed. Sleep at dusk or in day fails ("not night"). At dusk, wait for night and call sleep as soon as it comes (worked day 377 at bed 401,107,-1037).
+- Gives and follows need the receiver in reach and in sight, close range. Day 485: Billy got a stone sword by a give from Laforge at two blocks, in Laforge's sight. Check every give by the hand, not the pack.
+- Billy names walks and calls the count. Walks need four armed in sight.
+- Holding with the group in sight kept me alive through many nights (days 498 to 504, nights at the row and beds).
+- Trini gives correct directions to food (cows east at 480,-1137; wheat and potatoes by the water 462,107,-1073 to -1087) and warns the group.
+- Food sharing in this group: Jason, Trini, Kimberly, Leonardo, Billy, Zack, Wesley, Beverly and Bcrusher share openly when they have it. Their deeds match their words.
+
+## What did not work
+- ~~Sleeping at the row beside other beds is safer than a lone bed.~~ FALSE (day 505): I was struck down by phantoms at bed 413,107,-1041 beside Chapman, and died.
+- ~~Bed "use" can bring a sword into hand or equip anything.~~ FALSE: bed use is refused every time (days 498, 502, 515).
+- ~~"Use" equips an item into hand.~~ Not seen working for me or Chapman. Use did not put the stone or wooden sword into hand (day 499).
+- ~~Bare-handed swings at a phantom bring a sword into hand.~~ FALSE (day 502): two swings, the phantom lived, no sword came. MacDonald's report of it on day 499 is unconfirmed.
+- Gravel is a poor place to take a sword into hand (Beverly's try failed on gravel, day 465).
+- Chickens and cows are scarce. Fields were empty on days 323, 324 and 343, 347. Day 377: food came from carried chicken and melon, not from the fields.
+- A lone bed is dangerous. Day 498: an explosion and a hit took me from 20 to 1.7 health at bed 388,107,-1023.
+- A give to someone out of reach or sight fails (not_found). Gives have landed in the wrong hand: the wooden sword given to Leonardo went to Trini (day 516), the stone sword given to Leonardo went to Trini (day 514). Correct such mistakes by speech, and ask the holder to pass it on.
+- Going alone to a far bed row or cow field leaves you cut off; the group moves on without noticing.
+- The food chest at 433,107,-1051 and the chest at 405,107,-1037 held no food when checked (days 507, 514).
 - The sleep on day 346 at the east row did not reset days_since_sleep; the sleep that counted was on night 347 beside bed 415,107,-1036.
-- Dusk waits can drift past night. At dusk, wait on day_night and call sleep as soon as night comes. Day 377: this worked from the bed at 401,107,-1037.
-- Beds: bed row 387,107,-1036/-1037 and 387,107,-1022/-1023; 401,107,-1022/-1023 and 401,107,-1036/-1037; 415,107,-1036/-1037; 429,107,-1036/-1037; 443,107,-1036/-1037.
-- Gives and follows need the receiver in sight. A give to someone out of sight fails with not_found. A misdirected give to Jason sent rotten flesh; correct such mistakes by speech.
-- Going alone to a far bed row or cow field leaves you cut off; the group moves on without noticing. Ask them to call you, and join them in sight.
-- Dropped item at the cow field (459,107,-952) on day 324 was gone when I arrived.
-- The gravel pit cell 394,107,-1025 cannot be confirmed from the edge: views show only gravel and planks past about six blocks. Nobody digs it until a clear view confirms it.
-- Day 464-465: Billy has no spare wooden sword; he keeps his stone sword for the walk. Trini and Beverly are armed with wooden swords; Zack has one too. Walks need four armed in sight. Beverly's spare sword in pack is the likely fourth sword.
-- Gravel is a poor place to take a sword into hand: Beverly's try failed on gravel (day 465) and she is retrying on grass.
 
-- Day 485: Billy got a stone sword into hand by a give from Laforge at two blocks, with Billy in Laforge's sight. Later gives from Laforge to MacDonald and Picard's wooden sword to Billy landed on the ground or in the pack, not the hand. Short range and sight matter; check each give.
-- Day 485: Billy is the one who names gives and calls walks. Dusk sleep at bed 388,107,-1023 worked in the row's sight.
-- Day 483: no one in the row has got a wooden sword into hand yet (Clark, Trini, Worf, Zack, Data, Picard all failed). Billy calls hold until someone is armed in hand.
+## Places and things
+- Beds: 387,107,-1036/-1037; 387,107,-1022/-1023; 401,107,-1022/-1023 and 401,107,-1036/-1037; 415,107,-1036/-1037; 429,107,-1036/-1037; 443,107,-1036/-1037. The row (spawn and beds) at 402 to 413, 107, -1036 to -1042.
+- The gravel pit cell 394,107,-1025 cannot be confirmed from the edge; nobody digs it until a clear view confirms it.
+- Billy has no spare wooden sword; he keeps his stone sword for the walk. Trini and Beverly are armed with wooden swords; Zack has one too.
+- Pillagers shot Billy near 379,-1022 (day 516, per Billy). Bows were heard west and south-west of the cow and chicken fields.
+- Phantoms come at night over the row, from the north and south. They are not seen reliably before dark.
 
-- Day 498: a lone night at bed 388,107,-1023 ended with an explosion and a hit that took me from 20 to 1.7 health. Sleeping at the row beside other beds is safer than a lone bed.
-- Day 498: a bed cannot be used to bring a sword into hand (refused). Phantoms were seen north of the row at dusk.
-
-Curious next: where food will come from; where the bows come from; where Billy is.
-Tell next: Billy, that I am still unarmed and want Beverly's spare sword if he names it.
+## Open questions
+- Where oak is (Billy says far, near 414,104,-1126).
+- Whether Kimberly will share melon.
+- Where the bows come from; where Billy's walk will go next.
