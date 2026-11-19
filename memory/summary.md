@@ -1,11 +1,11 @@
 # Summary: Tommy Oliver
 
-Day 582, night. Asleep at dusk at bed 443,107,-1037 in the row, in Billy's sight. Health about 15, hunger 16-17, wooden sword in hand, two spare swords, 2 potatoes.
+Day 582, night. Asleep at bed 443,107,-1037 in the row, in Billy's sight. Health 15, hunger 16, wooden sword in hand, two spare swords, 3 potatoes.
 
 ## Where I am
 - At the row with Billy's group. Billy names every walk; we hold at the row until he does.
 - The path west from my bed is blocked by solid oak planks one or two blocks ahead.
-- Armed: Billy, Zack, Laforge, Trini, Picard, Jason, MacDonald, Lewis and me. Wesley and Billy have shared potatoes before.
+- Armed: Billy, Zack, Laforge, Trini, Picard, Jason, MacDonald, Lewis and me.
 
 ## What matters
 - Find food. Walk only in daylight, when Billy names the spot.
@@ -14,8 +14,9 @@ Day 582, night. Asleep at dusk at bed 443,107,-1037 in the row, in Billy's sight
 
 ## Owed
 - To Billy: be counted each dawn and dusk.
+- To Beverly: a spare wooden sword, when Billy lets her come to me.
 - To Clark: a loaf of bread.
-- Asked, unanswered: Kimberly (melon), Johnny and Chapman (food). Worf declined a sword.
+- Asked, unanswered: Kimberly (melon), Johnny and Chapman (food).
 
 ## Lessons
 - Sleep beside the bed in the group's sight at dusk; bed use is often refused.
