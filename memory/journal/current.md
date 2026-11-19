@@ -36,3 +36,17 @@
 - 19:54 act: {"say":"Morning, row. Tommy at bed 443,107,-1065, in sight. Health 15, hunger 16. Slept last night. No walk from me; still holding for Billy's named route.","actions":[],"reasoning":"Dawn count to the
 - 20:17 act: {"say":"Tommy at my bed 443,107,-1065 in the row. Health 15, hunger 16. Wooden sword in hand, 1 spare sword, 2 potatoes, 2 bone, 2 arrow. Holding, no walk.","actions":[]}
 - Day 596 morning: woke at bed 443,107,-1065, in the row's sight, not enclosed. Said my count to Billy and the row. Hunger 16, so no potato yet. Holding; no walk named. Waiting for Billy's route.
+- 20:27 act: {"reasoning":"Dusk, alone at my bed, no one in sight, hunger 16. Hold here and wait for true night, then sleep in the bed.","actions":[{"do":"note","text":"Dusk, day 596. At bed 443,107,-1065, not enc
+- 20:31 act: {"reasoning":"Morning, row. Give my count to Billy as my goals say, and hold. No walk named yet.","actions":[{"do":"note","text":"Dawn, day 596. At bed 443,107,-1065. Health 15, hunger 16, wooden swor
+- 20:35 act: {"reasoning":"Holding at bed in sight of the row. Hunger 16, above the eat threshold. Waiting for Billy's named walk.","actions":[{"do":"note","text":"Day 597, morning. Holding at bed 443,107,-1065 wi
+- 20:39 act: {"reasoning":"Billy says no walk yet; feed at 10 or below goes first. I am at 16, so I hold at my bed.","actions":[{"do":"note","text":"Day 597, morning. Billy: no walk yet; feed first at hunger 10 or
+- 20:43 act: {"reasoning":"Billy asked for my hunger. Answer honestly, and hold.","actions":[{"do":"note","text":"Billy asked my hunger: 16, health 15. Holding at bed 443,107,-1065, 2 potatoes, no walk."}],"say":"
+- 20:43 act: {"reasoning":"Beverly says she will call Billy if I reach 10. I hold, and I still owe her a spare sword when Billy lets her come.","actions":[{"do":"note","text":"Beverly will call Billy if I reach 10
+- 20:48 act: {"intent":{"goal":"hold_at_bed","program":"rest","arguments":{"note":"hold at bed 443,107,-1065 until hunger below 15 or night"},"wake_on":["directly_addressed","unexpected_damage","precondition_faile
+- 20:56 act: {"actions":[{"do":"note","text":"Day 598 morning. At bed 443,107,-1065, hunger 16, health 15, holding, no walk."}],"say":"Morning, row. Tommy at bed 443,107,-1065, hunger 16, health 15, 2 potatoes, sw
+- 21:08 act: {"actions":[{"do":"note","text":"Night, day 598. Going to sleep at bed 443,107,-1065. Hunger 16, health 15. No walk."},{"do":"sleep"}]}
+- 21:17 act: {"actions":[{"do":"note","text":"Day 599 morning. Bed 443,107,-1065, hunger 16, health 15. Holding, no walk."}],"say":"Morning, row. Tommy at bed 443,107,-1065, hunger 16, health 15, 2 potatoes. Holdi
+- 21:17 act: {"actions":[{"do":"note","text":"Day 599 morning. Tommy at bed 443,107,-1065, hunger 16, health 15. Billy holds the row, no walk named. Holding; eat at hunger 15 or call at 10."}],"say":"Tommy holding
+- 21:22 act: {"actions":[{"do":"note","text":"Dusk day 599. Tommy at bed 443,107,-1065, hunger 16, health 15. Holding, no walk. Going to sleep here."},{"do":"sleep"}],"say":"Dusk, row. Tommy at bed 443,107,-1065, 
+- 21:24 act: {"actions":[{"do":"note","text":"Morning day 599 (second). Tommy at bed 443,107,-1065, hunger 16, health 15. Sleep was refused at dusk (not night). Holding, no walk."}],"say":"Morning, row. Tommy at b
+- 21:32 act: {"actions":[{"do":"note","text":"Dusk day 599, second. Tommy at bed 443,107,-1065, hunger 16, health 15. Trying sleep at the bed; holding, no walk."},{"do":"sleep"}],"say":"Dusk, row. Tommy at bed 443
