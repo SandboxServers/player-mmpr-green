@@ -15,3 +15,5 @@
 - 02:15 act: {"actions":[{"do":"sleep"}]}
 - 02:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Tommy, dusk day 542. Unarmed, health 20, hunger 20, no food. Going to my bed at the row in Billy's sight."}
 - 02:28 act: {"actions":[{"do":"sleep"}]}
+- 02:29 act: {"say":"Tommy, dawn 543. Unarmed, health 20, hunger 20, no food. Pack two bone, two arrow. At the row beside my bed, in Billy's sight. No walk. Billy, I wait for your named call."}
+- 02:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Tommy, night 543. Unarmed, health 20, hunger 20, no food. Sleeping at my bed at the row in Billy's sight. No walk.
