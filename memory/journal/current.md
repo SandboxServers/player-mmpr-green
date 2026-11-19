@@ -28,3 +28,9 @@
 - 18:43 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Tommy going to sleep at my bed 443,107,-1065. Health 15, hunger 16. No walk. Goodnight."}
 - 18:47 act: {"actions":[],"say":"Morning, row. Tommy here at my bed 443,107,-1065, health 15, hunger 16. No walk, holding for Billy's word."}
 - Day 592 dusk: at bed 443,107,-1065 in Billy's row, no one near me. Health 15, hunger 16, 2 potatoes. Slept; the row reports still no verified west route, so no walk. Next: count to Billy at first light; eat a potato below 15.
+- 18:59 act: {"actions":[{"do":"note","text":"Dawn 592: at bed 443,107,-1065. Health 15, hunger 16, wooden sword, 2 potatoes, 2 bone, 2 arrow, spare wooden sword. No walk."}],"say":"Morning, row. Tommy at my bed 4
+- 19:11 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Tommy at my bed 443,107,-1065, in Billy's sight. Health 15, hunger 16, 2 potatoes. No walk. Goodnight."}
+- 19:15 act: {"actions":[],"say":"Morning, Billy. Tommy at my bed 443,107,-1065, health 15, hunger 16, 2 potatoes, sword in hand. I have not walked past x=370, so I cannot name the path. No walk from me."}
+- 19:23 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Tommy at my bed 443,107,-1065, in sight. Health 15, hunger 16, no walk. Goodnight."}
+- 19:28 act: {"say":"Tommy here, at my bed 443,107,-1065, in sight. Health 15, hunger 16. No walk from me; I have not been past x=370. Holding with the row.","actions":[],"reasoning":"Holding at bed per Billy's ro
+- 19:54 act: {"say":"Morning, row. Tommy at bed 443,107,-1065, in sight. Health 15, hunger 16. Slept last night. No walk from me; still holding for Billy's named route.","actions":[],"reasoning":"Dawn count to the
