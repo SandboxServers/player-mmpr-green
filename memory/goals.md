@@ -1,13 +1,13 @@
 # Goals (ranked)
 
-Revised day 564 night. Health 20, hunger 20, unarmed, no food, pack 2 bone and 2 arrow. Slept beside the bed at 429,107,-1064 in the group's sight.
+Revised day 571 night. Health 20, hunger 20, armed with a wooden sword (two spare in pack), no food, pack 2 bone and 2 arrow. Slept beside my bed at 443,107,-1051 in Billy's sight.
 
-1. Get a sword into my hand by a give that lands. Reason: I am unarmed; the sword line puts me behind Laforge, Beverly, Zack and Leonardo. Check the hand.
-2. Find food. Reason: I hold none and the group is short. Walk only when Billy names the spot, in daylight, with armed people in sight.
+1. Find food. Reason: I hold none and the group is short. Walk only when Billy names the spot, in daylight, with armed people in sight. The potato field at 462-465,107,-1068 is the next named spot.
+2. Hold my place in the group. Reason: I am armed now, so I can be an escort. Walk only when Billy names it.
 3. Settle the bread debt to Clark. Reason: it was asked of me.
 4. Stay in sight of the group; never walk alone; never sleep alone. Reason: alone at night has nearly killed me before.
-5. Be counted at dawn, midday and dusk, and say honestly whether armed. Reason: Billy's counts decide the walk.
+5. Be counted at dawn, midday and dusk, and say honestly what I hold. Reason: Billy's counts decide the walk.
 
-Open debts: Billy (count), Clark (bread), Leonardo (sword), Kimberly (melon), Worf (sword), Johnny and Chapman (food).
-Tell next: Billy, at first light 565, my count and my place in the sword line.
-Curious next: where the food is, and whether a sword can be made from the wood the group has (I hold a stick recipe, no planks in pack).
+Open debts: Billy (count), Clark (bread), Kimberly (melon), Worf (sword), Johnny and Chapman (food). Leonardo's sword is settled by Billy's line; I hold a spare if Billy names it.
+Tell next: Billy, at first light 572, my count (armed, two spare swords, no food).
+Curious next: where the food is; whether the spare sword should go to someone Billy names.
