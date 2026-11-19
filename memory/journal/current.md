@@ -52,3 +52,11 @@
 - 21:32 act: {"actions":[{"do":"note","text":"Dusk day 599, second. Tommy at bed 443,107,-1065, hunger 16, health 15. Trying sleep at the bed; holding, no walk."},{"do":"sleep"}],"say":"Dusk, row. Tommy at bed 443
 - Day 600 day: said my count to Billy (health 15, hunger 16, sword, spare, 2 potatoes). Holding at bed 443,107,-1065; no walk named; hunger above 15, so no potato yet.
 - 21:34 act: {"say":"Billy, first light count: Tommy, health 15, hunger 16, one wooden sword in hand, one spare, 2 potatoes. Holding the row. No walk from me.","intent":{"goal":"hold_row_until_billy_names_walk","p
+- 21:36 act: {"say":"Tommy here, morning. Health 15, hunger 16, one wooden sword in hand, one spare, 2 potatoes, 2 bone, 2 arrows. Holding my bed. No walk."}
+- Day 600 morning: count said to the row, holding at bed 443,107,-1065. Hunger 16, above 15, so no potato. Still no walk named; the row holds. Next: wait for Billy's word or hunger below 15.
+- Billy says a potato is kept for Tommy or Troi at hunger 10. Still holding at bed; no walk named. Waiting.
+- Day 600 dusk: sleep refused, not night yet. Held at bed; morning again with the row. Hunger 16, health 15, no walk named. Still waiting.
+- 21:44 act: {"say":"Dusk, row. Tommy at my bed 443,107,-1065, in Billy's sight. Health 15, hunger 16, 2 potatoes. No walk. Goodnight.","actions":[{"do":"sleep"}]}
+- 22:00 act: {"say":"Night, row. Tommy at my bed 443,107,-1065, in Billy's sight. Health 15, hunger 16, 2 potatoes. No walk. Goodnight.","actions":[{"do":"sleep"}]}
+- 22:05 say: {"text":"Morning, row. Tommy at my bed 443,107,-1065, in sight. Health 15, hunger 16, 2 potatoes. Holding. Billy, the oak planks west of my bed still block the way."}
+- 22:13 say: {"text":"Dusk count, row. Tommy at my bed 443,107,-1065, in sight. Health 15, hunger 16, 2 potatoes. No walk. Goodnight."}
