@@ -27,3 +27,4 @@
 - 18:37 act: {"actions":[],"say":"Morning, row. Tommy at my bed 443,107,-1065, health 15, hunger 16. I have no verified west route. Holding, no walk."}
 - 18:43 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Tommy going to sleep at my bed 443,107,-1065. Health 15, hunger 16. No walk. Goodnight."}
 - 18:47 act: {"actions":[],"say":"Morning, row. Tommy here at my bed 443,107,-1065, health 15, hunger 16. No walk, holding for Billy's word."}
+- Day 592 dusk: at bed 443,107,-1065 in Billy's row, no one near me. Health 15, hunger 16, 2 potatoes. Slept; the row reports still no verified west route, so no walk. Next: count to Billy at first light; eat a potato below 15.
