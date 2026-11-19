@@ -44,3 +44,7 @@
 - 09:12 act: {"actions":[{"do":"sleep"}]}
 - Night 563: at the row by the white bed, health 20, hunger 20, unarmed, 8 potatoes held for Wesley or Deanna. Bed click refused ("that block is a bed"), so I slept by the sleep verb; days since sleep reset to 0. Next: at first light, count to Billy and give potatoes when Wesley or Deanna is in reach.
 - 09:14 act: {"say":"Tommy at the row, night 563. Health 20, hunger 20, unarmed. Holding 8 potatoes for Wesley or Deanna at first light. Sleeping by the bed here.","actions":[{"do":"use","at":{"x":443,"y":107,"z":
+- 09:15 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1064}}],"say":"Tommy at the row, unarmed, health 20, hunger 20. I hold 8 potatoes for Deanna. Walking to her now, in daylight.","reasoning":"Day
+- 09:15 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"potato","count":8}],"say":"Deanna, Tommy here. Giving you my 8 potatoes now, as Billy named.","reasoning":"Deanna is in reach and waiting. Give the p
+- 09:15 act: {"actions":[],"say":"Deanna has my 8 potatoes now; the give worked. I am unarmed, health 20, hunger 20, at the row. Holding here in sight of Laforge and Riker.","reasoning":"Give landed. Report it so 
+- 09:27 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1064}},{"do":"use","at":{"x":429,"y":107,"z":-1064}}],"say":"Dusk 563. Tommy going to the bed at 429,107,-1064, in Riker's and Laforge's sight. 

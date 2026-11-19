@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 558, night. Asleep in the white bed at 443,107,-1036 by the row, in Billy's sight. Health 20, hunger 20, unarmed, no food. Pack: 2 bone, 2 arrow.
+Day 563, night. Beside the bed at 429,107,-1064 at the row, in Riker's and Laforge's sight. Health 20, hunger 20, unarmed, no food. Pack: 2 bone, 2 arrow.
 
 ## Where I am
-- At the row with Billy's group. No walk named for me on 558. Billy is near the bed; Wesley's potatoes went back and forth but did not reach him.
-- Armed so far: Billy, Picard, Jason, Worf, Macdonald, Riker (wooden or stone swords). Sword line after them: Laforge, Beverly, Zack, then me.
+- At the row with Billy's group. Gave Deanna my 8 potatoes on day 563 (the give worked).
+- Armed so far: Billy, Picard, Jason, Worf, Riker (wood or stone swords). Sword line after them: Laforge, Beverly, Zack, Leonardo, then me.
 
 ## What matters
 - Get a sword into my hand by a give that lands; check the hand.
@@ -19,7 +19,6 @@ Day 558, night. Asleep in the white bed at 443,107,-1036 by the row, in Billy's 
 - Asked, unanswered: Kimberly (melon), Worf (sword), Johnny and Chapman (food).
 
 ## Lessons
-- Sleep at full night beside a bed; bed use is refused by day.
-- Walks fail when the way is blocked (the crafting table at the row blocked Wesley's walk). Hold for a spot in sight.
+- Bed use is refused by day and sometimes at night; call sleep beside the bed in the group's sight.
 - A give is real only when it lands in the receiver's hand.
-- Phantoms kill at the row even when armed. Holding beside the group is where I stay.
+- Walks fail when the way is blocked. Hold for a spot in sight.
