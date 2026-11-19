@@ -20,3 +20,16 @@
 - 11:26 act: {"say":"Billy, Tommy hears you. I am at my bed, 430,107,-1051, unarmed. I will be here at first light in your sight.","actions":[{"do":"sleep"}]}
 - 11:29 act: {"say":"Billy, Tommy is here at my bed, in your reach. Morning 570. Unarmed, health 20, hunger 20. Ready for the sword.","actions":[]}
 - 11:29 act: {"say":"Thank you, Billy. Tommy has the wooden sword now. I will hold at my bed and walk on the wood trip only if you name me.","actions":[]}
+- 11:30 act: {"say":"Billy, Tommy coming to you at 430,107,-1048, armed with the wooden sword, health 20, hunger 20.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1048}}]}
+- 11:30 act: {"say":"Billy, Tommy is with you and Zack, armed with the wooden sword, health 20. Ready to walk when you name the way.","actions":[]}
+- 11:31 act: {"say":"Billy, I cannot see you now, only Zack. Tommy will not walk alone. Step into my sight and I will follow you north, sword in hand.","actions":[]}
+- 11:31 act: {"say":"Billy, Tommy sees you at 1 block, with Zack. I am at 430,107,-1049, sword in hand, health 20. Name the step and I walk with you.","actions":[]}
+- 11:32 act: {"say":"Tommy walking north with Billy and Zack, sword in hand, health 20. Staying in sight.","intent":{"goal":"follow_billy_north","program":"follow","arguments":{"target":"Billy"},"wake_on":["direct
+- 11:32 act: {"say":"Billy, the follow failed: I cannot see you. Tommy holds at 430,107,-1049 with Zack in sight, sword in hand. I will not walk alone. Call me when you are in sight.","actions":[]}
+- 11:36 act: {"say":"Billy, Tommy at 430,107,-1049, in your reach, armed with the wooden sword, health 20. Holding for your word.","actions":[]}
+- 11:37 act: {"say":"Trini, Billy asked me to pass you the wooden sword. Here it is, in your reach.","actions":[{"do":"give","to":"ag_trini_01","item":"wooden_sword","count":1}]}
+- 11:37 act: {"say":"Billy, my give to Trini went wrong. The line says the sword went to Zack, not Trini. Zack, please pass the wooden sword to Trini, who is in reach. Tommy holds my own wooden sword still.","acti
+- 11:38 act: {"say":"Billy, Tommy at dusk 570. Armed with my wooden sword, health 20, hunger 20, no food. Going to my bed at 430,107,-1051 in the group's sight to sleep when night comes.","actions":[{"do":"goto","
+- 11:42 act: {"say":"Tommy at night 570, at my bed 430,107,-1051 in the group's sight. Armed with my wooden sword, health 20, hunger 20, no food. Sleeping here.","actions":[{"do":"sleep"}]}
+- 11:47 act: {"say":"Billy, Tommy at my bed 430,107,-1051 in your sight, morning 571. Health 20, hunger 20, armed. My pack shows two wooden swords, so I will hold the spare for whoever you name. Holding, no walk."
+- 11:55 act: {"say":"Tommy at night 571, at my bed 430,107,-1051 in Billy's sight. Armed, health 20, hunger 20, no food. Sleeping here.","actions":[{"do":"sleep"}]}
