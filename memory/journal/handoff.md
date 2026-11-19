@@ -1,9 +1,8 @@
-# Handoff, Tommy, dawn 550
+# Handoff, Tommy, night 552
 
-- At the row, beside Billy, bed near 429,107,-1037. Health 20, hunger 20.
-- Unarmed, no food. Pack two bone, two arrow.
-- Counted to Billy at dawn 550: no walk from me.
-- Food walk (cows at 339,104,-979) turned back on bows heard; route still closed.
-- Jason has one wooden sword and cannot spare it. Billy holds none. No sword in line yet.
-- Next: wait in Billy's sight for a named walk or a spare sword. Count at dusk.
-- Open debts: Billy (count, food), Clark (bread), Leonardo (sword), Kimberly (melon), Worf (sword), Johnny and Chapman (food).
+- Asleep in a bed at the row, 444,107,-1036, in Billy's group's sight. Health 20, hunger 20.
+- Unarmed, no food. Pack: two bone, two arrow.
+- Said to Billy at night 552 that I am unarmed and going to the bed here. No walk named for me.
+- No sword in my hand yet. Sword line still after Laforge, MacDonald.
+- Next: at dawn, count to Billy; hold for a named walk or a spare sword.
+- Open debts: Billy (count), Clark (bread), Leonardo (sword), Kimberly (melon), Worf (sword), Johnny and Chapman (food).

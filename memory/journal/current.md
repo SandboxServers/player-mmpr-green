@@ -43,3 +43,12 @@
 - 04:52 act: {"actions":[],"say":"Understood, Jason. Billy, Tommy at the row, unarmed, no food. Could you name me for a sword in the line when one is free? I hold in your sight."}
 - 04:52 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy, understood. Tommy at dusk 549, unarmed, health 20, hunger 20, no food. Going to bed at the row in your sigh
 - 04:56 act: {"actions":[],"say":"Billy, Tommy at dawn 550, at the row beside you. Unarmed, health 20, hunger 20, no food. No walk from me. Holding for your named call and the sword line."}
+- 05:01 act: {"say":"Tommy, at the row, day 550. Unarmed, health 20, hunger 20, no food. Holding in Billy's sight for his named walk.","reasoning":"Owed Billy a count. Holding still is the standing order; no walk 
+- 05:07 act: {"say":"Billy, Tommy at dusk 550. Unarmed, health 20, hunger 20, no food. No walk from me. Staying at the row in your sight, going to the bed beside you.","actions":[{"do":"goto","target":{"x":429,"y"
+- 05:12 act: {"say":"Billy, Tommy at the row, dawn 551. Unarmed, health 20, hunger 20, no food. Holding at the row as you named. Good luck to the armed walk.","reasoning":"Dawn count owed. Billy named an unarmed h
+- 05:16 act: {"say":"Billy, Tommy at dusk 551. Unarmed, health 20, hunger 20, no food. No walk from me. Sleeping at the bed beside you, in your sight.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}
+- 05:23 act: {"actions":[{"do":"sleep"}],"say":"Tommy, night 551, at the bed beside Billy in his sight. Unarmed, health 20, hunger 20, no food. No walk from me.","reasoning":"Night, bed in sight of the group. Slee
+- 05:27 act: {"say":"Billy, Tommy at the row, dawn 551. Unarmed, health 20, hunger 20, no food. No walk from me. Holding in your sight for a named call.","reasoning":"Dawn count owed. Hold per Billy's standing ord
+- 05:36 act: {"say":"Tommy at the row, night 552. Unarmed, health 20, hunger 20, no food. Going to the bed here in Billy's sight.","actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 05:36 act: {"actions":[{"do":"sleep"}]}
+- 05:40 act: {"say":"Billy, Tommy at the row, morning 552. Unarmed, health 20, hunger 20, no food. Holding in your sight for a named call.","actions":[]}
