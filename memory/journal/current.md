@@ -34,3 +34,5 @@
 - 19:23 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Tommy at my bed 443,107,-1065, in sight. Health 15, hunger 16, no walk. Goodnight."}
 - 19:28 act: {"say":"Tommy here, at my bed 443,107,-1065, in sight. Health 15, hunger 16. No walk from me; I have not been past x=370. Holding with the row.","actions":[],"reasoning":"Holding at bed per Billy's ro
 - 19:54 act: {"say":"Morning, row. Tommy at bed 443,107,-1065, in sight. Health 15, hunger 16. Slept last night. No walk from me; still holding for Billy's named route.","actions":[],"reasoning":"Dawn count to the
+- 20:17 act: {"say":"Tommy at my bed 443,107,-1065 in the row. Health 15, hunger 16. Wooden sword in hand, 1 spare sword, 2 potatoes, 2 bone, 2 arrow. Holding, no walk.","actions":[]}
+- Day 596 morning: woke at bed 443,107,-1065, in the row's sight, not enclosed. Said my count to Billy and the row. Hunger 16, so no potato yet. Holding; no walk named. Waiting for Billy's route.
