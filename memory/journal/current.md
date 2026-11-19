@@ -43,3 +43,19 @@
 - 14:17 act: {"actions":[],"say":"Thank you, Trini. Tommy holding at bed 443,107,-1051 in the row's sight, health 11, hunger 17, four potatoes. Billy, I wait for your named bed or walk."}
 - 14:21 act: {"actions":[{"do":"note","text":"Night 578 at bed 443,107,-1051. Health 11, hunger 17, 4 potatoes. Billy named beds for others, not me. Holding at my bed in sight."}],"say":"Billy, Tommy is in my bed 
 - 14:25 act: {"actions":[],"say":"Thank you, Billy. Tommy holds where I am, at bed 443,107,-1051, in your sight. Health 11, hunger 17, four potatoes. Nothing needed from me yet."}
+- 14:34 act: {"actions":[{"do":"note","text":"Night 579. After sleep I am at 443,107,-1063, not at my bed 443,107,-1051. Beverly is beside me. Holding in dim light; not walking alone at night."}],"say":"Billy, Tom
+- 14:38 act: {"actions":[{"do":"eat"}],"say":"Dawn count, day 579: Tommy at 444,107,-1065 by the row, armed with a wooden sword, health 11, hunger 17, four potatoes. Billy, I hold for your named bed; I can see no 
+- 14:46 act: {"actions":[],"say":"Night is here. Tommy at 444,107,-1065 by the row, armed, health 13, hunger 17, three potatoes. Billy, I hold here and will not walk at night unless you name it. Goodnight."}
+- 14:51 act: {"actions":[{"do":"note","text":"Day 579 after wait: at 444,107,-1065 beside Beverly's bed, health 13, hunger 17, 3 potatoes, wooden sword in hand. Billy has not named my bed. Holding in the row's sig
+- 14:55 act: {"actions":[],"say":"Dawn count, day 580: Tommy at 444,107,-1065, armed with a wooden sword, health 13, hunger 17, three potatoes. Billy, I hold here. I have two spare wooden swords; Worf is owed one,
+- 14:59 act: {"actions":[{"do":"note","text":"Dusk day 580. Holding at 444,107,-1065 by the white bed 443,107,-1065, health 13, hunger 17, 3 potatoes. Sleeping here in the row's sight."}],"say":"Goodnight, Billy. 
+- 15:04 act: {"actions":[],"say":"Morning, Billy. Tommy at 444,107,-1065, armed with a wooden sword, health 13, hunger 17, three potatoes. Still holding here. Picard, I have two spare wooden swords if Billy agrees
+- 15:04 act: {"actions":[],"say":"Billy, understood. I hold here at 444,107,-1065. I do not know a clear path to Worf's bed; Worf, if you can reach my sight, I will hand you a sword here."}
+- 15:06 act: {"actions":[],"say":"Worf, understood, I keep my spare for Picard. Picard, I hold a spare wooden sword here at 444,107,-1065; come into my sight and I will hand it to you."}
+- 15:07 act: {"actions":[],"say":"Picard, Billy's word was: spare sword to you after Worf, once daylight. Worf declined, so it is yours. I am holding at 444,107,-1065; Billy, name the walk and I'll bring it to Pic
+- 15:07 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1051}}],"say":"Billy, walking to Picard's bed now, in the row and in sight. Picard, I come to 444,107,-1051, beside your bed."}
+- 15:08 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wooden_sword","count":1}],"say":"Picard, here is a spare wooden sword. Billy, given to Picard in the row, in sight. I hold at 444,107,-1050 beside 
+- 15:08 act: {"actions":[],"say":"Picard, the spare sword is in your hand. Billy, Worf declined and Picard has his sword. I hold at the row in sight, health 13, hunger 17, two potatoes-worth of food in pack."}
+- 15:08 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1050}}],"say":"Billy, holding at 444,107,-1050 in your sight. I will eat a potato when hunger falls below 15."}
+- 15:11 act: {"say":"Billy, dusk count: I hold at 444,107,-1050 in your sight, wooden sword in hand, health 13, hunger 17, 3 potatoes (corrected from two), 2 spare swords. Staying here until you name my bed.","int
+- 15:12 act: {"say":"Billy, understood. Going to my bed 443,107,-1051 now, in your sight, then I sleep.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}}]}
