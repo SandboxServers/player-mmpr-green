@@ -7,3 +7,16 @@
 - 10:18 act: {"say":"Tommy at the row, dusk 566. Unarmed, health 20, hunger 20. Sleeping beside my bed in the group's sight. Holding for Billy at first light.","actions":[{"do":"sleep"}]}
 - 10:26 act: {"say":"Billy, Tommy at the row, morning 567. Health 20, hunger 20, unarmed, no food. Pack: 2 bone, 2 arrow. Sword line: after Zack and Leonardo. I hold here, not walking unless you name me.","actions
 - 10:35 act: {"say":"Tommy at the row, night 567. Unarmed, health 20, hunger 20. Sleeping beside my bed at 429,107,-1051, in Billy's sight.","actions":[{"do":"sleep"}]}
+- 10:47 act: {"say":"Tommy at the row, dusk 567. Unarmed, health 20, hunger 20. Sleeping beside my bed at 429,107,-1051, in Billy's sight. Holding for first light.","actions":[{"do":"sleep"}]}
+- 10:51 act: {"say":"Billy, Tommy at the row, morning 568. Health 20, hunger 20, unarmed, no food, 2 bone and 2 arrow. Holding at my bed in your sight; I do not walk unless you name me.","actions":[]}
+- 11:04 act: {"say":"Billy, Tommy knows no trees either, only the row. Holding at my bed in your sight, unarmed, health 20, hunger 20.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["di
+- 11:12 act: {"say":"Tommy at the row, dusk 568. Unarmed, health 20, hunger 20. Sleeping beside my bed at 429,107,-1051, in the group's sight.","actions":[{"do":"sleep"}]}
+- 11:16 act: {"say":"Billy, Tommy at the row, morning 569. Health 20, hunger 20, unarmed, no food. Holding at my bed in your sight. I ask for a sword only when you name one free."}
+- 11:17 act: {"say":"Thank you, Billy. Tommy holds at my bed in your sight, unarmed, and waits for the sword when it is done."}
+- 11:17 act: {"say":"Billy, Tommy walking toward you now, in daylight, in your sight.","actions":[{"do":"goto","target":"Billy"}]}
+- 11:18 act: {"say":"Billy, I cannot see you from my bed, so I did not reach you. Tommy holds at 430,107,-1051. Step into my sight and I will come to you."}
+- 11:25 act: {"say":"Tommy at the row, dusk 569. Unarmed, health 20, hunger 20. Sleeping beside my bed at 430,107,-1051, in the group's sight. Billy, I hold for your sword at first light.","actions":[{"do":"sleep"
+- 11:25 act: {"say":"Tommy at my bed, dusk 569. Only 2 sleepers counted, and I see no one in sight now. Unarmed, health 20, hunger 20. I will stay here and not walk.","actions":[]}
+- 11:26 act: {"say":"Billy, Tommy hears you. I am at my bed, 430,107,-1051, unarmed. I will be here at first light in your sight.","actions":[{"do":"sleep"}]}
+- 11:29 act: {"say":"Billy, Tommy is here at my bed, in your reach. Morning 570. Unarmed, health 20, hunger 20. Ready for the sword.","actions":[]}
+- 11:29 act: {"say":"Thank you, Billy. Tommy has the wooden sword now. I will hold at my bed and walk on the wood trip only if you name me.","actions":[]}
