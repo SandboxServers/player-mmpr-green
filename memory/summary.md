@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 563, night. Beside the bed at 429,107,-1064 at the row, in Riker's and Laforge's sight. Health 20, hunger 20, unarmed, no food. Pack: 2 bone, 2 arrow.
+Day 564, night. Beside the bed at 429,107,-1064 at the row, in the group's sight. Health 20, hunger 20, unarmed, no food. Pack: 2 bone, 2 arrow.
 
 ## Where I am
-- At the row with Billy's group. Gave Deanna my 8 potatoes on day 563 (the give worked).
-- Armed so far: Billy, Picard, Jason, Worf, Riker (wood or stone swords). Sword line after them: Laforge, Beverly, Zack, Leonardo, then me.
+- At the row with Billy's group. Gave Deanna my 8 potatoes on day 563 (the give landed).
+- Armed so far: Billy, Picard, Jason, Worf, Riker, MacDonald. Sword line after them: Laforge, Beverly, Zack, Leonardo, then me.
 
 ## What matters
 - Get a sword into my hand by a give that lands; check the hand.
@@ -20,5 +20,5 @@ Day 563, night. Beside the bed at 429,107,-1064 at the row, in Riker's and Lafor
 
 ## Lessons
 - Bed use is refused by day and sometimes at night; call sleep beside the bed in the group's sight.
-- A give is real only when it lands in the receiver's hand.
+- A give is real only when it lands in the receiver's hand. Four failed gives in a row: stop and name the next step.
 - Walks fail when the way is blocked. Hold for a spot in sight.
