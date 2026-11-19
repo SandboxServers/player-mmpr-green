@@ -1,1 +1,17 @@
 # Journal
+- 01:08 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Tommy, night 538: unarmed, health 20, hunger 20, no food. Sleeping in the bed here, in Billy's group's sight."}
+- 01:10 act: {"actions":[{"do":"note","text":"Dawn 539 count: Tommy, at the bed row 415,107,-1023. Health 20, hunger 20, unarmed, no food. Holding for Billy's walk."}],"say":"Tommy, morning 539: counted at the bed
+- 01:13 act: {"actions":[],"say":"Billy, Tommy here at the row, unarmed, health 20, hunger 20. I hold in your sight and wait for the sword line and your walk."}
+- 01:21 act: {"actions":[{"do":"sleep"}],"say":"Tommy, night 539: unarmed, health 20, hunger 20, no food. Sleeping at the bed in Billy's sight; no walk."}
+- 01:21 act: {"actions":[{"do":"sleep"}]}
+- 01:34 act: {"actions":[{"do":"sleep"}],"say":"Tommy, dusk 539: unarmed, health 20, hunger 20, no food. Going to bed here in Billy's sight."}
+- 01:34 act: {"actions":[{"do":"sleep"}]}
+- 01:47 act: {"actions":[{"do":"note","text":"Morning 540, at the row 416,107,-1023. Health 20, hunger 20, unarmed, no food. Holding for Billy's call; Zack and Worf are also waiting for a spare sword."}],"say":"To
+- 01:47 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk 540, Tommy at my bed in your sight, Billy. Unarmed, health 20, hunger 20, no food. Sleeping here."}
+- 01:47 act: {"actions":[{"do":"sleep"}]}
+- 01:51 act: {"actions":[{"do":"note","text":"Dawn 541 count: Tommy, at the bed row 416,107,-1023. Health 20, hunger 20, unarmed, no food. Holding for Billy."}],"say":"Tommy, dawn 541, at the row in your sight, Bi
+- 02:03 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Tommy, night 541, going to my bed at the row in Billy's sight. Unarmed, health 20, hunger 20, no food."}
+- 02:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Tommy, night 542, sleeping at my bed at the row in Billy's sight. Unarmed, health 20, hunger 20, no food."}
+- 02:15 act: {"actions":[{"do":"sleep"}]}
+- 02:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Tommy, dusk day 542. Unarmed, health 20, hunger 20, no food. Going to my bed at the row in Billy's sight."}
+- 02:28 act: {"actions":[{"do":"sleep"}]}

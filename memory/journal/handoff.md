@@ -1,7 +1,8 @@
-# Handoff, Tommy, night 532
+# Handoff, Tommy, night 542
 
-- Slept in the bed at 401,107,-1022 at the row, in Billy's sight. Woke after the night was skipped. Health 20, hunger 20, unarmed, no food, pack empty.
-- Billy's group at the row, all in sight: Billy armed (wooden sword), Data, Laforge, MacDonald, Meriwether, Trini, Zack. No walk named.
-- Rules: stay in Billy's sight, never walk or sleep alone, be counted at dawn, midday and dusk; say honestly I am unarmed.
+- Asleep in my bed at 415,107,-1023 at the row, in Billy's sight. Sleep worked.
+- Dusk 542 count: unarmed, health 20, hunger 20, no food, pack two bone and two arrow.
+- No walk named. Riker is trying to bring his own sword into hand. Zack is asleep at the row.
+- Rules: stay in Billy's sight, never walk or sleep alone, count honestly at dawn, midday and dusk.
 - Open debts: Billy (count, food), Clark (bread), Leonardo (sword), Kimberly (melon), Worf (sword), Johnny and Chapman (food).
-- Next: wake, count at dawn to Billy, then wait for a walk to be named.
+- Next: wake, count at dawn to Billy, then wait for a walk or a spare sword to be named.
