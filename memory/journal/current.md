@@ -17,3 +17,23 @@
 - 02:28 act: {"actions":[{"do":"sleep"}]}
 - 02:29 act: {"say":"Tommy, dawn 543. Unarmed, health 20, hunger 20, no food. Pack two bone, two arrow. At the row beside my bed, in Billy's sight. No walk. Billy, I wait for your named call."}
 - 02:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Tommy, night 543. Unarmed, health 20, hunger 20, no food. Sleeping at my bed at the row in Billy's sight. No walk.
+- 02:46 act: {"say":"Tommy, morning 544. Unarmed, health 20, hunger 20, no food. Pack two bone, two arrow. Holding at the row in Billy's sight. Sword line: after MacDonald.","reasoning":"Dawn count owed to Billy. 
+- 02:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Tommy, night 544. Unarmed, health 20, hunger 20, no food. Going to my bed at the row in Billy's sight. No walk.","
+- 02:59 act: {"say":"Riker, how did the sword come into your hand? Tommy here, unarmed, still holding at the row for Billy's call.","reasoning":"Riker got a sword in hand; I need that method. Ask, then wait.","int
+- 03:07 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Tommy, dusk 544. Unarmed, health 20, hunger 20, no food. Going to my bed at the row in Billy's sight. No walk.","r
+- 03:11 act: {"say":"Tommy, dawn 545. Awake at the row, unarmed, health 20, hunger 20, no food. Pack two bone, two arrow. Holding in Billy's sight. No walk from me.","reasoning":"Dawn count owed. Be honest and hol
+- 03:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Tommy, dusk 545. Unarmed, health 20, hunger 20, no food. Going to my bed at the row in Billy's sight. No walk.","r
+- 03:23 act: {"say":"Billy, Tommy at the row, unarmed, health 20, hunger 20, no food. Still holding in your sight. Name a walk or a spare sword when you can.","reasoning":"Keep myself counted and wait for Billy's 
+- 03:32 act: {"say":"Billy, Tommy at dusk 545. Unarmed, health 20, hunger 20, no food. Going to my bed in your sight. No walk from me.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]
+- 03:36 act: {"say":"Billy, Tommy at dawn 546 at the row. Unarmed, health 20, hunger 20, no food. Holding here, no walk from me. Glad you are back safe.","reasoning":"Counting honestly at dawn. The cow walk failed
+- 03:44 act: {"say":"Billy, Tommy at dusk 546. Unarmed, health 20, hunger 20, no food. No walk from me. Going to my bed in your sight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]
+- 03:49 act: {"say":"Billy, Tommy awake at dawn 546. Unarmed, health 20, hunger 20, no food. Holding in your sight for your walk.","reasoning":"Dawn count to Billy; no walk named yet, hold."}
+- 03:57 act: {"say":"Billy, Tommy at dusk 547. Unarmed, health 20, hunger 20, no food. No walk from me. Going to bed at the row in your sight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"
+- 04:01 act: {"say":"Billy, Tommy at dawn 547. Unarmed, health 20, hunger 20, no food. Lewis needs food more than I do. Holding here for your word.","reasoning":"Dawn count. I have nothing to give that feeds anyon
+- 04:09 act: {"say":"Billy, Tommy at dusk 547. Unarmed, health 20, hunger 20, no food. No walk from me. Going to bed at the row in your sight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"
+- 04:09 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"reasoning":"Sleep refused: not yet night. Stand at the bed, wait for night in Billy's sight."}
+- 04:12 act: {"say":"Tommy at night 547. Unarmed, health 20, hunger 20, no food. No walk. Sleeping at the row in Billy's sight.","actions":[{"do":"sleep"}],"reasoning":"Night, in bed at the row. Sleep."}
+- 04:16 act: {"say":"Billy, Tommy at dawn 548. Unarmed, health 20, hunger 20, no food. No walk from me. Holding at the row in your sight.","actions":[],"reasoning":"Dawn count to Billy. Hold for his word."}
+- 04:24 act: {"say":"Tommy at dusk 548. Unarmed, health 20, hunger 20, no food. No walk from me. Sleeping at the row in Billy's sight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]
+- 04:29 act: {"say":"Riker, Tommy: no food, none in my pack. Unarmed. Holding at the row for Billy.","actions":[],"reasoning":"Answer Riker honestly; hold."}
+- 04:37 act: {"say":"Billy, Tommy at dusk 549. Unarmed, health 20, hunger 20, no food. No walk from me. Sleeping at the row in your sight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"slee
