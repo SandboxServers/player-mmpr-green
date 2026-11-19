@@ -1,6 +1,44 @@
 # Journal
+- Day 559, morning. Woke at the row in Billy's sight. Said my count to Billy (unarmed, no food, health 20). Billy walked Jason and MacDonald to Wesley's; I held at the row.
 - Day 558, day. At the row beside Lewis (holding potato). Tried to sleep: refused, not night. Said my count (unarmed, no food). Holding in the group's sight until dusk.
 - 07:42 act: {"say":"Tommy here, at the row. Unarmed, no food, health 20. Holding in sight of the group until Billy names a walk.","intent":{"goal":"hold_at_row_until_dusk","program":"rest","arguments":{},"wake_on
 - 07:42 act: {"say":"Billy, Tommy at the row, morning 559. Unarmed, no food, health 20. Not named for your walk; I hold here in sight."}
 - 07:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"use","at":{"x":443,"y":107,"z":-1036}}],"say":"Tommy at the row, night 559. Unarmed, health 20, hunger 20, no food. Going to the w
 - 07:54 act: {"actions":[{"do":"sleep"}]}
+- 07:55 act: {"say":"Tommy, morning 559, at the row in Billy's sight. Health 20, hunger 20. Unarmed, no food. Holding here.","actions":[],"reasoning":"Billy asked for counts; I answer honestly and hold in sight un
+- 08:00 act: {"say":"Jason, Tommy here at the row, by the white bed at 444,107,-1037. I take the potatoes with thanks. Unarmed still; I will hold here.","actions":[],"reasoning":"Jason needs my position to give sa
+- 08:01 act: {"say":"Thank you, Jason. Tell Billy I have counted and I hold by the bed.","actions":[],"reasoning":"Receive the potatoes and acknowledge; check the pack after the give lands."}
+- 08:01 act: {"say":"Jason, I am coming to you at 441,107,-1037 now, in sight. Hold the potatoes there.","actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1037}}],"reasoning":"Three blocks in daylight, with J
+- 08:01 act: {"say":"Jason, I am beside you now. Give the 8 potatoes, please.","actions":[],"reasoning":"Jason is in reach; I wait for the give to land."}
+- 08:02 act: {"say":"Jason, I have the 8 potatoes in my pack. Thank you. Billy, Tommy holds at the bed, unarmed, with food now.","actions":[],"reasoning":"Food received; report to Billy and hold in sight."}
+- 08:06 act: {"say":"Dusk 559, Tommy at the row bed, unarmed, health 20, hunger 20, holding 8 potatoes from Jason. Going to sleep in the row's sight.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},
+- 08:06 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"The bed use failed at dusk; try once more now that it is night, then sleep."}
+- 08:06 act: {"say":"Tommy at the row. The bed refuses me again; I will sleep here by the bed, still in the row's sight.","actions":[{"do":"sleep"}],"reasoning":"Bed use failed twice; not a third try. Sleep here i
+- 08:10 act: {"say":"Billy, morning 559, Tommy at the row by the bed. Health 20, hunger 20. Unarmed. I hold 8 potatoes from Jason, held for whoever is hungriest.","actions":[],"reasoning":"Honest count to Billy; m
+- 08:14 act: {"say":"Morning 560, Tommy at the row by the bed. Health 20, hunger 20, unarmed, 8 potatoes held for whoever Billy names.","actions":[],"reasoning":"Dawn count to the group; I hold my potatoes for the
+- 08:18 act: {"say":"Dusk 560, Tommy at the row by the bed, unarmed, health 20, hunger 20. Sleeping in the row's sight.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Dusk; 
+- 08:18 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use refused again; sleep here in the group's sight."}
+- 08:23 act: {"say":"Tommy at the row, 444,107,-1037. Health 20, hunger 20, unarmed, 8 potatoes held for whoever Billy names. Holding in sight."}
+- 08:27 act: {"say":"Billy, Tommy at the row with 8 potatoes, health 20, hunger 20. Deanna is at 15 health and hunger 17, Wesley 18, Riker hungry. Name who comes into my sight and I give them the potatoes."}
+- 08:31 act: {"say":"Dusk 560, Tommy at the row, health 20, hunger 20, unarmed, holding 8 potatoes for the hungry. Billy has the 13 for Riker, Deanna and Wesley first. I sleep here in the row's sight.","actions":[
+- 08:35 act: {"say":"Morning 561, Tommy at the row, 444,107,-1037. Health 20, hunger 20, unarmed. 8 potatoes held for Wesley or whoever Billy names. Holding in sight."}
+- 08:36 act: {"say":"Heard, Billy. Tommy keeps the 8 potatoes for Wesley and Deanna, and gives them only when you name them in my sight. Holding by the bed."}
+- 08:38 act: {"say":"Heard, Billy. Tommy walks with Jason in daylight to Wesley at 416,107,-1050 with the 8 potatoes. I am unarmed; Jason leads with his sword.","intent":{"goal":"give_potatoes_to_wesley","program"
+- 08:39 act: {"say":"Wesley, Tommy here at 418,107,-1053 with the 8 potatoes in my pack. Step into my sight and say so, and I give them to you. Jason, I hold them, not you."}
+- 08:42 act: {"say":"Wesley, Tommy here at 420,107,-1053. Step into reach and say so; I give you the 8 potatoes."}
+- 08:42 act: {"say":"Wesley, Tommy walking to you now at 418,107,-1051 with my 8 potatoes. Stay where you are; I will give them when you are in reach.","actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1051}}
+- 08:42 act: {"say":"Wesley, Tommy at 418,107,-1053 with 8 potatoes. I do not see you yet. Step into my sight and I give them at once."}
+- 08:44 act: {"say":"Billy, Tommy at 418,107,-1053, Wesley not in my sight, so I still hold the 8 potatoes. Sun is low; I walk back to the row with Jason before dark, in sight.","actions":[{"do":"goto","target":{"
+- 08:45 act: {"say":"Dusk 561, Tommy at the row 440,107,-1037. Unarmed, health 20, hunger 20. Holding 8 potatoes for Wesley or Deanna; I do not see Wesley from here. Sleeping in the row's sight.","actions":[{"do":
+- 08:45 act: {"actions":[{"do":"sleep"}],"say":"Tommy at the row, night 561, Laforge beside me. Unarmed, holding 8 potatoes for Wesley or Deanna at first light. Sleeping in sight."}
+- 08:46 act: {"say":"Deanna, Tommy at the row 444,107,-1036 with Laforge, 8 potatoes in my pack for you and Wesley. I will not walk in the dark. At first light I come to you, or you come to my sight and I give at 
+- 08:49 act: {"say":"Morning 562, Tommy at the row 444,107,-1037. Health 20, hunger 20, unarmed. I hold 8 potatoes for Wesley and Deanna. Billy, name me for the walk to Wesley's bed and I come with the armed group
+- 08:49 act: {"say":"Heard, Billy. Tommy holds at the row until the armed group is on the road, then follows to Deanna with my 8 potatoes, in sight of Jason or Riker.","actions":[]}
+- 09:00 act: {"say":"Night 562, Tommy at the row 444,107,-1037, unarmed, health 20, hunger 20. Holding 8 potatoes for Deanna as Billy named. Sleeping in the row's sight.","actions":[{"do":"sleep"}]}
+- 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:04 act: {"actions":[],"say":"Morning 562, Tommy at the row 444,107,-1037. Health 20, hunger 20, unarmed. Holding 8 potatoes for Deanna. Deanna, come into my sight here and I give them to you. I will not walk 
+- 09:08 act: {"actions":[],"say":"Heard. Deanna now has Riker's 10 potatoes, so my 8 are held for whoever Billy names next. Wesley, if you come into my sight at the row I give them to you. I stay here in the group
+- 09:12 act: {"actions":[{"do":"sleep"}],"say":"Dusk 562, Tommy at the row 444,107,-1037. Unarmed, health 20, hunger 20. Holding 8 potatoes for whoever Billy names. Sleeping in the row's sight."}
+- 09:12 act: {"actions":[{"do":"sleep"}]}
