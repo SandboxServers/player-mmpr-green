@@ -37,3 +37,9 @@
 - 04:24 act: {"say":"Tommy at dusk 548. Unarmed, health 20, hunger 20, no food. No walk from me. Sleeping at the row in Billy's sight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]
 - 04:29 act: {"say":"Riker, Tommy: no food, none in my pack. Unarmed. Holding at the row for Billy.","actions":[],"reasoning":"Answer Riker honestly; hold."}
 - 04:37 act: {"say":"Billy, Tommy at dusk 549. Unarmed, health 20, hunger 20, no food. No walk from me. Sleeping at the row in your sight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"slee
+- 04:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Tommy, night 549, unarmed, health 20, hunger 20, no food. Going to the bed at the row, in sight of Troi."}
+- 04:43 act: {"actions":[],"say":"Billy, Tommy at dawn 549, at the row in your sight. Unarmed, health 20, hunger 20, no food. No walk from me. Holding for your named call and the sword line."}
+- 04:51 act: {"actions":[],"say":"Jason, Tommy here at the row, unarmed. If you have a spare wooden sword once your hand is set, I would take it for the next walk. No hurry; I hold until Billy names one."}
+- 04:52 act: {"actions":[],"say":"Understood, Jason. Billy, Tommy at the row, unarmed, no food. Could you name me for a sword in the line when one is free? I hold in your sight."}
+- 04:52 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy, understood. Tommy at dusk 549, unarmed, health 20, hunger 20, no food. Going to bed at the row in your sigh
+- 04:56 act: {"actions":[],"say":"Billy, Tommy at dawn 550, at the row beside you. Unarmed, health 20, hunger 20, no food. No walk from me. Holding for your named call and the sword line."}
