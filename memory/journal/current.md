@@ -5,3 +5,5 @@
 - 07:11 act: {"say":"Tommy here at the row, dusk 556. Unarmed, no food, health 20. Sleeping in sight of the bed tonight.","intent":{"goal":"await_night_then_sleep","program":"rest","arguments":{},"wake_on":["direc
 - 07:11 act: {"actions":[{"do":"sleep"}]}
 - 07:12 act: {"actions":[{"do":"sleep"}]}
+- Morning 557 (later): moved to 444,107,-1036 at the row and said my count to the row: unarmed, no food, health 20, hunger 20. Not named for a walk. Waiting for a spare sword or a named walk.
+- 07:16 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1036}}],"say":"Tommy at the row, morning 557. Unarmed, no food, health 20, hunger 20. Holding in Billy's sight, waiting for a spare sword or a n
