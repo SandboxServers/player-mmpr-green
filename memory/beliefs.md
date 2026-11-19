@@ -42,6 +42,10 @@
 - Sleep at dusk in the bed at 443,107,-1037 worked on night 583 (digest returned, no attack).
 - Chests and crafting tables in the row are stocked with nothing I can use for food.
 
+## New today (day 603)
+- Ripe potatoes are known at 467 to 469, 107, -1068 to -1072 (by the water, near the wheat).
+- Jason, Lewis and John report holding at the row in Billy's sight when no walk is named.
+
 ## Curious next
 - Whether a spare sword comes in the line before I am named.
 - Who could tell me where food is: Trini, Jason.

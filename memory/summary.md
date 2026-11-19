@@ -1,13 +1,14 @@
 # Summary: Tommy Oliver
 
-Day 602, night. Asleep at my bed 443,107,-1065 in Billy's row, in sight. Health 15, hunger 16, wooden sword in hand, 1 spare sword, 2 potatoes, 2 bone, 2 arrows.
+Day 603, night, asleep in my bed at 443,107,-1065 in Billy's row, in sight. Health 15, hunger 16, one wooden sword in hand, 1 spare sword, 2 potatoes, 2 bone, 2 arrows.
 
 ## Where I am
 - With Billy's group. Billy names every walk; we hold until he does.
-- West path from my bed is still blocked by solid oak planks (last seen dusk 584). No one has a verified route.
+- West path from my bed is still blocked by solid oak planks. No one has a verified route.
+- Ripe potatoes by the water at about 467-469, 107, -1068 to -1072.
 
 ## What matters
-- Eat a potato when hunger falls below 15 (Billy keeps one for me at hunger 10).
+- Eat a potato when hunger falls below 15.
 - Walk only in daylight, when Billy names a verified route.
 - Stay in sight of the group; never walk alone; never sleep alone.
 - Be counted at dawn, midday and dusk; say honestly what I hold.
