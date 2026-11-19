@@ -4,3 +4,9 @@
 - 16:35 act: {"say":"Tommy's count at dawn: health 15, hunger 16, wooden sword in hand, 2 potatoes, 2 spare wooden swords. West planks still block the way; I have not moved. Holding for Billy's named walk.","reaso
 - 16:43 act: {"say":"Dusk count from Tommy: health 15, hunger 16, sword in hand, 2 potatoes, 2 spare swords. Still no walk. Going to my bed in the row's sight.","reasoning":"Dusk: count to the group, then sleep in
 - 16:46 act: {"say":"Billy, Tommy: I saw solid oak planks blocking the west path from my bed, at dusk 584. I have not looked since, so that is my last sight. No walk from me until you name a route.","reasoning":"B
+- 16:54 act: {"say":"Billy, Tommy: I have not been past the planks. I only saw them blocking the west from my bed. No walk from me until someone has seen the way clear.","reasoning":"Billy asked who has been past 
+- Night 586: slept at my bed 443,107,-1037 in the row's sight. The sleep worked and the night was skipped. Health 15, hunger 16. Still holding; no walk named.
+- 16:58 act: {"say":"Dusk, Billy. Tommy at my bed 443,107,-1037, in the row's sight. Health 15, hunger 16, sword in hand. No walk. Goodnight.","reasoning":"Night has come. I hold at my bed in sight and sleep.","ac
+- 17:03 act: {"actions":[{"do":"note","text":"Morning 586 after sleep. Health 15, hunger 16, holding at bed 443,107,-1037. No walk named."}],"say":"Morning. Tommy at my bed 443,107,-1037, in the row's sight. Healt
+- 17:11 act: {"actions":[{"do":"note","text":"Dusk 586: holding at my bed 443,107,-1037 in the row's sight. No walk. Going to sleep."}],"say":"Dusk, Tommy at my bed 443,107,-1037, in the row's sight. Health 15, hu
+- 17:11 act: {"actions":[{"do":"note","text":"Woke day 587 at bed 443,107,-1037. Reflect: I hold to the rule of no walk until Billy names a verified route. My last sight of the west was oak planks at dusk 584."}],
