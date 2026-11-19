@@ -3,3 +3,5 @@
 - Dawn 553: said my count to the row (unarmed, no food, health 20, hunger 20). Still 18 days since sleep; need a bed at night. Holding for Billy's named call.
 - Night 554: tried to use the bed at the row in daylight; refused (bed use needs night). Morning 554: Billy named a walk for Jason and himself to Wesley's bed; I was not named. Holding at the row, unarmed, no food. Will sleep at night in the bed beside Kimberly.
 - 06:17 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"use","at":{"x":443,"y":107,"z":-1036}}],"say":"Tommy at the row for the night, 443,107,-1036, unarmed, no food, health 20, hunger 
+- 06:31 say: {"text":"Tommy here at the row. Unarmed, hunger 20, no food. Going to the white bed to sleep in Billy's sight."}
+- 06:31 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"use","at":{"x":443,"y":107,"z":-1036}}]}
