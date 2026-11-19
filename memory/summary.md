@@ -1,14 +1,14 @@
 # Summary: Tommy Oliver
 
-Day 582, night. Asleep at bed 443,107,-1037 in the row, in Billy's sight. Health 15, hunger 16, wooden sword in hand, two spare swords, 3 potatoes.
+Day 583, night. Asleep at my bed 443,107,-1037 in the row, in Billy's sight. Health 15, hunger 16, wooden sword in hand, two spare swords, 2 potatoes.
 
 ## Where I am
 - At the row with Billy's group. Billy names every walk; we hold at the row until he does.
-- The path west from my bed is blocked by solid oak planks one or two blocks ahead.
+- The path west from my bed is still blocked by solid oak planks. No verified route yet.
 - Armed: Billy, Zack, Laforge, Trini, Picard, Jason, MacDonald, Lewis and me.
 
 ## What matters
-- Find food. Walk only in daylight, when Billy names the spot.
+- Find food. Eat when hunger falls below 15. Walk only in daylight, when Billy names the spot.
 - Stay in sight of the group; never walk alone; never sleep alone.
 - Be counted at dawn, midday and dusk; say honestly what I hold.
 

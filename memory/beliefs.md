@@ -37,8 +37,10 @@
 - Whether Worf will give a sword.
 - Where the bows come from; where Billy's next walk will go.
 
-## New today (day 553)
-- Night sleep held again at the row with the group in sight; no attack reached us.
+## New today (day 583)
+- Billy names no walk while the planks west of my bed block the way; verified route is required. Dawn counts are answered to Billy by say.
+- Sleep at dusk in the bed at 443,107,-1037 worked on night 583 (digest returned, no attack).
+- Chests and crafting tables in the row are stocked with nothing I can use for food.
 
 ## Curious next
 - Whether a spare sword comes in the line before I am named.
