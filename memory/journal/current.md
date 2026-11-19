@@ -10,3 +10,9 @@
 - 17:03 act: {"actions":[{"do":"note","text":"Morning 586 after sleep. Health 15, hunger 16, holding at bed 443,107,-1037. No walk named."}],"say":"Morning. Tommy at my bed 443,107,-1037, in the row's sight. Healt
 - 17:11 act: {"actions":[{"do":"note","text":"Dusk 586: holding at my bed 443,107,-1037 in the row's sight. No walk. Going to sleep."}],"say":"Dusk, Tommy at my bed 443,107,-1037, in the row's sight. Health 15, hu
 - 17:11 act: {"actions":[{"do":"note","text":"Woke day 587 at bed 443,107,-1037. Reflect: I hold to the rule of no walk until Billy names a verified route. My last sight of the west was oak planks at dusk 584."}],
+- 17:36 act: {"actions":[{"do":"note","text":"Dusk 588: holding at bed 443,107,-1037 in the row's sight. Health 15, hunger 16. No walk named. Going to sleep."}],"say":"Dusk, Tommy at my bed 443,107,-1037, in the r
+- 17:36 act: {"actions":[{"do":"note","text":"Woke day 589 at bed 443,107,-1037. Holding; no walk named. Hunger 16, health 15."}],"say":"Morning, row. Tommy at my bed 443,107,-1037, in Billy's sight. Health 15, hu
+- 17:39 act: {"actions":[{"do":"note","text":"Billy asked about a clear west route. I have not seen one: only the oak planks at dusk 584. Hunger 16, no one at 6. Holding."}],"say":"Billy, Tommy here at my bed 443,
+- 17:51 act: {"actions":[{"do":"note","text":"Dusk 588 again: no walk tonight. Holding at bed 443,107,-1037 in Billy's sight. Health 15, hunger 16. Going to sleep."}],"say":"Dusk, Tommy at my bed 443,107,-1037, in
+- 17:56 act: {"actions":[{"do":"note","text":"Day 589 daytime: no walk named, hunger 16, health 15. Holding at bed 443,107,-1037 in the row's sight."}],"say":"Tommy at my bed 443,107,-1037, holding in the row's si
+- 18:04 act: {"actions":[{"do":"note","text":"Dusk 589: holding at bed 443,107,-1037 in Billy's sight. No walk named. Health 15, hunger 16. Going to sleep."}],"say":"Dusk, Tommy at my bed 443,107,-1037, in the row
