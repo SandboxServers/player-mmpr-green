@@ -9,3 +9,21 @@
 - 19:14 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"reasoning":"Night in Billy's row, in sight. Hunger 16, no walk named. Bed is adjacent. Handoff written. Sleep."}
 - 19:27 act: {"actions":[{"do":"sleep"}],"reasoning":"Night in the row, next to my bed, in sight, no walk named. Sleep."}
 - 19:35 say: {"text":"Morning, row. Tommy at 444,107,-1065, health 15, hunger 16. Holding in Billy's sight, no walk."}
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night, row. Tommy at the bed by 443,107,-1065, in Billy's sight. No walk taken. Sleeping."}
+- 19:40 act: {"actions":[{"do":"sleep"}]}
+- 19:44 act: {"actions":[],"say":"Morning, row. Tommy at the bed by 429,107,-1063, in sight. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk taken. Holding for Billy's named call."
+- 19:52 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Tommy at the bed by 429,107,-1063, in sight. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk taken. Sleeping."}
+- 19:52 act: {"actions":[{"do":"sleep"}]}
+- 19:57 act: {"actions":[],"say":"Morning, row. Tommy at 430,107,-1065, in sight. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk named for me. Holding for Billy."}
+- 20:05 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk, row. Tommy at the bed 429,107,-1065, in sight. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone
+- 20:09 act: {"actions":[],"say":"Morning, row. Tommy here at 430,107,-1065, health 15, hunger 16, holding 3 potatoes. No walk named for me; holding for Billy."}
+- 20:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk, row. Tommy going to the bed 429,107,-1065, in Billy's sight. No walk named. Sleeping."}
+- 20:35 act: {"actions":[],"say":"Morning, row. Tommy here at 430,107,-1065, health 15, hunger 16, 3 potatoes. No walk named for me; holding for Billy."}
+- 21:00 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 21:11 act: {"actions":[{"do":"sleep"}]}
+- 21:11 act: {"actions":[{"do":"sleep"}]}
+- 21:12 act: {"actions":[{"do":"sleep"}]}
+- 21:24 act: {"actions":[{"do":"sleep"}]}
+- 21:24 act: {"actions":[{"do":"sleep"}]}
+- 21:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 21:36 act: {"actions":[{"do":"sleep"}]}
