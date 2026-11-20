@@ -1,6 +1,6 @@
 # Goals (ranked)
 
-Revised day 674 (night). Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Slept at bed 429,107,-1065.
+Revised day 677 (night). Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Slept at bed 429,107,-1065.
 
 1. Keep food honest: eat under 15, or call Billy at 10. Hunger is 16; not yet.
 2. Hold my place in the row. Walk only on Billy's named call, in daylight, with an armed escort and a verified route. No call yet.

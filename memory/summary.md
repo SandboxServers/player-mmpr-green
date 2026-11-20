@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 674, asleep at bed 429,107,-1065 in Billy's row, in sight. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
+Day 677, asleep at bed 429,107,-1065 in Billy's row, in sight of the group. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
 
 ## Where I am
-- In the row with Billy's group. Billy names every walk; I hold until he names me.
+- In the row with Billy's group. Billy names every walk; I hold until he names me. No walk named yet.
 - The west way to x=380 is still unverified. No sheep seen yet.
 
 ## What matters
@@ -21,3 +21,4 @@ Day 674, asleep at bed 429,107,-1065 in Billy's row, in sight. Health 15, hunger
 - A give is real only when it lands in the receiver's hand. Check who is receiving.
 - Confirm names before giving; a call named to someone else is not mine.
 - Sleep works at dusk in the row.
+- The rest intent ran out or failed quickly; a plain wait holds the same place.
