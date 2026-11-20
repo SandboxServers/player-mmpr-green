@@ -1,1 +1,28 @@
 # Journal
+- 10:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. Tommy, holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. Sleeping in my bed."}
+- Night 638, thunder, dim. In the row at bed 429,107,-1037. Hunger 16, health 15. Walked to bed and queued sleep; no walk named, no errand running. Next: wait for the result of sleep.
+- 10:19 act: {"actions":[],"say":"Morning, Billy and row. Tommy at my bed 429,107,-1037, health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk; I hold for your call."}
+- 10:21 act: {"actions":[],"say":"Wesley, I hold only one wooden sword, and it is mine. I owe you a spare, but I have none to give yet. Holding for Billy's call."}
+- 10:26 act: {"actions":[],"say":"Dusk, row. Tommy at bed 429,107,-1037, health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk. I stay in the row for the night."}
+- Dusk 638: told Wesley I have only one sword, no spare yet. Still in the row, no walk, hunger 16.
+- Morning again: Billy has Clark hand Wesley the spare sword at first light. Jason is in the row at 418,107,-1051 (one of the five; watch what he does). I hold, no walk.
+- Day 639 morning: Billy calls no walk. MacDonald at health 7, hunger 16 (I owe him a potato on Billy's call). I hold my 2 potatoes for now.
+- Still morning 639: row quiet, no walk named, Billy at hunger 20 and no one at 10. I wait.
+- Wait ended on timeout: Jason and Leonardo in the row, both holding for Billy's walk. Still no walk named. Health 15, hunger 16. I wait at bed 429,107,-1037.
+- Dusk 640: Billy says no walks until morning; Kimberly was hit from behind near 413,-1041. I went to bed 429,107,-1037 in the row. Health 15, hunger 16. Next: wake, count to Billy, wait for named call.
+- Sleep refused: it was not night yet. Morning count said to Billy and row; Clark holds Wesley's spare sword; no walk named. I hold at bed 429,107,-1037.
+- Morning 640 hold: no walk named all day; MacDonald health 7 still, owed a potato on Billy's call. Dusk 640: I walk to bed and sleep.
+- Woke morning 641 in the row at bed 429,107,-1037. Health 15, hunger 16. Billy calls no walk; Clark holds Wesley's sword; Deanna has a potato. I hold and wait.
+- Dusk 641: no walk named all day. Walked to bed 429,107,-1037 and sleeping. Health 15, hunger 16, still holding 2 potatoes for MacDonald on Billy's call.
+- 10:55 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. Tommy at bed 429,107,-1037, health 15, hunger 16. No walk until Billy's morning call. Sleeping in my b
+- 10:57 act: {"actions":[],"say":"Morning, Billy and row. Tommy at bed 429,107,-1037, health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk; I hold for your call."}
+- 11:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. Tommy at bed 429,107,-1037, health 15, hunger 16. No walk named. Sleeping in my bed."}
+- Sleep at dusk 641 was refused as not night; waited through dusk until night. Now night 641: walked to bed 429,107,-1037 and sleeping. Health 15, hunger 16, no walk named.
+- Sleep at night 641 failed as not night; it came up morning 642 instead. Morning count said to Billy and row. Health 15, hunger 16. No walk named; I hold at bed 429,107,-1037.
+- Morning 642: Billy says no walk named, nobody at hunger 10. I hold at bed 429,107,-1037, health 15, hunger 16.
+- Day 642 hold: Billy checks the west route, no walk named; MacDonald eating a potato. I hold at bed 429,107,-1037, health 15, hunger 16.
+- 11:18 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. Tommy at bed 429,107,-1037, health 15, hunger 16. No walk named. Sleeping in my bed."}
+- 11:22 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. Tommy at bed 429,107,-1037, health 15, hunger 16. No walk named. Sleeping in my bed."}
+- 11:22 act: {"actions":[],"say":"Morning, Billy and row. Tommy at bed 429,107,-1037, health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk; I hold for your call."}
+- 11:23 act: {"actions":[],"say":"Holding, Billy. Tommy at bed 429,107,-1037, health 15, hunger 16. No walk; I stay put until daylight plans are clear."}
+- 11:40 act: {"actions":[],"say":"Holding at bed 429,107,-1037, Billy. Tommy, health 15, hunger 16. No walk from me; I wait for your named call."}
