@@ -1,9 +1,9 @@
 # Goals (ranked)
 
-Revised day 637 (night). Health 15, hunger 16, 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. Slept at bed 429,107,-1037.
+Revised day 653 (night). Health 15, hunger 16, 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. Slept at bed 443,107,-1051.
 
-1. Keep food honest: eat under 15 or call Billy at 10. Zack offers a potato when I am in reach; Clark has 5 if needed.
-2. Hold my place in the row. Walk only on Billy's named call, in daylight, with an armed escort and a verified route.
+1. Keep food honest: eat under 15 or call Billy at 10. Kimberly is first in line for Billy's potato at hunger 10.
+2. Hold my place in the row. Walk only on Billy's named call, in daylight, with an armed escort and a verified route. The west way is still unverified.
 3. Never walk or sleep alone. Stay in sight of the row.
 4. Before any give, check who is receiving it.
 5. Give a spare wooden sword to Wesley when Billy calls it and he is close.
