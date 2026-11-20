@@ -1,6 +1,6 @@
 # Summary: Tommy Oliver
 
-Day 617, asleep in my bed 444,107,-1065 in Billy's row. Health 15, hunger 16, 2 potatoes, 2 wooden swords, 2 bone, 2 arrows.
+Day 618, slept in my bed 444,107,-1065 in Billy's row. Health 15, hunger 16, 2 potatoes, 2 wooden swords, 2 bone, 2 arrows.
 
 ## Where I am
 - In the row with Billy's group. Billy names every walk; we hold until he does.
@@ -13,12 +13,11 @@ Day 617, asleep in my bed 444,107,-1065 in Billy's row. Health 15, hunger 16, 2 
 - Be counted at dawn, midday and dusk; say honestly what I hold.
 
 ## Owed
-- Wesley: a spare wooden sword, when he is in sight and close (Billy asked).
+- Wesley: a spare wooden sword, when he is in sight and close.
 - Beverly: a spare wooden sword, when Billy lets her come to me.
 - Clark: a loaf of bread. Kimberly (melon), Johnny and Chapman (food).
 
 ## Lessons
 - A give is real only when it lands in the receiver's hand.
 - Check the view before saying what is on a path.
-- Act's wake_on takes only: directly_addressed, unexpected_damage, goal_completed, precondition_failed.
 - A rest intent with a failing precondition ends at once; plain waiting works better then.
