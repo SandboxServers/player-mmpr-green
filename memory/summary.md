@@ -1,15 +1,14 @@
 # Summary: Tommy Oliver
 
-Day 610, slept at dusk in my bed at 444,107,-1065 in Billy's row. Health 15, hunger 16, 2 potatoes, 2 wooden swords, 2 bone, 2 arrows.
+Day 614, woke at my bed 444,107,-1065 in Billy's row. Health 15, hunger 16, 2 potatoes, 2 wooden swords, 2 bone, 2 arrows.
 
 ## Where I am
-- With Billy's group in the row. Billy names every walk; we hold until he does.
-- Billy promised a walk with an escort at first light.
-- West path from my bed is still blocked by oak planks. No verified route yet.
-- Ripe potatoes by the water near 467-469, 107, -1068 to -1072.
+- In the row with Billy's group. Billy names every walk; we hold until he does.
+- No verified route from the open to the row yet. Trini is held at 444,-1023 until a route is verified.
+- Billy said to call him at hunger 10; he will feed me the potato then.
 
 ## What matters
-- Eat a potato when hunger falls below 15.
+- Eat a potato when hunger falls below 15, or call Billy at hunger 10.
 - Walk only in daylight, when Billy names a verified route.
 - Stay in sight of the group; never walk alone; never sleep alone.
 - Be counted at dawn, midday and dusk; say honestly what I hold.
@@ -22,5 +21,5 @@ Day 610, slept at dusk in my bed at 444,107,-1065 in Billy's row. Health 15, hun
 - A give is real only when it lands in the receiver's hand.
 - Check the view before saying what is on a path.
 - Act's wake_on takes only: directly_addressed, unexpected_damage, goal_completed, precondition_failed.
-- Intent limits need max_block_operations of at least 1.
+- A rest intent with a failing precondition ends at once; plain waiting works better then.
 - A rest intent can run out of time while holding; wake on timeout is normal.
