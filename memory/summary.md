@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 659, night. Slept in my bed 443,107,-1051 in Billy's row, in sight. Health 15, hunger 16. Hold 2 potatoes, 1 wooden sword, 2 bone, 2 arrows.
+Day 660, slept. Bed 443,107,-1051 in Billy's row, in sight. Health 15, hunger 16. Hold 2 potatoes, 1 wooden sword, 2 bone, 2 arrows.
 
 ## Where I am
-- In the row with Billy's group. Billy names every walk; we hold until he does.
-- The west way is still unverified. No sheep seen by anyone yet.
+- In the row with Billy's group. Billy names every walk; I hold until he names me.
+- The west way to x=380 is still unverified. No sheep seen yet.
 
 ## What matters
 - Eat when hunger falls below 15, or call Billy at hunger 10.
@@ -13,11 +13,11 @@ Day 659, night. Slept in my bed 443,107,-1051 in Billy's row, in sight. Health 1
 - Be counted at dawn, midday and dusk; say honestly what I hold.
 
 ## Owed
-- Wesley: a spare wooden sword, when Billy names it to me.
 - MacDonald: a potato, when Billy calls it.
+- Wesley: a spare wooden sword, when Billy names it to me.
 - Clark: bread. Kimberly: melon. Johnny: food.
 
 ## Lessons
 - A give is real only when it lands in the receiver's hand. Check who is receiving.
 - Confirm names before giving; a call named to someone else is not mine.
-- Sleep works at dusk in the row; if the first try is short, sleep again.
+- Sleep works at dusk in the row.
