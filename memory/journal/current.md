@@ -9,3 +9,4 @@
 - 06:38 act: {"say":"Tommy taking the named walk: one spare wooden sword to Wesley at 416,107,-1050, Picard escorting. Bows checked from here, none close. Going now.","actions":[{"do":"goto","target":{"x":416,"y":
 - 06:38 act: {"say":"Tommy at 413,107,-1050. Path blocked here, same as before. Wesley not in sight, Picard not with me. Holding my sword; no give yet. A skeleton horse is 12 off to the south-west. Waiting for Bil
 - 06:41 act: {"say":"Midday count from Tommy: health 15, hunger 16, holding 2 potatoes, 2 wooden swords, 2 bone, 2 arrows. Still at 413,107,-1050, no Wesley in sight. I am alone out here, so I am going back to the
+- 06:46 act: {"say":"Dusk count from Tommy: health 15, hunger 16, holding 2 potatoes, 2 wooden swords, 2 bone, 2 arrows. Walk called off, sword still with me. Trying my bed here for the night.","actions":[{"do":"s
