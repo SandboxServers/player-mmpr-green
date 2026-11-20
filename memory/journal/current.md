@@ -20,3 +20,5 @@
 - 02:11 act: {"say":"Tommy, dusk 613. At my bed 444,107,-1065, in sight. Health 15, hunger 16, 2 potatoes. Bed still refuses use. No walk; I stay awake here."}
 - Morning 614: said my count. Billy named no walk; holding in sight. Hunger 16, so no potato yet.
 - 02:15 act: {"actions":[{"do":"wait","seconds":60}],"say":"Tommy here, morning 614. At my bed 444,107,-1065, in your sight. Health 15, hunger 16, 2 potatoes. No walk. Holding.","reasoning":"Dawn count said. Holdi
+- 02:16 act: {"say":"Tommy, at my bed in the row. Health 15, hunger 16. Holding 2 potatoes, 2 wooden swords, 2 bone, 2 arrows. Holding here, no walk.","intent":{"goal":"hold_in_row","program":"rest","arguments":{"
+- 02:16 act: {"intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
