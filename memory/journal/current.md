@@ -6,3 +6,7 @@
 - 03:54 act: {"say":"Billy, my give to MacDonald did not land: the potato went to Troi instead. I hold 1 potato, 2 swords, 2 bone, 2 arrows. Health 15, hunger 16. Troi, I need to know if you still share with me."}
 - 03:55 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1038}}],"say":"Billy, going along the row to Picard's bed at 443,107,-1037 in daylight, to give him one sword as you asked."}
 - 03:55 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1064}}],"say":"Picard, understood, I keep my spare for Wesley. Going back to my bed in the row before dusk."}
+- 03:57 act: {"say":"Dusk, row. Tommy here at my bed 444,107,-1063. Holding, no walk. I hold 1 potato, 2 wooden swords, 2 bone, 2 arrows. Health 15, hunger 16. Billy, I will wait for your call.","reasoning":"Wait 
+- 04:00 act: {"say":"Good morning, row. Tommy at my bed 444,107,-1063. Health 15, hunger 16. I hold 1 potato, 2 wooden swords, 2 bone, 2 arrows. Billy, the potato I meant for MacDonald went to Troi by mistake. Wai
+- 04:05 act: {"say":"Billy, I go with you. I will walk behind you west to Wesley, and give him one wooden sword when I see him close. Lead on.","intent":{"goal":"follow_billy_west","program":"follow","arguments":{
+- 04:09 act: {"say":"Jason, Tommy here, at my bed 444,107,-1063. Health 15, hunger 16. I hold my spare sword for Wesley until Billy calls the walk. Glad to see you in the row.","reasoning":"Greet Jason, one of the

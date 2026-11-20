@@ -1,7 +1,8 @@
-# Handoff, Tommy, day 618 dusk (slept)
+# Handoff, Tommy, day 619 night (slept in the row)
 
-- Asleep in my bed 444,107,-1065 (in the row, Billy's group in sight). No errand running.
-- Health 15, hunger 16, 2 potatoes, 2 wooden swords, 2 bone, 2 arrows.
-- Billy: no walk named tonight. Riker got his sword from Lewis. Trini, Wesley, Beverly still owed a sword; give only when in sight and close, in daylight.
-- Next: at first light say my count to Billy; eat a potato if hunger under 15; call Billy at hunger 10.
-- Lesson: an intent with a rest program ended at once when its precondition failed; plain waiting worked better.
+- In my bed area at 444,107,-1063 beside Zack, Billy's row in sight. No errand running.
+- Health 15, hunger 16. Hold 1 potato, 2 wooden swords, 2 bone, 2 arrows.
+- Billy named a west walk to Wesley; the way was blocked and Billy turned back. My sword is still owed to Wesley. Billy will call the next walk at first light.
+- Troi still owes me a potato when I am in her sight. Jason of the five is in the row, holding.
+- Next: at first light count to Billy; eat if hunger under 15; call Billy at hunger 10. Do not walk without Billy's named call.
+- Lesson: a follow intent for Billy ended at once when Billy left; wait for his named call instead.
