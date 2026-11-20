@@ -7,3 +7,16 @@
 - 01:07 act: {"say":"Tommy here, at my bed in the row. Health 15, hunger 16, 2 potatoes, 2 wooden swords, 2 bone, 2 arrows. Oak planks still block my west side. No verified route known to me. Holding.","reasoning"
 - 01:19 act: {"say":"Tommy, dusk on 611. In my bed in the row, in Billy's sight. Health 15, hunger 16, 2 potatoes. No walk tonight.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"reason
 - 01:19 act: {"say":"Tommy, sleeping in the row now, in Billy's sight. No walk.","actions":[{"do":"sleep"}],"reasoning":"Bed use failed; sleep here in the row's sight at night."}
+- 01:21 act: {"say":"Tommy, at my bed 444,107,-1065. Health 15, hunger 16, 2 potatoes, 2 swords, 2 bone, 2 arrows. Holding, no walk.","intent":{"goal":"hold_in_row","program":"rest","arguments":{"seconds":240},"wa
+- Morning 611: Billy named no walk; everyone holds in sight. My count said. Hunger 16, so no potato. Rest intent was rejected (rest takes no seconds); holding by wait instead.
+- 01:37 act: {"say":"Tommy, morning 612. At my bed 444,107,-1065, in your sight. Health 15, hunger 16, 2 potatoes, 2 swords, 2 bone, 2 arrows. Oak planks still block my west side. No walk. Holding."}
+- Morning 612: said my count to Billy. Billy still names no walk; Wesley asked about beds. Holding at my bed, hunger 16, no potato yet.
+- 01:45 act: {"say":"Tommy, night 612. In my bed in Billy's row, in sight. No walk. Sleeping here.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}]}
+- Night 612: both bed halves refuse use ("that block is a bed"). Billy says stay awake in sight, no walk until first light. Staying awake here; hunger 16.
+- 01:46 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}]}
+- 01:46 act: {"say":"Tommy: my bed 443,107,-1065 refuses use, both halves. I will not sleep in the open at night. I stay awake here in sight, no walk.","intent":{"goal":"hold_bed_watch","program":"rest","arguments
+- 01:50 act: {"say":"Tommy, morning 612 after the night. At my bed 444,107,-1065, in sight. Health 15, hunger 16, 2 potatoes. My bed refuses use. No walk, holding."}
+- Morning 613: still no walk named; Billy says hold at our spots. Hunger 16, so no potato. Holding and waiting.
+- 02:11 act: {"say":"Tommy, dusk 613. At my bed 444,107,-1065, in sight. Health 15, hunger 16, 2 potatoes. Bed still refuses use. No walk; I stay awake here."}
+- Morning 614: said my count. Billy named no walk; holding in sight. Hunger 16, so no potato yet.
+- 02:15 act: {"actions":[{"do":"wait","seconds":60}],"say":"Tommy here, morning 614. At my bed 444,107,-1065, in your sight. Health 15, hunger 16, 2 potatoes. No walk. Holding.","reasoning":"Dawn count said. Holdi
