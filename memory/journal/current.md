@@ -1,11 +1,1 @@
 # Journal
-- 07:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. Tommy in the bed beside Billy's row, hunger 16, health 15. No walk."}
-- 07:19 act: {"actions":[],"say":"Morning, row. Tommy at bed 430,107,-1037, health 15, hunger 16. Hold 2 potatoes, 2 wooden swords, 2 bone, 2 arrows. Holding for Billy's named call."}
-- 07:27 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. Tommy in my bed, no walk named, hunger 16, health 15. Holding."}
-- 07:31 act: {"actions":[],"say":"Morning, Billy. Tommy at bed, health 15, hunger 16. Holding 2 potatoes, 2 swords, 2 bone, 2 arrows. Waiting for your named call."}
-- 07:36 act: {"actions":[],"say":"MacDonald, I hold a potato for you. Stay in Billy's sight and I will bring it to your hand when Billy says we may walk. Eat it too if you are hungry."}
-- 07:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. Tommy in my bed, no walk named, hunger 16, health 15. Holding."}
-- 07:43 act: {"say":"Tommy, dawn count: 2 potatoes, 2 wooden swords, 2 bone, 2 arrows. Health 15, hunger 16. Holding in the row, no walk named.
-- Day 630 dawn: woke at bed 429,107,-1037 in the row. Said my count to Billy. Hunger 16 (above the eat line of 15), so I did not eat. Waiting for Billy's named call."}
-- 07:46 act: {"say":"Billy, Tommy here. I have not walked the west way since day 627, so I cannot verify it. I have only seen the bows drawn southwest from the row. I hold, and will walk only on your named call."}
-- 07:55 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. Tommy in my bed, no walk named, hunger 16, health 15. Holding."}
