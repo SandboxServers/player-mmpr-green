@@ -1,7 +1,7 @@
-# Handoff, Tommy, day 628 dusk
+# Handoff, Tommy, night 629-630
 
-- At 430,107,-1037 beside bed 429,107,-1037 in the row. Not enclosed. No errand running. Sleeping now.
+- At bed 430,107,-1037 in Billy's row, asleep. Sheltered in the row, no errand running.
 - Health 15.17, hunger 16. Hold 2 potatoes, 2 wooden swords, 2 bone, 2 arrows.
-- Billy: no west walk (bows heard southwest). Hold at beds, eat at hunger 10, feed weakest first.
-- Owed: MacDonald (health 7) potato if he stands in my sight; Wesley spare sword only on Billy's named call at 416,107,-1050.
-- Next: at dawn count to Billy and the row; eat if hunger under 15; wait for named call. Never walk alone.
+- Billy: still no walk, no verified route west. Hold in sight, eat at hunger 10.
+- Owed: MacDonald a potato if in sight; Wesley a spare sword only on Billy's named call.
+- Next at dawn: count to Billy and the row; eat if hunger under 15; wait for named call. Never walk alone.
