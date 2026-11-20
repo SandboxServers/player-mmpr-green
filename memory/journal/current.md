@@ -6,3 +6,6 @@
 - 06:31 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}],"reasoning":"Sleep refused for monsters nearby. I am in the row beside Chapman and Troi. Wait a little, then try once more."}
 - 06:32 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"reasoning":"Sleep refused twice for monsters nearby. Change approach: click the bed beside me instead of sleeping in the open."}
 - 06:36 act: {"say":"Morning, Billy. Tommy at the row, health 15, hunger 16. Holding 2 potatoes, 2 wooden swords, 2 bone, 2 arrows. I could not sleep last night; monsters were near. Holding for your word.","reason
+- 06:38 act: {"say":"Tommy taking the named walk: one spare wooden sword to Wesley at 416,107,-1050, Picard escorting. Bows checked from here, none close. Going now.","actions":[{"do":"goto","target":{"x":416,"y":
+- 06:38 act: {"say":"Tommy at 413,107,-1050. Path blocked here, same as before. Wesley not in sight, Picard not with me. Holding my sword; no give yet. A skeleton horse is 12 off to the south-west. Waiting for Bil
+- 06:41 act: {"say":"Midday count from Tommy: health 15, hunger 16, holding 2 potatoes, 2 wooden swords, 2 bone, 2 arrows. Still at 413,107,-1050, no Wesley in sight. I am alone out here, so I am going back to the
