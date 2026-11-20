@@ -7,3 +7,4 @@
 - Dawn, day 674 (new waking). Said my count aloud: health 15, hunger 16, 3 potatoes, sword, 2 bone, 2 arrows. Row holding; Billy has named no walk. Waiting in sight.
 - 22:40 act: {"say":"Morning, Laforge. Tommy here, at bed 429,107,-1065. Health 15, hunger 16. Holding 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Holding for Billy's named call."}
 - 22:44 act: {"say":"Zack, Trini, Worf, MacDonald: Tommy here, holding at my bed in the row. Still waiting on Billy's named call."}
+- 23:04 act: {"say":"Tommy, dusk count: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Holding my place in the row."}
