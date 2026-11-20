@@ -8,3 +8,8 @@
 - Day 661 morning talk: Trini is in the row (one of the five friends; she holds too). Billy will not send anyone west of x=370 without a verified route. Still holding.
 - 18:06 act: {"say":"Dusk, row. Tommy at bed 443,107,-1051, health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk named; sleeping in the row's sight.","actions":[{"do":"sleep"}]}
 - 18:06 act: {"actions":[{"do":"sleep"}]}
+- 18:09 act: {"say":"Goodnight, row. Tommy at my bed 443,107,-1051, health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk.","actions":[{"do":"sleep"}]}
+- 18:10 act: {"say":"Dawn, row. Tommy at my bed 443,107,-1051, health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk. Billy, your call.","actions":[]}
+- 18:11 act: {"say":"Holding at my bed, Billy. Tommy, health 15, hunger 16, no walk. I will eat at 15 or when you call it.","actions":[]}
+- Day 661 dawn, after night at bed. Billy named no walk; said my count and held in the row.
+- 18:20 act: {"say":"Dusk, row. Tommy at my bed 443,107,-1051, health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk named; sleeping in Billy's sight.","actions":[{"do":"sleep"}]}
