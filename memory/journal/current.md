@@ -5,3 +5,4 @@
 - 08:25 act: {"actions":[{"do":"note","text":"Dawn count. Tommy: health 15, hunger 16, 2 potatoes, 2 wooden swords, 2 bone, 2 arrows. Holding in the row."}],"say":"Morning, row. Tommy here, health 15, hunger 16. Holding for Billy.
 - Day 632 morning: woke, status fine. Said my count to the row. Waiting for Billy's named call; no walk.
 - 08:25 act: {"actions":[],"say":"Billy, Tommy: I have not walked west since day 627, so I cannot verify the route. Holding for your named call. I will eat at hunger 15."}
+- 08:40 act: {"say":"Tommy here at my bed 429,107,-1037. Health 15, hunger 16. Hold 2 potatoes, 2 wooden swords, 2 bone, 2 arrows. Holding in the row, no walk for me. Billy, I stay put until named."}
