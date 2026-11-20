@@ -1,2 +1,11 @@
 # Journal
 - Day 662 dawn. Counted to the row at bed 443,107,-1051: health 15, hunger 16. Hold 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. Billy named no walk for me; held in sight. Hold intent ran out of time. Still holding; no call yet.
+- 18:33 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Holding my place in the row, dusk. Health 15, hunger 16, holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. Goi
+- 18:36 act: {"say":"Morning, row. Tommy here, health 15, hunger 16, holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. Zack, thank you for the offer; I'll take a potato when you can hand one over. No walk for 
+- 18:38 act: {"say":"Thank you, Zack. Got the potato. I'm at 444,107,-1065, in the row. Eating when hunger drops under 15."}
+- 18:41 act: {"say":"Billy, Tommy at 444,107,-1065 in the row. Health 15, hunger 16. Holding 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Holding for your named call."}
+- 18:49 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk, row. Tommy at my bed 443,107,-1065, health 15, hunger 16, holding 3 potatoes, 1 wooden sword, 2 bone, 2 arro
+- 18:50 act: {"say":"Morning, Billy. Tommy holding at my bed 443,107,-1065, health 15, hunger 16. I have 3 potatoes and will eat once hunger is under 15. Zack, I have food; thank you. No walk for me."}
+- 19:14 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"reasoning":"Night in Billy's row, in sight. Hunger 16, no walk named. Bed is adjacent. Handoff written. Sleep."}
+- 19:27 act: {"actions":[{"do":"sleep"}],"reasoning":"Night in the row, next to my bed, in sight, no walk named. Sleep."}
+- 19:35 say: {"text":"Morning, row. Tommy at 444,107,-1065, health 15, hunger 16. Holding in Billy's sight, no walk."}
