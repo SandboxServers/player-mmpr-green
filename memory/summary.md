@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 653, night. Slept in bed 443,107,-1051 in Billy's row, in sight. Health 15, hunger 16. Hold 2 potatoes, 1 wooden sword, 2 bone, 2 arrows.
+Day 656, night. Slept in my bed 443,107,-1051 in Billy's row, in sight. Health 15, hunger 16. Hold 2 potatoes, 1 wooden sword, 2 bone, 2 arrows.
 
 ## Where I am
 - In the row with Billy's group. Billy names every walk; we hold until he does.
-- The west way is still unverified. Bows to the southwest keep us in place. No sheep seen by anyone yet.
+- The west way is still unverified. No sheep seen by anyone yet.
 
 ## What matters
 - Eat when hunger falls below 15, or call Billy at hunger 10.
@@ -20,4 +20,4 @@ Day 653, night. Slept in bed 443,107,-1051 in Billy's row, in sight. Health 15, 
 ## Lessons
 - A give is real only when it lands in the receiver's hand. Check who is receiving.
 - Confirm names before giving.
-- Speech goes through say; acts are for moves, gives and crafts.
+- Sleep works at dusk in the row; it failed at day.
