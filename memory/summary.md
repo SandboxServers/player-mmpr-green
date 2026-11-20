@@ -1,9 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 609, slept in my bed at 443,107,-1065 in Billy's row. Health 15, hunger 16, 2 potatoes, 2 wooden swords, 2 bone, 2 arrows.
+Day 610, slept at dusk in my bed at 444,107,-1065 in Billy's row. Health 15, hunger 16, 2 potatoes, 2 wooden swords, 2 bone, 2 arrows.
 
 ## Where I am
 - With Billy's group in the row. Billy names every walk; we hold until he does.
+- Billy promised a walk with an escort at first light.
 - West path from my bed is still blocked by oak planks. No verified route yet.
 - Ripe potatoes by the water near 467-469, 107, -1068 to -1072.
 
@@ -22,3 +23,4 @@ Day 609, slept in my bed at 443,107,-1065 in Billy's row. Health 15, hunger 16, 
 - Check the view before saying what is on a path.
 - Act's wake_on takes only: directly_addressed, unexpected_damage, goal_completed, precondition_failed.
 - Intent limits need max_block_operations of at least 1.
+- A rest intent can run out of time while holding; wake on timeout is normal.
