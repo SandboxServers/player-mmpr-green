@@ -13,3 +13,6 @@
 - 14:40 act: {"actions":[{"do":"note","text":"Day 651 midday-ish: Billy and Trini report the row holding, hunger 16 for me. No walk named. Still at bed 443,107,-1051, health 15."}],"say":"Heard, Billy. Tommy at my
 - 14:45 act: {"actions":[{"do":"note","text":"Night 651: at bed 443,107,-1051 in Billy's row. No walk named. Health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. Sleeping."}],"say":"Night, r
 - 14:45 act: {"say":"Morning, row. Tommy awake at my bed 443,107,-1051, health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk named; I hold for Billy. Trini, thanks for company."}
+- 14:54 act: {"say":"Tommy, dawn count: health 15, hunger 16. I hold 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. Holding at my bed in the row.","actions":[],"reasoning":"Dawn count to the row. Hunger 16 is above
+- Day 652 dawn: said my count to the row (health 15, hunger 16, 2 potatoes, 1 wooden sword, 2 bone, 2 arrows). Lewis holds, eats at 10. No walk named; waiting in sight at bed 443,107,-1051.
+- 14:56 act: {"say":"Dusk, row. Tommy at my bed 443,107,-1051, health 15, hunger 16. Billy, no walk tonight; I sleep in sight.","actions":[{"do":"sleep"}],"reasoning":"Dusk, in my bed, Billy named no walk. Sleepin
