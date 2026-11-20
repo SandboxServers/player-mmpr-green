@@ -1,11 +1,11 @@
 # Summary: Tommy Oliver
 
-Day 604, night, asleep in my bed at 443,107,-1065 in Billy's row, in sight. Health 15, hunger 16, 2 potatoes, 2 wooden swords, 2 bone, 2 arrows.
+Day 609, slept in my bed at 443,107,-1065 in Billy's row. Health 15, hunger 16, 2 potatoes, 2 wooden swords, 2 bone, 2 arrows.
 
 ## Where I am
-- With Billy's group. Billy names every walk; we hold until he does.
-- West path from my bed is still blocked by solid oak planks. No verified route yet.
-- Ripe potatoes by the water at about 467-469, 107, -1068 to -1072.
+- With Billy's group in the row. Billy names every walk; we hold until he does.
+- West path from my bed is still blocked by oak planks. No verified route yet.
+- Ripe potatoes by the water near 467-469, 107, -1068 to -1072.
 
 ## What matters
 - Eat a potato when hunger falls below 15.
@@ -15,10 +15,10 @@ Day 604, night, asleep in my bed at 443,107,-1065 in Billy's row, in sight. Heal
 
 ## Owed
 - Beverly: a spare wooden sword, when Billy lets her come to me.
-- Clark: a loaf of bread.
-- Kimberly (melon), Johnny and Chapman (food): unanswered.
+- Clark: a loaf of bread. Kimberly (melon), Johnny and Chapman (food).
 
 ## Lessons
 - A give is real only when it lands in the receiver's hand.
 - Check the view before saying what is on a path.
 - Act's wake_on takes only: directly_addressed, unexpected_damage, goal_completed, precondition_failed.
+- Intent limits need max_block_operations of at least 1.
