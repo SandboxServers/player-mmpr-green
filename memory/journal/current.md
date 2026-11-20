@@ -31,3 +31,5 @@
 - Day 672 dawn. Counted at bed 429,107,-1065 in the row: health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Said my count to the row. No walk named; holding. Hunger not yet under 15.
 - 21:49 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk, row. Tommy at bed 429,107,-1065, in Billy's sight. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 
 - 21:53 act: {"say":"Morning, row. Tommy at 430,107,-1065, health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Holding for Billy's named call."}
+- Day 673 dawn. Counted aloud in the row: health 15, hunger 16, 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Lewis, MacDonald and Trini are holding in the row too. No walk named; holding for Billy.
+- 21:56 act: {"actions":[{"do":"note","text":"Dawn count: health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows."}],"say":"Tommy here, at my bed in the row. Health 15, hunger 16. I hold 3 potatoe
