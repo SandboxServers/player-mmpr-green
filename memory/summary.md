@@ -1,6 +1,6 @@
 # Summary: Tommy Oliver
 
-Day 637, night. Slept in bed 429,107,-1037 in Billy's row. Health 15, hunger 16. Hold 2 potatoes, 1 wooden sword, 2 bone, 2 arrows.
+Day 652, night. Slept in bed 443,107,-1051 in Billy's row. Health 15, hunger 16. Hold 2 potatoes, 1 wooden sword, 2 bone, 2 arrows.
 
 ## Where I am
 - In the row with Billy's group. Billy names every walk; we hold until he does.

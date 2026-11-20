@@ -1,18 +1,1 @@
 # Journal
-- Morning 648 (after sleep at 443,107,-1051 was refused as not night, the wake came in morning): at bed 443,107,-1051 in Billy's row. Health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. Billy names no walk; Laforge, Jason, Trini, Deanna all holding. Said the morning count. Waiting for Billy's named call.
-- 13:54 act: {"say":"Holding, row. Tommy at bed 443,107,-1051, health 15, hunger 16. MacDonald, my potato for you waits on Billy's named call. No walk for me."}
-- 14:02 act: {"say":"Night, row. Tommy in my bed 443,107,-1051, health 15, hunger 16. No walk named. Sleeping in Billy's sight.","actions":[{"do":"sleep"}]}
-- 14:06 act: {"say":"Morning, row. Tommy awake, health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk named; I hold for Billy."}
-- Morning 650: slept in bed 443,107,-1051 (sleep worked). Woke at 443,107,-1049, health 15, hunger 16. Billy names no walk; MacDonald eating a potato. Holding; waiting on Billy's named call.
-- 14:14 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. Tommy going to my bed 443,107,-1051, health 15, hunger 16. No walk named; in Billy's sight."}
-- 14:18 act: {"say":"Tommy at my bed 443,107,-1051, health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk named; I hold in Billy's sight.","intent":{"goal":"hold_in_row","program":"rest" (intent failed, I stayed at bed anyway). Woke to Billy's row report: nobody at hunger 10 or below, no walk named, I hold at bed 443,107,-1051, health 15, hunger 16.
-- 14:28 act: {"say":"Night, row. Tommy in my bed 443,107,-1051, health 15, hunger 16. No walk named; sleeping in Billy's sight.","actions":[{"do":"sleep"}]}
-- 14:32 act: {"say":"Morning, row. Tommy awake at my bed 443,107,-1051, health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk named; I hold for Billy."}
-- 14:33 act: {"say":"Heard, Billy. Tommy holding at my bed, hunger 16, no food needed. I hold for your named walk."}
-- 14:34 act: {"say":"Trini, Tommy here at my bed, health 15, hunger 16. Holding 2 potatoes; I can share one if anyone reaches 10. Holding for Billy's named walk."}
-- 14:40 act: {"actions":[{"do":"note","text":"Day 651 midday-ish: Billy and Trini report the row holding, hunger 16 for me. No walk named. Still at bed 443,107,-1051, health 15."}],"say":"Heard, Billy. Tommy at my
-- 14:45 act: {"actions":[{"do":"note","text":"Night 651: at bed 443,107,-1051 in Billy's row. No walk named. Health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. Sleeping."}],"say":"Night, r
-- 14:45 act: {"say":"Morning, row. Tommy awake at my bed 443,107,-1051, health 15, hunger 16. Holding 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk named; I hold for Billy. Trini, thanks for company."}
-- 14:54 act: {"say":"Tommy, dawn count: health 15, hunger 16. I hold 2 potatoes, 1 wooden sword, 2 bone, 2 arrows. Holding at my bed in the row.","actions":[],"reasoning":"Dawn count to the row. Hunger 16 is above
-- Day 652 dawn: said my count to the row (health 15, hunger 16, 2 potatoes, 1 wooden sword, 2 bone, 2 arrows). Lewis holds, eats at 10. No walk named; waiting in sight at bed 443,107,-1051.
-- 14:56 act: {"say":"Dusk, row. Tommy at my bed 443,107,-1051, health 15, hunger 16. Billy, no walk tonight; I sleep in sight.","actions":[{"do":"sleep"}],"reasoning":"Dusk, in my bed, Billy named no walk. Sleepin
