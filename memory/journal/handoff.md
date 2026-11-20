@@ -1,6 +1,7 @@
-# Handoff, Tommy, day 615 dusk
+# Handoff, Tommy, day 618 dusk (slept)
 
-- In my bed 444,107,-1065 in Billy's row, in sight. No errand running. Not enclosed in the open row; holding.
+- Asleep in my bed 444,107,-1065 (in the row, Billy's group in sight). No errand running.
 - Health 15, hunger 16, 2 potatoes, 2 wooden swords, 2 bone, 2 arrows.
-- Billy: no walks until first light and a named route. I call Billy at hunger 10.
-- Next: sleep in bed; at first light say my count to Billy; eat a potato if hunger is under 15.
+- Billy: no walk named tonight. Riker got his sword from Lewis. Trini, Wesley, Beverly still owed a sword; give only when in sight and close, in daylight.
+- Next: at first light say my count to Billy; eat a potato if hunger under 15; call Billy at hunger 10.
+- Lesson: an intent with a rest program ended at once when its precondition failed; plain waiting worked better.
