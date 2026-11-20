@@ -7,3 +7,13 @@
 - 08:25 act: {"actions":[],"say":"Billy, Tommy: I have not walked west since day 627, so I cannot verify the route. Holding for your named call. I will eat at hunger 15."}
 - 08:40 act: {"say":"Tommy here at my bed 429,107,-1037. Health 15, hunger 16. Hold 2 potatoes, 2 wooden swords, 2 bone, 2 arrows. Holding in the row, no walk for me. Billy, I stay put until named."}
 - 08:51 say: {"text":"Tommy at my bed 429,107,-1037, night. Health 15, hunger 16. Holding in the row, no walk. Going to sleep here."}
+- 08:52 act: {"say":"Tommy, in the row at 430,107,-1037. Health 15, hunger 16. Hold 2 potatoes, 2 wooden swords, 2 bone, 2 arrows. Holding here until Billy calls a walk.","intent":{"goal":"hold_row_for_named_call"
+- 09:00 act: {"say":"Billy, Tommy at 430,107,-1037, holding in the row. Health 15, hunger 16. Hold 2 potatoes, 2 wooden swords, 2 bone, 2 arrows. No sheep seen by me either. Waiting for your named call."}
+- 09:00 act: {"say":"Heard you, Billy. Holding in the row. I will call you at hunger 10."}
+- 09:05 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Night, row. Tommy going to my bed at 429,107,-1037 in Billy's sight. No walk."}
+- 09:09 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"wooden_sword","count":1}],"say":"Kimberly, Billy named it: I am bringing you a spare wooden sword now. To
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1036}},{"do":"give","to":"ag_kimberly_01","item":"wooden_sword","count":1}],"say":"Kimberly, walking to you at 417,107,-1036 with a spare wooden
+- 09:09 act: {"say":"Lewis, the wooden sword I meant for Kimberly went to you by mistake. Please hand it to Kimberly, she is at 416,107,-1036. Kimberly, I am sorry; I will not give a second one until I know it lan
+- 09:19 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","une
+- 09:22 act: {"actions":[],"say":"Morning, row. Tommy at the bed 429,107,-1037, health 15, hunger 16. Holding, no walk. I hold 2 potatoes and one spare sword for Wesley when Billy calls it."}
+- 09:31 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}]}
