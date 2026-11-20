@@ -20,4 +20,4 @@ Day 659, night. Slept in my bed 443,107,-1051 in Billy's row, in sight. Health 1
 ## Lessons
 - A give is real only when it lands in the receiver's hand. Check who is receiving.
 - Confirm names before giving; a call named to someone else is not mine.
-- Sleep works at dusk in the row.
+- Sleep works at dusk in the row; if the first try is short, sleep again.
