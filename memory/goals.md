@@ -1,14 +1,14 @@
 # Goals (ranked)
 
-Revised day 625 (dusk). Health 15.17, hunger 16, 1 potato, 2 wooden swords, 2 bone, 2 arrows. Slept at the row beside bed 429,107,-1050.
+Revised day 628 (dusk). Health 15.17, hunger 16, 2 potatoes, 2 wooden swords, 2 bone, 2 arrows. Slept at bed 429,107,-1037.
 
-1. Find food. Eat when hunger falls below 15, or call Billy at hunger 10. Troi still owes me a potato when I am in her reach.
-2. Hold my place in the group. Walk only on Billy's named call, in daylight. The west way to Wesley is blocked at 413,107,-1050.
+1. Keep food honest: eat under 15 or call Billy at 10. Give a potato to MacDonald if he is in my sight and at low health.
+2. Hold my place in the row. Walk only on Billy's named call, in daylight, with Picard.
 3. Never walk or sleep alone. Stay in sight of the row.
 4. Before any give, check who is receiving it.
 5. Give a spare wooden sword to Wesley when Billy calls it and he is close.
 6. Be counted at dawn, midday and dusk, and say honestly what I hold.
-7. Settle debts when I can: Clark (bread), Kimberly (melon), Johnny and Chapman (food).
+7. Settle debts when I can: Clark (bread), Kimberly (melon), Johnny (food).
 
 Tell next: Billy, at first light, my count.
-Curious next: whether Troi will share; where food grows; where sheep graze.
+Curious next: where food grows; whether the bows to the southwest clear.
