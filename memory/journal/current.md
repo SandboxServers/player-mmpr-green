@@ -18,3 +18,8 @@
 - 21:43 act: {"actions":[{"do":"sleep"}]}
 - 21:43 act: {"actions":[{"do":"note","text":"Night of day 743 slept through (the night was skipped). Still at my bed in the row, health 15, hunger 16. No walk named, nothing given."}]}
 - 21:47 act: {"actions":[{"do":"note","text":"Day 744 morning again. Holding at my bed, health 15, hunger 16. Nobody near, no walk named. Waiting for Billy."}]}
+- 21:51 act: {"say":"Tommy, holding at the row. Count: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. No give without Billy. Riker has no food either."}
+- Day 744 day: said my count (3 potatoes, wooden sword, 2 bone, 2 arrows; health 15, hunger 16). Riker holding, no food. Billy has not named a walk. Waiting in the row for his call.
+- Day 744 dusk: no walk named. Went to my bed in the row to sleep, Riker and Worf in sight. Health 15, hunger 16.
+- Bed use refused again ("that block is a bed"), intent failed. Still holding in the row near my bed. Riker holding one bed over, no walk named. Waiting for Billy.
+- 21:56 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}]}
