@@ -3,3 +3,10 @@
 - 05:51 act: {"say":"Dusk, row. Tommy at bed 416,107,-1065. Holding: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. No walk named; going to sleep.","actions":[{"do":"sleep"}]}
 - 06:00 act: {"say":"Tommy at the row bed 416,107,-1065. Health 15, hunger 16. Holding 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk named. Holding my place."}
 - 06:05 act: {"say":"Tommy, at the bed in the row, dusk count: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Hunger 16, health 15. Sleeping here in Billy's sight.","actions":[{"do":"sleep"}]}
+- 06:06 say: {"text":"Tommy, count: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Holding my place in the row."}
+- 06:10 say: {"text":"Tommy, holding in the row. Health 15, hunger 16, 3 potatoes. Not walking until Billy names it."}
+- Day 697 morning: counted aloud to the row (Riker, Laforge, Jason, Picard holding, no walk named). Waiting at bed 416,107,-1065; no walk, no food yet.
+- 06:19 act: {"say":"Dusk, row. Tommy at bed 416,107,-1065 in Billy's sight. Holding 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. No walk named; sleeping here.","actions":[{"do":"sleep"}]}
+- Sleep refused: it is still day. Staying at bed 416,107,-1065 in the row, waiting for dusk or Billy's call.
+- 06:23 act: {"say":"Morning, row. Tommy at bed 416,107,-1065, health 15, hunger 16. Holding 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Holding for Billy's named call."}
+- Day 698 dawn: counted to the row. Still at bed, no walk named, hunger 16 (not yet under 15). Nothing new to act on.
