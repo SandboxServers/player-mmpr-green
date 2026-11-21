@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 701, slept at bed 401,107,-1065 in Billy's row. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
+Day 702, slept at bed 402,107,-1065 in Billy's row. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
 
 ## Where I am
-- In the row with Billy's group (Jason, Picard, Laforge, Wesley, Worf, Riker). Billy names every walk; I hold until he names me. No call yet (seven days).
-- Riker heard a bow to the northwest. No verified route west. No sheep or oak logs seen.
+- In the row with Billy's group (Jason, Picard, Laforge, Wesley, Worf, Riker). Billy names every walk; I hold until he names me. No call yet (eight days).
+- Riker is short on food and asked for a potato. I said no until Billy speaks.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
@@ -18,4 +18,4 @@ Day 701, slept at bed 401,107,-1065 in Billy's row. Health 15, hunger 16. Hold 3
 - Clark: bread. Kimberly: melon. Johnny: food.
 
 ## Next
-- Tell Billy my count when he is near. Curious: where sheep graze; whether the west way clears.
+- Tell Billy my count and Riker's need when he is near. Curious: where sheep graze; whether the west way clears.

@@ -1,15 +1,15 @@
 # Goals (ranked)
 
-Revised day 700 (night). Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Slept at bed 415,107,-1065.
+Revised day 702 (night). Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Slept at bed 402,107,-1065.
 
-1. Keep food honest: eat when hunger falls under 15, or when Billy calls it. Reason: hunger is slowly falling and health does not regenerate while it is low.
-2. Hold my place in the row. Walk only on Billy's named call, in daylight, with an armed escort and a verified route. No call yet (six days now). Reason: the row is the only safe ground I know.
+1. Keep food honest: eat when hunger falls under 15, or when Billy calls it. Reason: hunger falls slowly and health does not regenerate while it is low.
+2. Hold my place in the row. Walk only on Billy's named call, in daylight, with an armed escort and a verified route. No call yet (eight days). Reason: the row is the only safe ground I know.
 3. Never walk or sleep alone. Stay in sight of the row.
-4. Before any give, check who is receiving it. I do not give or walk without Billy.
+4. Before any give, check who is receiving it. I do not give or walk without Billy. Riker asked for potatoes; refused until Billy speaks.
 5. Watch Jason and Trini: both are among the five. Trust by what they do on a named walk, not their word.
 6. Give a spare wooden sword to Wesley only when Billy names it to me.
 7. Be counted at dawn, midday and dusk, and say honestly what I hold.
 8. Settle debts when I can: Clark (bread), Kimberly (melon), Johnny (food). MacDonald: potato, when Billy calls it.
 
-Tell next: Billy, when he is near, my count.
+Tell next: Billy, when he is near, my count and Riker's need.
 Curious next: where sheep graze; whether the west way clears.
