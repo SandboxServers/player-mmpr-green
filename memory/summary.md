@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 702, slept at bed 402,107,-1065 in Billy's row. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
+Day 702, sleeping at bed 402,107,-1065 in Billy's row. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
 
 ## Where I am
-- In the row with Billy's group (Jason, Picard, Laforge, Wesley, Worf, Riker). Billy names every walk; I hold until he names me. No call yet (eight days).
+- In the row with Billy's group (Jason, Picard, Laforge, Wesley, Worf, Riker). Billy names every walk; I hold until he names me. No call yet.
 - Riker is short on food and asked for a potato. I said no until Billy speaks.
 
 ## What matters
