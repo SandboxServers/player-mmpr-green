@@ -1,1 +1,11 @@
 # Journal
+- 17:43 act: said my night count in the row. Holding for Billy's call.
+- Night 731. Nobody near in the row. Holding in place.
+- 17:44 Dawn count said: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Riker says hold till Billy calls.
+- Day 732 dawn: still in the row, nobody new near, no call from Billy. Waiting.
+- Day 732 night: still holding at my bed. Health 15, hunger 16.
+- 18:00 act: {"say":"Morning, Riker. Tommy holding at my bed too, for Billy's word. Health 15, hunger 16.","reasoning":"Riker is holding too. Answer him, keep place, wait for Billy."}
+- Day 733 morning: no call from Billy yet; Riker holding nearby. Days since sleep 2, so I must find my bed and sleep with the row. Waiting.
+- Day 733 night and dawn passed: nobody in sight, no call from Billy. I stay at my bed, hold, and do not sleep alone.
+- Day 734 morning: Riker holds at the row too; his chest showed nothing. Still no call from Billy. Days since sleep 3. Holding.
+- 18:23 act: {"say":"Thank you, Riker. I still hold 3 potatoes and will not give without Billy. Hunger 16, health 15.","reasoning":"Riker offers to check a chest for food for me. Thank him, state my position, keep
