@@ -15,3 +15,4 @@
 - 18:45 say: {"text":"Tommy here. Counting: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Holding until Billy calls."}
 - 18:49 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night. Riker, I am sleeping in my bed in the row. Holding 3 potatoes for Billy."}
 - Day 735 night: slept in my bed; night skipped. Health 15, hunger 16. Holding 3 potatoes, sword, 2 bone, 2 arrows. No call from Billy yet.
+- 18:50 act: {"say":"Tommy, daylight, at my bed in the row. Holding 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Billy, I wait for your named walk.","reasoning":"Daytime, in the row, no walk
