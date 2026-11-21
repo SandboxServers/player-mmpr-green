@@ -7,3 +7,5 @@
 - 16:25 say: {"text":"Night on 728. I have not slept in two days, and I will not sleep alone. Riker, are you near? I will hold here and sleep only with someone close."}
 - 16:26 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Riker, I am lying down in the bed beside yours. Watch the row with me."}
 - 16:26 act: {"actions":[{"do":"sleep"}]}
+- 16:35 act: {"say":"Tommy here, at the row. I hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Holding for Billy."}
+- 16:39 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}]}
