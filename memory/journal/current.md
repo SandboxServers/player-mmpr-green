@@ -1,18 +1,4 @@
 # Journal
-- 17:43 act: said my night count in the row. Holding for Billy's call.
-- Night 731. Nobody near in the row. Holding in place.
-- 17:44 Dawn count said: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Riker says hold till Billy calls.
-- Day 732 dawn: still in the row, nobody new near, no call from Billy. Waiting.
-- Day 732 night: still holding at my bed. Health 15, hunger 16.
-- 18:00 act: {"say":"Morning, Riker. Tommy holding at my bed too, for Billy's word. Health 15, hunger 16.","reasoning":"Riker is holding too. Answer him, keep place, wait for Billy."}
-- Day 733 morning: no call from Billy yet; Riker holding nearby. Days since sleep 2, so I must find my bed and sleep with the row. Waiting.
-- Day 733 night and dawn passed: nobody in sight, no call from Billy. I stay at my bed, hold, and do not sleep alone.
-- Day 734 morning: Riker holds at the row too; his chest showed nothing. Still no call from Billy. Days since sleep 3. Holding.
-- 18:23 act: {"say":"Thank you, Riker. I still hold 3 potatoes and will not give without Billy. Hunger 16, health 15.","reasoning":"Riker offers to check a chest for food for me. Thank him, state my position, keep
-- Day 734 night: slept in my bed at the row (1 of 10 asleep). Morning: Riker asked about a walk; I said no call from Billy yet, holding. Health 15, hunger 16.
-- 18:33 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. I am going to the bed in Billy's row to sleep. Holding 3 potatoes, 1 wooden sword, 2 bone, 2 arrows."}
-- 18:37 act: {"say":"Morning, Riker. No call from Billy yet, so I hold at my bed. Health 15, hunger 16, 3 potatoes."}
-- 18:45 say: {"text":"Tommy here. Counting: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Holding until Billy calls."}
-- 18:49 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night. Riker, I am sleeping in my bed in the row. Holding 3 potatoes for Billy."}
-- Day 735 night: slept in my bed; night skipped. Health 15, hunger 16. Holding 3 potatoes, sword, 2 bone, 2 arrows. No call from Billy yet.
-- 18:50 act: {"say":"Tommy, daylight, at my bed in the row. Holding 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Billy, I wait for your named walk.","reasoning":"Daytime, in the row, no walk
+- Day 736 day: at my bed in Billy's row, nobody in sight, no call from Billy. Holding 3 potatoes, sword, 2 bone, 2 arrows. Health 15, hunger 16. Days since sleep 5, so I sleep in my bed at dusk. Waiting.
+- 19:14 act: {"actions":[{"do":"sleep"}],"say":"Night. I sleep in my bed in Billy's row. Riker, I hold too. Health 15, hunger 16, 3 potatoes."}
+- 19:15 act: {"actions":[{"do":"sleep"}]}
