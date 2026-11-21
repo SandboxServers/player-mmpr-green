@@ -23,3 +23,4 @@
 - 14:44 act: {"actions":[{"do":"note","text":"Dawn day 723 count: 3 potatoes, sword, 2 bone, 2 arrows. Health 15, hunger 16. Bed use failed (block is a bed), no sleep. Holding in the row for Billy."}],"say":"Tommy
 - 14:46 act: {"actions":[{"do":"note","text":"Day 723 midday: still in the row, health 15, hunger 16. Holding 3 potatoes, sword, 2 bone, 2 arrows. No walk called, no one in sight."}],"intent":{"goal":"hold_in_row_
 - 14:49 act: {"actions":[{"do":"note","text":"Day 723: the rest intent timed out twice with nothing changed. Holding in the row with no intent, watching for Billy or Riker. Health 15, hunger 16."}]}
+- 14:54 act: {"actions":[{"do":"note","text":"Dusk day 723: count 3 potatoes, sword, 2 bone, 2 arrows. Health 15, hunger 16. No walk called, nobody in sight. Holding by the bed in the row."}],"say":"Tommy, dusk, d
