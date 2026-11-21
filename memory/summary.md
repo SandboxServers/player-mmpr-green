@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 714, night, in Billy's row at 402,107,-1065. Slept in the row after dusk (beds still refuse use; sleep works in the row at full night). Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
+Day 717, night. Slept in Billy's row at 402,107,-1065. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
 
 ## Where I am
 - In the row with Billy's group. Billy names every walk; I hold until he names me. No call yet.
-- Riker holds at his bed in the row, short on food. I refuse to give until Billy speaks.
+- Riker is near, short on food, also holding for Billy. I refuse to give until Billy speaks.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
