@@ -18,3 +18,8 @@
 - 14:19 act: {"say":"Tommy here, dawn on day 721. Health 15, hunger 16. I hold 3 potatoes, 2 bone, 2 arrows, 1 wooden sword. Holding in the row for Billy's call.","reasoning":"Dawn count per my goals. Hold until B
 - 14:27 act: {"say":"Tommy, dusk on day 722. Health 15, hunger 16. I hold 3 potatoes, 2 bone, 2 arrows, 1 wooden sword. Nobody in sight. I will not sleep alone; staying awake by the bed for Billy.","reasoning":"Du
 - 14:28 act: {"say":"Riker, I hear you. I stay by the bed in the row and hold my potatoes until Billy names the walk.","reasoning":"Riker asked me to stay by the bed. Agree, keep holding for Billy."}
+- 14:42 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"note","text":"Night day 722. Health 15, hunger 16. Hold 3 potatoes, sword, 2 bone, 2 arrows. Riker is in the row, not in sight. Go
+- 14:42 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}],"intent":{"goal":"sleep_in_row_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"li
+- 14:44 act: {"actions":[{"do":"note","text":"Dawn day 723 count: 3 potatoes, sword, 2 bone, 2 arrows. Health 15, hunger 16. Bed use failed (block is a bed), no sleep. Holding in the row for Billy."}],"say":"Tommy
+- 14:46 act: {"actions":[{"do":"note","text":"Day 723 midday: still in the row, health 15, hunger 16. Holding 3 potatoes, sword, 2 bone, 2 arrows. No walk called, no one in sight."}],"intent":{"goal":"hold_in_row_
+- 14:49 act: {"actions":[{"do":"note","text":"Day 723: the rest intent timed out twice with nothing changed. Holding in the row with no intent, watching for Billy or Riker. Health 15, hunger 16."}]}
