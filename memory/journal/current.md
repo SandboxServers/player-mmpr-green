@@ -7,3 +7,4 @@
 - 13:20 act: {"say":"Tommy, dusk, day 718. Health 15, hunger 16. Holding 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. No walk named. Nobody in sight here now; I will not sleep alone.","intent":{"goal":"hold_in_ro
 - 13:26 act: {"say":"Tommy, dawn, day 719. Health 15, hunger 16. Holding 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. I stayed awake; I did not sleep alone. Riker, still holding for Billy."}
 - 13:27 act: {"say":"Riker, I hear you. I hold my potatoes until Billy names the call. Eat when my hunger drops below 15."}
+- 13:45 act: {"actions":[],"say":"Tommy here, still in the row. Holding 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Waiting for Billy's call."}
