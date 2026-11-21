@@ -1,11 +1,11 @@
 # Goals (ranked)
 
-Revised day 684 (night). Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Slept at bed 415,107,-1065.
+Revised day 685 (night). Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Slept at bed 415,107,-1065.
 
-1. Keep food honest: eat under 15, or call Billy at 10. Hunger is 16; not yet.
+1. Keep food honest: eat under 15, or call Billy at 10. Hunger 16; not yet.
 2. Hold my place in the row. Walk only on Billy's named call, in daylight, with an armed escort and a verified route. No call yet.
 3. Never walk or sleep alone. Stay in sight of the row.
-4. Before any give, check who is receiving it. Trini asked Zack for food at the table; I do not give or walk without Billy.
+4. Before any give, check who is receiving it. I do not give or walk without Billy.
 5. Watch Jason and Trini: both are among the five. Trust by what they do on a named walk, not their word.
 6. Give a spare wooden sword to Wesley only when Billy names it to me.
 7. Be counted at dawn, midday and dusk, and say honestly what I hold.
