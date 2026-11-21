@@ -1,17 +1,16 @@
 # Summary: Tommy Oliver
 
-Day 692, asleep at bed 415,107,-1065 in Billy's row. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
+Day 692, slept at bed 415,107,-1065 in Billy's row. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
 
 ## Where I am
-- In the row with Billy's group. Billy names every walk; I hold until he names me. No walk named for two days.
-- Worf, Wesley, Riker, Laforge, Picard and Jason all hold at their beds and say so aloud at dawn and dusk.
-- No verified route west. No sheep or oak logs seen. Cows reported near 339,104,-979.
+- In the row with Billy's group. Billy names every walk; I hold until he names me. No walk named.
+- Laforge and Picard hold at their beds too and say so at dawn and dusk.
+- No verified route west. No sheep or oak logs seen.
 
 ## What matters
 - Eat when hunger falls below 15, or call Billy at hunger 10.
 - Walk only on Billy's named call, in daylight, with a verified route and an armed escort.
 - Stay in sight of the group; never walk alone; never sleep alone.
-- Sleep at dusk in my bed; daytime sleep does not take.
 - Count at dawn, midday and dusk; say honestly what I hold.
 
 ## Owed
