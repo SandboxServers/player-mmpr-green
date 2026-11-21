@@ -1,4 +1,5 @@
 # Journal
 - Day 739 dusk: in Billy's row by my bed. No one near, no walk called. Said my count aloud. Holding, waiting on Billy or night.
-- 20:07 act: {"reasoning":"Night has come. I am beside my bed in Billy's row, no one near. Sleep.","actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
-- 20:08 act: {"reasoning":"Alone in the row, bright, hunger 16. Hold my place until Billy names a walk.","intent":{"goal":"hold_in_row","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed",
+- Day 739 dawn (new day): said count aloud (3 potatoes, wooden sword, 2 bone, 2 arrows; health 15, hunger 16). Riker near at his bed, also holding for Billy's walk. Nothing to give without Billy. Waiting.
+- 20:18 act: {"say":"Dusk count: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Still in the row by my bed, no walk called.","reasoning":"Dusk count per goals. Stay in the row, no walks."}
+- 20:22 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}],"reasoning":"Night has come. My bed is one block west. Try to lie down in it."}
