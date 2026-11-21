@@ -22,4 +22,6 @@
 - Day 744 day: said my count (3 potatoes, wooden sword, 2 bone, 2 arrows; health 15, hunger 16). Riker holding, no food. Billy has not named a walk. Waiting in the row for his call.
 - Day 744 dusk: no walk named. Went to my bed in the row to sleep, Riker and Worf in sight. Health 15, hunger 16.
 - Bed use refused again ("that block is a bed"), intent failed. Still holding in the row near my bed. Riker holding one bed over, no walk named. Waiting for Billy.
+- Day 745 day: quiet, nobody near. Said my count, held in the row. Health 15, hunger 16. Waiting for Billy's named walk; bed still refused at dusk.
 - 21:56 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 22:06 act: {"say":"Tommy here, in the row. I hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Waiting for Billy's call.","reasoning":"Quiet day, nobody near. Hold position, state my count
