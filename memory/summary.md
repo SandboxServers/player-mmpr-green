@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 692, slept at bed 415,107,-1065 in Billy's row. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
+Day 693, slept at bed 415,107,-1065 in Billy's row. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
 
 ## Where I am
-- In the row with Billy's group. Billy names every walk; I hold until he names me. No walk named.
-- Laforge and Picard hold at their beds too and say so at dawn and dusk.
+- In the row with Billy's group. Billy names every walk; I hold until he names me. No walk named on day 693.
+- Laforge, Picard, Riker and Worf hold at their beds too and say so at dawn and dusk.
 - No verified route west. No sheep or oak logs seen.
 
 ## What matters
@@ -18,4 +18,5 @@ Day 692, slept at bed 415,107,-1065 in Billy's row. Health 15, hunger 16. Hold 3
 - Wesley: a spare wooden sword, when Billy names it.
 - Clark: bread. Kimberly: melon. Johnny: food.
 
-Goodnight, Tommy. Hold the row, and wait for Billy's word.
+## Next
+- Tell Billy my count at dawn. Curious: where sheep graze; whether the west way clears.
