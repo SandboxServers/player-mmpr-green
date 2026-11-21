@@ -15,3 +15,6 @@
 - 14:02 act: {"actions":[{"do":"note","text":"Night day 720. Riker spoke from his bed in the row but is not in my sight. I will not sleep alone. Staying awake by the bed, waiting for Billy or dawn."}]}
 - 14:06 act: {"actions":[{"do":"note","text":"Dawn day 721: count 3 potatoes, sword, 2 bone, 2 arrows. Health 15, hunger 16. Stayed awake through the night, did not sleep alone."}],"say":"Tommy, dawn day 721. Heal
 - 14:14 act: {"actions":[{"do":"note","text":"Dusk day 721: count 3 potatoes, sword, 2 bone, 2 arrows. Health 15, hunger 16. Nobody in sight; holding by the bed, not sleeping alone."}],"say":"Tommy, dusk day 721. 
+- 14:19 act: {"say":"Tommy here, dawn on day 721. Health 15, hunger 16. I hold 3 potatoes, 2 bone, 2 arrows, 1 wooden sword. Holding in the row for Billy's call.","reasoning":"Dawn count per my goals. Hold until B
+- 14:27 act: {"say":"Tommy, dusk on day 722. Health 15, hunger 16. I hold 3 potatoes, 2 bone, 2 arrows, 1 wooden sword. Nobody in sight. I will not sleep alone; staying awake by the bed for Billy.","reasoning":"Du
+- 14:28 act: {"say":"Riker, I hear you. I stay by the bed in the row and hold my potatoes until Billy names the walk.","reasoning":"Riker asked me to stay by the bed. Agree, keep holding for Billy."}
