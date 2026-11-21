@@ -1,1 +1,5 @@
 # Journal
+- Night, day 702. At bed 402,107,-1065 in Billy's row, no one near. Hunger 16, health 15. Held place, no walk. Queued sleep at my bed; waiting for Billy's named call.
+- 08:04 act: {"actions":[{"do":"note","text":"Dawn count, day 702: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Holding in the row."}],"say":"Tommy, dawn count: 3 potatoes, 1 wooden sword, 2
+- 08:08 act: {"actions":[{"do":"note","text":"Day 703 morning. Still at bed in the row. Riker heard a bow to the northwest and is holding; I hold too."}]}
+- 08:12 act: {"actions":[{"do":"note","text":"Dusk count, day 703: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. No walk named. Going to bed at 402,107,-1065."},{"do":"sleep"}],"say":"Tommy, 
