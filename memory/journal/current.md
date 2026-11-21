@@ -9,3 +9,6 @@
 - Day 733 night and dawn passed: nobody in sight, no call from Billy. I stay at my bed, hold, and do not sleep alone.
 - Day 734 morning: Riker holds at the row too; his chest showed nothing. Still no call from Billy. Days since sleep 3. Holding.
 - 18:23 act: {"say":"Thank you, Riker. I still hold 3 potatoes and will not give without Billy. Hunger 16, health 15.","reasoning":"Riker offers to check a chest for food for me. Thank him, state my position, keep
+- Day 734 night: slept in my bed at the row (1 of 10 asleep). Morning: Riker asked about a walk; I said no call from Billy yet, holding. Health 15, hunger 16.
+- 18:33 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. I am going to the bed in Billy's row to sleep. Holding 3 potatoes, 1 wooden sword, 2 bone, 2 arrows."}
+- 18:37 act: {"say":"Morning, Riker. No call from Billy yet, so I hold at my bed. Health 15, hunger 16, 3 potatoes."}
