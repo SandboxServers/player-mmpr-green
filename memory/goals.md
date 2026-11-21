@@ -1,9 +1,9 @@
 # Goals (ranked)
 
-Revised day 702 (night). Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Slept at bed 402,107,-1065.
+Revised day 707 (night). Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Slept at bed 402,107,-1065.
 
 1. Keep food honest: eat when hunger falls under 15, or when Billy calls it. Reason: hunger falls slowly and health does not regenerate while it is low.
-2. Hold my place in the row. Walk only on Billy's named call, in daylight, with an armed escort and a verified route. No call yet (eight days). Reason: the row is the only safe ground I know.
+2. Hold my place in the row. Walk only on Billy's named call, in daylight, with an armed escort and a verified route. No call yet (nine days). Reason: the row is the only safe ground I know.
 3. Never walk or sleep alone. Stay in sight of the row.
 4. Before any give, check who is receiving it. I do not give or walk without Billy. Riker asked for potatoes; refused until Billy speaks.
 5. Watch Jason and Trini: both are among the five. Trust by what they do on a named walk, not their word.
