@@ -4,3 +4,4 @@
 - 04:43 act: {"say":"Dusk count, Tommy: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Holding at my bed in the row. No walk named.","intent":{"goal":"hold_row_dusk","program":"rest","argument
 - 04:45 act: {"say":"Dawn count, Tommy: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Still holding my bed in the row. No walk named.","intent":{"goal":"hold_row_dawn","program":"rest","argum
 - 04:45 act: {"say":"Heard you, Riker. Tommy holding too. No walk named, no food spare. Waiting on Billy.","intent":{"goal":"hold_row_wait_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","pr
+- 04:47 act: {"say":"Tommy at bed 415,107,-1065. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Holding for Billy's named call."}
