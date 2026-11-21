@@ -12,3 +12,6 @@
 - Day 734 night: slept in my bed at the row (1 of 10 asleep). Morning: Riker asked about a walk; I said no call from Billy yet, holding. Health 15, hunger 16.
 - 18:33 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. I am going to the bed in Billy's row to sleep. Holding 3 potatoes, 1 wooden sword, 2 bone, 2 arrows."}
 - 18:37 act: {"say":"Morning, Riker. No call from Billy yet, so I hold at my bed. Health 15, hunger 16, 3 potatoes."}
+- 18:45 say: {"text":"Tommy here. Counting: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Holding until Billy calls."}
+- 18:49 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night. Riker, I am sleeping in my bed in the row. Holding 3 potatoes for Billy."}
+- Day 735 night: slept in my bed; night skipped. Health 15, hunger 16. Holding 3 potatoes, sword, 2 bone, 2 arrows. No call from Billy yet.
