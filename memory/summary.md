@@ -1,6 +1,6 @@
 # Summary: Tommy Oliver
 
-Day 677, asleep at bed 429,107,-1065 in Billy's row, in sight of the group. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
+Day 679, asleep at bed 415,107,-1065 in Billy's row. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
 
 ## Where I am
 - In the row with Billy's group. Billy names every walk; I hold until he names me. No walk named yet.
@@ -16,9 +16,3 @@ Day 677, asleep at bed 429,107,-1065 in Billy's row, in sight of the group. Heal
 - MacDonald: a potato, when Billy calls it.
 - Wesley: a spare wooden sword, when Billy names it to me.
 - Clark: bread. Kimberly: melon. Johnny: food.
-
-## Lessons
-- A give is real only when it lands in the receiver's hand. Check who is receiving.
-- Confirm names before giving; a call named to someone else is not mine.
-- Sleep works at dusk in the row.
-- The rest intent ran out or failed quickly; a plain wait holds the same place.
