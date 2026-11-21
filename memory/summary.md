@@ -1,6 +1,6 @@
 # Summary: Tommy Oliver
 
-Day 726, night. Slept in Billy's row at 402,107,-1065 with Riker and Worf near. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
+Day 730, night, slept in Billy's row at 402,107,-1065 with Riker near. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
 
 ## Where I am
 - In the row with Billy's group. Billy names every walk; I hold until he names me. No call yet.
