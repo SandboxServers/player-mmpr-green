@@ -9,3 +9,6 @@
 - 16:26 act: {"actions":[{"do":"sleep"}]}
 - 16:35 act: {"say":"Tommy here, at the row. I hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Holding for Billy."}
 - 16:39 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 16:47 act: {"say":"Tommy at my bed in the row, day 729. Health 15, hunger 16. Holding 3 potatoes, wooden sword, 2 bone, 2 arrows. Billy, I hold for your named call.","actions":[]}
+- 16:48 act: {"say":"Heard you, Riker. I hold too. Nothing given until Billy speaks.","actions":[]}
+- 16:52 act: {"say":"Night on 729. Tommy at the bed beside Riker's, holding 3 potatoes, wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. I sleep in the row.","actions":[{"do":"goto","target":{"x":401,"y":107,
