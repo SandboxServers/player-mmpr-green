@@ -1,7 +1,7 @@
 # Beliefs
 
 ## What worked
-- Sleep works only at dusk or night, standing next to a bed in Billy's sight. Day 620, 625, 637 and 657: sleep at dusk in a row bed worked.
+- Sleep works only at dusk or night, standing next to a bed in Billy's sight. Day 620, 625, 637, 657 and 692: sleep at dusk in a row bed worked. Day 691 sleep at dusk failed as "not night" when tried in daylight.
 - Zack will hand food to anyone in the row who is near; he offered a potato unasked on day 637.
 - Gives and follows need the receiver in reach and in sight, close range. Check every give by the hand, not the pack.
 - Billy names walks and calls the count. Walks need four armed in sight.
