@@ -1,15 +1,1 @@
 # Journal
-- Day 778 dawn: still at row bed, health 20, hunger 20, holding nothing, nobody in sight after a full night. Waiting for Billy's call; no walking alone.
-- Dusk, day 777: still at row bed 402,107,-1065, health 20, hunger 20, holding nothing. No one in sight. I will not walk at night; I stay by the bed and wait for Billy or Jason to be near before I sleep.
-- Day 777 morning: Jason spoke from somewhere near ("at my bed in the row's sight"). I answered aloud that I am here and will watch what he does. Trust in Jason still 25. Quiet since; holding at the bed, nothing in hand.
-- Night, day 777: at row bed 402,107,-1065, health 20, hunger 20, holding nothing, nobody in sight. Said aloud my state; set a rest intent to hold here until Billy speaks or something hurts me.
-- Dawn, day 776: woke at the row bed (402,107,-1065), health 20, hunger 20, holding nothing. Counted aloud and said I hold nothing. Waiting for Billy's named call.
-- 08:45 act: {"say":"Tommy here, at the row bed. Holding nothing. Health 20, hunger 20. Waiting for Billy's call.","intent":{"goal":"hold_row_until_billy","program":"rest","arguments":{},"wake_on":["directly_addre
-- 08:49 act: {"say":"Tommy at the row bed, dawn. Holding nothing. Health 20, hunger 20. Jason, I heard you. I am here and will watch what you do."}
-- 09:05 act: {"say":"Tommy here, at the row bed, 402,107,-1065. Health 20, hunger 20. Holding nothing. Waiting for Billy's named call.","intent":{"goal":"hold_place_in_row","program":"rest","arguments":{},"wake_on
-- 09:14 act: {"say":"Dawn. Tommy, counted. Health 20, hunger 20. I hold nothing. Waiting for Billy's call.","actions":[]}
-- 09:20 act: {"say":"Tommy here, at the row bed. Count: one, alone. Health 20, hunger 20. I hold nothing. Waiting for Billy's call."}
-- 09:34 act: {"say":"Count: one, Tommy. Health 20, hunger 20. I hold nothing. Waiting for Billy's call."}
-- Day 779 dusk: at row bed 402,107,-1065, health 20, hunger 20, holding nothing. Said my count aloud. Nobody near, no call from Billy. Waiting at the bed; no walking at dusk.
-- Day 780 dawn: at row bed 402,107,-1065, health 20, hunger 20, holding nothing. Counted aloud. Nobody near, no call from Billy. Still waiting.
-- 09:54 act: {"say":"Tommy here, at the row bed. Health 20, hunger 20. I hold nothing. Waiting for Billy's call."}
