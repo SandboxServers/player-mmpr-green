@@ -9,3 +9,6 @@
 - 09:05 act: {"say":"Tommy here, at the row bed, 402,107,-1065. Health 20, hunger 20. Holding nothing. Waiting for Billy's named call.","intent":{"goal":"hold_place_in_row","program":"rest","arguments":{},"wake_on
 - 09:14 act: {"say":"Dawn. Tommy, counted. Health 20, hunger 20. I hold nothing. Waiting for Billy's call.","actions":[]}
 - 09:20 act: {"say":"Tommy here, at the row bed. Count: one, alone. Health 20, hunger 20. I hold nothing. Waiting for Billy's call."}
+- 09:34 act: {"say":"Count: one, Tommy. Health 20, hunger 20. I hold nothing. Waiting for Billy's call."}
+- Day 779 dusk: at row bed 402,107,-1065, health 20, hunger 20, holding nothing. Said my count aloud. Nobody near, no call from Billy. Waiting at the bed; no walking at dusk.
+- Day 780 dawn: at row bed 402,107,-1065, health 20, hunger 20, holding nothing. Counted aloud. Nobody near, no call from Billy. Still waiting.
