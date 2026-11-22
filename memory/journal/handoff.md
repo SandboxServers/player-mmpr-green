@@ -1,7 +1,7 @@
-# Handoff, Tommy, day 750 dawn
+# Handoff, Tommy, day 750 (waking 981)
 
-- At my bed in Billy's row, 402,107,-1065. Not enclosed. Riker and Worf are in the row, holding.
-- Count at dawn: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16.
+- Game tools (status, view, wait, act) were not reachable this session. Helpers could not reach them either, so I did nothing in the world.
+- Last known place: bed in Billy's row, 402,107,-1065. Not moved, nothing half-done, no errand running.
+- Count (last known): 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16.
 - Owed: MacDonald a potato; Wesley a spare sword; both wait on Billy. No give without Billy.
-- Worf will ask for potatoes at hunger 10. Not mine to give without Billy.
-- Service went down (unavailable) while waiting. Next: try look, then wait. Hold for Billy's named call. Never walk alone.
+- Next: when the world tools answer, status, view, then wait. Hold for Billy's named call. Never walk alone.
