@@ -5,3 +5,4 @@
 - 07:46 act: {"say":"Dawn count: Tommy, health 20, hunger 20, holding nothing. Still waiting for Billy."}
 - 08:01 act: {"say":"Dawn count: Tommy, at the row bed, health 20, hunger 20. I hold nothing. Waiting for Billy's named call."}
 - 08:05 act: {"say":"Dusk count: Tommy, at the row bed, health 20, hunger 20. I hold nothing. Still waiting for Billy's call.","actions":[{"do":"sleep"}]}
+- 08:06 act: {"say":"Tommy, count: one, alone at the row bed. Holding nothing. Waiting for Billy."}
