@@ -18,3 +18,10 @@
 - 05:11 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1062}}],"say":"Nothing on the ground here, my pile is gone. Enderman to the north-west, so I am going back to the row."}
 - 05:20 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1064}},{"do":"use","at":{"x":401,"y":107,"z":-1064}}]}
 - 05:20 act: {"actions":[{"do":"sleep"}]}
+- 05:28 act: {"actions":[{"do":"note","text":"Dawn, day 767. Holding nothing. At the row bed, health 20, hunger 20."}],"say":"Morning. I have nothing: empty hands, empty pack. I'm staying at the row until Billy ca
+- 05:36 act: {"actions":[{"do":"sleep"}]}
+- 05:48 act: {"actions":[{"do":"sleep"}]}
+- 06:01 act: {"actions":[{"do":"sleep"}]}
+- 06:05 act: {"actions":[{"do":"note","text":"Night. Billy hurt at 411,107,-1066, pillager near. I hold nothing and stay at the row bed."}],"say":"Billy, Tommy here at the row bed. I have nothing, no food, no weap
+- 06:05 act: {"actions":[{"do":"sleep"}]}
+- 06:09 act: {"actions":[{"do":"note","text":"Dawn day 769. Count: Tommy at row bed, I hold nothing. Waiting for Billy's named walk."}],"say":"Dawn. Tommy counted at the row bed, health 20, hunger 20. I hold nothi
