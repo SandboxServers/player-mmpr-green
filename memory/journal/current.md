@@ -12,3 +12,4 @@
 - 09:34 act: {"say":"Count: one, Tommy. Health 20, hunger 20. I hold nothing. Waiting for Billy's call."}
 - Day 779 dusk: at row bed 402,107,-1065, health 20, hunger 20, holding nothing. Said my count aloud. Nobody near, no call from Billy. Waiting at the bed; no walking at dusk.
 - Day 780 dawn: at row bed 402,107,-1065, health 20, hunger 20, holding nothing. Counted aloud. Nobody near, no call from Billy. Still waiting.
+- 09:54 act: {"say":"Tommy here, at the row bed. Health 20, hunger 20. I hold nothing. Waiting for Billy's call."}
