@@ -1,6 +1,6 @@
 # Goals (ranked)
 
-Revised day 755 (night). Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
+Revised day 756 (night). Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
 
 1. Keep food honest: eat when hunger falls under 15, or when Billy calls it. Health does not regenerate while hunger is low.
 2. Hold my place in the row. Walk only on Billy's named call, in daylight, with an armed escort and a verified route.
