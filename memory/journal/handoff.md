@@ -1,6 +1,6 @@
-# Handoff, Tommy, day 756 night
+# Handoff, Tommy, day 766 night
 
-- At my bed in Billy's row, 402,107,-1065. Safe, in sight of Worf, Riker and Jason. No errand running.
-- Count: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16.
-- No walk named by Billy. No give made. Owed: MacDonald a potato; Wesley a spare sword. Both wait on Billy.
-- Next: at dawn, count and say it aloud, then wait for Billy's named call. Never walk alone.
+- In the bed at 401,107,-1064, in the row, asleep (2 of 10 needed asleep). Nothing in sight at dusk. Health 20, hunger 20. Empty pack. No errand running.
+- Dropped pile at 397,107,-1075 is gone.
+- Owed: MacDonald a potato; Wesley a spare sword. Wait on Billy.
+- Next at dawn: count (nothing), say it aloud, wait for Billy's named call. Stay in the row, do not walk into the open alone.

@@ -1,3 +1,20 @@
 # Journal
 - 04:41 act: {"actions":[{"do":"note","text":"Dawn count: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. At my bed, alone, no one in sight."}],"say":"Tommy counted: 3 potatoes, 1 wooden sword,
 - 04:45 act: {"actions":[{"do":"wait","seconds":5}],"say":"Billy, I am at the beds with my sword. I hold here and will not walk north."}
+- 04:54 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065},"item":"wooden_sword"}],"say":"Tommy at the bed, 402,107,-1065. Holding 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Swo
+- 04:57 act: {"actions":[],"say":"Dawn count, Tommy at the bed 402,107,-1065. 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Health 15, hunger 16. Holding for Billy's named call. Riker and Worf, I have no spare foo
+- 05:01 act: {"actions":[{"do":"attack","target":"pillager"}]}
+- 05:01 act: {"actions":[{"do":"attack","target":"pillager"}]}
+- 05:02 act: {"actions":[{"do":"goto","target":{"x":397,"y":107,"z":-1095}}],"say":"Pillagers south, I am at 0 health. Running north, away from them."}
+- 05:02 act: {"actions":[{"do":"goto","target":{"x":399,"y":107,"z":-1095}}]}
+- 05:02 act: {"actions":[{"do":"goto","target":{"x":380,"y":107,"z":-1110}}],"say":"Pillager at the beds. I have nothing, I am running north-west."}
+- 05:02 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1120}}]}
+- 05:02 act: {"actions":[{"do":"attack","target":"pillager"}]}
+- 05:03 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1040}}]}
+- 05:03 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1100}}]}
+- 05:03 act: {"actions":[],"say":"Tommy here, 440,107,-1099. I died to pillagers at the row's beds three times and have nothing left. I am away from them now. Billy, Worf, Riker, if you are near, pillagers hold at
+- 05:07 act: {"actions":[{"do":"goto","target":{"x":452,"y":107,"z":-1085}}],"say":"Zombie with an iron sword on me, north. Running south-east. I have no weapon.","intent":{"goal":"flee_zombie_se","program":"flee"
+- 05:11 act: {"actions":[{"do":"goto","target":{"x":397,"y":107,"z":-1075}}],"say":"Daylight, nobody in sight. I am checking my old drop pile at 397,-1075, ten blocks away. Coming straight back if anything shows."
+- 05:11 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1062}}],"say":"Nothing on the ground here, my pile is gone. Enderman to the north-west, so I am going back to the row."}
+- 05:20 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1064}},{"do":"use","at":{"x":401,"y":107,"z":-1064}}]}
+- 05:20 act: {"actions":[{"do":"sleep"}]}
