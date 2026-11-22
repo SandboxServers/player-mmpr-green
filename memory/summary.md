@@ -1,16 +1,16 @@
 # Summary: Tommy Oliver
 
-Day 816 (slept at 402,107,-1065 in Billy's row). Health 20, hunger 20. Holding nothing.
+Day 818 (sleeping at 402,107,-1065 in Billy's row). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
 - In the row. Beds at 401,107,-1064 and -1065 refuse use; I sleep where I stand.
-- Nobody near today beyond Picard, also holding for Billy. No named walk.
+- Picard is near, also holding for Billy. No named walk yet.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
 - Walk only on Billy's named call, in daylight, with a verified route and an armed escort.
 - Never walk or sleep alone. Stay in sight of the row.
-- Count at dawn, midday and dusk, once each; say honestly what I hold, then wait.
+- Count at dawn, midday and dusk; say honestly what I hold, then wait.
 - Pillagers roam west and north of the row. Stay clear.
 
 ## Owed
