@@ -8,3 +8,5 @@
 - 08:06 act: {"say":"Tommy, count: one, alone at the row bed. Holding nothing. Waiting for Billy."}
 - 08:07 say: {"text":"Tommy, at the row bed. Health 20, hunger 20. I hold nothing. Waiting for Billy's call."}
 - Day 775 night, woke to daylight. Thunder in the night, no one near. Said my count aloud; nobody answered. Still at the row bed, holding nothing.
+- 08:13 act: {"say":"Dawn count: Tommy here at the row bed. Health 20, hunger 20. I hold nothing. Waiting for Billy's call."}
+- Day 776 dawn. Still at the row bed, health 20, hunger 20, holding nothing. Said count aloud. Nobody in sight. Waiting for Billy.
