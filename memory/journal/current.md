@@ -12,3 +12,6 @@
 - Day 776 dawn. Still at the row bed, health 20, hunger 20, holding nothing. Said count aloud. Nobody in sight. Waiting for Billy.
 - 08:21 act: {"say":"Tommy, counted at dawn. Health 20, hunger 20. I hold nothing. Waiting for Billy's call."}
 - Day 776 dawn count said aloud. Still at row bed, nobody in sight, holding nothing. Waiting for Billy.
+- 08:27 act: {"actions":[{"do":"note","text":"Dawn count: I am Tommy at the row bed. Health 20, hunger 20. Holding nothing."}],"say":"Count at dawn: Tommy, health 20, hunger 20. I hold nothing. Waiting for Billy's
+- 08:31 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}],"say":"Dusk count: Tommy, health 20, hunger 20, holding nothing. Going to the bed in the row."}
+- 08:31 act: {"actions":[{"do":"sleep"}]}

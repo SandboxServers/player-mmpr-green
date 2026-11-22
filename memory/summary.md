@@ -1,10 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 775 (dusk, slept in the row bed). At the row bed 402,107,-1065. Health 20, hunger 20. Holding nothing: empty pack, no weapon.
+Day 776 (night, slept at the row bed area). At 402,107,-1065. Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In Billy's row. Billy has not called me yet.
-- Nobody came near me on days 774 or 775. Quiet mornings and dusks.
+- In Billy's row. Billy has not called me yet. Nobody near on days 774 to 776.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
@@ -13,9 +12,8 @@ Day 775 (dusk, slept in the row bed). At the row bed 402,107,-1065. Health 20, h
 - Count at dawn, midday and dusk; say honestly what I hold.
 
 ## Owed
-- MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
-- All when Billy calls them.
+- MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food. All when Billy calls them.
 
 ## Next
 - At dawn, count aloud, then wait for Billy's named call.
-- Curious: where sheep graze; whether the west way clears.
+- Curious: where sheep graze; whether the west way clears; why the bed cannot be used by a click.
