@@ -9,3 +9,5 @@
 - Day 783 day: Jason spoke: he holds at the row with Worf, sword in hand, hunger 18, no food, not walking until Billy names it. I said hold where you are; I give nothing without Billy.
 - Day 783 day: Overheard Jason and Worf answer Billy: they hold at 418,107,-1051, Worf moving there as Billy asked. Billy has not named me. I stay at the bed, not walking.
 - 10:55 say: {"text":"Heard you, Jason. Hold where you are. I will not walk until Billy names it, and I hold nothing to give."}
+- 11:12 act: {"say":"Tommy, at the row bed, 402,107,-1065. Health 20, hunger 20. I hold nothing. Waiting for Billy's call."}
+- Day 784 day: Woke at the bed, days since sleep 4. Counted aloud. Nobody in sight, no events, no call from Billy. Holding still; no walk.
