@@ -7,3 +7,4 @@
 - 08:45 act: {"say":"Tommy here, at the row bed. Holding nothing. Health 20, hunger 20. Waiting for Billy's call.","intent":{"goal":"hold_row_until_billy","program":"rest","arguments":{},"wake_on":["directly_addre
 - 08:49 act: {"say":"Tommy at the row bed, dawn. Holding nothing. Health 20, hunger 20. Jason, I heard you. I am here and will watch what you do."}
 - 09:05 act: {"say":"Tommy here, at the row bed, 402,107,-1065. Health 20, hunger 20. Holding nothing. Waiting for Billy's named call.","intent":{"goal":"hold_place_in_row","program":"rest","arguments":{},"wake_on
+- 09:14 act: {"say":"Dawn. Tommy, counted. Health 20, hunger 20. I hold nothing. Waiting for Billy's call.","actions":[]}
