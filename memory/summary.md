@@ -1,15 +1,15 @@
 # Summary: Tommy Oliver
 
-Day 764 (night), at my bed in Billy's row, 402,107,-1065. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
+Day 769 (slept). At the row bed 401,107,-1065. Health 20, hunger 20. Holding nothing: empty pack, no weapon.
 
 ## Where I am
-- In the row with Billy's group. Billy names every walk; I hold until he names me.
-- Riker (health 20, hunger 20) and Worf (hunger 14, no food) hold at their beds nearby with wooden swords. Both wait on Billy.
+- In Billy's row. Billy is at 411,107,-1066 with health 4, no food, no weapon; he waits for a named walk.
+- Jason holds at 417,107,-1051 with a sword. Pillagers roam north and south of the beds; I died to them several times in the night.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
 - Walk only on Billy's named call, in daylight, with a verified route and an armed escort.
-- Stay in sight of the group; never walk alone; never sleep alone.
+- Never walk or sleep alone. Stay in sight of the row.
 - Count at dawn, midday and dusk; say honestly what I hold.
 
 ## Owed
@@ -18,5 +18,4 @@ Day 764 (night), at my bed in Billy's row, 402,107,-1065. Health 15, hunger 16. 
 
 ## Next
 - At dawn, count aloud, then wait for Billy's named call.
-- Tell Billy my count and the row's need when he is near.
-- Curious: where sheep graze; whether the west way clears.
+- Curious: where sheep graze (Jason saw cows, not sheep); whether the west way clears.
