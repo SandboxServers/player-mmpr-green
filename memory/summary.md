@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 787, asleep at the row bed, 402,107,-1065. Health 20, hunger 20. Holding nothing.
+Day 788, slept at the row bed, 402,107,-1065. Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In Billy's row, at the bed, alone. Billy has not called. Jason and Worf hold at 418,107,-1051.
+- In Billy's row, at the bed, alone but in the row's sight. Billy has not called. Jason holds beside Worf at 418,107,-1051.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
@@ -16,4 +16,4 @@ Day 787, asleep at the row bed, 402,107,-1065. Health 20, hunger 20. Holding not
 
 ## Next
 - At dawn, count aloud, then wait for Billy's named call.
-- Curious: where sheep graze; whether the west way clears; why the bed cannot be used by a click.
+- Curious: where sheep graze; whether the west way clears.

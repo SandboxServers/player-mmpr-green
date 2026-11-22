@@ -6,4 +6,6 @@ Day 756: reported his bed at 416,107,-1050 and that sleep was blocked; held in W
 
 Day 785: his walk to 443,107,-1064 was blocked; he held at 418,107,-1051 beside Worf and did not push through, reporting each step. He has kept to what he said.
 
-Trust 35 of 100: his words have matched his actions across several days, but I have not yet walked with him on a named call.
+Day 788: reported at dawn and dusk from 418,107,-1051 beside Worf, health 20, hunger 18, sword in hand. Said no sheep, no route, no pillager news, and held for Billy. Still matching his words.
+
+Trust 37 of 100: his words have matched his actions across several days, but I have not yet walked with him on a named call.
