@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 805 (night, slept at 402,107,-1065 in Billy's row). Health 20, hunger 20. Holding nothing.
+Day 807 (slept at 402,107,-1064 in Billy's row). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In the row beside the beds. Picard is holding nearby for Billy. No walk named.
-- Bed 401,107,-1064 refuses use. I slept where I stood.
+- In the row. Beds 401,107,-1064 and -1065 refuse use; I sleep where I stand.
+- Picard holds at his bed nearby, waiting on Billy too. No named walk.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
