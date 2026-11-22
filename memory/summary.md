@@ -1,10 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 799, slept at my bed 401,107,-1065 in the row. Health 20, hunger 20. Holding nothing.
+Day 801 (waking). Slept at my bed 401,107,-1065 in the row. Health 20, hunger 20. Holding nothing.
 
 ## Where I am
 - In Billy's row, at my bed, in the row's sight. Billy has not called a walk.
-- Jason's west walk was blocked toward 463,107,-1073; he came back to the row at dusk.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
