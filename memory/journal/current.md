@@ -12,3 +12,5 @@
 - Day 814 dawn: slept where I stand (6 of 10 asleep, no bed). Health 20, hunger 20, holding nothing. Counted aloud. Waiting for Billy.
 - 21:05 act: {"say":"Tommy, dawn count: one, in the row at 402,107,-1065. Health 20, hunger 20. I hold nothing. Waiting for Billy's named call.","actions":[]}
 - 21:13 act: {"say":"Tommy, dusk count: one, in the row at 402,107,-1065. Health 20, hunger 20. I hold nothing. Waiting for Billy's named call.","actions":[{"do":"sleep"}]}
+- 21:22 act: {"say":"Tommy here, at the row, health 20, hunger 20. I hold nothing. Waiting for Billy's named word. Picard, I have no route past x=370 yet."}
+- 21:26 act: {"say":"Tommy, dusk count: one, in the row at 402,107,-1065. Health 20, hunger 20. I hold nothing. Waiting for Billy's named call.","actions":[{"do":"sleep"}]}
