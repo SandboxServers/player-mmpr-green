@@ -1,6 +1,6 @@
 # Summary: Tommy Oliver
 
-Day 818 (sleeping at 402,107,-1065 in Billy's row). Health 20, hunger 20. Holding nothing.
+Day 819 (asleep at 402,107,-1065 in Billy's row). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
 - In the row. Beds at 401,107,-1064 and -1065 refuse use; I sleep where I stand.
