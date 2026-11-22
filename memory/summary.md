@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 757, asleep at my bed in Billy's row at 402,107,-1065. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
+Day 758, asleep at my bed in Billy's row at 402,107,-1065. Health 15, hunger 16. Hold 3 potatoes, 1 wooden sword, 2 bone, 2 arrows.
 
 ## Where I am
 - In the row with Billy's group. Billy names every walk; I hold until he names me. No call yet.
-- Riker and Worf are near, holding at their beds. Jason is in the row too.
+- Riker is holding at his bed with Laforge and me. He has no food yet.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
