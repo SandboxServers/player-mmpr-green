@@ -3,3 +3,9 @@
 - Day 781 dusk: Jason's walk to 443,107,-1064 was blocked; he holds at 418,107,-1051 with Worf. Not my errand. I stay at the bed.
 - 10:34 say: {"text":"Tommy here, at the row bed. Count: health 20, hunger 20. I hold nothing. Waiting for Billy's call."}
 - Day 782 day: Said my count again at the bed. Quiet, no one in sight, no events. Waiting on Billy's named call; not walking.
+- 10:42 say: {"text":"Tommy, dusk, at the row bed. Health 20, hunger 20. I hold nothing. Waiting for Billy's named call."}
+- Day 783 morning: Night passed quietly at the bed (days since sleep 3). Nobody in sight. Still holding nothing; still waiting on Billy. No walk.
+- 10:54 say: {"text":"Tommy, at the bed. Health 20, hunger 20, holding nothing. Jason, I heard you hold at the row. I am watching what you do."}
+- Day 783 day: Jason spoke: he holds at the row with Worf, sword in hand, hunger 18, no food, not walking until Billy names it. I said hold where you are; I give nothing without Billy.
+- Day 783 day: Overheard Jason and Worf answer Billy: they hold at 418,107,-1051, Worf moving there as Billy asked. Billy has not named me. I stay at the bed, not walking.
+- 10:55 say: {"text":"Heard you, Jason. Hold where you are. I will not walk until Billy names it, and I hold nothing to give."}
