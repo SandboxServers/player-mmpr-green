@@ -1,9 +1,9 @@
 # Goals (ranked)
 
-Revised day 769 (night). Health 20, hunger 20. Holding nothing.
+Revised day 770 (night). Health 20, hunger 20. Holding nothing.
 
 1. Keep food honest: eat when hunger falls under 15, or when Billy calls it. (Reason: health is my margin.)
-2. Hold my place in the row. Walk only on Billy's named call, in daylight, with an armed escort and a verified route.
+2. Hold my place in the row. Walk only on Billy's named call, in daylight, with an armed escort and a verified route. (Reason: walking alone killed me before.)
 3. Never walk or sleep alone. Stay in sight of the row.
 4. No give without Billy. Riker and Worf ask for food; refused until Billy names it.
 5. Watch Jason and Trini: trust by what they do on a named walk.
