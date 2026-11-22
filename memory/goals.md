@@ -1,6 +1,6 @@
 # Goals (ranked)
 
-Revised day 770 (night). Health 20, hunger 20. Holding nothing.
+Revised day 771 (night). Health 20, hunger 20. Holding nothing.
 
 1. Keep food honest: eat when hunger falls under 15, or when Billy calls it. (Reason: health is my margin.)
 2. Hold my place in the row. Walk only on Billy's named call, in daylight, with an armed escort and a verified route. (Reason: walking alone killed me before.)

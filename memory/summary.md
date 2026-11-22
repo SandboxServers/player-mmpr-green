@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 770 (slept at dusk). At the row bed 401,107,-1065. Health 20, hunger 20. Holding nothing: empty pack, no weapon.
+Day 771 (slept at night in the row bed). At the row bed 402,107,-1065. Health 20, hunger 20. Holding nothing: empty pack, no weapon.
 
 ## Where I am
-- In Billy's row. Billy has not called me yet. Billy was last near 411,107,-1066 with low health.
+- In Billy's row. Billy has not called me yet.
 - Jason was last seen at 417,107,-1051 with a sword. Pillagers roam north and south of the beds at night.
 
 ## What matters
