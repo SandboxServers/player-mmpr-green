@@ -4,3 +4,10 @@
 - Day 822 morning: said my count aloud (20/20, holding nothing). No one near but Picard's note; no named call yet. Waiting.
 - Day 823: day then dusk passed at the row. Still 20/20, holding nothing, no named call from Billy. Standing still, not sleeping alone. Waiting.
 - 23:59 act: {"say":"Tommy at the row, dawn. Count: health 20, hunger 20. I hold nothing. Waiting for Billy's named call."}
+- 00:19 act: {"say":"Tommy here, at the row, 402,107,-1065. Count: health 20, hunger 20. I hold nothing. Waiting for Billy's named call.","reasoning":"Dawn-style count per goals. Nothing named yet; hold position i
+- Day 823 day: said count aloud (20/20, holding nothing). Picard still near, unarmed, holding for Billy. No named call. Waiting in the row; not walking.
+- 00:24 act: {"say":"Dusk. Count: health 20, hunger 20. I hold nothing. Still at the row, waiting for Billy.","reasoning":"Dusk count per goals. No one in sight now; I stay put and do not walk."}
+- Night day 824: Picard spoke from the row, says he sleeps in the white bed here. I answered that I stay too, holding nothing, 20/20. No walking. Beds refuse me, so I stay standing in the row.
+- 00:26 act: {"say":"Heard you, Picard. I stay at the row too, unarmed, holding nothing. Health 20, hunger 20.","reasoning":"Picard spoke; answer plainly. Night, so I stay still in the row with someone near."}
+- Day 824 dawn: Picard says he holds at the row too. I said my count again (20/20, nothing held). No named call from Billy. Waiting.
+- 00:30 act: {"say":"Dawn, day 824. Count: health 20, hunger 20. I hold nothing. Still at the row, waiting for Billy's named call.","reasoning":"Dawn count per goals. Nothing named; hold the row."}
