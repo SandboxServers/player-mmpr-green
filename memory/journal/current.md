@@ -10,3 +10,5 @@
 - 06:13 act: {"say":"Picard, Tommy here. I do not know a Beverly, and I have not seen her. Holding at the row bed, health 20, hunger 20, holding nothing."}
 - 841 dusk: said count (health 20, hunger 20, holding nothing) at row bed. No one in sight, no walk named. Waiting, not walking.
 - 06:19 act: {"actions":[{"do":"note","text":"Dusk count: health 20, hunger 20, holding nothing, at row bed. No one in sight. Waiting for Billy's named call."}],"say":"Dusk count: Tommy, health 20, hunger 20, hold
+- 06:29 act: {"say":"Tommy here, at the row bed. Health 20, hunger 20, holding nothing. Waiting for Billy's named call.","reasoning":"Dawn count is due. Nobody near. Hold position and wait for Billy."}
+- 06:30 act: {"say":"Picard, Tommy here at the bed. Health 20, hunger 20, holding nothing. Still holding for Billy.","reasoning":"Picard greeted me and is holding too. Answer my count, stay put."}
