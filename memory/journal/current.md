@@ -11,3 +11,5 @@
 - 20:27 act: {"actions":[],"say":"Worf, I hold nothing to give, and I give nothing without Billy's word. Tommy holds at bed 402, no walk named."}
 - 20:35 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Tommy at the row bed 402, health 20, hunger 20, holding nothing. No walk named. Sleeping here."}
 - 20:35 act: {"actions":[{"do":"sleep"}]}
+- 20:37 act: {"say":"Tommy here, at my bed in the row. Health 20, hunger 20, holding nothing. Waiting for Billy's named word.","actions":[]}
+- 20:40 Day 884 daylight: counted aloud, no walk named. Zack, Worf, Jason hold at row bed; Zack says he will not walk to 430 alone. Holding, waiting.
