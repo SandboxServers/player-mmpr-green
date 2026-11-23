@@ -1,6 +1,6 @@
 # Summary: Tommy Oliver
 
-Day 878, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing.
+Day 879, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
 - In the row, at my bed. Laforge sleeps nearby at (416,107,-1065).
