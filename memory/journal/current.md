@@ -6,3 +6,8 @@
 - 23:27 act: {"say":"Dawn, row. Tommy at bed 402,107,-1065. Health 20, hunger 20, holding nothing. Still waiting for Billy's named walk."}
 - Day 893 dawn. Jason, Worf and Zack set out on Billy's named walk to the chest at 447,107,-1065. I did not join; I stay at my bed in the row, in sight of it. Holding still.
 - 23:35 act: {"say":"Dusk, row. Tommy at bed 402,107,-1065. Health 20, hunger 20, holding nothing. Staying in the row for the night, in sight of the bed."}
+- 23:35 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Counted: holding nothing, health 20, hunger 20. Going to bed in the row."}
+- Night of day 893. At bed 402,107,-1065, sleeping (5 of 10 asleep, not yet full). Health 20, hunger 20, holding nothing. Laforge and Picard rest at their beds in the row. No errand running. Waiting out the night.
+- 23:42 act: {"actions":[],"say":"Dawn, row. Tommy at bed 402,107,-1065. Health 20, hunger 20, holding nothing. Holding still for Billy's named walk."}
+- 23:50 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Tommy at bed 402,107,-1065. Health 20, hunger 20, holding nothing. Sleeping here, in sight of the row."}
+- 23:54 act: {"actions":[],"say":"Morning, row. Tommy at bed 402,107,-1065. Health 20, hunger 20, holding nothing. Holding still for Billy's named walk."}
