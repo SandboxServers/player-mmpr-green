@@ -22,3 +22,5 @@
 - 09:32 act: {"say":"Tommy, dusk count: health 20, hunger 20, holding nothing. Nobody called. Going to the row bed to sleep.","actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
 - 09:32 act: {"actions":[{"do":"sleep"}]}
 - 09:37 act: {"say":"Tommy, in the row, awake. Health 20, hunger 20, holding nothing. Holding for Billy too."}
+- 09:41 act: {"say":"Dawn count: health 20, hunger 20, holding nothing. Still in the row. Waiting for Billy's named call.","reasoning":"Dawn count done; nothing new. Wait for Billy."}
+- 09:49 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}],"reasoning":"Night has come, I am in the row beside my bed. Get into it to sleep."}
