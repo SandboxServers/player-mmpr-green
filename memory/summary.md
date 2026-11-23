@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 861 (slept at the row bed 401,107,-1065). Health 20, hunger 20. Holding nothing.
+Day 862 (slept at the row bed 401,107,-1065). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In the row, at the bed. Billy is out near 413 and 417 with Zack, Worf and Jason, handing out potatoes in order.
+- In the row, at the bed. Billy is at bed near 413,107,-1042. Zack, Jason and Worf at 417.
 - No walk named for me. Billy said I am not owed yet.
 
 ## What matters
