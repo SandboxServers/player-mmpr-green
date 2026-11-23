@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 847 (slept at 402,107,-1065 in the row, beside the white bed). Health 20, hunger 20. Holding nothing.
+Day 848 (slept at the row bed 401,107,-1065). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In the row. Picard holds at his white bed nearby; he will call Billy when his hunger reaches 10.
+- In the row. Picard holds at his white bed nearby, also waiting for Billy.
 - Billy was hunted east of the row and has not named a walk.
 
 ## What matters

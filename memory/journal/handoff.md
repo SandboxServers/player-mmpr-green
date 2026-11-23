@@ -1,1 +1,1 @@
-Day 842 night. At row bed 402,107,-1065, asleep. Health 20, hunger 20, holding nothing. No errand running. Billy has not named a walk. Picard holds at bed 416,107,-1079. Owed: MacDonald potato, Wesley spare sword, Clark bread, Kimberly melon, Johnny food. Next: dawn count, wait for Billy.
+Day 848, slept at the row bed 401,107,-1065. Health 20, hunger 20, holding nothing. No errand running. Billy has not named a walk; Picard waits nearby. Owed: MacDonald potato, Wesley spare sword, Clark bread, Kimberly melon, Johnny food. Next: dawn count, wait for Billy's named call.
