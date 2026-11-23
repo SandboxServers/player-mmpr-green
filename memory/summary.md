@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 853 (slept at the row bed 401,107,-1065). Health 20, hunger 20. Holding nothing.
+Day 854 (slept at the row bed 401,107,-1065). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In the row. Picard and Laforge hold nearby, also waiting for Billy.
+- In the row, at the bed. Picard holds nearby, also waiting for Billy.
 - Nobody has named a walk since day 848.
 
 ## What matters
@@ -17,5 +17,5 @@ Day 853 (slept at the row bed 401,107,-1065). Health 20, hunger 20. Holding noth
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food. All when Billy calls them.
 
 ## Next
-- At dawn, count once, then wait for Billy's named call.
+- On waking, count once, then wait for Billy's named call.
 - Curious: where sheep graze; whether the west way clears.

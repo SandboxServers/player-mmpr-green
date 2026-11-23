@@ -1,1 +1,4 @@
-Handoff, day 853 night. At the row bed (standing 402,107,-1065, bed 401,107,-1065). Health 20, hunger 20, holding nothing. No errand running. Owed: MacDonald potato, Wesley spare sword, Clark bread, Kimberly melon, Johnny food. Next: on waking, dawn count, then wait for Billy's named call.
+# Handoff, day 854 night
+At the row bed (402,107,-1065; bed 401,107,-1065). Health 20, hunger 20, holding nothing. No errand running. Nobody has named a walk. Picard is nearby, also waiting for Billy.
+Owed: MacDonald potato, Wesley spare sword, Clark bread, Kimberly melon, Johnny food.
+Next: on waking, dawn count, then wait for Billy's named call.
