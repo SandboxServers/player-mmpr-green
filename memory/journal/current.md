@@ -1,16 +1,1 @@
 # Journal
-- 17:59 act: {"say":"Tommy here, at the row bed. Holding nothing. Health 20, hunger 20. Waiting for Billy's named call."}
-- Woke day 877 at the row bed (401,107,-1065). Health 20, hunger 20, holding nothing. Nobody near, no walk named. Said my position aloud. Waiting for Billy.
-- Night, day 877. Still at the row bed, health 20, hunger 20, nobody near, no walk named. Going to bed now in the row, as my goals say.
-- 18:12 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}},{"do":"use","at":{"x":401,"y":107,"z":-1064}}]}
-- 18:13 act: {"intent":{"goal":"rest_at_row_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}}
-- Day 877 night: at the row bed (402,107,-1064). Health 20, hunger 20, holding nothing. Nobody near. Resting in the row until Billy's named call.
-- 18:13 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1064}}],"say":"Still at the row bed, holding nothing, health 20, hunger 20. Going to sleep here."}
-- 18:14 act: {"actions":[{"do":"note","text":"Dusk count: health 20, hunger 20, holding nothing, at the row bed. Laforge is also at his bed by the row."}],"say":"Tommy here, at the row bed. Health 20, hunger 20, h
-- 18:18 act: {"say":"Morning. Tommy at the row bed, health 20, hunger 20. I hold nothing. I wait for Billy's named word."}
-- 18:27 act: {"say":"Tommy at the row bed, health 20, hunger 20, holding nothing. Waiting for Billy's named walk."}
-- Day 878 waking: slept at the row bed, woke at health 20, hunger 20, nothing held. Laforge at his bed 416,107,-1065. No walk named by Billy. Waiting.
-- Day 878 bright. Still at the row bed, health 20, hunger 20, holding nothing. Laforge sleeping in the row. Nothing new from Billy. Waiting again.
-- Still day 878, at the row bed, nothing new. Holding my place for Billy's named walk.
-- Dusk, day 878. Counted aloud at the row bed: health 20, hunger 20, holding nothing. Going to bed in the row.
-- 18:43 act: {"say":"Dusk, row. Tommy at the row bed, health 20, hunger 20, holding nothing. No walk named for me. I sleep here.","actions":[{"do":"use","at":{"x":401,"y":107,"z":-1064}}]}
