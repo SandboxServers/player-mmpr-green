@@ -18,4 +18,4 @@ Day 888, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding not
 - On waking, count once, then wait for Billy's named call.
 - Learn how the walk to 424 ends.
 - Curious: where sheep graze; whether the west way clears.
-- Tell: Billy, when he is near, that Jason is at hunger 13.
+- Tell Billy, when he is near, that Jason is at hunger 13.
