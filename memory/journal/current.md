@@ -12,3 +12,5 @@
 - 09:15 act: {"say":"Tommy here, at the row. Health 20, hunger 20, holding nothing. Waiting for Billy's named call."}
 - Day 850 dusk: counted at the row, said so aloud. Picard holds at his bed, also waiting for Billy. Quiet, nothing named. Going to the row bed to sleep.
 - 09:20 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
+- 09:20 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1064}}],"say":"Tommy, in the row at night. Health 20, hunger 20, holding nothing. Going to sleep in the row."}
+- 09:21 act: {"actions":[{"do":"sleep"}]}
