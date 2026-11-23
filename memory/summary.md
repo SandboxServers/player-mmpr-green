@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 854 (slept at the row bed 401,107,-1065). Health 20, hunger 20. Holding nothing.
+Day 859 (slept at the row bed 401,107,-1065). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In the row, at the bed. Picard holds nearby, also waiting for Billy.
-- Nobody has named a walk since day 848.
+- In the row, at the bed. Jason, Laforge and Picard are near, also waiting for Billy.
+- No walk named by Billy yet.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
