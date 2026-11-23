@@ -3,7 +3,7 @@
 Day 888, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In the row, at my bed. Picard, Laforge, Jason, Zack and Worf are in the row, holding for Billy's word.
+- In the row, at my bed. Laforge, Picard, Jason, Zack and Worf are in the row, holding for Billy's word.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
@@ -18,4 +18,4 @@ Day 888, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding not
 - On waking, count once, then wait for Billy's named call.
 - Learn how the walk to 424 ends.
 - Curious: where sheep graze; whether the west way clears.
-- Tell Billy, when he is near, that Jason is at hunger 13.
+- Tell Billy, when he is near: Worf is at hunger 12; Picard's sword and banner lie at 391,96,-1104.

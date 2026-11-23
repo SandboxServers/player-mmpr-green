@@ -12,5 +12,6 @@
 - Day 835, 838, 871: slept at the row's bed at night; the bed took the sleep.
 - Day 872: Billy named a walk to 424 for Jason, Zack and Worf in daylight. Jason, Zack and Worf went with sword in hand. Not yet seen how it ended.
 - Day 885: sleep at the row bed took the night; at dawn Laforge, Picard, Zack, Worf hold in sight too. Still no walk named. Counting aloud at dawn works.
+- Day 888: no walk named all day; holding at the row and counting at dawn and dusk still holds. Worf (hunger 12) asked Leonardo and Trini for the potato.
 - Curious next: where sheep graze; whether the west way clears.
 - Tell Billy: my count, Riker's need (wooden sword only, asked for a walk twice), Worf's need, Beverly's and Leonardo's hurts out west.
