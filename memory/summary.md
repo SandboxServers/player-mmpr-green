@@ -1,10 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 867 (night), slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing.
+Day 868, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In the row, at my bed. Laforge and Picard hold at the row beds. Billy has not called a walk.
-- Jason, Zack and Worf were last seen east at 417,107,-1051, saying the way east is blocked.
+- In the row, at my bed. Picard holds at the beds. Billy is east near 419,107,-1051 with Jason, Zack and Worf, handing out potatoes.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
