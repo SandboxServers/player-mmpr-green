@@ -1,6 +1,6 @@
 # Summary: Tommy Oliver
 
-Day 873, slept at the row bed (401,107,-1065) after dark. Health 20, hunger 20. Holding nothing.
+Day 874, slept at the row bed (401,107,-1065) after dark. Health 20, hunger 20. Holding nothing.
 
 ## Where I am
 - In the row, at my bed. Picard and Laforge hold at their beds. Zack, Jason and Worf wait at 418 for Billy's named call.
