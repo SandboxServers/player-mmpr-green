@@ -16,3 +16,7 @@
 - 09:21 act: {"actions":[{"do":"sleep"}]}
 - 09:22 act: {"actions":[],"say":"Tommy, counted at dawn: health 20, hunger 20, holding nothing. Holding in the row until Billy calls."}
 - Day 851 dawn: counted aloud (health 20, hunger 20, nothing held). Nobody in sight, no call from Billy. Waiting in the row.
+- 09:28 act: {"say":"Tommy here. Alive, health 20, hunger 20, holding nothing. Holding the row until Billy calls.","intent":{"goal":"hold_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_address
+- Day 851 dawn count: health 20, hunger 20, holding nothing. Bright, quiet, nobody near. Set rest intent in the row, waiting for Billy's named call. (Earlier intent with 0 block ops was rejected; resent with 1.)
+- 09:32 act: {"say":"Tommy, dusk count: health 20, hunger 20, holding nothing. Nobody called. Going to the row bed to sleep.","actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
+- 09:32 act: {"actions":[{"do":"sleep"}]}
