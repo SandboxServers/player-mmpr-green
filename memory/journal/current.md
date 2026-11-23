@@ -30,3 +30,7 @@
 - 02:11 say: {"text":"Tommy here. Count: health 20, hunger 20. I hold nothing. Waiting for Billy's named word. Zack, welcome noted."}
 - Day 829 day: woke, counted aloud (20/20, nothing held). Picard speaks from the row, holding too. No named walk for me. Waiting in the row, not walking. Days since sleep 5; beds refuse me, so I stay near Picard and watch.
 - 02:27 say: {"text":"Tommy at the row, day 830 dawn. Health 20, hunger 20, holding nothing. Still waiting for Billy's named walk."}
+- 02:48 say: {"text":"Tommy, dawn count: I am at the row, health 20, hunger 20, holding nothing. I wait for Billy's named call."}
+- Day 831 day: said count aloud (20/20, nothing held). Quiet, no one in sight, no named walk. Days since sleep 7. Staying at the row, not walking.
+- 02:52 say: {"text":"Dusk, day 831. Tommy at the row: health 20, hunger 20, holding nothing. Picard, I hold here near you. No walk tonight."}
+- Night day 831: tried the bed beside me and it let me sleep (days since sleep 0 now). Health 20, hunger 20, holding nothing. Billy still has not named a walk to me; Picard and Zack hold near. Tomorrow: count at dawn, then wait.
