@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 846 (slept at 402,107,-1065 in the row, beside the white bed). Health 20, hunger 20. Holding nothing.
+Day 847 (slept at 402,107,-1065 in the row, beside the white bed). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In the row. Picard holds at the bed 416,107,-1079. Jason holds at his own bed with a sword.
-- Billy was hunted by a pillager east of the row overnight, got to health 2, and is alive but without food. He has not named a walk.
+- In the row. Picard holds at his white bed nearby; he will call Billy when his hunger reaches 10.
+- Billy was hunted east of the row and has not named a walk.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
