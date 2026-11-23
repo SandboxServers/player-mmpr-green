@@ -6,3 +6,5 @@
 - Day 843 night: at bed 402,107,-1065, nobody in sight, health 20, hunger 20, holding nothing. Said my count aloud. Waiting for Billy; no walk named.
 - 07:02 act: {"say":"Night. I am at the row bed, holding nothing. Waiting for Billy's call.","actions":[]}
 - 07:04 act: {"say":"Tommy here. I hold nothing, no weapon. I stay at my bed, 402,107,-1065. I will not walk toward the pillager. Billy, where are you?","actions":[]}
+- 07:17 act: {"intent":{"goal":"hold_row_at_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},
+- 07:21 act: {"say":"Dawn count: Tommy, at the row bed 402,107,-1065. Health 20, hunger 20, holding nothing. No walk until Billy calls one. Billy, where are you?"}
