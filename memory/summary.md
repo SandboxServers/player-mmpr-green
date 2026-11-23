@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 863 (slept at the row bed 402,107,-1065). Health 20, hunger 20. Holding nothing.
+Day 863 night, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In the row, at the bed. Billy and the row are nearby; no one was in sight today.
+- In the row, at the bed. Billy and the row are nearby; nobody was in sight today.
 - No walk named for me.
 
 ## What matters
