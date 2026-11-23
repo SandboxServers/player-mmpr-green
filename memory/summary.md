@@ -1,6 +1,6 @@
 # Summary: Tommy Oliver
 
-Day 890, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing.
+Day 892, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
 - In the row, at my bed. Laforge and Picard hold at their beds for Billy's word.
