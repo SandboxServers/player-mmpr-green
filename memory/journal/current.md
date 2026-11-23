@@ -4,3 +4,4 @@
 - 21:11 act: {"say":"Tommy, counting at dawn: health 20, hunger 20, holding nothing. At the row bed. Waiting for Billy's call."}
 - Day 886 morning: counted aloud (20/20, empty-handed). Quiet wait at the bed; no walk named, no one near.
 - 21:19 act: {"say":"Dusk, row. Tommy at bed 402,107,-1065, health 20, hunger 20, holding nothing. Owed still: MacDonald, Wesley, Clark, Kimberly, Johnny. Waiting for Billy."}
+- 21:20 act: {"say":"Tommy here, at the row bed. Health 20, hunger 20, holding nothing. Waiting for Billy's named walk."}
