@@ -1,15 +1,3 @@
 # Journal
-- 19:57 act: {"say":"Good morning. Tommy here at the row bed 402, healthy, hunger full. I hold nothing. Holding still for Billy's named word."}
-- 20:05 act: {"say":"Dusk. Tommy at the row bed 402, health 20, hunger 20, holding nothing. No walk named. Holding for Billy's morning word.","actions":[{"do":"sleep"}]}
-- Waking 1230: woke at the row bed, counted to Laforge and Picard, held still. Sleep at dusk only partly took (3 of 10 asleep). Still no walk named by Billy; holding in the row.
-- 20:14 act: {"actions":[],"say":"Tommy here. Health 20, hunger 20, holding nothing. Staying at the row bed, waiting for Billy's named walk."}
-- Waking 1231 (day 883): health 20, hunger 20, holding nothing. Picard spoke: holds with us until Billy names a walk. Counted aloud, no walk named. Waiting.
-- 20:23 act: {"actions":[{"do":"sleep"}],"say":"Night. Tommy at the row bed 402, health 20, hunger 20, holding nothing. No walk named. Sleeping here."}
-- Night 883: at row bed 402, health 20, hunger 20, holding nothing. Slept. Laforge and Picard hold nearby, no walk named.
-- 20:23 act: {"actions":[],"say":"Morning, day 884. Tommy at the row bed 402, health 20, hunger 20, holding nothing. No walk named by Billy. Holding here."}
-- Day 884 morning: Laforge, Picard, Worf report holding. Worf asked me to give; declined, no give without Billy. Waiting.
-- 20:27 act: {"actions":[],"say":"Worf, I hold nothing to give, and I give nothing without Billy's word. Tommy holds at bed 402, no walk named."}
-- 20:35 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Tommy at the row bed 402, health 20, hunger 20, holding nothing. No walk named. Sleeping here."}
-- 20:35 act: {"actions":[{"do":"sleep"}]}
-- 20:37 act: {"say":"Tommy here, at my bed in the row. Health 20, hunger 20, holding nothing. Waiting for Billy's named word.","actions":[]}
-- 20:40 Day 884 daylight: counted aloud, no walk named. Zack, Worf, Jason hold at row bed; Zack says he will not walk to 430 alone. Holding, waiting.
+- 20:46 say: counted at the row, holding for Billy.
+- Day 885 night: slept at row bed 402,107,-1065. Health 20, hunger 20, holding nothing. No walk named by Billy. Laforge, Picard, Worf, Zack, Jason hold in the row; Worf asked for a give, declined (no give without Billy). Owed still: MacDonald potato, Wesley spare sword, Clark bread, Kimberly melon, Johnny food.
