@@ -21,3 +21,9 @@
 - 01:04 say: {"text":"Thank you, Zack. I am at 20 health, 20 hunger, so keep the potato for the weakest. I hold nothing and will wait for Billy's named walk. I will watch what you do."}
 - 01:16 say: {"text":"Dusk, day 826. Tommy at the row: health 20, hunger 20, holding nothing. No named walk from Billy yet. I stay here and do not walk."}
 - 01:32 say: {"text":"Night, day 827. Tommy at the row: health 20, hunger 20, holding nothing. Billy, I hold here and will not walk in the dark. Name me when you want me."}
+- 01:42 say: {"text":"Tommy, dusk count: health 20, hunger 20. I hold nothing. Waiting in the row for Billy's call."}
+- 01:46 say: {"text":"Picard, Tommy here. I hold nothing either. We wait for Billy together."}
+- Day 828 dusk: count said aloud (20/20, nothing). Picard answers from the row, also holding for Billy. No named call. Still standing in the row, not walking.
+- Night day 828: nobody in sight, 20/20, nothing held. Beds still refuse me, and I will not sleep alone in the dark. Waiting in the row for Billy.
+- 01:54 say: {"text":"Dawn, day 828. Tommy at the row: health 20, hunger 20, holding nothing. Still waiting for Billy's named call."}
+- Day 829 dawn: said my count. Picard holds at the bed too, will call Billy at hunger 10. Nothing named for me. Waiting.
