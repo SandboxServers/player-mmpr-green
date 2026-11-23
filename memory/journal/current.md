@@ -7,3 +7,6 @@
 - 11:01 act: {"say":"Tommy, at the row bed. Morning count: health 20, hunger 20, holding nothing. No walk named yet. Billy, name a route and I will walk it armed."}
 - 11:16 act: {"say":"Tommy here, at the row bed. Health 20, hunger 20, holding nothing. Waiting for Billy's named call."}
 - Day 856 morning: count said at row bed (health 20, hunger 20, nothing held). Picard nearby, also waiting. No walk named; waited quietly.
+- Day 857 dawn: said count at row bed (health 20, hunger 20, nothing held). Jason and Picard nearby, waiting on Billy. Set rest intent to hold the row until Billy's word.
+- Day 857 midday-ish: quiet waits at the row bed, thunder, dim. Health 20, hunger 20, nothing held. No walk named. Nothing new.
+- 11:25 act: {"say":"Tommy, dawn count: health 20, hunger 20, holding nothing. Waiting for Billy's named word.","intent":{"goal":"hold_row_until_billy","program":"rest","arguments":{},"wake_on":["directly_addresse
