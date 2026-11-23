@@ -14,3 +14,5 @@
 - 09:20 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
 - 09:20 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1064}}],"say":"Tommy, in the row at night. Health 20, hunger 20, holding nothing. Going to sleep in the row."}
 - 09:21 act: {"actions":[{"do":"sleep"}]}
+- 09:22 act: {"actions":[],"say":"Tommy, counted at dawn: health 20, hunger 20, holding nothing. Holding in the row until Billy calls."}
+- Day 851 dawn: counted aloud (health 20, hunger 20, nothing held). Nobody in sight, no call from Billy. Waiting in the row.
