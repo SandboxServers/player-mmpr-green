@@ -12,3 +12,12 @@
 - Day 824 dawn: Picard says he holds at the row too. I said my count again (20/20, nothing held). No named call from Billy. Waiting.
 - 00:30 act: {"say":"Dawn, day 824. Count: health 20, hunger 20. I hold nothing. Still at the row, waiting for Billy's named call.","reasoning":"Dawn count per goals. Nothing named; hold the row."}
 - 00:38 say: {"text":"Tommy here. Health 20, hunger 20. I hold nothing. Waiting for Billy's named call."}
+- Day 825: count said at dawn (20/20, nothing). Picard at the bed, holding for Billy. Night 825: Zack spoke from 418,107,-1051 (potato held, Jason and Worf in his sight, waiting for Billy's walk at first light). I answered: at the row, holding nothing, watching.
+- Day 826 dawn: Zack, Jason and Worf talk of walking to Billy at 441,-1051 (Billy in trouble there, per Zack). Billy has not named a walk to me. I stay at the row, holding nothing, 20/20. Watching Jason and Zack's walk.
+- Day 827 day: Billy is out at 412,-1053 with potatoes for Chapman (health 0.3) and Jason. Not named to me. I hold at the row, 20/20, nothing held, no walk.
+- Day 824 night: woke in the row at 402,107,-1065, health 20, hunger 20, holding nothing. Night, dim, nobody in sight. Standing still, no walk. Waiting for Billy.
+- 00:47 say: {"text":"Tommy at the row, day 825. Count: health 20, hunger 20. I hold nothing. Waiting for Billy's named call."}
+- 01:03 say: {"text":"Tommy at the row, 402,107,-1065. Health 20, hunger 20, holding nothing. Heard you, Zack. I wait for Billy's named call; I will watch what you do."}
+- 01:04 say: {"text":"Thank you, Zack. I am at 20 health, 20 hunger, so keep the potato for the weakest. I hold nothing and will wait for Billy's named walk. I will watch what you do."}
+- 01:16 say: {"text":"Dusk, day 826. Tommy at the row: health 20, hunger 20, holding nothing. No named walk from Billy yet. I stay here and do not walk."}
+- 01:32 say: {"text":"Night, day 827. Tommy at the row: health 20, hunger 20, holding nothing. Billy, I hold here and will not walk in the dark. Name me when you want me."}
