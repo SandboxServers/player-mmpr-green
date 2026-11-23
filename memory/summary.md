@@ -1,6 +1,6 @@
 # Summary: Tommy Oliver
 
-Day 836 (asleep at 401,107,-1065 in Billy's row, beside the bed). Health 20, hunger 20. Holding nothing.
+Day 838 (slept at 402,107,-1065 in Billy's row, beside the bed, Picard holding nearby). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
 - In the row. Beds here let me sleep at night when someone holds nearby. Picard holds at the bed, 416,107,-1079.
