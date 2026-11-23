@@ -11,3 +11,4 @@
 - 00:26 act: {"say":"Heard you, Picard. I stay at the row too, unarmed, holding nothing. Health 20, hunger 20.","reasoning":"Picard spoke; answer plainly. Night, so I stay still in the row with someone near."}
 - Day 824 dawn: Picard says he holds at the row too. I said my count again (20/20, nothing held). No named call from Billy. Waiting.
 - 00:30 act: {"say":"Dawn, day 824. Count: health 20, hunger 20. I hold nothing. Still at the row, waiting for Billy's named call.","reasoning":"Dawn count per goals. Nothing named; hold the row."}
+- 00:38 say: {"text":"Tommy here. Health 20, hunger 20. I hold nothing. Waiting for Billy's named call."}
