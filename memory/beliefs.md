@@ -11,5 +11,6 @@
 - Jason (day 787) reports beds blocked at the row and says he waits for Billy's named walk. Believe what he does on that walk.
 - Day 835, 838, 871: slept at the row's bed at night; the bed took the sleep.
 - Day 872: Billy named a walk to 424 for Jason, Zack and Worf in daylight. Jason, Zack and Worf went with sword in hand. Not yet seen how it ended.
+- Day 885: sleep at the row bed took the night; at dawn Laforge, Picard, Zack, Worf hold in sight too. Still no walk named. Counting aloud at dawn works.
 - Curious next: where sheep graze; whether the west way clears.
 - Tell Billy: my count, Riker's need (wooden sword only, asked for a walk twice), Worf's need, Beverly's and Leonardo's hurts out west.
