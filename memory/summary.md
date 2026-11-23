@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 866 night, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing.
+Day 867 night, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In the row, at the bed. Picard is holding nearby, also waiting for Billy.
+- In the row, at my bed. Laforge sleeping nearby in his own bed; Worf in the row.
 - No walk named for me. Billy has not called a route.
 
 ## What matters
@@ -18,4 +18,5 @@ Day 866 night, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holdi
 
 ## Next
 - On waking, count once, then wait for Billy's named call.
+- Tell Billy I am alive and can help if he names it.
 - Curious: where sheep graze; whether the west way clears.
