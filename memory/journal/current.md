@@ -7,3 +7,5 @@
 - 03:40 say: {"text":"Tommy, dusk count. Health 20, hunger 20, holding nothing. Waiting on Billy's word."}
 - Night, day 833. Said my count at the row beside the beds (402,107,-1065), Picard near. Nothing to do but wait for Billy. Going to sleep in the bed here.
 - 03:48 say: {"text":"Tommy, dawn count at the row. Health 20, hunger 20, holding nothing. Waiting for Billy's named call."}
+- 04:04 act: {"say":"Tommy, dawn count: health 20, hunger 20, holding nothing. Waiting in the row for Billy's named call."}
+- Day 834 dawn: slept nothing, stayed by the beds at the row. Dawn count said aloud. Picard holds at 416,107,-1079. Waiting for Billy's named call.
