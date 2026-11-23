@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 865 night, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing.
+Day 866 night, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In the row, at the bed. Zack is near at 417,107,-1051 with an empty pack. Laforge holds nearby.
+- In the row, at the bed. Picard is holding nearby, also waiting for Billy.
 - No walk named for me. Billy has not called a route.
 
 ## What matters
