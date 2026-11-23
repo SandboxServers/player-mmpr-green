@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 871, slept at the row bed (402,107,-1065) after dark. Health 20, hunger 20. Holding nothing.
+Day 872, slept at the row bed (402,107,-1065) after dark. Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In the row, at my bed. Picard and Laforge hold at their beds. Billy is east with Jason, Zack and Worf; the east way is blocked at 417.
+- In the row, at my bed. Picard and Laforge hold at their beds. Billy named a walk to 424 for Jason, Zack and Worf; I did not go.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
@@ -16,4 +16,5 @@ Day 871, slept at the row bed (402,107,-1065) after dark. Health 20, hunger 20. 
 
 ## Next
 - On waking, count once, then wait for Billy's named call.
+- Learn how the walk to 424 ends.
 - Curious: where sheep graze; whether the west way clears.
