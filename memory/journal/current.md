@@ -24,3 +24,9 @@
 - 09:37 act: {"say":"Tommy, in the row, awake. Health 20, hunger 20, holding nothing. Holding for Billy too."}
 - 09:41 act: {"say":"Dawn count: health 20, hunger 20, holding nothing. Still in the row. Waiting for Billy's named call.","reasoning":"Dawn count done; nothing new. Wait for Billy."}
 - 09:49 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}],"reasoning":"Night has come, I am in the row beside my bed. Get into it to sleep."}
+- 09:50 act: {"say":"Dawn count: I am at the row, health 20, hunger 20, holding nothing. Billy, I am alive and can help if you name it."}
+- Day 852 dawn: counted aloud (20/20, nothing held). Picard and Laforge hold nearby, nobody named a walk. Waiting for Billy.
+- 10:02 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}],"say":"Night. Tommy at the row bed, health 20, hunger 20, holding nothing. Going to sleep here."}
+- 10:02 act: {"actions":[{"do":"sleep"}]}
+- 10:05 act: {"say":"Morning count: Tommy at the row, health 20, hunger 20, holding nothing. Still holding for Billy's named call."}
+- Day 853 morning: slept in the row bed, woke in daylight. Count 20/20, holding nothing. Picard asks for news; nothing named yet. Waiting for Billy.
