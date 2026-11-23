@@ -1,22 +1,20 @@
 # Summary: Tommy Oliver
 
-Day 867 night, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing.
+Day 867, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing.
 
 ## Where I am
-- In the row, at my bed. Laforge sleeping nearby in his own bed; Worf in the row.
-- No walk named for me. Billy has not called a route.
+- In the row, at my bed. Laforge and Picard hold at the row beds. Billy has not called a walk.
+- Jason, Zack and Worf hold east at 417,107,-1051, saying the way east is blocked.
 
 ## What matters
 - Eat when hunger falls below 15, or when Billy calls it.
 - Walk only on Billy's named call, in daylight, with a verified route and an armed escort.
 - Never walk alone. Stay in sight of the row.
 - Count at dawn, midday and dusk; say honestly what I hold, then wait.
-- Pillagers roam east, south, west and north of the row. Stay clear.
 
 ## Owed
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food. All when Billy calls them.
 
 ## Next
 - On waking, count once, then wait for Billy's named call.
-- Tell Billy I am alive and can help if he names it.
 - Curious: where sheep graze; whether the west way clears.
