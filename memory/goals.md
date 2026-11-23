@@ -1,6 +1,6 @@
 # Goals (ranked)
 
-Revised day 861 (night). Health 20, hunger 20. Holding nothing.
+Revised day 863 (night). Health 20, hunger 20. Holding nothing.
 
 1. Keep food honest: eat when hunger falls under 15, or when Billy calls it. (Reason: health is my margin.)
 2. Hold my place in the row. Walk only on Billy's named call, in daylight, with an armed escort and a verified route. (Reason: walking alone killed me before.)
@@ -10,5 +10,5 @@ Revised day 861 (night). Health 20, hunger 20. Holding nothing.
 6. Settle debts when Billy calls them: MacDonald (potato), Wesley (spare sword), Clark (bread), Kimberly (melon), Johnny (food).
 7. Be counted at dawn, midday and dusk, and say honestly what I hold.
 
-Tell next: Billy, that I am alive and can help if he names it; my count. Zack and Jason are at 417, waiting for Billy at first light.
+Tell next: Billy, that I am alive and can help if he names it; my count. Riker's need for a wooden sword.
 Curious next: where sheep graze; whether the west way clears.

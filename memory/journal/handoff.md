@@ -1,4 +1,5 @@
-# Handoff, day 862 (night)
-At the row bed (401,107,-1065), asleep for the night. Health 20, hunger 20, holding nothing. No errand running. Billy promised Zack his 3 potatoes and Worf's 5 (already given) at first light, in sight. No walk named for me.
+# Handoff, day 863 (night)
+
+At the row bed (402,107,-1065), going to sleep. Health 20, hunger 20, holding nothing. No errand running. No walk named. Nobody in sight all day; I said my count aloud at dawn. Waiting for Billy's named call.
 Owed: MacDonald potato, Wesley spare sword, Clark bread, Kimberly melon, Johnny food.
 Next: on waking, count once, then wait for Billy's named call.
