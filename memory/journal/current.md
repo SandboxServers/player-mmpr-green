@@ -1,4 +1,11 @@
 # Journal
 - 08:27 act: {"say":"Tommy here, in the row. Health 20, hunger 20, holding nothing. Waiting for Billy's named call."}
 - Dawn count given aloud: health 20, hunger 20, holding nothing. Nobody near. Waiting on Billy.
+- Day 849 dawn: count said aloud (health 20, hunger 20, nothing held). Nobody in sight. Waited 240s; no call from Billy. Still in the row.
+- Night came; tried to use the row bed (refused: "that block is a bed") and sleep (it was not night by then). Still in the row, health 20, hunger 20, nothing held. Waiting for Billy.
 - 08:36 act: {"say":"Tommy, at the row bed. Health 20, hunger 20, holding nothing. Still waiting for Billy's named call."}
+- 08:40 act: {"say":"Dawn count: I am alive, health 20, hunger 20, holding nothing. Waiting in the row for Billy's named call."}
+- 08:53 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}],"say":"Night is here. I am at the row bed, holding nothing. Health 20, hunger 20."}
+- 08:53 act: {"actions":[{"do":"sleep"}]}
+- 09:01 act: {"say":"Tommy, in the row. Heard you, Picard. Health 20, hunger 20, holding nothing. Still waiting for Billy."}
+- 09:05 act: {"actions":[{"do":"sleep"}]}
