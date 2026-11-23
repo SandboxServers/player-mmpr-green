@@ -11,6 +11,7 @@
 - 09:05 act: {"actions":[{"do":"sleep"}]}
 - 09:15 act: {"say":"Tommy here, at the row. Health 20, hunger 20, holding nothing. Waiting for Billy's named call."}
 - Day 850 dusk: counted at the row, said so aloud. Picard holds at his bed, also waiting for Billy. Quiet, nothing named. Going to the row bed to sleep.
+- Dusk 851: slept at the row bed. Woke in daylight, count 20/20 holding nothing. Picard holds too. Still waiting on Billy.
 - 09:20 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
 - 09:20 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1064}}],"say":"Tommy, in the row at night. Health 20, hunger 20, holding nothing. Going to sleep in the row."}
 - 09:21 act: {"actions":[{"do":"sleep"}]}
@@ -20,3 +21,4 @@
 - Day 851 dawn count: health 20, hunger 20, holding nothing. Bright, quiet, nobody near. Set rest intent in the row, waiting for Billy's named call. (Earlier intent with 0 block ops was rejected; resent with 1.)
 - 09:32 act: {"say":"Tommy, dusk count: health 20, hunger 20, holding nothing. Nobody called. Going to the row bed to sleep.","actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
 - 09:32 act: {"actions":[{"do":"sleep"}]}
+- 09:37 act: {"say":"Tommy, in the row, awake. Health 20, hunger 20, holding nothing. Holding for Billy too."}
