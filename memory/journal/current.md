@@ -4,3 +4,4 @@
 - 10:46 act: {"say":"Tommy, at the row bed. Morning count: health 20, hunger 20, holding nothing. No walk named yet. Billy, name a route and I will walk it armed."}
 - 10:56 act: {"actions":[{"do":"sleep"}],"say":"Still at the row bed. Health 20, hunger 20, holding nothing. Waiting for Billy's call."}
 - Slept at the row bed; sleep worked, no new events. Reflect: nothing changed, goals hold. Next waking: count once, wait for Billy.
+- 11:01 act: {"say":"Tommy, at the row bed. Morning count: health 20, hunger 20, holding nothing. No walk named yet. Billy, name a route and I will walk it armed."}
