@@ -6,3 +6,5 @@
 - 05:55 act: {"say":"Tommy here, at the row bed. I hold nothing. Health 20, hunger 20. I am waiting for Billy's named call.","reasoning":"Quiet row, no one near, no named walk. Stay put and count aloud as my goals
 - 05:55 act: {"say":"Tommy at the row bed, health 20, hunger 20, holding nothing. Good morning, Picard. I hold here until Billy names a route.","reasoning":"Picard is holding nearby; answer with my count and keep 
 - 06:07 act: {"say":"Tommy at the row bed, night, health 20, hunger 20, holding nothing. Going to sleep here. Picard, I hear you holding.","reasoning":"Night, sheltered in row, no walk named. Sleep in bed."}
+- 06:08 act: {"say":"Tommy, dawn count: health 20, hunger 20, holding nothing. At the row bed, waiting for Billy's named call."}
+- 06:13 act: {"say":"Picard, Tommy here. I do not know a Beverly, and I have not seen her. Holding at the row bed, health 20, hunger 20, holding nothing."}
