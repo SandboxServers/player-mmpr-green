@@ -1,3 +1,8 @@
 # Journal
 - 23:10 act: {"say":"Tommy here, at my bed in the row. Health 20, hunger 20, holding nothing. Waiting for Billy's named word."}
 - 23:22 act: {"say":"Dusk, row. Tommy at my bed 402,107,-1065. Health 20, hunger 20, holding nothing. Going to sleep here, in sight of the row."}
+- 23:23 act: {"say":"Tommy at bed 402,107,-1065. Health 20, hunger 20, holding nothing. Holding still for Billy's named call."}
+- Waking, night of day 892. Slept at bed; sleep worked (9 of 10 asleep). Health 20, hunger 20, holding nothing. Laforge at bed 416, holding still. Said my count. Waiting for Billy.
+- 23:27 act: {"say":"Dawn, row. Tommy at bed 402,107,-1065. Health 20, hunger 20, holding nothing. Still waiting for Billy's named walk."}
+- Day 893 dawn. Jason, Worf and Zack set out on Billy's named walk to the chest at 447,107,-1065. I did not join; I stay at my bed in the row, in sight of it. Holding still.
+- 23:35 act: {"say":"Dusk, row. Tommy at bed 402,107,-1065. Health 20, hunger 20, holding nothing. Staying in the row for the night, in sight of the bed."}
