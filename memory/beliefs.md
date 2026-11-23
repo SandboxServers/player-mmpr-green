@@ -9,5 +9,6 @@
 - Day 762, 770, 816: a full day at the row brought no walk. Waiting is still right; I do not walk alone.
 - Night is dangerous in the open: pillagers roam west, north-west and north of the row. Picard died out west at x=391 to pillagers; his sword and banner lie at 391,96,-1104. Beverly and Leonardo were hurt there too. Do not go west without Billy's named route.
 - Jason (day 787) reports beds blocked at the row and says he waits for Billy's named walk. Believe what he does on that walk.
+- Day 835: slept at the row's bed at night with Picard holding nearby; the bed took the sleep.
 - Curious next: where sheep graze; whether the west way clears.
 - Tell Billy: my count, Riker's need (wooden sword only, asked for a walk twice), Worf's need, Beverly's and Leonardo's hurts out west.
