@@ -3,7 +3,7 @@
 Day 906, asleep at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row, at my bed. Billy has not named a walk. Zack, Worf, Leonardo, Laforge and Jason are near the row.
+- In the row, at my bed. Billy has not named a walk. Leonardo, Worf, Zack, Laforge and Jason are near the row.
 
 ## What matters
 - Arm first: the row chest has no sword. Ask Billy or Wesley for a spare.
@@ -17,5 +17,5 @@ Day 906, asleep at the row bed (402,107,-1065). Health 20, hunger 20. Holding no
 
 ## Next
 - On waking, count once, then wait for Billy's named call.
-- Learn how the walk to 424 ends.
+- Watch whether Leonardo hands the potato to Worf at first light.
 - Curious: where the pillager came from; whether the south path is clear in daylight.
