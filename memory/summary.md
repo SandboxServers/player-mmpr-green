@@ -1,10 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 930, dusk, going to sleep in my bed in the row at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
+Day 931, slept in my bed in the row at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row. Picard is low (health 2.3, no food). Zack is at 16 with no food. Jason holds with a wooden sword in Worf's sight.
-- No daylight walk has been named by Worf.
+- In the row, at my bed. Picard holds at his own bed nearby. No walk named by Worf yet.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
