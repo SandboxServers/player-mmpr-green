@@ -1,4 +1,4 @@
-# Summary (day 960, asleep at bed)
+# Summary (day 961, asleep at bed)
 
 At my bed in the row, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 
