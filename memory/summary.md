@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 936, slept at my bed in the row at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
+Day 937, asleep at my bed in the row at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row, at my bed. No walk named. Worf says no daylight route to the melon field yet (Zack asked).
+- In the row, at my bed. No walk named. Worf has not given a daylight route yet.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
