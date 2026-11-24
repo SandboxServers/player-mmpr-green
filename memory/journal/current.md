@@ -1,3 +1,3 @@
 # Journal
-- Dusk, day 931: at my bed in the row, health 20, hunger 20, unarmed, nobody near. Said I hold my bed for the night. Waiting for dawn and Worf's call.
-- 12:17 act: {"actions":[{"do":"note","text":"Dusk, at my bed in the row. Health 20, hunger 20, unarmed, nobody near. Holding my place until dawn."}],"say":"Tommy here, unarmed, holding my bed in the row for the n
+- Day 931-932: held my bed in the row through the night and the morning. Health 20, hunger 20, unarmed, holding nothing. Counted at dawn. No call from Worf for a daylight route yet. Picard and Billy hold nearby.
+- Night, day 932: slept in my bed at 402,107,-1065. Waiting for Worf's named call.
