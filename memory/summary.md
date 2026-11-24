@@ -1,10 +1,10 @@
-# Summary (day 959, dusk, asleep at bed)
+# Summary (day 960, asleep at bed)
 
 At my bed in the row, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
-- Eat when hunger falls under 15, or when a named caller asks. I have no food now.
+- Eat when hunger falls under 15, or when a named caller asks. I have no food.
 - Walk only on Worf's named daylight call, armed, with a verified route. Never alone, never in the dark.
 - I have nothing to give. Say so honestly.
 
@@ -14,4 +14,3 @@ At my bed in the row, 402,107,-1065. Health 20, hunger 20, unarmed, holding noth
 ## Next
 - On waking, count aloud, then wait for Worf's named daylight call.
 - Watch Laforge, Picard, Worf, Zack, Jason and Billy: trust by what they do.
-- Picard is hurt and needs food; I have none to give.
