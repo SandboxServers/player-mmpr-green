@@ -1,6 +1,6 @@
-# Summary (day 946 end)
+# Summary (day 947 end)
 
-At my bed in the row, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing. No walk named by Worf. Slept at night on day 946.
+At my bed in the row, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing. No walk named by Worf all day 947. Went to bed at dusk.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
@@ -12,4 +12,5 @@ At my bed in the row, 402,107,-1065. Health 20, hunger 20, unarmed, holding noth
 
 ## Next
 - On waking, count once aloud, then wait for Worf's named daylight call.
-- Watch Laforge, who holds at the row like me. Trust him at 60 for now.
+- Check whether the dusk sleep actually happened; the sleep call returned the digest only.
+- Watch Laforge and Picard, who hold in the row like me. Trust Laforge at 60 for now.

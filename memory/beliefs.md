@@ -18,5 +18,7 @@
 
 - Day 943: quiet all day at my bed. No walk named, no one near. Dusk sleep at bed worked (days_since_sleep reset to 0).
 
+- Day 947: no walk named at dawn, midday or dusk. Worf holds in the row with Jason and Zack, viewing the walls for open cells. Picard and Laforge hold too. Dusk sleep attempt returned the digest but did not confirm sleep; check on waking.
+
 Curious next: whether the north-east walk to the cows at 434,106,-1113 can be made once someone is armed for me.
 Tell next: Worf, that I hold in the row, unarmed, and will walk when he names it. Billy, that I am sorry I could not come, and that I will come armed when named.
