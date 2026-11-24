@@ -1,3 +1,4 @@
 # Zack
 
-Received my spare wooden sword on day 521 by a give that worked. Stood with me on night 523 when I died to phantoms. Day 637: offered me a potato from his 4 when I come into reach, without asking. Trust 70 out of 100.
+Impression: keeps to the rule of no walk in the dark. Holds near Worf and Jason. Pack empty, hunger 16.
+Trust: 60. Why: consistent in what he says and where he stands. I have not yet seen him act beyond that.

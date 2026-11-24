@@ -1,3 +1,4 @@
 # Laforge
 
-Gave me a spare wooden sword on day 521 that landed in my hand. Received my wooden sword on day 526 and is armed. Trust 70 out of 100.
+Impression: calm, holds in sight of the row, waits for Worf's named walk. Unarmed, pack empty, health 20.
+Trust: 55. Why: says where he is and what he holds, and keeps to the row.
