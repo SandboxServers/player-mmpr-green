@@ -17,3 +17,5 @@
 - 01:53 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1064}}]}
 - 01:54 act: {"say":"Tommy at the row bed, awake, unarmed, holding nothing. I will not walk at night. Waiting for Billy's call."}
 - 02:02 act: {"say":"Tommy at the row bed, health 20, hunger 20, holding nothing. Picard, I have no food. Billy holds the food. I am holding for his named walk."}
+- 02:11 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1065}},{"do":"open","at":{"x":405,"y":107,"z":-1065}},{"do":"withdraw","at":{"x":405,"y":107,"z":-1065},"item":"stone_sword","count":1}],"say":"
+- 02:11 act: {"actions":[],"say":"The row chest has no sword. Billy, I need a sword before any walk. I hold nothing and will wait here by the bed."}
