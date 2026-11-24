@@ -9,7 +9,7 @@
 - The row walls are planks; the north way out has been blocked, and Worf is still looking for a gap.
 - Billy holds at the gap 417,107,-1053 and will not walk without Worf in sight on a named route.
 - Day 929: no daylight walk was named at dawn. Picard (health 2.3) and Zack (health 16) hold with no food.
-- Day 934: no daylight walk was named all day. Picard holds at his bed with no food (hunger 17). Jason holds in the row and will call food when his hunger reaches 10. I slept at my bed at dusk.
+- Day 934: no daylight walk was named all day. Picard holds at his bed with no food (hunger 17). Jason holds in the row and will call food when his hunger reaches 10. Zack holds with one plank and no food. I slept at my bed at dusk.
 
 Curious next: whether the north-east walk to the cows at 434,106,-1113 can be made once someone is armed for me.
 Tell next: Worf, that I hold in the row, unarmed, and will walk when he names it. Billy, that I am sorry I could not come, and that I will come armed when named.
