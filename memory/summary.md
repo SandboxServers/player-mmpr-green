@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 927, asleep in the row bed at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
+Day 928, asleep in the row bed at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row with Picard, Laforge and Zack. Worf has named no walk yet. Thunder at night.
+- In the row. Picard (415,107,-1065, health 2.3, hunger 17), Laforge and Zack nearby. Jason holds at 418,107,-1051 with a wooden sword. Worf has named no walk yet.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
