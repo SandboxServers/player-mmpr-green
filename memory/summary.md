@@ -1,5 +1,7 @@
 # Summary: Tommy Oliver
 
+Day 939 end: asleep at my bed in the row at 402,107,-1065. Health 20, hunger 20, holding nothing, unarmed. Next waking: count aloud, wait for Worf's named daylight call, arm before any walk.
+
 Day 939, asleep at my bed in the row at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
