@@ -1,11 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 917, slept in the row bed beside 401,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
+Day 917, slept in the row bed at 401,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row with Worf, Zack, Jason, Billy, Laforge and Picard near. The walls are still closed; Worf has not named a route.
-- Picard is low on health and hungry. I had no food to give.
-- A phantom hit Billy at night on day 917.
+- In the row with Worf, Zack, Jason, Billy, Laforge, Lewis and Picard near. The walls are still closed; Worf has not named a route.
+- Phantoms hit Laforge and Lewis at dusk and night. Picard is low on health and has no food.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
