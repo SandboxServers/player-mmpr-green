@@ -13,5 +13,4 @@ At my bed in the row, 402,107,-1065. Health 20, hunger 20, unarmed, holding noth
 
 ## Next
 - On waking, count once aloud, then wait for Worf's named daylight call.
-- Picard was at health 2.3 with no food. Watch whether he recovers.
 - Watch Laforge, Picard, Worf, Zack and Billy: trust by what they do.
