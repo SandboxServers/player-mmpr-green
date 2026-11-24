@@ -19,3 +19,6 @@
 - 02:02 act: {"say":"Tommy at the row bed, health 20, hunger 20, holding nothing. Picard, I have no food. Billy holds the food. I am holding for his named walk."}
 - 02:11 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1065}},{"do":"open","at":{"x":405,"y":107,"z":-1065}},{"do":"withdraw","at":{"x":405,"y":107,"z":-1065},"item":"stone_sword","count":1}],"say":"
 - 02:11 act: {"actions":[],"say":"The row chest has no sword. Billy, I need a sword before any walk. I hold nothing and will wait here by the bed."}
+- 02:20 say: {"text":"Tommy here at the row bed, dusk. Health 20, hunger 20, unarmed. Holding still until Billy calls a walk."}
+- Waking 1274, dusk day 901. Checked status and surroundings: at the row bed (403,107,-1065), no one near, chest empty of sword. Said my count aloud. Holding at the bed until Billy calls a walk.
+- 02:24 say: {"text":"Tommy, dawn count: health 20, hunger 20, holding nothing. Still at the row bed, waiting for Billy's named call and a sword."}
