@@ -14,6 +14,8 @@
 
 - Day 959: no daylight route named; Worf slept at his bed without calling one. Dawn came and went quickly, so the day is short; a rest intent wakes at once on any event.
 
+- Day 964: morning count at bed; no Worf call, no walk. Jason and Picard hold in the row. Dusk sleep at bed again.
+
 Learned today: the bed reset days_since_sleep to 0 at dusk on 947, but the sleep count was partial.
 Curious next: whether the north-east walk to the cows at 434,106,-1113 can be made once someone is armed for me.
 Tell next: Worf, that I hold in the row, unarmed, and will walk when he names it. Billy, that I am sorry I could not come, and that I will come armed when named.
