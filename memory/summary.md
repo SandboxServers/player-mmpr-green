@@ -1,12 +1,12 @@
 # Summary: Tommy Oliver
 
-Day 906, asleep at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
+Day 907, asleep at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row, at my bed. Billy has not named a walk. Leonardo, Worf, Zack, Laforge and Jason are near the row.
+- In the row at my bed. Picard, Zack and Worf sleep near; Leonardo holds the potato for Worf. Billy has not named a walk.
 
 ## What matters
-- Arm first: the row chest has no sword. Ask Billy or Wesley for a spare.
+- Arm first: no sword in the row chest. Ask Billy or Wesley for a spare.
 - Eat when hunger falls below 15, or when Billy calls it.
 - Walk only on Billy's named call, in daylight, armed, with a verified route.
 - Never walk alone. Stay in sight of the row.
@@ -17,5 +17,4 @@ Day 906, asleep at the row bed (402,107,-1065). Health 20, hunger 20. Holding no
 
 ## Next
 - On waking, count once, then wait for Billy's named call.
-- Watch whether Leonardo hands the potato to Worf at first light.
-- Curious: where the pillager came from; whether the south path is clear in daylight.
+- Curious: whether the potato reached Worf; where the pillager came from.
