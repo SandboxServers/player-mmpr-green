@@ -1,12 +1,12 @@
 # Summary: Tommy Oliver
 
-Day 908, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
+Day 909, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row. Billy is handing out potatoes to others; no sword for me yet.
+- In the row. Billy is at health 1 with no food; Worf, Zack and Jason went out in daylight to the potatoes at 463,107,-1073 and held near 418,107,-1051 when the walk was blocked.
 
 ## What matters
-- Arm first: no sword in the row chest. Ask Billy or Wesley for a spare.
+- Arm first: no sword from Billy yet.
 - Eat when hunger falls below 15, or when Billy calls it.
 - Walk only on Billy's named call, in daylight, armed, with a verified route.
 - Never walk alone. Stay in sight of the row.
@@ -17,4 +17,4 @@ Day 908, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding not
 
 ## Next
 - On waking, count once, then wait for Billy's named call.
-- Curious: whether the potato reached Worf; where the phantom came from.
+- Curious: whether the potatoes at 463 were reached; where the phantom came from.
