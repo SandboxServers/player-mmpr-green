@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 910, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
+Day 910, slept in the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row. Billy is at 418,107,-1053 with health 1 and no food. Worf, Zack and Jason are near 418,107,-1051. Picard is in the row.
-- The walk to the potatoes at 463,107,-1073 was blocked on day 910; the group held.
+- In the row. Billy was last seen near 418,107,-1053 with low health and no food. Worf, Zack and Jason were near 418,107,-1051.
+- The walk to the potatoes at 463,107,-1073 was blocked on day 910.
 
 ## What matters
 - Arm first: no sword yet. Billy has not answered.
