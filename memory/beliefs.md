@@ -12,6 +12,8 @@
 - Day 947: no walk named at dawn, midday or dusk. Sleep at dusk returned the digest only; 2 of 10 asleep, not a confirmed full rest. Check on waking.
 - A rest intent ends at once, so holding place needs me to say it, not a timer.
 
+- Day 959: no daylight route named; Worf slept at his bed without calling one. Dawn came and went quickly, so the day is short; a rest intent wakes at once on any event.
+
 Learned today: the bed reset days_since_sleep to 0 at dusk on 947, but the sleep count was partial.
 Curious next: whether the north-east walk to the cows at 434,106,-1113 can be made once someone is armed for me.
 Tell next: Worf, that I hold in the row, unarmed, and will walk when he names it. Billy, that I am sorry I could not come, and that I will come armed when named.
