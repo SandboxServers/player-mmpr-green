@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 935, slept at my bed in the row at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
+Day 936, slept at my bed in the row at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row, at my bed. Picard holds at his bed nearby, low on health with no food. Zack, Worf and Jason hold in the row. No daylight walk of mine was named on day 935.
+- In the row, at my bed. Picard holds nearby, health 2.3, hunger 17, no food. No daylight walk was named on days 935 or 936.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
