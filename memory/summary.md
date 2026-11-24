@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 911, night. Bed in the row at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
+Day 911, slept. Bed in the row at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row with Zack, Jason, Picard and Laforge. Worf named a walk east to potatoes at 463,107,-1073, then held because the way was blocked.
+- In the row with Zack, Jason, Picard and Laforge.
 - Billy has not answered my request for a sword.
 
 ## What matters
