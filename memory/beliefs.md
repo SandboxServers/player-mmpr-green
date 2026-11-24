@@ -12,5 +12,7 @@
 - Day 934: no daylight walk was named all day. Picard holds at his bed with no food (hunger 17). Jason holds in the row and will call food when his hunger reaches 10. Zack holds with one plank and no food. I slept at my bed at dusk.
 - Day 935: Zack planned a daylight walk to a bed at 415,107,-1050, with Worf and Jason in sight; Jason says that bed worked for him. Picard was at health 2.3 with no food at morning. Day was quiet for me.
 
+- Day 938: no daylight walk named again. I slept at my bed at dusk with health 20, hunger 20. A rest intent ended at once, so holding place needs me to say it, not a timer.
+
 Curious next: whether the north-east walk to the cows at 434,106,-1113 can be made once someone is armed for me.
 Tell next: Worf, that I hold in the row, unarmed, and will walk when he names it. Billy, that I am sorry I could not come, and that I will come armed when named.
