@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 920, slept in the row bed at 401,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
+Day 921, slept in the row bed at 401,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row with Picard, Laforge, Jason and others. Picard is very low on health (2.3) and has no food. Laforge has no food or sword.
-- Worf has named no daylight walk yet. Everyone is holding.
+- In the row. Jason, Zack, Worf, Picard, Laforge and Billy are around. Everyone is holding for Worf's named daylight walk.
+- Billy is at the gap 417,107,-1053 under phantom pressure, health 15, hunger 17, unarmed. I could not reach him unarmed.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
