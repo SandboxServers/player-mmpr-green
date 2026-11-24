@@ -12,7 +12,7 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## People in the row
-- Picard: beside the bed at 415,107,-1079, unarmed, hunger 17, waiting on Billy for a walk. Trust 50.
+- Picard: beside the bed at 415,107,-1079, unarmed, hunger 17 last seen. Trust 50.
 
 ## Next
 - On waking, count aloud, then wait for a named daylight call.
