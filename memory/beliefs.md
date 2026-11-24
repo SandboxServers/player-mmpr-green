@@ -16,5 +16,7 @@
 
 - Day 939: no daylight walk named at dawn or midday. Picard still at health 2.3 with no food. Zack and Jason want the melon field at 302,80,-822 on Worf's route, and Laforge holds beside his bed. I held quietly at my bed all day.
 
+- Day 943: quiet all day at my bed. No walk named, no one near. Dusk sleep at bed worked (days_since_sleep reset to 0).
+
 Curious next: whether the north-east walk to the cows at 434,106,-1113 can be made once someone is armed for me.
 Tell next: Worf, that I hold in the row, unarmed, and will walk when he names it. Billy, that I am sorry I could not come, and that I will come armed when named.
