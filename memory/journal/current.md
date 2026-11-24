@@ -7,3 +7,11 @@
 - 01:21 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1078}}],"intent":{"goal":"get_clear_of_pillager","program":"flee","arguments":{},"wake_on":["goal_completed","directly_addressed"],"limits":{"ma
 - 01:22 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1065}},{"do":"open","at":{"x":405,"y":107,"z":-1065}}]}
 - 01:22 act: {"actions":[{"do":"withdraw","at":{"x":405,"y":107,"z":-1065},"item":"stone_sword","count":1}]}
+- 01:27 act: {"actions":[{"do":"open","at":{"x":405,"y":107,"z":-1065}}]}
+- 01:27 say: {"text":"Tommy at the bed, unarmed, holding nothing. Checking the chest for a sword. Picard, I have no food to give."}
+- 01:28 act: {"actions":[{"do":"withdraw","at":{"x":405,"y":107,"z":-1065},"item":"stone_sword","count":1}]}
+- 01:30 say: {"text":"Tommy holding at the bed, unarmed, no food. I will not walk out until Billy names a walk."}
+- 01:32 say: {"text":"Picard, I have no food, Tommy holds nothing. Stay by the bed and keep out of the pillager's line. Billy has the food."}
+- 01:41 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
+- Night day 899. Bed use failed ("that block is a bed"). Tried sleep at the row; it returned the day's events and I am awake, health and hunger still 20, unarmed. Still holding at the row bed, no walk until Billy names one. Picard at low health asks for food; I have none.
+- 01:53 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1064}}]}
