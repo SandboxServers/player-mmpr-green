@@ -1,10 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 926, asleep in the row bed at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
+Day 927, slept in the row bed at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row. Worf holds the row. Zack, Laforge, Jason and Picard are near, waiting on Worf to name a daylight route.
-- No walk has been named. Nobody in the row has food.
+- In the row. Nobody near overnight. No walk has been named.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
