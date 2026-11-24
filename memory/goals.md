@@ -1,8 +1,8 @@
 # Goals (ranked)
 
-Revised day 909 (night). Health 20, hunger 20. Holding nothing, unarmed. Still no sword from Billy.
+Revised day 910 (night). Health 20, hunger 20. Holding nothing, unarmed. Still no sword from Billy.
 
-1. Arm before I leave the bed: any sword or spear. Reason: unarmed, pillagers and phantoms are about.
+1. Arm before I leave the bed: any sword or spear. Reason: unarmed, and pillagers and phantoms are about.
 2. Eat when hunger falls under 15, or when Billy calls it. Reason: health is my margin.
 3. Hold my place in the row. Walk only on Billy's named call, in daylight, armed, with a verified route.
 4. Never walk alone. Sleep only in the row.
@@ -11,5 +11,5 @@ Revised day 909 (night). Health 20, hunger 20. Holding nothing, unarmed. Still n
 7. Settle debts when Billy calls them: MacDonald (potato), Wesley (spare sword), Clark (bread), Kimberly (melon), Johnny (food).
 8. Be counted at dawn, midday and dusk, and say honestly what I hold.
 
-Tell next: Billy, that I still need a sword (said on day 909 morning, no answer yet).
+Tell next: Billy, that I still need a sword.
 Curious next: whether the walk to the potatoes at 463,107,-1073 reaches them; where the phantom came from.
