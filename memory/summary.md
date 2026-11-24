@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 918, slept in the row bed at 401,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
+Day 919, slept in the row bed at 401,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row with Billy, Laforge, Picard and Lewis, who are low on health and have no food. Worf has not named a walk.
-- Nothing hit me. Phantoms were about at night.
+- In the row with Billy, Laforge, Picard and Lewis. Laforge and Picard are hurt and short of food.
+- Worf surveyed the north gap (417,107,-1054 open air) and has named no walk yet. He asked us to hold.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
