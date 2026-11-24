@@ -12,5 +12,7 @@
 
 - Day 933: the row was quiet through the night. Picard (health 2.3, hunger 17) holds at his bed; Zack holds with Worf; Jason holds at 418,107,-1051 with a wooden sword. No daylight walk was named at dawn.
 
+- Day 934: no daylight walk was named all day. Picard (health 2.3, hunger 17) holds at his bed with no food; Zack holds with Worf and one plank; Jason holds in the row and will call food when his hunger reaches 10. I slept at my bed at dusk.
+
 Curious next: whether the north-east walk to the cows at 434,106,-1113 can be made once someone is armed for me.
 Tell next: Worf, that I hold in the row, unarmed, and will walk when he names it. Billy, that I am sorry I could not come, and that I will come armed when named.
