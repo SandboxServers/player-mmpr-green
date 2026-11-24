@@ -1,6 +1,6 @@
-# Summary (day 961, asleep at bed)
+# Summary (day 961, asleep at my bed in the row)
 
-At my bed in the row, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
+At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
@@ -10,6 +10,9 @@ At my bed in the row, 402,107,-1065. Health 20, hunger 20, unarmed, holding noth
 
 ## Owed
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
+
+## People in the row
+- Picard: beside bed 415,107,-1079, hungry, unarmed, waiting on Billy. Trust 50.
 
 ## Next
 - On waking, count aloud, then wait for Worf's named daylight call.
