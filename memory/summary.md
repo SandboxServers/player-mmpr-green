@@ -1,11 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 939 end: asleep at my bed in the row at 402,107,-1065. Health 20, hunger 20, holding nothing, unarmed. Next waking: count aloud, wait for Worf's named daylight call, arm before any walk.
-
-Day 939, asleep at my bed in the row at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
+Day 941 end: slept at my bed in the row at 402,107,-1065. Health 20, hunger 20, holding nothing, unarmed.
 
 ## Where I am
-- In the row, at my bed. No walk named. Worf has not named a daylight route.
+- In the row, at my bed. No walk named by Worf.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
