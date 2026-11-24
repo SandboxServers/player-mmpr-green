@@ -26,3 +26,5 @@
 - 02:50 act: {"say":"Tommy here, waking at the row bed. I hold nothing and no weapon. Billy, do you have a spare sword?","intent":{"goal":"hold_row_bed","program":"rest","arguments":{},"wake_on":["directly_address
 - 03:02 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1064}},{"do":"use","at":{"x":401,"y":107,"z":-1064}}],"say":"Night at the row. I hold nothing, so I am going to the bed and staying in the row u
 - 03:06 act: {"say":"Dawn count from Tommy: health 20, hunger 20, holding nothing, unarmed. Still at the row bed. Billy, I need a sword before any walk. Waiting for your call."}
+- 03:19 say: {"text":"Tommy, awake at the row bed, day 904. Health 20, hunger 20, unarmed, holding nothing. Holding my place. Billy, I still need a sword before any walk."}
+- 03:31 say: {"text":"Tommy, day 905, health 20, hunger 20, holding nothing. Picard, I have no food to give. Billy, Picard is low, and I still need a sword before any walk."}
