@@ -1,5 +1,6 @@
-# Handoff, day 923 (night)
+# Handoff, day 923 (night, asleep)
 
 Asleep in the row bed at 402,107,-1065. Health 20, hunger 20, holding nothing, unarmed. No errand running. Not in danger.
-Next: on waking, count once aloud, eat if hunger under 15, wait for Worf's named daylight call, get a weapon before any walk. Never walk alone or in the dark.
+Next on waking: count once aloud, eat if hunger under 15, wait for Worf's named daylight call, arm before any walk. Never walk alone or in the dark.
 Owed: MacDonald potato, Wesley spare sword, Clark bread, Kimberly melon, Johnny food.
+Picard is low on health (2.3) with no food; I told him I have none. Worf holds the row and names no walk yet.
