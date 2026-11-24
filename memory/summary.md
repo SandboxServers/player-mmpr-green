@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 911, slept in the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
+Day 911, night. Bed in the row at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row, with Jason, Zack, Laforge and Picard nearby. Worf went west toward cows at 339,104,-979 without me.
+- In the row with Zack, Jason, Picard and Laforge. Worf named a walk east to potatoes at 463,107,-1073, then held because the way was blocked.
 - Billy has not answered my request for a sword.
 
 ## What matters
@@ -16,4 +16,4 @@ Day 911, slept in the row bed (402,107,-1065). Health 20, hunger 20. Holding not
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## Next
-- On waking, count once, then wait for Billy's named call.
+- On waking, count once aloud, then wait for Billy's named call.
