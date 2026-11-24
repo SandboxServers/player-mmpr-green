@@ -23,3 +23,4 @@
 - Waking 1274, dusk day 901. Checked status and surroundings: at the row bed (403,107,-1065), no one near, chest empty of sword. Said my count aloud. Holding at the bed until Billy calls a walk.
 - 02:24 say: {"text":"Tommy, dawn count: health 20, hunger 20, holding nothing. Still at the row bed, waiting for Billy's named call and a sword."}
 - 02:37 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1065}}],"say":"Tommy here, at the row bed. Holding nothing, health 20, hunger 20. Billy, I need a sword before any walk. Waiting for your named 
+- 02:50 act: {"say":"Tommy here, waking at the row bed. I hold nothing and no weapon. Billy, do you have a spare sword?","intent":{"goal":"hold_row_bed","program":"rest","arguments":{},"wake_on":["directly_address
