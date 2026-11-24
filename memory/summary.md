@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 907, asleep at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
+Day 907, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row. Picard, Zack and Laforge hold near; Leonardo has the potato for Worf. Billy has not named a walk.
+- In the row. Leonardo holds with the potato for Worf. Billy has not named a walk and has not answered about a sword.
 
 ## What matters
 - Arm first: no sword in the row chest. Ask Billy or Wesley for a spare.
