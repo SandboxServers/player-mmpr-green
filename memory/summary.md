@@ -1,10 +1,10 @@
 # Summary: Tommy Oliver
 
-Day 922, slept in the row bed at 401,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
+Day 923, asleep in the row bed at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row. Jason, Zack, Worf, Picard and Laforge are near. Billy holds at the gap 417,107,-1053.
-- Worf has named no route past the gap. Everyone is holding in sight of each other.
+- In the row. Worf, Picard, Jason, Zack and Laforge are near. Billy was at the gap 417,107,-1053 under a phantom at night.
+- Worf is armed with a stone sword and holds the row. No daylight walk named yet.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
