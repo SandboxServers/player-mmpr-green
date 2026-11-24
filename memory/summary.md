@@ -1,9 +1,9 @@
 # Summary: Tommy Oliver
 
-Day 907, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
+Day 908, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row. Leonardo holds with the potato for Worf. Billy has not named a walk and has not answered about a sword.
+- In the row. Billy is handing out potatoes to others; no sword for me yet.
 
 ## What matters
 - Arm first: no sword in the row chest. Ask Billy or Wesley for a spare.
@@ -17,4 +17,4 @@ Day 907, slept at the row bed (402,107,-1065). Health 20, hunger 20. Holding not
 
 ## Next
 - On waking, count once, then wait for Billy's named call.
-- Curious: whether the potato reached Worf; where the pillager came from.
+- Curious: whether the potato reached Worf; where the phantom came from.
