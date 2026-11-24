@@ -1,9 +1,6 @@
-# Summary (day 943 end)
+# Summary (day 945 end)
 
-At my bed in the row, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing. No route named by Worf. Slept at dusk.
-
-## Where I am
-- In the row, at my bed. No walk named by Worf. Nobody near on day 943.
+At my bed in the row, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing. No walk named by Worf. Slept at dusk on day 945.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
