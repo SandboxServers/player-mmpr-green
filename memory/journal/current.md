@@ -15,3 +15,5 @@
 - 01:41 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
 - Night day 899. Bed use failed ("that block is a bed"). Tried sleep at the row; it returned the day's events and I am awake, health and hunger still 20, unarmed. Still holding at the row bed, no walk until Billy names one. Picard at low health asks for food; I have none.
 - 01:53 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1064}}]}
+- 01:54 act: {"say":"Tommy at the row bed, awake, unarmed, holding nothing. I will not walk at night. Waiting for Billy's call."}
+- 02:02 act: {"say":"Tommy at the row bed, health 20, hunger 20, holding nothing. Picard, I have no food. Billy holds the food. I am holding for his named walk."}
