@@ -3,8 +3,8 @@
 Day 922, slept in the row bed at 401,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row. Jason, Zack, Worf and Picard are near. Billy holds at the gap 417,107,-1053 with no working bed.
-- Picard was at health 2.3 at dusk. I have no food to give.
+- In the row. Jason, Zack, Worf, Picard and Laforge are near. Billy holds at the gap 417,107,-1053.
+- Worf has named no route past the gap. Everyone is holding in sight of each other.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
