@@ -3,7 +3,7 @@
 Day 936, slept at my bed in the row at 402,107,-1065. Health 20, hunger 20. Holding nothing, unarmed.
 
 ## Where I am
-- In the row, at my bed. Picard holds nearby, health 2.3, hunger 17, no food. No daylight walk was named on days 935 or 936.
+- In the row, at my bed. No walk named. Worf says no daylight route to the melon field yet (Zack asked).
 
 ## What matters
 - Arm first: any sword or spear before any walk.
