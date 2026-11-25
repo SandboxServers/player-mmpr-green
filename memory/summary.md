@@ -15,4 +15,4 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody host
 
 ## Next
 - On waking, say I am holding, then wait for Billy or Worf to name a daylight route together.
-- Clark and Laforge are also holding at the row. Share what I see with them.
+- Clark, Laforge and Jason are also holding at the row. Share what I see with them.
