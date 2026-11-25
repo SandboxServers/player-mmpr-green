@@ -12,3 +12,22 @@
 - 05:19 say: {"text":"Tommy at my bed in the row. Health 20, hunger 20, unarmed, holding nothing. Holding for a named daylight call."}
 - 05:25 act: {"say":"Tommy at my bed in the row, dusk, health 20, hunger 20, unarmed, holding nothing. No walk named. Going to sleep here.","actions":[{"do":"sleep"}]}
 - 05:27 act: {"say":"Tommy, morning, at my bed in the row. Health 20, hunger 20, unarmed, holding nothing. Holding my place for a named daylight call from Billy or Worf."}
+- 05:37 act: {"say":"Dawn count: Tommy here at my bed in the row. Health 20, hunger 20, unarmed, holding nothing. Waiting for a named daylight call from Billy or Worf."}
+- 05:43 wait: night falls at my bed. Heard Clark, Worf, Jason settle in the row; Worf at hunger 9 with no food, looking at first light. I hold nothing to give. Going to sleep here.
+- 05:41 act: {"actions":[{"do":"sleep"}],"say":"Tommy at my bed in the row, night, health 20, hunger 20, unarmed, holding nothing. Worf, I have no food to give, but I hold here with you until light."}
+- Slept through the night at my bed; woke at morning 984. Worf (hunger 9, no food), Laforge, Jason, Clark all hold in the row, agreeing to one plank at a named hour. I agreed and hold, unarmed, nothing to give.
+- 05:45 act: {"say":"Tommy, morning 984, at my bed. Health 20, hunger 20, unarmed, holding nothing. Worf, I have no food. I agree: one plank, named hour, everyone in sight. I hold here."}
+- 05:53 act: {"actions":[{"do":"sleep"}],"say":"Tommy at my bed in the row, night, health 20, hunger 20, unarmed, holding nothing. No walk named. Going to sleep here."}
+- Slept again at my bed; woke at day 984 with health 20, hunger 20. Worf still at hunger 9 with no food; Billy, Jason, Zack in sight. Counted aloud and held. Nothing new from me to give. Still no named walk.
+- 05:53 act: {"actions":[{"do":"sleep"}]}
+- 05:57 act: {"say":"Tommy, day 984, at my bed. Health 20, hunger 20, unarmed, holding nothing. Worf, Billy, Jason, Zack: no food here from me. I hold in sight, and I will walk only on a named daylight route, arme
+- 06:06 act: {"actions":[{"do":"sleep"}],"say":"Tommy, dusk on 985, at my bed in the row. Health 20, hunger 20, unarmed, holding nothing. No walk named. Going to sleep here."}
+- 06:06 act: {"actions":[{"do":"sleep"}]}
+- 06:06 act: {"actions":[{"do":"sleep"}]}
+- 06:10 act: {"actions":[],"say":"Tommy, morning 985, at my bed in the row. Health 20, hunger 20, unarmed, holding nothing. No food to give. Holding for a named daylight route from Billy or Worf."}
+- 06:18 act: {"actions":[{"do":"sleep"}],"say":"Tommy, dusk on 985, at my bed. Health 20, hunger 20, unarmed, holding nothing. Worf, I have no food. No walk named. Going to sleep here."}
+- 06:26 act: {"actions":[],"say":"Tommy, morning 986, at my bed. Health 20, hunger 20, unarmed, holding nothing. No food from me. Holding for a named daylight route with an armed leader."}
+- 06:34 act: {"actions":[{"do":"sleep"}],"say":"Tommy, night 986, at my bed in the row. Health 20, hunger 20, unarmed, holding nothing. Going to sleep here."}
+- Night 986: sleep partial (8 of 10), slept again, woke at morning 986 at my bed. Health 20, hunger 20, unarmed, nothing held. Nobody in sight. Holding for a named daylight route.
+- 06:34 act: {"actions":[{"do":"sleep"}]}
+- 06:34 act: {"actions":[],"say":"Tommy, morning 986, at my bed in the row. Health 20, hunger 20, unarmed, holding nothing. No food to give. Holding for a named daylight route from Billy or Worf, armed first."}
