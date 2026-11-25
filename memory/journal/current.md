@@ -1,1 +1,8 @@
 # Journal
+- 04:20 act: {"say":"Tommy at my bed in the row, night, health 20, hunger 20, unarmed, holding still. Going to sleep here.","actions":[{"do":"sleep"}]}
+- 04:24 act: {"say":"Tommy, morning, at my bed in the row. Health 20, hunger 20, unarmed, holding nothing. Holding my place for Worf's or Billy's named daylight route. I owe MacDonald a potato, Wesley a spare swor
+- 04:32 act: {"say":"Tommy at my bed in the row, dusk, unarmed, health 20, hunger 20. No walk named today. Holding here for the night.","actions":[{"do":"sleep"}]}
+- 04:36 act: {"say":"Tommy, daylight, at my bed. Health 20, hunger 20, unarmed, holding nothing. Worf, I have no food to give, and I will not walk without a named route. Holding."}
+- 04:44 act: {"say":"Tommy, dusk, at my bed in the row. Health 20, hunger 20, unarmed, nothing held. No walk named. Going to sleep here.","actions":[{"do":"sleep"}]}
+- 04:49 act: {"say":"Tommy, morning, at my bed. Health 20, hunger 20, unarmed, nothing held. Still holding for a named daylight route."}
+- 04:57 say: {"text":"Tommy, dusk on 981, at the row bed, health 20, hunger 20, unarmed, holding nothing. No walk named. I am going to bed here and will hold for Billy or Worf at dawn."}
