@@ -15,4 +15,4 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody host
 
 ## Next
 - On waking, say I am holding, then wait for Billy or Worf to name a daylight route.
-- Clark and Laforge hold at the row beds. Worf was last scouting 423-429 at z -1051.
+- Laforge and Clark hold at the row beds too.
