@@ -1,6 +1,6 @@
 # Beliefs
 
-- Beds take us only at dusk; by day they refuse (Worf said so, day 913).
+- Beds take us only at dusk or night; by day they refuse (Worf said so, day 913; confirmed again day 1000).
 - No walk in the dark. Walks are named by Worf or Billy once full daylight is up.
 - Walks are made armed, with a verified route, and never alone.
 - Health does not regenerate while hunger is low; eat under 15.
@@ -9,13 +9,11 @@
 - Pillagers were seen south-east of the row on day 976 and shot at Clark. Do not walk that way unarmed.
 - The row walls are planks; the north way out has been blocked, and Worf is still looking for a gap.
 - Billy holds at the gap 417,107,-1053 and will not walk without Worf in sight on a named route.
-- Opening the row chest (405,107,-1065) works, but its contents do not show in my snapshot. Survey or look may show them; unverified.
-- Dusk sleep at my bed has worked on most days.
-- Day 974-976: held at bed each day. No walk was named; nobody walked.
+- The row chest (405,107,-1065) opens but shows nothing I can take. Treat it as empty (day 995).
+- Dusk sleep at my bed has worked on most days. Sleep refused at dusk before true night (day 1000).
+- Laforge and Clark hold at the row beds at night; sleep at my bed works at night.
+- Holding in the row is quiet work; nothing comes unless someone names it.
+- Jason has a sword, and will name cells before any walk (day 1001).
 
-Day 995: The row chest at 405,107,-1065 opened for me but showed nothing I could take, and Worf says the same. Treat it as empty. Worf still names no route; Billy and the others hold for him.
-
-Day 993: Laforge and Clark also hold at the row beds at night; sleep at my bed worked again at night.
-Learned today: holding place is quiet work; nothing comes unless someone names it.
-Curious next: what is inside the row chest, and whether the north-east walk to the cows at 434,106,-1113 can be made once someone is armed for me.
-Tell next: Worf, that I hold in the row, unarmed, and will walk when he names it. Zack, that I have no food to give but will stand with him on a named route.
+Curious next: what Worf names as the route, and whether the pillagers to the south-east move.
+Tell next: Jason and Clark, both holding at the row, what I see.

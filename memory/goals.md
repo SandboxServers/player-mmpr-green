@@ -1,4 +1,4 @@
-# Goals (ranked, day 1000)
+# Goals (ranked, day 1001)
 
 1. Stay alive: eat when hunger falls under 15 or when a named caller asks. I have no food.
 2. Arm before any walk. Unarmed walks have no safe margin.
