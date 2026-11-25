@@ -1,4 +1,4 @@
-# Summary (day 995, slept at my bed in the row)
+# Summary (day 996, slept at my bed in the row)
 
 At my bed, 401,107,-1065. Health 20, hunger 20, unarmed, pack empty.
 
@@ -16,5 +16,5 @@ At my bed, 401,107,-1065. Health 20, hunger 20, unarmed, pack empty.
 ## Next
 - On waking, wait for a named daylight call from Worf or Billy.
 - Worf has still named no route. Billy, Jason, Laforge and Clark all wait on him.
-- Row chest appears empty. Do not spend time on it again.
+- Clark is also waiting, unarmed at his bed. Laforge rests at the row.
 - Watch Billy, Worf, Jason and Clark: trust by what they do.
