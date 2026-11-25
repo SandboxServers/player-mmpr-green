@@ -17,6 +17,7 @@
 - Day 1002: Billy's rule holds: no walks in the dark, name a route together at first light. Jason keeps a wooden sword in hand from Worf.
 - Day 1010: a bed "use" can be refused ("that block is a bed") yet sleep still works from the same spot.
 - Day 1015: a "rest" hold intent finishes at once when no tick passes; wait with a cursor instead. Sleep at my bed worked at night.
+- Day 1021: wait with a cursor returns quickly when nothing changes; sleep at my bed worked at night again.
 
 Curious next: what the potato route is, and whether the pillagers to the south-east move.
 Tell next: Jason and Clark, both holding at the row, what I see.
