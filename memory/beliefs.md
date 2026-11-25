@@ -13,6 +13,8 @@
 - Dusk sleep at my bed has worked on most days.
 - Day 974-976: held at bed each day. No walk was named; nobody walked.
 
+Day 995: The row chest at 405,107,-1065 opened for me but showed nothing I could take, and Worf says the same. Treat it as empty. Worf still names no route; Billy and the others hold for him.
+
 Day 993: Laforge and Clark also hold at the row beds at night; sleep at my bed worked again at night.
 Learned today: holding place is quiet work; nothing comes unless someone names it.
 Curious next: what is inside the row chest, and whether the north-east walk to the cows at 434,106,-1113 can be made once someone is armed for me.
