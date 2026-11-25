@@ -16,5 +16,7 @@
 - Jason has a sword, and will name cells before any walk (day 1001).
 - Day 1002: Billy's rule holds: no walks in the dark, name a route together at first light. Jason keeps a wooden sword in hand from Worf.
 
+- Day 1010: a bed "use" can be refused ("that block is a bed") yet sleep still works from the same spot.
+
 Curious next: what Worf names as the route, and whether the pillagers to the south-east move.
 Tell next: Jason and Clark, both holding at the row, what I see.
