@@ -1,4 +1,4 @@
-# Summary (day 1011, slept at my bed in the row)
+# Summary (day 1012, slept at my bed in the row)
 
 At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near.
 
@@ -15,4 +15,4 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody host
 
 ## Next
 - On waking, say I am holding, then wait for Billy or Worf to name a daylight route.
-- Worf is scouting 423-429 at z -1051 with Zack and Trini. Clark and Jason are holding at the row.
+- Clark and Laforge hold at the row beds. Worf was last scouting 423-429 at z -1051.
