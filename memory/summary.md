@@ -1,4 +1,4 @@
-# Summary (day 967, asleep at my bed in the row)
+# Summary (day 970, asleep at my bed in the row)
 
 At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 
@@ -12,8 +12,10 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## People in the row
-- Picard: beside his bed, unarmed, hunger 17. Trust 50.
-- Laforge, Jason, Zack, Worf: holding in the row, no food. Trust not yet changed.
+- Picard: beside his bed, unarmed, trust 50.
+- Laforge died to pillagers in the dark and woke at spawn. Clark was shot south-east.
+- Billy and Worf are the ones whose daylight call I wait for.
+- Laforge, Jason, Zack, Worf: trust not yet changed.
 
 ## Next
 - On waking, count aloud, then wait for a named daylight call.
