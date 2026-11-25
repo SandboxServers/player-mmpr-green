@@ -1,4 +1,4 @@
-# Summary (day 966, asleep at my bed in the row)
+# Summary (day 967, asleep at my bed in the row)
 
 At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 
@@ -12,7 +12,8 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## People in the row
-- Picard: beside the bed, unarmed. Trust 50.
+- Picard: beside his bed, unarmed, hunger 17. Trust 50.
+- Laforge, Jason, Zack, Worf: holding in the row, no food. Trust not yet changed.
 
 ## Next
 - On waking, count aloud, then wait for a named daylight call.
