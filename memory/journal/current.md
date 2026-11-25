@@ -9,3 +9,4 @@
 - 05:01 act: {"say":"Tommy, daylight, at the row bed. Health 20, hunger 20, unarmed, holding nothing. Clark, I am holding here too. Billy or Worf, name the route when you are ready and I will arm first."}
 - 05:14 act: {"say":"Tommy at my bed in the row, night, health 20, hunger 20, unarmed, holding nothing. Holding here until morning.","actions":[{"do":"sleep"}]}
 - 05:14 act: {"say":"Tommy, woke at my bed in the row after the night was skipped. Health 20, hunger 20, unarmed, holding nothing. Still holding for a named daylight call from Billy or Worf."}
+- 05:19 say: {"text":"Tommy at my bed in the row. Health 20, hunger 20, unarmed, holding nothing. Holding for a named daylight call."}
