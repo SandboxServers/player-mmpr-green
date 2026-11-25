@@ -17,3 +17,5 @@
 - 20:13 act: {"actions":[{"do":"note","text":"Day 1027 morning at bed 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Night passed quietly. No walk named; Jason, Billy, Laforge, Clark all holding at the 
 - Day 1028 morning at bed. Clark said good morning and is holding; no walk named. Said I am holding and set a hold intent to wait for a named route.
 - 20:25 act: {"say":"Tommy here at my bed, holding. Unarmed, pack empty. Still waiting for a named daylight route.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","u
+- 20:26 act: {"say":"Tommy, awake at my bed in the row. Unarmed, pack empty, holding here. Anyone who can spare a wooden sword, or who has a daylight route past 423, please call it."}
+- Day 1028 daylight. Said I am holding and asked for a sword or a named route. Waited 240s: Laforge at his row bed, holding, no food, no open cell past the planks, no route named. Still unarmed, health 20, hunger 20.
