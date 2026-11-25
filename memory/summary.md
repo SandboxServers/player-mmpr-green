@@ -14,4 +14,4 @@ At my bed, 401,107,-1065. Health 20, hunger 20, unarmed, pack empty.
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## Next
-- Day 1002 slept. On waking, say I am holding, then wait for Billy or Worf to name a daylight route together.
+- On waking, say I am holding, then wait for Billy or Worf to name a daylight route together.
