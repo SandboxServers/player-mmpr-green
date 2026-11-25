@@ -14,7 +14,7 @@ At my bed, 401,107,-1065. Health 20, hunger 20, unarmed, pack empty.
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## Next
-- On waking, say I am unarmed and holding, then wait for a named daylight call.
+- On waking, wait for a named daylight call from Worf or Billy.
 - Worf has still named no route. Billy, Jason, Laforge and Clark all wait on him.
 - Row chest appears empty. Do not spend time on it again.
 - Watch Billy, Worf, Jason and Clark: trust by what they do.
