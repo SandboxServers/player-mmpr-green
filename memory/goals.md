@@ -1,4 +1,4 @@
-# Goals (ranked, day 987)
+# Goals (ranked, day 988)
 
 1. Stay alive: eat when hunger falls under 15 or when a named caller asks. I have no food yet.
 2. Arm before any walk. Unarmed walks have no safe margin.
@@ -6,4 +6,4 @@
 4. Keep my word on the owed debts: MacDonald (potato), Wesley (spare wooden sword), Clark (bread), Kimberly (melon), Johnny (food). I can pay only once I have something to give.
 5. Sleep in the bed in the row, at night only.
 
-Dropped: nothing this day. Curious next: what the named walk turns up, and whether the pillagers to the south-east move.
+Dropped: nothing. Curious next: what the named walk turns up, and whether the pillagers to the south-east move. Tell Billy and Worf I am ready to walk armed once they name a route.
