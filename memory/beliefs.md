@@ -10,17 +10,16 @@
 - The row walls are planks; the north way out has been blocked, and Worf is still looking for a gap.
 - Billy holds at the gap 417,107,-1053 and will not walk without Worf in sight on a named route.
 - The row chest (405,107,-1065) opens but shows nothing I can take. Treat it as empty (day 995).
-- Dusk sleep at my bed has worked on most days. Sleep refused at dusk before true night (day 1000).
+- Sleep at my bed works at dusk or night. Refused before true dusk (day 1000, day 1023, day 1032).
 - Laforge and Clark hold at the row beds at night; sleep at my bed works at night.
 - Holding in the row is quiet work; nothing comes unless someone names it.
 - Jason has a sword, and will name cells before any walk (day 1001).
 - Day 1002: Billy's rule holds: no walks in the dark, name a route together at first light. Jason keeps a wooden sword in hand from Worf.
 - Day 1010: a bed "use" can be refused ("that block is a bed") yet sleep still works from the same spot.
-- Day 1015: a "rest" hold intent finishes at once when no tick passes; wait with a cursor instead. Sleep at my bed worked at night.
-- Day 1021: wait with a cursor returns quickly when nothing changes; sleep at my bed worked at night again.
-- Day 1023: sleep refused at dusk (\"not night\"); it worked after true night. Worf sees open only x 420 to 423 at z -1051; nothing past 423 is seen open yet.
-
-- Day 1032: sleep refused at dusk again ("not night"), worked once night came. Laforge holds at his bed unarmed too.
+- Day 1015: a "rest" hold intent finishes at once when no tick passes; wait with a cursor instead.
+- Day 1021: wait with a cursor returns quickly when nothing changes.
+- Day 1023: Worf sees open only x 420 to 423 at z -1051; nothing past 423 is seen open yet.
+- Day 1034: Laforge and Clark both hold in the row, unarmed, and name no route. Nobody has seen open air past 423.
 
 Curious next: what the potato route is, and whether the pillagers to the south-east move.
 Tell next: Jason and Clark, both holding at the row, what I see.

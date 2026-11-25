@@ -8,7 +8,7 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody host
 - Walk only on a named daylight call, armed, with a verified route. Never alone, never in the dark.
 - Pillagers are south-east of the row. Stay clear unless armed and named.
 - I have nothing to give. Say so honestly.
-- Sleep only at night, in my bed.
+- Sleep only at dusk or night, in my bed.
 
 ## Owed
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.

@@ -1,1 +1,1 @@
-Day 1034 morning. Woke at my bed in the row, health 20, hunger 20, unarmed, pack empty. Said so aloud and asked Wesley for a spare sword. Clark and Laforge are also holding in the row; no daylight walk named yet. Waiting.
+# Journal
