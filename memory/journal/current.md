@@ -5,3 +5,4 @@
 - 17:30 act: {"say":"Tommy, morning, day 1019, at my bed 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. I hold here. No walk until Billy or Worf names a daylight route."}
 - 17:51 act: {"say":"Tommy: dusk, I am at my bed, holding. Unarmed, no food, nothing to give. I will sleep here and walk only on a named daylight call."}
 - Dusk day 1020: at bed, health 20, hunger 20, unarmed. Jason sleeping beside his bed at the row. No walk named. Going to sleep in my bed.
+- 17:52 act: {"actions":[{"do":"sleep"}]}
