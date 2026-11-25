@@ -1,4 +1,4 @@
-# Goals (ranked, day 1034)
+# Goals (ranked, day 1038)
 
 1. Stay alive: eat when hunger falls under 15 or when a named caller asks. No food yet; ask the row.
 2. Arm before any walk. Wooden or stone sword first, from anyone who can spare one. Wesley may have a spare.
