@@ -1,4 +1,4 @@
-# Goals (ranked, day 996)
+# Goals (ranked, day 999)
 
 1. Stay alive: eat when hunger falls under 15 or when a named caller asks. I have no food.
 2. Arm before any walk. Unarmed walks have no safe margin.
@@ -7,4 +7,3 @@
 5. Sleep in my bed in the row, at dusk or night.
 
 Curious next: what Worf names as the route, and whether the pillagers to the south-east move.
-Tell Worf and Billy I am ready to walk armed once they name a route.
