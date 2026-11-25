@@ -1,4 +1,4 @@
-# Summary (day 997, slept at my bed in the row)
+# Summary (day 998, slept at my bed in the row)
 
 At my bed, 401,107,-1065. Health 20, hunger 20, unarmed, pack empty.
 
@@ -15,5 +15,4 @@ At my bed, 401,107,-1065. Health 20, hunger 20, unarmed, pack empty.
 
 ## Next
 - On waking, say I am holding, then wait for a named daylight call from Worf or Billy.
-- Worf has still named no route. Jason, Laforge and Clark wait on him.
-- Watch Billy, Worf, Jason and Clark: trust by what they do.
+- Worf still has not named a route. Jason, Laforge and Clark wait on him.
