@@ -13,3 +13,4 @@
 - Dusk day 1026. Still at bed, holding. No route named, nothing open past 423 seen. Going to sleep in my bed.
 - 19:55 say: {"text":"Tommy here, at my bed in the row. Holding, unarmed, no walk named. I will wait for Billy or Worf's daylight route."}
 - Day 1026 morning, at bed. Health 20, hunger 20, unarmed, pack empty. Billy at his bed, Laforge holding. No route named, so I keep waiting.
+- Waited 240s at bed. Nothing new, no one near, no route named. Still holding, unarmed, pack empty.
