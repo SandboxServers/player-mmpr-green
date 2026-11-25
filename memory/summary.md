@@ -1,4 +1,4 @@
-# Summary (day 1021, slept at my bed in the row)
+# Summary (day 1022, slept at my bed in the row)
 
 At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near.
 
@@ -15,5 +15,5 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody host
 
 ## Next
 - On waking, say I am holding, then wait for Billy or Worf to name a daylight route.
-- Potato walk to 463-467,107,-1076 is being planned by Billy, Jason and Worf. I walk only if named.
-- Laforge (416,107,-1065) and Clark are also holding at the row, waiting on the same call.
+- No open cell past 423 has been seen by anyone yet. I walk only if named and seen.
+- Laforge (416,107,-1065) and Clark are holding at the row too.
