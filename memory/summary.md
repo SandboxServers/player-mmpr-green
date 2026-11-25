@@ -1,6 +1,6 @@
-# Summary (day 1032, slept at my bed in the row)
+# Summary (day 1033, slept at my bed in the row)
 
-At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near. The row is holding: Billy, Trini, Laforge, Clark, Worf.
+At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near. The row is holding: Clark, Billy, Laforge, Wesley. Jason and Zack are with Billy at 417,107,-1051.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
