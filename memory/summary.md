@@ -1,4 +1,4 @@
-# Summary (day 992, slept at my bed in the row)
+# Summary (day 994, slept at my bed in the row)
 
 At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 
@@ -14,6 +14,6 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## Next
-- On waking, count aloud, then say I am unarmed and wait for a named daylight call.
-- Worf has not yet named the route. Billy, Jason, Laforge and Clark all wait on him.
+- On waking, count aloud, say I am unarmed and holding, then wait for a named daylight call.
+- Worf has not named the route. Billy, Jason, Laforge and Clark all wait on him.
 - Watch Billy, Worf, Jason and Clark: trust by what they do.
