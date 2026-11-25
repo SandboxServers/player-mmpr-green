@@ -6,6 +6,7 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 - Arm first: any sword or spear before any walk.
 - Eat when hunger falls under 15, or when a named caller asks. I have no food.
 - Walk only on Billy's or Worf's named daylight call, armed, with a verified route. Never alone, never in the dark.
+- Pillagers are south-east of the row. Stay clear unless armed and named.
 - I have nothing to give. Say so honestly.
 
 ## Owed
@@ -13,4 +14,5 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 
 ## Next
 - On waking, count aloud, then wait for a named daylight call.
+- Check the row chest's contents (survey or look) when it is safe.
 - Watch Laforge, Picard, Worf, Zack, Jason and Billy: trust by what they do.
