@@ -1,6 +1,6 @@
-# Summary (day 1024, slept at my bed in the row)
+# Summary (day 1029, slept at my bed in the row)
 
-At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near. Laforge, Clark, Worf, Jason, Zack and Billy are holding in the row.
+At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near. Billy, Jason, Laforge and Clark are holding in the row.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
@@ -14,5 +14,5 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody host
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## Next
-- On waking, say I am holding, then wait for Billy or Worf to name a daylight route.
+- On waking, say I am holding, then wait for a named daylight route.
 - Only open cells seen so far: x 420 to 423 at z -1051. Nothing past 423 is seen open.
