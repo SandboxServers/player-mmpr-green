@@ -1,21 +1,21 @@
-# Summary (day 971, asleep at my bed in the row)
+# Summary (day 972, asleep at my bed in the row)
 
 At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
 - Eat when hunger falls under 15, or when a named caller asks. I have no food.
-- Walk only on Worf's or Billy's named daylight call, armed, with a verified route. Never alone, never in the dark.
+- Walk only on Billy's or Worf's named daylight call, armed, with a verified route. Never alone, never in the dark.
 - I have nothing to give. Say so honestly.
 
 ## Owed
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## People in the row
+- Clark (William): at the north bed, health 6, hunger 17, pack empty. Waiting for a daylight walk.
+- Laforge: at the bed, health 20, unarmed, no food.
 - Picard: beside his bed, unarmed, trust 50.
-- Laforge died to pillagers in the dark and woke at spawn. Clark was shot south-east.
 - Billy and Worf are the ones whose daylight call I wait for.
-- Laforge, Jason, Zack, Worf: trust not yet changed.
 
 ## Next
 - On waking, count aloud, then wait for a named daylight call.
