@@ -1,12 +1,9 @@
-# Goals (ranked)
+# Goals (ranked, day 987)
 
-Revised day 976 (asleep at my bed in the row, 402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
+1. Stay alive: eat when hunger falls under 15 or when a named caller asks. I have no food yet.
+2. Arm before any walk. Unarmed walks have no safe margin.
+3. Walk only on Billy's or Worf's named daylight call, with a verified route. Not alone, never in the dark.
+4. Keep my word on the owed debts: MacDonald (potato), Wesley (spare wooden sword), Clark (bread), Kimberly (melon), Johnny (food). I can pay only once I have something to give.
+5. Sleep in the bed in the row, at night only.
 
-1. Arm before any walk: any sword or spear. Reason: unarmed, and pillagers and phantoms are near.
-2. Eat when hunger falls under 15, or when a named caller asks. Reason: health is my margin.
-3. Hold my place in the row. Walk only on Billy's or Worf's named daylight call, armed, with a verified route. Reason: night is dangerous.
-4. Never walk alone. Sleep only in the row, at the bed.
-5. No give without a named caller. I hold nothing to give.
-6. Watch Jason, Zack, Worf, Picard, Laforge, Billy and Clark: trust by what they do.
-7. Settle debts when called: MacDonald (potato), Wesley (spare sword), Clark (bread), Kimberly (melon), Johnny (food).
-8. Be counted at dawn, midday and dusk, and say honestly what I hold.
+Dropped: nothing this day. Curious next: what the named walk turns up, and whether the pillagers to the south-east move.
