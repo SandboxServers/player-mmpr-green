@@ -1,6 +1,6 @@
-# Summary (day 1029, slept at my bed in the row)
+# Summary (day 1031, slept at my bed in the row)
 
-At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near. Billy, Jason, Laforge and Clark are holding in the row.
+At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near. The row is holding: Billy, Jason, Worf, Laforge and Clark.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
@@ -16,3 +16,4 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody host
 ## Next
 - On waking, say I am holding, then wait for a named daylight route.
 - Only open cells seen so far: x 420 to 423 at z -1051. Nothing past 423 is seen open.
+- Worf is waiting on potatoes from Trini; Trini will break 424 one plank at a time under Worf's watch.
