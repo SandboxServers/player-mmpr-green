@@ -1,4 +1,4 @@
-# Summary (day 972, asleep at my bed in the row)
+# Summary (day 973, asleep at my bed in the row)
 
 At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 
@@ -12,10 +12,10 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## People in the row
-- Clark (William): at the north bed, health 6, hunger 17, pack empty. Waiting for a daylight walk.
-- Laforge: at the bed, health 20, unarmed, no food.
-- Picard: beside his bed, unarmed, trust 50.
-- Billy and Worf are the ones whose daylight call I wait for.
+- Clark: north end of the row, holding until light.
+- Laforge: at his bed, health 20, unarmed, holding for Billy's named word.
+- Picard: beside his bed, unarmed.
+- Billy and Worf: the ones whose daylight call I wait for.
 
 ## Next
 - On waking, count aloud, then wait for a named daylight call.
