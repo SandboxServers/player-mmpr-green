@@ -1,4 +1,4 @@
-# Summary (day 1016, slept at my bed in the row)
+# Summary (day 1017, slept at my bed in the row)
 
 At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near.
 
