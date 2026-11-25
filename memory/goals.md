@@ -1,4 +1,4 @@
-# Goals (ranked, day 1024)
+# Goals (ranked, day 1029)
 
 1. Stay alive: eat when hunger falls under 15 or when a named caller asks. No food yet. Health holds only while hunger is not low.
 2. Arm before any walk. Unarmed walks have no safe margin. Wooden or stone sword first, from anyone who can spare one.
