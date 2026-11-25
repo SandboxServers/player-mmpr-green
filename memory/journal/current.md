@@ -11,3 +11,5 @@
 - 19:46 say: {"text":"Tommy, morning at my bed in the row. Holding, unarmed, pack empty. Billy, Worf: if you name a daylight route with an armed leader in sight, I will come. Otherwise I wait."}
 - Day 1026 morning. Said I am holding and asked for a named daylight route. Billy, Laforge: nothing seen open past 423, nobody walking. I wait, unarmed, hunger 20, health 20.
 - Dusk day 1026. Still at bed, holding. No route named, nothing open past 423 seen. Going to sleep in my bed.
+- 19:55 say: {"text":"Tommy here, at my bed in the row. Holding, unarmed, no walk named. I will wait for Billy or Worf's daylight route."}
+- Day 1026 morning, at bed. Health 20, hunger 20, unarmed, pack empty. Billy at his bed, Laforge holding. No route named, so I keep waiting.
