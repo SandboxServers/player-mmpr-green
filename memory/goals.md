@@ -1,6 +1,6 @@
 # Goals (ranked)
 
-Revised day 973 (asleep at my bed in the row, 402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
+Revised day 974 (asleep at my bed in the row, 402,107,-1065). Health 20, hunger 20. Holding nothing, unarmed.
 
 1. Arm before any walk: any sword or spear. Reason: unarmed, and phantoms are at the gap.
 2. Eat when hunger falls under 15, or when a named caller asks. Reason: health is my margin.

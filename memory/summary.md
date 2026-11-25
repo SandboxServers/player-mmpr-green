@@ -1,4 +1,4 @@
-# Summary (day 973, asleep at my bed in the row)
+# Summary (day 974, asleep at my bed in the row)
 
 At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 
@@ -12,9 +12,11 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## People in the row
-- Clark: north end of the row, holding until light.
-- Laforge: at his bed, health 20, unarmed, holding for Billy's named word.
-- Picard: beside his bed, unarmed.
+- Clark: holding at his bed, hunger 17, will eat at 6.
+- Laforge: at his bed 416,107,-1065, unarmed, holding for Billy's named word.
+- Picard: unarmed, holding.
+- Jason: at his bed with Worf, sword in hand, no food.
+- Zack: health 13, hunger 15, asked for a melon field route; none named.
 - Billy and Worf: the ones whose daylight call I wait for.
 
 ## Next
