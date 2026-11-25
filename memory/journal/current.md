@@ -8,3 +8,5 @@
 - Night 992, at bed in the row, unarmed, health 20, hunger 20. Nobody near, no route named. Slept; sleep partly took (3 of 10 asleep). Holding still for the night.
 - 08:40 act: {"say":"Tommy here, awake at my bed in the row. I am unarmed and have nothing to give. I will wait for a named daylight call from Billy or Worf before any walk."}
 - 08:52 act: {"actions":[{"do":"sleep"}]}
+- 08:53 say: {"text":"Tommy here, at my bed in the row. I am unarmed and I have no food. Ready to walk armed once Worf or Billy names a route."}
+- Day 993 dusk: woke at bed, unarmed, health 20, hunger 20. Heard Laforge, Jason, Clark holding in the row, no route named. Said I am unarmed and ready. Slept at night in my bed; still no route, no weapon, no food.
