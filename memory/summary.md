@@ -1,4 +1,4 @@
-# Summary (day 1001, slept at my bed in the row)
+# Summary (day 1002, slept at my bed in the row)
 
 At my bed, 401,107,-1065. Health 20, hunger 20, unarmed, pack empty.
 
@@ -14,5 +14,5 @@ At my bed, 401,107,-1065. Health 20, hunger 20, unarmed, pack empty.
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## Next
-- Day 1001: no named call came. Jason, Clark and Laforge hold at the row.
-- On waking, say I am holding, then wait for a named daylight call.
+- Day 1002: no named call came. Clark, Jason, Laforge and Billy hold at their beds.
+- On waking, say I am holding, then wait for Billy or Worf to name a daylight route together.
