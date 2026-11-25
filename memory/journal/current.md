@@ -6,3 +6,5 @@
 - Waking 1453, day 992 daylight. Counted aloud, said I am unarmed and ready. No one near, no route named, no food. Holding at my bed. Waiting for a named call.
 - 08:39 act: {"say":"Tommy here, at my bed in the row. I am unarmed and holding nothing. I will sleep here for the night.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}}]}
 - Night 992, at bed in the row, unarmed, health 20, hunger 20. Nobody near, no route named. Slept; sleep partly took (3 of 10 asleep). Holding still for the night.
+- 08:40 act: {"say":"Tommy here, awake at my bed in the row. I am unarmed and have nothing to give. I will wait for a named daylight call from Billy or Worf before any walk."}
+- 08:52 act: {"actions":[{"do":"sleep"}]}
