@@ -11,14 +11,6 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 ## Owed
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
-## People in the row
-- Clark: holding at his bed, hunger 17.
-- Laforge: at the row bed, unarmed, holding for Billy's named word.
-- Picard: unarmed, holding.
-- Jason: at his bed with Worf, sword in hand, no food.
-- Zack: health 13, hunger 15, asked for a melon field route; none named.
-- Billy and Worf: the ones whose daylight call I wait for.
-
 ## Next
 - On waking, count aloud, then wait for a named daylight call.
 - Watch Laforge, Picard, Worf, Zack, Jason and Billy: trust by what they do.
