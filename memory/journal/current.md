@@ -5,3 +5,4 @@
 - Day 1030. Opened the chest at 405,107,-1065: nothing taken, no food seen. Read the row's speech: Billy, Jason, Laforge, Clark all holding; no daylight route named, nothing open past 423. I hold, unarmed, and will wait for a named walk.
 - 21:09 act: {"actions":[],"say":"Tommy, morning 1030, at my bed 402,107,-1065. Unarmed, pack empty, no open cell seen by me. Jason, I will go only with you armed and a named open cell. Holding."}
 - 21:18 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Tommy, dusk 1030, going to my bed at 402,107,-1065 in the row. Unarmed, no food, no walk. Holding until light."}
+- 21:21 say: {"text":"Tommy here, at my bed in the row. Unarmed, no food, holding. Anyone with a spare sword or food, I will keep my word on what I owe."}
