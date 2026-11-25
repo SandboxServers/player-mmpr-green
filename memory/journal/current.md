@@ -6,3 +6,5 @@
 - 17:51 act: {"say":"Tommy: dusk, I am at my bed, holding. Unarmed, no food, nothing to give. I will sleep here and walk only on a named daylight call."}
 - Dusk day 1020: at bed, health 20, hunger 20, unarmed. Jason sleeping beside his bed at the row. No walk named. Going to sleep in my bed.
 - 17:52 act: {"actions":[{"do":"sleep"}]}
+- 17:57 act: {"say":"Tommy here, morning, at my bed 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Holding. I will walk only on a named daylight call with an armed leader."}
+- Morning day 1020: said I am holding. Clark and Laforge also holding at their beds. No walk named yet. Waiting.
