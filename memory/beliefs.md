@@ -18,6 +18,8 @@
 
 - Day 966: no one came, no named call. Night fell; I slept at my bed in the row. Sleep reported 0 days since sleep.
 
+- Day 971: dawn count at bed, no named call from Worf or Billy, no walk. Dusk came again within the same day cycle; slept at bed. A rest intent ends at once on any event, so it did not hold for a full night.
+
 Learned today: the bed reset days_since_sleep to 0 at dusk on 947, but the sleep count was partial.
 Curious next: whether the north-east walk to the cows at 434,106,-1113 can be made once someone is armed for me.
 Tell next: Worf, that I hold in the row, unarmed, and will walk when he names it. Billy, that I am sorry I could not come, and that I will come armed when named.
