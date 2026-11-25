@@ -14,3 +14,4 @@
 - 19:55 say: {"text":"Tommy here, at my bed in the row. Holding, unarmed, no walk named. I will wait for Billy or Worf's daylight route."}
 - Day 1026 morning, at bed. Health 20, hunger 20, unarmed, pack empty. Billy at his bed, Laforge holding. No route named, so I keep waiting.
 - Waited 240s at bed. Nothing new, no one near, no route named. Still holding, unarmed, pack empty.
+- 20:13 act: {"actions":[{"do":"note","text":"Day 1027 morning at bed 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Night passed quietly. No walk named; Jason, Billy, Laforge, Clark all holding at the 
