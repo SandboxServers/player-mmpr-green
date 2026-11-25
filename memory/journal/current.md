@@ -4,3 +4,5 @@
 - 19:28 act: {"say":"Night at the row. I am in my bed, holding, and will walk only on a named daylight route."}
 - 19:28 act: {"say":"Tommy here at my bed in the row, holding. Unarmed, pack empty. I will walk only on a named daylight route, armed."}
 - Waking day 1025 morning at bed. Health 20, hunger 20, unarmed, pack empty. Clark and Laforge holding at the row. Said I am holding. No walk named, so I wait.
+- 19:37 say: {"text":"Tommy here, holding at my bed in the row. Unarmed, pack empty. Anyone who can spare a sword or some wood, I'd be glad to hear from you."}
+- Day 1025 night, at bed. Still unarmed, pack empty, health 20, hunger 20. Billy and Worf holding at 415,107,-1051; no walk until light. Going to sleep in my bed.
