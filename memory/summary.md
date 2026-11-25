@@ -14,5 +14,4 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, holding nothing.
 
 ## Next
 - On waking, count aloud, then wait for a named daylight call.
-- Check the row chest's contents (survey or look) when it is safe.
 - Watch Laforge, Picard, Worf, Zack, Jason and Billy: trust by what they do.
