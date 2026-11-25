@@ -1,4 +1,4 @@
-# Summary (day 1014, slept at my bed in the row)
+# Summary (day 1015, slept at my bed in the row)
 
 At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near.
 
@@ -15,4 +15,4 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody host
 
 ## Next
 - On waking, say I am holding, then wait for Billy or Worf to name a daylight route.
-- Laforge holds at the row beds too, and walks nothing without named open cells.
+- Billy and Jason are planning a route to the potatoes at 463-467,107,-1076. I walk only if named.
