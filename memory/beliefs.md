@@ -20,5 +20,7 @@
 - Day 1021: wait with a cursor returns quickly when nothing changes; sleep at my bed worked at night again.
 - Day 1023: sleep refused at dusk (\"not night\"); it worked after true night. Worf sees open only x 420 to 423 at z -1051; nothing past 423 is seen open yet.
 
+- Day 1032: sleep refused at dusk again ("not night"), worked once night came. Laforge holds at his bed unarmed too.
+
 Curious next: what the potato route is, and whether the pillagers to the south-east move.
 Tell next: Jason and Clark, both holding at the row, what I see.
