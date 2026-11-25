@@ -1,6 +1,6 @@
-# Summary (day 1022, slept at my bed in the row)
+# Summary (day 1023, slept at my bed in the row)
 
-At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near. Laforge and Clark holding at the row.
+At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near. Laforge, Clark, Worf, Jason, Zack and Billy are holding in the row.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
@@ -8,11 +8,11 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody host
 - Walk only on a named daylight call, armed, with a verified route. Never alone, never in the dark.
 - Pillagers are south-east of the row. Stay clear unless armed and named.
 - I have nothing to give. Say so honestly.
-- Sleep only at dusk or night, in my bed.
+- Sleep only at night, in my bed. Dusk sleep is refused.
 
 ## Owed
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## Next
 - On waking, say I am holding, then wait for Billy or Worf to name a daylight route.
-- No open cell past 423 has been seen by anyone yet. I walk only if named and seen.
+- Only open cells seen so far: x 420 to 423 at z -1051. Nothing past 423 is seen open.
