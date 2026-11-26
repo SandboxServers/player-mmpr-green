@@ -12,4 +12,4 @@ At my bed in the row, about 402,107,-1065. Health 20, hunger 20, unarmed, pack e
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## Next
-- On waking, say what I need once in daylight. Wait for a named daylight route with an armed leader.
+- On waking, check for food and a sword. Wait for a named daylight route with an armed leader.
