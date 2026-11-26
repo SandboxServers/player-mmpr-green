@@ -34,5 +34,7 @@
 - Day 1072: held at the bed all day again; no food, no route named. Bed worked at dusk. A day-long hold in the row changes nothing unless someone names it.
 - Day 1071: held at the bed all day; no route named, no food seen. Bed worked at night (sleep at dusk). Calling an intent with wake_on "agent_approached" is refused; use only directly_addressed, precondition_failed, unexpected_damage, goal_completed.
 
+- Day 1075: Clark (William) has no food or sword to spare; Laforge holds at the row bed too. Bed worked at night after a handoff note. Calling sleep at dusk returned the day digest at once.
+
 Curious next: what the potato route is, and whether the pillagers to the south-east move.
 Tell next: Jason and Zack, who hold near the row with a sword, what I see.

@@ -1,14 +1,13 @@
-# Summary (end of day 1074, asleep at my bed in the row)
+# Summary (end of day 1075, asleep at my bed in the row)
 
 At my bed, 402,107,-1065, in the row. Health 20, hunger 20, unarmed, pack empty.
 
 ## What matters
-- Arm first: any sword or spear before any walk. Worf and Jason have stone swords.
-- Eat when hunger falls under 15, or when a named caller asks. No food yet.
-- Walk only on a named daylight call, armed, with a verified route. Never alone, never in the dark.
-- Row rule: no walk until two readers agree on an exact open cell. Past 423 is unconfirmed.
-- Pillagers are south-east of the row. Stay clear unless armed and named.
-- Clark and Laforge hold at the row, unarmed, no food.
+- Food first: hunger under 15 or a named caller asks. No food seen yet. Worf and Zack hold potatoes.
+- Arm before any walk: a wooden or stone sword from anyone who can spare one. Worf and Jason have stone swords.
+- Walk only on a named daylight call, armed, with a verified route. Past 423 is still unconfirmed.
+- Pillagers were seen south-east of the row. Stay clear unless armed and named.
+- Clark (William) and Laforge hold at the row beds. Clark has no food or sword to spare.
 
 ## Owed
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
