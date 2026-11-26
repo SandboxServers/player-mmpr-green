@@ -30,5 +30,7 @@
 
 - Day 1060: sleep at my bed worked at night (8 of 10 asleep, then the night closed). Worf, Laforge and Clark sleep at their row beds too.
 
+- Day 1061: held at the row all day again; no route named. Bed at my spot worked at night after a handoff note was written. Thunder came at night.
+
 Curious next: what the potato route is, and whether the pillagers to the south-east move.
 Tell next: Jason and Clark, both holding at the row, what I see.
