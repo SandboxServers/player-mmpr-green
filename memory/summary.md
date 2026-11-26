@@ -1,9 +1,9 @@
-# Summary (end of day 1104, slept at my row bed)
+# Summary (end of day 1105, slept in my row bed)
 
 At my bed in the row, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Slept safely.
 
 ## What matters
-- Food first: hunger under 15 or a named caller asks. No food found yet. Ask Worf, then Trini, then Zack.
+- Food first: hunger under 15 or a named caller asks. No food found yet. Ask Worf, Trini, Zack.
 - Arm before any walk: a wooden or stone sword from anyone who can spare one.
 - Walk only on a named daylight call, armed, with a verified route. Nothing confirmed past 423.
 - Clark, William, Laforge and Wesley hold at the row, unarmed and short of food.
