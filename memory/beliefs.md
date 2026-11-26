@@ -19,5 +19,8 @@
 - A day-long hold in the row changes nothing unless someone names a route or food.
 - Wait with a cursor returns quickly when nothing changes.
 
+- Day 1097: a sleep at dusk took me through the night; I woke at day with nothing changed.
+- Clark, William, Laforge still hold at the row beds, unarmed, no food (day 1097).
+
 Curious next: the potato route, and whether pillagers south-east of the row have moved.
 Tell next: Worf and Jason, who hold near the row with swords; Trini about the potatoes.
