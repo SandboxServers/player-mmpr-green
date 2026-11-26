@@ -1,6 +1,6 @@
-# Summary (day 1044, slept at my bed in the row)
+# Summary (day 1046, slept at my bed in the row)
 
-At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. The row holds: Clark, Laforge, Jason, Billy, Wesley, Zack, Riker, Worf.
+At my bed, 402,107,-1065, in the row. Health 20, hunger 20, unarmed, pack empty. The row holds: Clark, Laforge, Jason, Billy, Wesley, Zack, Riker, Worf.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
