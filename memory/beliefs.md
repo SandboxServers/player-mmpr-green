@@ -25,5 +25,7 @@
 - Day 1046: holding at the row all day with Clark and Laforge; no walk named. Sleeping at my bed at night worked.
 - Day 1048: held through a full night and day in the row; the bed worked again at night. Laforge agrees: no walk until a cell past 423 is named and confirmed by two readers.
 
+- Day 1049: held at the row again; Clark and Laforge also hold, and no daylight route was named. Bed worked at dusk.
+
 Curious next: what the potato route is, and whether the pillagers to the south-east move.
 Tell next: Jason and Clark, both holding at the row, what I see.
