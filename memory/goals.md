@@ -1,8 +1,8 @@
-# Goals (ranked, day 1063)
+# Goals (ranked, day 1065)
 
-1. Stay alive: eat when hunger falls under 15 or when a named caller asks. Food is still the first thing I lack.
+1. Stay alive: eat when hunger falls under 15 or when a named caller asks. Food is still the first thing I lack; nobody in the row has food to spare yet.
 2. Arm before any walk. A wooden or stone sword from anyone who can spare one. Wesley has no answer yet; Jason has a sword nearby.
-3. Walk only on a named daylight call with a verified route, armed, with a leader in sight. Never alone, never in the dark. 420 stays shut; past 423 is unread.
+3. Walk only on a named daylight call with a verified route, armed, with a leader in sight. Never alone, never in the dark. Past 423 is still unconfirmed.
 4. Keep my word on owed debts: MacDonald (potato), Wesley (spare sword), Clark (bread), Kimberly (melon), Johnny (food). Pay only once I have something.
 5. Sleep in my bed in the row at night.
 
