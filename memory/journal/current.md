@@ -4,3 +4,5 @@
 - 10:05 act: {"say":"Tommy here, holding at the row. No food yet. I am unarmed, so I will not walk."}
 - Day 1069 daytime: woke at my bed in the row (402,107,-1065). Health 20, hunger 20, pack empty, unarmed. Said I am holding. Nothing near, no food seen, no events. Holding and waiting for a named daylight route with an armed leader.
 - 10:13 act: {"say":"Holding at my bed in the row. Going to sleep here for the night. No walk in the dark."}
+- 10:14 act: {"say":"Tommy holding at my bed. No food yet. I will not walk without a named route and an armed leader."}
+- Woke, day 1069: said I am holding. Laforge and Clark hold in the row too, no food. Still unarmed, pack empty, no food seen. Waiting.
