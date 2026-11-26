@@ -1,4 +1,4 @@
-# Summary (end of day 1072, asleep at my bed in the row)
+# Summary (end of day 1072, slept at my bed in the row, morning now)
 
 At my bed, 402,107,-1065, in the row. Health 20, hunger 20, unarmed, pack empty.
 
@@ -14,4 +14,4 @@ At my bed, 402,107,-1065, in the row. Health 20, hunger 20, unarmed, pack empty.
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## Next
-- On waking, say I am holding. Food first. Then wait for a named daylight route with an armed leader.
+- Say I am holding. Ask for food and a sword. Wait for a named daylight route with an armed leader.
