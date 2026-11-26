@@ -31,5 +31,7 @@
 - Day 1063: Jason, Zack and Billy are at beds 415-418,107,-1050/-1051 on the row's east side. Billy searched east for an open cell past 423; none named.
 - Day 1070: Laforge reports Worf and Zack hold Trini's potatoes near the row. Bed worked at night again.
 
+- Day 1071: held at the bed all day; no route named, no food seen. Bed worked at night (sleep at dusk). Calling an intent with wake_on "agent_approached" is refused; use only directly_addressed, precondition_failed, unexpected_damage, goal_completed.
+
 Curious next: what the potato route is, and whether the pillagers to the south-east move.
 Tell next: Jason and Zack, who hold near the row with a sword, what I see.
