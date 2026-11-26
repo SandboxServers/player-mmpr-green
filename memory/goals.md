@@ -1,4 +1,4 @@
-# Goals (ranked, end of day 1073)
+# Goals (ranked, end of day 1074)
 
 1. Stay alive: eat when hunger falls under 15 or when a named caller asks. Still no food seen; Worf and Zack hold potatoes. Ask them again.
 2. Arm before any walk: a wooden or stone sword from anyone who can spare one. Worf and Jason have stone swords.
