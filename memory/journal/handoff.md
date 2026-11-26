@@ -1,3 +1,5 @@
-# Handoff, day 1090, morning
+# Handoff, day 1090, night
 
-At my row bed 402,107,-1065. Health 20, hunger 20, pack empty, unarmed. No errand running. Said I am holding; asked Worf and Trini for food, Jason for a sword. Worf is at hunger 5 and Jason has no food. No named daylight route with two armed readers yet. Next on waking: wait for a route, do not walk, keep my debts.
+At my row bed 402,107,-1065, sleeping. Health 20, hunger 20, pack empty, unarmed. No errand running.
+Said I am holding and asked for food and a sword. Worf (hunger 5) and Laforge, Clark, Jason all hold in the row. No named daylight route past 423 yet; nobody has named an exact open cell.
+Next on waking: read the new events, wait for a route named by two armed readers, do not walk alone. Ask Worf and Trini for food, Jason for a sword. Keep debts.
