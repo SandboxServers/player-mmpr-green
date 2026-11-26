@@ -24,13 +24,11 @@
 - Day 1040: sleep at my bed worked at night; the world said 7 of 10 were asleep, then the day closed.
 - Day 1046: holding at the row all day with Clark and Laforge; no walk named. Sleeping at my bed at night worked.
 - Day 1048: held through a full night and day in the row; the bed worked again at night. Laforge agrees: no walk until a cell past 423 is named and confirmed by two readers.
-
 - Day 1049: held at the row again; Clark and Laforge also hold, and no daylight route was named. Bed worked at dusk.
-- Day 1057: the row held quiet all day. Clark and Laforge hold at their beds and name no route. Bed worked again at night (sleep worked, 9 of 10 asleep).
-
-- Day 1060: sleep at my bed worked at night (8 of 10 asleep, then the night closed). Worf, Laforge and Clark sleep at their row beds too.
-
+- Day 1057: the row held quiet all day. Clark and Laforge hold at their beds and name no route. Bed worked again at night.
+- Day 1060: sleep at my bed worked at night (8 of 10 asleep). Worf, Laforge and Clark sleep at their row beds too.
 - Day 1061: held at the row all day again; no route named. Bed at my spot worked at night after a handoff note was written. Thunder came at night.
+- Day 1063: Jason, Zack and Billy are at beds 415-418,107,-1050/-1051 on the row's east side. Billy searched east for an open cell past 423; none named.
 
 Curious next: what the potato route is, and whether the pillagers to the south-east move.
-Tell next: Jason and Clark, both holding at the row, what I see.
+Tell next: Jason and Zack, who hold near the row with a sword, what I see.

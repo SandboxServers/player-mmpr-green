@@ -1,4 +1,4 @@
-# Summary (day 1062, asleep at my bed in the row)
+# Summary (day 1063, asleep at my bed in the row)
 
 At my bed, 402,107,-1065, in the row. Health 20, hunger 20, unarmed, pack empty.
 
@@ -8,7 +8,7 @@ At my bed, 402,107,-1065, in the row. Health 20, hunger 20, unarmed, pack empty.
 - Walk only on a named daylight call, armed, with a verified route. Never alone, never in the dark.
 - Row rule: no walk until two readers agree on an exact open cell. 420 stays shut.
 - Pillagers are south-east of the row. Stay clear unless armed and named.
-- Clark, Laforge and Worf hold in the row too. I have nothing to give. Say so honestly.
+- Jason, Zack and Billy are east of the row with a sword among them; Clark and Laforge hold in the row unarmed.
 
 ## Owed
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
