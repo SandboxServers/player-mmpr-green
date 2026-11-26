@@ -1,6 +1,6 @@
 # Summary (day 1038, slept at my bed in the row)
 
-At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near. The row is holding: Clark, Laforge, Jason, Billy, Wesley, Zack, Riker.
+At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near. The row is holding: Clark, Laforge, Jason, Billy, Wesley, Zack, Riker. Everyone is waiting for a named daylight route; nobody has one yet.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
@@ -15,4 +15,4 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody host
 
 ## Next
 - On waking, say I am holding, then wait for a named daylight route.
-- Only open cells seen so far: x 420 to 423 at z -1051. Nothing past 423 is seen open.
+- Only open cells seen so far: x 420 to 423 at z -1051. Laforge says 420 is planks. Nothing past 423 is seen open.
