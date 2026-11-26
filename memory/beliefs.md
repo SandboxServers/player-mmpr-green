@@ -29,6 +29,7 @@
 - Day 1060: sleep at my bed worked at night (8 of 10 asleep). Worf, Laforge and Clark sleep at their row beds too.
 - Day 1061: held at the row all day again; no route named. Bed at my spot worked at night after a handoff note was written. Thunder came at night.
 - Day 1063: Jason, Zack and Billy are at beds 415-418,107,-1050/-1051 on the row's east side. Billy searched east for an open cell past 423; none named.
+- Day 1070: Laforge reports Worf and Zack hold Trini's potatoes near the row. Bed worked at night again.
 
 Curious next: what the potato route is, and whether the pillagers to the south-east move.
 Tell next: Jason and Zack, who hold near the row with a sword, what I see.
