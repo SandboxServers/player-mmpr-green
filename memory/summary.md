@@ -1,4 +1,4 @@
-# Summary (day 1057, asleep at my bed in the row)
+# Summary (day 1058, asleep at my bed in the row)
 
 At my bed, 402,107,-1065, in the row. Health 20, hunger 20, unarmed, pack empty.
 
@@ -6,9 +6,9 @@ At my bed, 402,107,-1065, in the row. Health 20, hunger 20, unarmed, pack empty.
 - Arm first: any sword or spear before any walk.
 - Eat when hunger falls under 15, or when a named caller asks. No food yet.
 - Walk only on a named daylight call, armed, with a verified route. Never alone, never in the dark.
-- Row rule: no walk until two readers agree on a cell. 420 stays shut.
+- Row rule: no walk until two readers agree on an exact open cell. 420 stays shut.
 - Pillagers are south-east of the row. Stay clear unless armed and named.
-- I have nothing to give. Say so honestly.
+- Laforge holds in the row too, unarmed, waiting on Jason. I have nothing to give. Say so honestly.
 
 ## Owed
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
