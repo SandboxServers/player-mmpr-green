@@ -12,11 +12,12 @@
 - The row walls are planks; the north way out has been blocked. Nobody has seen open air past 423.
 - Billy holds at the gap 417,107,-1053 and will not walk without Worf in sight on a named route.
 - The row chest (405,107,-1065) opens but shows nothing I can take. Treat it as empty.
-- Laforge and Clark hold at the row beds, unarmed, with no food to spare.
+- Laforge, Clark and William hold at the row beds, unarmed, with no food to spare (day 1084).
+- Worf is armed, hungry (hunger 5 on day 1084), and asks Jason to name open cells before any walk.
 - Jason has a sword and will name cells before any walk.
 - A hold intent with wake_on "agent_approached" is refused; use directly_addressed, precondition_failed, unexpected_damage or goal_completed.
 - A day-long hold in the row changes nothing unless someone names a route or food.
 - Wait with a cursor returns quickly when nothing changes.
 
 Curious next: the potato route, and whether pillagers south-east of the row have moved.
-Tell next: Jason and Zack, who hold near the row with a sword; Trini about the potatoes.
+Tell next: Worf and Jason, who hold near the row with swords; Trini about the potatoes.
