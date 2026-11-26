@@ -1,4 +1,4 @@
-# Handoff, day 1053 night
+# Handoff, day 1054 dusk
 
 At my bed, 402,107,-1065, in the row. Health 20, hunger 20, pack empty, unarmed. Sheltered, no errand out, no danger near.
 Row holds: no walk until two armed readers name exact daylight cells. 420 stays shut.
