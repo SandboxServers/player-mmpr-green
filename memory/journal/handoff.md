@@ -1,2 +1,7 @@
-Day 1095, dusk. Sleeping at my row bed (401,107,-1065 area). Health 20, hunger 20, pack empty, unarmed. No errand running. Not in danger.
-Next on waking: check for food and a sword, and wait for a named daylight route with an armed leader. Worf (hunger 5) and William (17) are short of food; I have none to give.
+# Handoff
+
+At my bed in the row (401-402,107,-1065). Health 20, hunger 20, unarmed, pack empty. No errand running. Not in danger. Sleeping for the night.
+
+Owed: MacDonald (potato), Wesley (spare sword), Clark (bread), Kimberly (melon), Johnny (food).
+
+Next on waking: check for food and a sword. Wait for a named daylight route with an armed leader. Clark, William and Laforge are at the row, short of food too.

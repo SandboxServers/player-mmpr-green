@@ -1,4 +1,4 @@
-# Summary (end of day 1097, asleep at my row bed)
+# Summary (end of day 1097, slept at my row bed)
 
 At my bed in the row, about 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. No errand running.
 
