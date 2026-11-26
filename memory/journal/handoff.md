@@ -1,4 +1,4 @@
-# Handoff, day 1043 night
+# Handoff, day 1044 night
 
 At my bed, 402,107,-1065, in the row. Health 20, hunger 20, unarmed, pack empty. Nothing half-done, no errand out, no danger near.
 Row holds: no walk until two readers agree on a daylight route with an armed leader. 420 stays shut.
