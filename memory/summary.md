@@ -1,6 +1,6 @@
-# Summary (day 1039, slept at my bed in the row)
+# Summary (day 1040, slept at my bed in the row)
 
-At my bed, 401,107,-1065 (bed beside 402,107,-1065). Health 20, hunger 20, unarmed, pack empty. Nobody hostile near. The row holds: Clark, Laforge, Jason, Billy, Wesley, Zack, Riker, Worf.
+At my bed, 402,107,-1065 (bed beside 401,107,-1065). Health 20, hunger 20, unarmed, pack empty. Nobody hostile near. The row holds: Clark, Laforge, Jason, Billy, Wesley, Zack, Riker, Worf.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
@@ -14,4 +14,4 @@ At my bed, 401,107,-1065 (bed beside 402,107,-1065). Health 20, hunger 20, unarm
 
 ## Next
 - On waking, say I am holding, then wait for a named daylight route.
-- The 420 dispute at z -1051 is unresolved: Billy reads air, Laforge reads planks. Worf decides.
+- The 420 dispute at z -1051 is unresolved: Billy and Laforge read air, Worf has not confirmed. Nobody walks on it.
