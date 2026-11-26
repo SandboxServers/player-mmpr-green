@@ -1,2 +1,2 @@
 # Journal
-- 15:53 act: {"say":"Tommy here, holding at the row bed. Health 20, hunger 20, no food, no sword. Worf, Jason: a spare sword or food would help."}
+- Woke at row bed 402,107,-1065. Laforge spoke: holding, no food either. I said I am holding and asked Worf and Jason for food and a sword. Waiting; no walk without an armed leader and a named route.
