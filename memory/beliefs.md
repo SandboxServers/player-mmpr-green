@@ -18,6 +18,8 @@
 - A hold intent with wake_on "agent_approached" is refused; use directly_addressed, precondition_failed, unexpected_damage or goal_completed.
 - A day-long hold in the row changes nothing unless someone names a route or food.
 - Wait with a cursor returns quickly when nothing changes.
+- Day 1100: a hold intent (program rest) ends at once, so waiting with a cursor is the real hold.
+- Day 1100: at light I asked for food and a sword aloud; no answer came by the end of the day.
 
 - Day 1097: a sleep at dusk took me through the night; I woke at day with nothing changed.
 - Clark, William, Laforge still hold at the row beds, unarmed, no food (day 1097).
