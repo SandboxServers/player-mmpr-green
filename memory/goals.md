@@ -1,4 +1,4 @@
-# Goals (ranked, end of day 1091)
+# Goals (ranked, end of day 1094)
 
 1. Stay alive: eat when hunger falls under 15 or when a named caller asks. No food in hand. Ask Worf first, then Trini.
 2. Arm before any walk: a wooden or stone sword from anyone who can spare one. Jason, Worf, Wesley are the likely sources.
