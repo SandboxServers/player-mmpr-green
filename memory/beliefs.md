@@ -23,5 +23,7 @@
 - Day 1040: at first light Billy and Laforge both read 420,107,-1051 and disagreed (planks vs air). Nobody walks until two readers agree.
 - Day 1040: sleep at my bed worked at night; the world said 7 of 10 were asleep, then the day closed.
 
+- Day 1046: holding at the row all day with Clark and Laforge; no walk named. Sleeping at my bed at night worked.
+
 Curious next: what the potato route is, and whether the pillagers to the south-east move.
 Tell next: Jason and Clark, both holding at the row, what I see.
