@@ -5,3 +5,6 @@
 - 04:03 act: {"say":"Tommy here, at my bed in the row. I am holding. I have no sword and nothing to give yet. I will walk only on a named daylight route with an armed leader."}
 - Day 1051 morning. Health 20, hunger 20, unarmed. Clark holding at his bed, waiting for Billy or Worf to name a daylight walk. Billy and Laforge report no walk, 426 to 430 unread. No route called for me; no walk.
 - Dusk 1051. Going to my bed to sleep. Nothing half-done, no danger near.
+- 04:16 act: {"say":"Tommy here, waking at my bed in the row. I am holding. No walk until someone names a daylight route with an armed leader.","intent":{"goal":"hold_at_row_for_route","program":"rest","arguments"
+- Day 1052 waking at my bed in the row. Daytime, dim, thunder. Health 20, hunger 20, unarmed, pack empty. Said I am holding; set a rest intent to wait for a named daylight route. Nothing to do alone.
+- Heard Laforge and Billy both holding unarmed, waiting for two readers to name open cells (426 to 430). No route called for me. Still holding at my bed.
