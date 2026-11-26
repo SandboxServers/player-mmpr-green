@@ -3,3 +3,4 @@
 - 18:10 act: {"say":"Night. I am at my bed in the row, no food and no sword. I will sleep here until morning."}
 - Morning, day 1093. Still at bed, health 20, hunger 20, empty pack. Said aloud I need food or a sword. Waiting for replies.
 - 18:15 act: {"say":"Morning. I am at my bed in the row with no food and no sword. Does anyone here have a spare wooden sword or any food? I will pay back what I owe."}
+- 18:24 say: {"text":"Tommy here, at my bed. Hunger holds at 20, but I have no food and no sword yet. Clark, if a daylight route or food turns up, tell me."}
