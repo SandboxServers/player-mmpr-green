@@ -1,1 +1,1 @@
-Handoff, day 1065 (slept at bed in the row, 402,107,-1065). Health 20, hunger 20, pack empty, unarmed. No errand out. Clark is in the row sleeping. Next on waking: say I am holding, food first, wait for a named daylight route with an armed leader.
+Handoff, day 1069 (slept at my bed in the row, 402,107,-1065). Health 20, hunger 20, pack empty, unarmed. No errand out, not in danger. Food still not seen. Clark and Laforge hold in the row. Next on waking: say I am holding, food first, wait for a named daylight route with an armed leader. No walk past 423 unconfirmed.
