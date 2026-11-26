@@ -1,6 +1,6 @@
-# Summary (day 1038, slept at my bed in the row)
+# Summary (day 1039, slept at my bed in the row)
 
-At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody hostile near. The row is holding: Clark, Laforge, Jason, Billy, Wesley, Zack, Riker. Everyone is waiting for a named daylight route; nobody has one yet.
+At my bed, 401,107,-1065 (bed beside 402,107,-1065). Health 20, hunger 20, unarmed, pack empty. Nobody hostile near. The row holds: Clark, Laforge, Jason, Billy, Wesley, Zack, Riker, Worf.
 
 ## What matters
 - Arm first: any sword or spear before any walk.
@@ -8,11 +8,10 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Nobody host
 - Walk only on a named daylight call, armed, with a verified route. Never alone, never in the dark.
 - Pillagers are south-east of the row. Stay clear unless armed and named.
 - I have nothing to give. Say so honestly.
-- Sleep only at dusk or night, in my bed.
 
 ## Owed
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
 
 ## Next
 - On waking, say I am holding, then wait for a named daylight route.
-- Only open cells seen so far: x 420 to 423 at z -1051. Laforge says 420 is planks. Nothing past 423 is seen open.
+- The 420 dispute at z -1051 is unresolved: Billy reads air, Laforge reads planks. Worf decides.
