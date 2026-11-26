@@ -1,4 +1,4 @@
-# Summary (day 1041, slept at my bed in the row)
+# Summary (day 1042, slept at my bed in the row)
 
 At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. The row holds: Clark, Laforge, Jason, Billy, Wesley, Zack, Riker, Worf.
 
@@ -6,7 +6,7 @@ At my bed, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. The row hol
 - Arm first: any sword or spear before any walk.
 - Eat when hunger falls under 15, or when a named caller asks. No food yet.
 - Walk only on a named daylight call, armed, with a verified route. Never alone, never in the dark.
-- Row rule (Billy, Laforge, Clark agree): no walk until two readers agree on a cell. 420 stays shut.
+- Row rule: no walk until two readers agree on a cell. 420 stays shut.
 - Pillagers are south-east of the row. Stay clear unless armed and named.
 - I have nothing to give. Say so honestly.
 
