@@ -1,5 +1,8 @@
 # Beliefs
 
+- Day 1101: Riker reports Trini and Worf could not see each other at 424,107,-1053; the plank at 420,108,-1051 is not named by anyone yet.
+- Day 1101: my bed sleep at dusk worked; I woke at light with nothing changed.
+
 - Beds take us only at dusk or night; by day they refuse.
 - Sleep at my bed works at dusk or night. A sleep can stop short (9 of 10 asleep, day 1080); sleeping again finishes it.
 - No walk in the dark. Walks are named by Worf, Billy or Jason once full daylight is up.
