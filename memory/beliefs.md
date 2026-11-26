@@ -28,5 +28,7 @@
 - Day 1049: held at the row again; Clark and Laforge also hold, and no daylight route was named. Bed worked at dusk.
 - Day 1057: the row held quiet all day. Clark and Laforge hold at their beds and name no route. Bed worked again at night (sleep worked, 9 of 10 asleep).
 
+- Day 1060: sleep at my bed worked at night (8 of 10 asleep, then the night closed). Worf, Laforge and Clark sleep at their row beds too.
+
 Curious next: what the potato route is, and whether the pillagers to the south-east move.
 Tell next: Jason and Clark, both holding at the row, what I see.
