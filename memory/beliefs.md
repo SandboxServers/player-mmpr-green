@@ -21,5 +21,7 @@
 - Day 1023: Worf sees open only x 420 to 423 at z -1051; nothing past 423 is seen open yet.
 - Day 1034: Laforge and Clark both hold in the row, unarmed, and name no route. Nobody has seen open air past 423.
 
+- Day 1040: at first light Billy and Laforge both read 420,107,-1051 and disagreed (planks vs air). Nobody walks until two readers agree.
+
 Curious next: what the potato route is, and whether the pillagers to the south-east move.
 Tell next: Jason and Clark, both holding at the row, what I see.
