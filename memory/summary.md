@@ -1,13 +1,13 @@
-# Summary (end of day 1084, asleep at my bed in the row)
+# Summary (end of day 1085, asleep at my bed in the row)
 
-At my bed, 402,107,-1065, in the row. Health 20, hunger 20, unarmed, pack empty.
+At my bed, 402,107,-1065, in the row. Health 20, hunger 20, unarmed, pack empty. No errand running.
 
 ## What matters
-- Food first: hunger under 15 or a named caller asks. No food seen yet.
+- Food first: hunger under 15 or a named caller asks. No food seen yet. Worf first, then Trini.
 - Arm before any walk: a wooden or stone sword from anyone who can spare one. Jason and Worf have swords.
 - Walk only on a named daylight call, armed, with a verified route. Past 423 is still unconfirmed.
 - Pillagers were seen south-east of the row. Stay clear unless armed and named.
-- Worf (hungry, armed) and Jason are the ones to ask about a route toward 430. Clark, Laforge and William hold at the row beds, unarmed.
+- Laforge, Clark and William hold at the row beds with no food. Nobody has named a route yet.
 
 ## Owed
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
