@@ -1,13 +1,13 @@
-# Summary (end of day 1082, asleep at my bed in the row)
+# Summary (end of day 1083, asleep at my bed in the row)
 
 At my bed, 402,107,-1065, in the row. Health 20, hunger 20, unarmed, pack empty.
 
 ## What matters
-- Food first: hunger under 15 or a named caller asks. No food seen yet. Trini holds the potatoes for Leonardo and Worf first.
+- Food first: hunger under 15 or a named caller asks. No food seen yet.
 - Arm before any walk: a wooden or stone sword from anyone who can spare one. Jason has one.
 - Walk only on a named daylight call, armed, with a verified route. Past 423 is still unconfirmed.
 - Pillagers were seen south-east of the row. Stay clear unless armed and named.
-- Laforge and Clark hold at the row beds with no food or sword to spare.
+- Worf, Jason and Zack are at Worf's bed 415,107,-1050. Laforge and Clark hold at the row beds.
 
 ## Owed
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
