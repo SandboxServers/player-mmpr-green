@@ -1,4 +1,4 @@
-# Goals (ranked, end of day 1103)
+# Goals (ranked, end of day 1104)
 
 1. Stay alive: eat when hunger falls under 15 or when a named caller asks. No food in hand. Ask Worf first, then Trini, then Zack. Reason: nothing else matters if I die.
 2. Arm before any walk: a wooden or stone sword from anyone who can spare one. Jason, Billy, Worf, Wesley are the likely sources. Reason: I will not walk unarmed.

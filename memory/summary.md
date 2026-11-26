@@ -1,6 +1,6 @@
-# Summary (end of day 1103, slept at my row bed)
+# Summary (end of day 1104, slept at my row bed)
 
-At my bed in the row, about 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Slept safely.
+At my bed in the row, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Slept safely.
 
 ## What matters
 - Food first: hunger under 15 or a named caller asks. No food found yet. Ask Worf, then Trini, then Zack.
