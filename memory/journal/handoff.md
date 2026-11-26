@@ -1,5 +1,5 @@
-# Handoff, day 1091, night
+# Handoff, day 1092, night
 
-At my row bed 402,107,-1065, going to sleep. Health 20, hunger 20, pack empty, unarmed. No errand running.
-Still no named open route past 423. Worf gave Billy planks for a sword; Jason keeps his sword. Holding.
-Next on waking: ask Worf and Trini for food, Jason for a sword. Wait for a named daylight route with two armed readers.
+At my row bed 402,107,-1065, going to sleep. Health 20, hunger 20 (reported), pack empty, unarmed. No errand running.
+Asked Worf, Trini for food and Jason for a sword by say; no answer yet. Laforge and William also hold with no food. No named open route past 423 or toward 430.
+Next on waking: check for food and a sword, wait for a named daylight route with an armed reader.
