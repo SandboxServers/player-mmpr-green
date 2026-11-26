@@ -4,3 +4,4 @@
 - 05:40 act: {"actions":[{"do":"sleep"}]}
 - 05:40 act: {"actions":[{"do":"sleep"}]}
 - 05:41 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}}],"say":"Tommy here, holding at my bed in the row. No food, no arms, no walk until a named daylight route with two armed readers."}
+- 05:42 say: {"text":"Tommy here, holding at my bed in the row. Unarmed, no food yet. No walk until a named daylight route."}
