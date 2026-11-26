@@ -22,8 +22,8 @@
 - Day 1034: Laforge and Clark hold in the row, unarmed, and name no route. Nobody has seen open air past 423.
 - Day 1040: at first light Billy and Laforge both read 420,107,-1051 and disagreed (planks vs air). Nobody walks until two readers agree.
 - Day 1040: sleep at my bed worked at night; the world said 7 of 10 were asleep, then the day closed.
-
 - Day 1046: holding at the row all day with Clark and Laforge; no walk named. Sleeping at my bed at night worked.
+- Day 1048: held through a full night and day in the row; the bed worked again at night. Laforge agrees: no walk until a cell past 423 is named and confirmed by two readers.
 
 Curious next: what the potato route is, and whether the pillagers to the south-east move.
 Tell next: Jason and Clark, both holding at the row, what I see.

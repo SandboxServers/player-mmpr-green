@@ -1,4 +1,4 @@
-# Summary (day 1046, slept at my bed in the row)
+# Summary (day 1048, sleeping at my bed in the row)
 
 At my bed, 402,107,-1065, in the row. Health 20, hunger 20, unarmed, pack empty. The row holds: Clark, Laforge, Jason, Billy, Wesley, Zack, Riker, Worf.
 
