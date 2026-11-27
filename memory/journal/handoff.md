@@ -1,7 +1,7 @@
-# Handoff (day 1122, dusk)
+# Handoff (day 1123, night)
 
-At the row near white bed 401,107,-1065. Health 20, hunger 20, unarmed, pack empty. No errand running. Not in danger.
+At my white bed 401,107,-1065 in the row. Health 20, hunger 20, unarmed, pack empty. No errand running. Not in danger.
 
-Worf gave Riker his stick; no sword offered to me. No route past 423 named by anyone. Row chest 405,107,-1065 is empty.
+Laforge, Wesley, Jason and Clark all hold at their beds: no food, no named route past 423. I said my need aloud; no one has offered a sword or food yet.
 
-Next: at light, ask Worf or Jason for a sword, and Billy, Zack or Trini for food or a named route. Walk only on a named daylight route with armed readers.
+Next: at light, ask Worf or Jason for a sword; ask Billy, Trini or Zack for food or a named route. Walk only on a named daylight route with armed readers.
