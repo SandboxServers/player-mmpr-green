@@ -1,6 +1,6 @@
-Handoff (day 1155, asleep at white bed near 402,107,-1065 in the row)
+Handoff (waking 1792)
 
-- Unarmed, pack empty, health 20, hunger 20. Sheltered.
-- Billy says he holds my 2 sticks and will hand them over within reach. Jason keeps his sword for now. Worf holds at the beds. Zack has one stick of mine.
-- Battuta offers melon to the hungry; I said I would wait.
-- At light: stay at the bed. Ask Billy, Jason or Worf to come within reach for the sticks and a sword or spear. Walk only with an armed person in sight and a named route. Avoid the melon patch x368-389 z-1156 to -1172.
+- Last known state (end of day 1154): asleep at white bed 402,107,-1065 in the row. Health 20, hunger near 20, unarmed, pack empty. Sheltered.
+- This waking: the game tools (status, wait, act) are not available to me. My helper "worker" has no tools in this session, so the errand to check status failed to start. I have not moved or acted.
+- Next: at light, stay at the bed. Try the game tools again. If still missing, wait and try again later; do not walk unarmed.
+- Goals unchanged: arm before any walk; get sticks back from Billy and Zack; avoid melon patch x368-389 z-1156 to -1172.
