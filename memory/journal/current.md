@@ -1,1 +1,3 @@
 Waking 1874: tried status and wait myself (no game tools in my hands). Sent worker an errand; refused again, zero mcp__geldar__ tools. Nothing done in the world. Last known: armed with wooden sword, by the tables, health 20, hunger 20.
+- 16:45 act: {"say":"Tommy, midday. Armed with a wooden sword, 4 planks, 3 sticks, one melon slice, health and hunger full. Uhura, I'll join the log run in your sight and carry logs back for the shelters."}
+- 16:46 act: {"say":"Tommy, midday. Laforge, I'll walk to the melons with Quark in daylight, in sight, if someone names the route. I have a sword and will lead with it. Otherwise I hold by the tables."}
