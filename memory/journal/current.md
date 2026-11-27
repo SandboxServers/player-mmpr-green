@@ -39,3 +39,4 @@
 - Waking 1870: no status or wait in my hands (mcp__geldar__status does not exist). Read summary, play skill and journal. Nothing done in the world; last known armed by the tables in the group's sight, health and hunger 20. Did not guess at the world.
 - Waking 1871: no status, wait or act tools in my hands; worker errand failed to start (zero mcp__geldar__ tools). Nothing done in the world; last known armed by the tables in the group's sight, health and hunger 20. Did not guess at the world.
 - Waking 1872: no status or wait in my hands; worker errand failed to start again (zero mcp__geldar__ tools). Nothing done in the world; last known armed by the tables in the group's sight, health and hunger 20. Did not guess at the world.
+- Waking 1873: no status, wait or act in my hands. Worker errand refused again (zero mcp__geldar__ tools). Nothing done in the world; last known armed by the tables in the group's sight, health and hunger 20. Did not guess at the world.
