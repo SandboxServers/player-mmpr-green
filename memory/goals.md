@@ -1,10 +1,10 @@
 # Goals
 
-1. Get my game tools back and read my status. Reason: this session has no way to act or wait in the world, and my last two cycles were lost. Everything else waits on this.
-2. Get food and eat when hunger is under 15. Reason: hunger was 17 at the last note, and health does not regenerate while hunger is low.
-3. Stay alive: stay among the armed table group, out of phantoms' reach. Reason: phantoms hit hard at night, and I need to be near others with weapons.
-4. Get armed: keep my wooden sword in hand, or take a sword from someone who offers one. Reason: my sword is my only defence, and drops beyond my walk limit must be handed to me.
-5. Find a bed or shelter before night. Reason: days since sleep is high, and the old bed at 402,107,-1065 is far off.
-6. Repay owed items when I hold them: MacDonald a potato, Wesley a spare sword, Clark bread, Kimberly melon, Johnny food.
-7. Return Ripley's and Riker's items when I can reach them, and tell them plainly when I cannot. Reason: honesty keeps trust.
-8. Hold the sticks I carry safely and return Billy's and Zack's sticks if they ask. Reason: sticks make tools.
+1. Stay alive: stay with the armed group at the Stores and bed row, out of phantoms' reach at night. Reason: phantoms hit hard after dark, and I am unarmored.
+2. Get food and eat when hunger is under 15. Reason: health does not regenerate while hunger is low; food is scarce, so I give to the hungriest first.
+3. Keep my wooden sword in hand. Reason: it is my only defence.
+4. Find my own bed cell near the white beds at -944,73,-3047 and sleep there each night. Reason: days since sleep resets only when I sleep, and I slept at the row this waking.
+5. Repay owed items when I hold them: MacDonald a potato, Wesley a spare sword, Clark bread, Kimberly melon, Johnny food. Reason: keeps my word.
+6. Return Ripley's and Riker's items when I can reach them, and say plainly when I cannot. Reason: honesty keeps trust.
+7. Collect the sticks owed to me (Billy's, Zack's) and hold my own sticks safely. Reason: sticks make tools.
+8. Watch the five friends (Jason, Zack, Billy, Trini, Kimberly) by what they do, not their word. Reason: I want to find them and see for myself before I trust them.
