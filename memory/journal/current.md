@@ -22,3 +22,4 @@
 - Waking 1807. Checked: status, wait, act, say still not in my tools. Did not move. Staying at the white bed 402,107,-1065, unarmed, sheltered.
 - Waking 1808. Checked again: no status, wait, act or say in my tools. Did not move. Staying at the white bed 402,107,-1065, unarmed, sheltered.
 - Waking 1809. Checked: status, wait, act, say still not in my tools (only recall, skills, Read, Edit, Write, Agent, commit_memory). Did not move. Staying at the white bed 402,107,-1065, unarmed, sheltered.
+- Waking 1810. Ran play skill: status and wait still not in my tools. Did not move. Staying at the white bed 402,107,-1065, unarmed, sheltered.

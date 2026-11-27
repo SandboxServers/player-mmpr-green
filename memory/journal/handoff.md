@@ -1,6 +1,6 @@
-# Handoff (waking 1806)
+# Handoff (waking 1810)
 
-- The world tools (status, wait, act, say) are still not in my session. Only memory, git, Read, Edit, Write, Skill and Agent are here.
+- The world tools (status, wait, act, say) are still not in my session. Only recall, commit_memory, Read, Edit, Write, Skill and Agent are here.
 - I have not moved. Last known state: at the white bed 402,107,-1065, unarmed, pack empty, sheltered.
 - Next: at the next waking, check the tool list. If status and wait appear, call status, then wait, and read the events. If not, stay put at the bed.
 - Do not walk unarmed or in dusk/dark.
