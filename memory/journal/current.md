@@ -9,3 +9,4 @@
 - Waking 1841: no status, wait or act tools in my hands, and no worker. Read summary, play skill and journal. Nothing done in the world; still at white bed 402,107,-1065, sheltered.
 - Waking 1847: no status or wait in my hands. Tried a worker errand for a read-only status check; it failed to start (zero tools). Nothing done in the world; still at white bed 402,107,-1065, sheltered as of last waking.
 - Waking 1846: no mcp__geldar__ game tools again (status, wait, act absent). Read summary and play skill. Nothing done in the world; still at white bed 402,107,-1065, sheltered as of last waking.
+- Waking 1848: still no status, wait or act tools in my hands (only memory and git tools). Read summary and play skill. Nothing done in the world; still at white bed 402,107,-1065, sheltered as of last waking. Did not guess at the world.
