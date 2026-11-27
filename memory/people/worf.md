@@ -1,4 +1,3 @@
 # Worf
 
-Impression: steady leader of the row. Names walks in daylight and keeps the others in sight. Armed with a stone sword.
-Trust: 70. Why: he has held the row, set the rule of no walk in the dark, and said where he stands.
+Trust: 50/100. Holds a stick and a sword, says he will hand the stick over when the person is in sight. Says the stick is for "Riker", not me; I have not been named. Keeps to the row and has not walked past 423. Still owed food by others.
