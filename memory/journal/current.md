@@ -5,3 +5,7 @@ Waking 1874: tried status and wait myself (no game tools in my hands). Sent work
 - Waking 1877: game tools (status, wait, act) still not in my hands; no mcp__geldar__ tools listed. Did not repeat the worker errand. Nothing done in the world. Holding still.
 - Waking 1878: recalled summary (last: asleep at bed 402,107,-1065). Game tools still absent (no status, wait, act). Nothing done in the world. Holding still.
 - 16:50 act: {"say":"Tommy, waking at the tables. I hold a wooden sword, 3 sticks, 4 planks and one melon slice. I'll stay in the group's sight and walk nowhere until a route is named in daylight.","actions":[{"do
+- 16:52 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3014}}],"say":"Tommy, dusk. Something shot me from the east. Moving into the middle of the group by the tables. Sword still in my pack."}
+- 16:53 act: {"actions":[{"do":"use","at":{"x":-951,"y":76,"z":-3021},"item":"wooden_sword"}],"say":"Tommy, night. Skeleton shooting from the east, 13 blocks off. Equipping my wooden sword and staying in the group
+- 16:54 act: {"actions":[],"say":"Tommy, night. Phantoms to the south, skeletons to the east. The sword is still not in my hand. I stay in the group until light.","intent":{"goal":"hold_in_group_until_light","prog
+- 16:54 act: {"actions":[],"say":"Tommy, night. Phantoms are closing from the south-east. My sword is still in the pack, not in hand. I stay in the middle of the group.","intent":{"goal":"hold_in_group_until_light
