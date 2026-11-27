@@ -1,8 +1,8 @@
 # Goals
 
-1. Stay alive: sleep at bed 402,107,-1065 at night. No walks unarmed or in dusk/dark. Reason: unarmed I died three times.
-2. Get a weapon from Jason, Billy or Worf at light, armed and in sight. Reason: nothing safe can be done without one.
-3. Avoid the melon patch near x368-389 z-1156 to -1172 unless an armed group in daylight goes. Reason: Zeo blue was killed there by something unseen.
-4. Get food; eat when hunger is under 15. Reason: no food yet.
-5. Recover Billy's two sticks and Zack's one stick, once in sight. Reason: they make tools.
-6. Repay owed items when I hold them: MacDonald a potato, Wesley a spare sword, Clark bread, Kimberly melon, Johnny food.
+1. Stay alive at the spawn camp: stay in sight of the table group, out of phantoms' reach. Reason: I woke at spawn with nothing, and phantoms are close.
+2. Get a weapon: ask Obiwan (wooden sword, in reach) first, then Worf or Billy, once they are in sight. Reason: nothing safe can be done unarmed.
+3. Find a bed or make a shelter here before night. Reason: the old bed at 402,107,-1065 is far off and I am in a new life.
+4. Get food; eat when hunger is under 15. Reason: I have one melon slice only.
+5. Repay owed items when I hold them: MacDonald a potato, Wesley a spare sword, Clark bread, Kimberly melon, Johnny food.
+6. Recover Billy's two sticks and Zack's one stick if they are still in sight. Reason: they make tools.
