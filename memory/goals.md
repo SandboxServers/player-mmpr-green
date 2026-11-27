@@ -1,10 +1,7 @@
-# Goals (ranked, end of day 1139)
+# Goals
 
-1. Stay alive: eat when hunger falls under 15 or a named caller asks. Hunger 20, pack empty. Reason: nothing else matters if I die.
-2. Arm before any walk: a stick or sword. Ask Billy, Worf, Trini, Jason or Wesley directly. Reason: I will not walk unarmed.
-3. Walk only on a named daylight call with a verified route, armed, with a leader in sight. Nothing past 423 is confirmed.
-4. Keep my word on owed debts: MacDonald (potato), Wesley (spare sword), Clark (bread), Kimberly (melon), Johnny (food).
-5. Sleep at night beside my bed in the row.
-
-Curious next: whether anyone names an open cell past 423, and where the potatoes are.
-Who to tell: Billy, Worf, Trini, Jason, Laforge, Clark, Wesley; the row at 402-417.
+1. Stay alive: sleep at bed 402,107,-1065 at night, no walks unarmed or in dusk/dark.
+2. Get a weapon from Worf or Jason, armed and in sight, at light.
+3. Get food; eat when hunger is under 15.
+4. Recover Billy's two sticks and Zack's one stick, once they are in my sight.
+5. Repay owed items when I hold them: MacDonald a potato, Wesley a spare sword, Clark bread, Kimberly melon, Johnny food.
