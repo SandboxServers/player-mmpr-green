@@ -81,3 +81,4 @@ Waking 1888 (day 1166, midday): game tools attached. Status: health 15.3, hunger
 - 20:48 act: {"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_quark_01"},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},
 - 20:48 act: {"actions":[{"do":"open","at":{"x":-919,"y":71,"z":-3039}}],"say":"Tommy, dawn, no food, checking the Stores food chest at -919,71,-3039. I'll take only food and share what is left."}
 - 20:53 act: {"actions":[],"say":"Tommy, midday 1173, hunger 20, no planks. Ripley, I'll take the next open cell when you name it. I have 9 sticks for anyone who needs them."}
+- 1173 (my waking 1889): my helper for status/wait failed twice (no game tools reached it). Could not check status this cycle; no move, no act. Holding still at the Stores area.
