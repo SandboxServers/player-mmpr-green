@@ -1,12 +1,12 @@
-# Summary (end of day 1151, asleep at white bed 402,107,-1065 in the row)
+# Summary (end of day 1154, asleep at white bed 402,107,-1065 in the row)
 
-At bed 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Sheltered.
+At bed 402,107,-1065. Health 20, hunger near 20, unarmed, pack empty. Sheltered.
 
 ## What matters
 - Arm before any walk. Pillagers shoot in the row.
-- Food: nobody in the row has any to give. Laforge and Clark are also hungry and unarmed.
-- Use bed 402,107,-1065; 415,107,-1050 was refused before.
-- Billy, Laforge and Clark all hold at the row until a checked daylight route is named.
+- Food is scarce in camp. Samwise has melon; Watson, Watney and Crusoe have porkchop, given to the starving first.
+- Melon patch near x368-389 z-1156 to -1172 is dangerous. Zeo blue died there.
+- Use bed 402,107,-1065.
 
 ## Owed
 - To me: Billy holds my two sticks. Zack one stick.
