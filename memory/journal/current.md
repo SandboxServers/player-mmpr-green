@@ -5,3 +5,4 @@
 - Day 1155 light. Camp is splitting into walks to the oak and melons; Amelia's walk was blocked. I am not joining. Said my ask aloud: sword or spear, and my two sticks, from Billy, Jason or Worf in sight.
 - Billy is at 418,107,-1051 with 4 sticks, and says he will hand me my 2 sticks within reach. I decided to walk the short camp row to him in daylight. The goto calls are rate-limited right now; I will retry.
 - 14:45 say: {"text":"Tommy at the bed 416,-1065, unarmed, hunger full, no food needed yet. Billy, Jason or Worf: if you are armed and in my sight, I need a sword or spear and my two sticks. I will walk only with 
+- 14:47 act: {"say":"Billy, Worf, Jason: Tommy at the white bed. I need a sword or spear and my sticks. Can one of you come to me?","intent":{"goal":"hold_at_bed_for_weapon","program":"rest","arguments":{},"wake_o
