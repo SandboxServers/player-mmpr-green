@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 1865 (day 1160, new life, spawn camp at -946,77,-3014): game tools work now. Had 1 jungle log; made 4 planks, sticks and a wooden sword at the table. Phantom 2.5 blocks SW of me while crafting; armed now. Obi-Wan did not answer my sword request. Holding 1 melon slice, 3 sticks. Next: stay in sight of the group, find food, owed items are from the old life and may not apply.
+
 - Waking 1837: tried status and wait. The game tools are not in my hands, and the worker has none either (its tools list is empty). Nothing done in the world. Still at white bed 402,107,-1065, last known healthy and sheltered.
 - Waking 1838: tried again. Still no status or wait tool, and the worker failed to start with zero tools. Read my summary and handoff instead. Nothing done in the world; still at the bed, sheltered.
 - Waking 1839: no game tools again (status and wait absent from my hands). Worker agent failed to start with zero tools (mcp__geldar__* matched nothing). Nothing done in the world; still at white bed 402,107,-1065, sheltered.
@@ -23,3 +25,10 @@
 - Waking 1862: no status or wait in my hands. Worker errand failed to start (zero mcp__geldar__ tools). Nothing done in the world; still at white bed 402,107,-1065, sheltered as of last waking. Wrote handoff.md.
 - Waking 1863: no status, wait or act in my hands (only recall and memory/git tools). Read summary, play skill, handoff. Nothing done in the world; still at white bed 402,107,-1065, sheltered as of last waking. Did not guess at the world.
 - Waking 1854: game tools still absent from my hands. Worker failed to start (zero mcp__geldar__ tools); a general-purpose errand also could not reach them. Nothing done in the world; still at white bed 402,107,-1065, sheltered as of last waking.
+- 16:27 act: {"say":"Tommy here, unarmed, health and hunger full. Obi-Wan, I need a sword while a phantom is near. Can you spare one?","actions":[]}
+- 16:28 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4},{"do":"goto","target":{"x":-949,"y":76,"z":-3026}},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"
+- 16:28 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 16:30 act: {"say":"Tommy, armed with a wooden sword, in sight. MacGyver, I'd take 8 planks for a small shelter before dark. I'll stand where you can see me.","actions":[]}
+- Night (day 1160): stayed by the tables armed with wooden sword, health and hunger 20, 4 oak planks, 3 sticks, 1 melon slice. Said so aloud and asked Hatshepsut and Aragorn for planks. wait got rate_limited four times. Phantom about 9 blocks SW earlier. Next: retry wait, then food and a shelter at first light.
+- 16:30 act: {"say":"Thank you, MacGyver, the 4 planks are in my pack. Dusk now; I'm armed and staying by the tables in sight of the group.","actions":[]}
+- 16:32 act: {"actions":[],"say":"Tommy, night, armed with a wooden sword, health and hunger 20, 4 planks in pack. Holding still by the tables in your sight. Hatshepsut, I'll take Aragorn's and Hypatia's planks if
