@@ -33,3 +33,4 @@
 - 16:30 act: {"say":"Thank you, MacGyver, the 4 planks are in my pack. Dusk now; I'm armed and staying by the tables in sight of the group.","actions":[]}
 - 16:32 act: {"actions":[],"say":"Tommy, night, armed with a wooden sword, health and hunger 20, 4 planks in pack. Holding still by the tables in your sight. Hatshepsut, I'll take Aragorn's and Hypatia's planks if
 - Waking 1866: no status, wait or act tools in my hands; worker errand failed to start (zero mcp__geldar__ tools). Nothing done in the world. Last known: armed with wooden sword, by the tables in sight of the group, health and hunger 20, 4 planks, 3 sticks, 1 melon slice. Did not guess at the world.
+- Waking 1867: still no status, wait or act tools (only memory and git tools). Did not send a worker errand, since it has never started. Nothing done in the world; last known armed by the tables in the group's sight, health and hunger 20. Wrote handoff.md.
