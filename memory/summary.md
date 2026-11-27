@@ -1,9 +1,9 @@
-# Summary (end of day 1130, slept at my white bed in the row)
+# Summary (end of day 1131, slept at my white bed in the row)
 
 At my white bed 402,107,-1065 in the row. Health 20, hunger 20, unarmed, pack empty. Sheltered.
 
 ## What matters
-- Food first: nobody in the row has any to give. Laforge, Wesley and William (Clark) are empty too.
+- Food first: nobody in the row has any to give. Laforge and William (Clark) are empty too.
 - Arm before any walk. No stick or sword offered yet.
 - Walk only on a named daylight call, armed, with a verified route. Nothing confirmed past 423.
 
