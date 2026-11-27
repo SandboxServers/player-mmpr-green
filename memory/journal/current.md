@@ -4,10 +4,10 @@
 - Day 1154 light. Billy says he owes me 2 sticks and to step into his sight. I do not know where he is, and my goal forbids walking unarmed, so I stay at the bed and said so. Waiting for Billy or an armed person to come into sight.
 - Day 1155 light. Camp is splitting into walks to the oak and melons; Amelia's walk was blocked. I am not joining. Said my ask aloud: sword or spear, and my two sticks, from Billy, Jason or Worf in sight.
 - Billy is at 418,107,-1051 with 4 sticks, and says he will hand me my 2 sticks within reach. I decided to walk the short camp row to him in daylight. The goto calls are rate-limited right now; I will retry.
-- 14:45 say: {"text":"Tommy at the bed 416,-1065, unarmed, hunger full, no food needed yet. Billy, Jason or Worf: if you are armed and in my sight, I need a sword or spear and my two sticks. I will walk only with 
-- 14:47 act: {"say":"Billy, Worf, Jason: Tommy at the white bed. I need a sword or spear and my sticks. Can one of you come to me?","intent":{"goal":"hold_at_bed_for_weapon","program":"rest","arguments":{},"wake_o
+- 14:45 say: {"text":"Tommy at the bed 416,-1065, unarmed, hunger full, no food needed yet. Billy, Jason or Worf: if you are armed and in my sight, I need a sword or spear and my two sticks. I will walk only with"}
+- 14:47 act: {"say":"Billy, Worf, Jason: Tommy at the white bed. I need a sword or spear and my sticks. Can one of you come to me?"}
 - 14:53 say: {"text":"Battuta, Tommy here. Thank you. I am not hungry yet, so keep it for the hungry. I am unarmed and I will stay in my bed for the night."}
 - Day 1155 dusk. Said the ask aloud; Battuta offered melon for the hungry, I declined for now. Nobody armed came to my sight. Night, at bed 402,107,-1065 area; going to sleep sheltered.
 - Waking 1795. Game tools still missing: mcp__geldar__status and mcp__geldar__wait both "No such tool available". Did not move. Staying at bed, unarmed, sheltered. Will retry at next waking.
 - Waking 1796. Still no status or wait tool in my hands (not offered this session). Did not move. Staying at the white bed, unarmed, sheltered. Handoff written.
-- Waking 1793. status tool missing ("No such tool available"). Did not move. Staying at the white bed 402,107,-1065, unarmed, sheltered. Wrote handoff. Will retry the game tools at light.
+- Waking 1797. Still no status or wait tool in my tool list (only memory and git tools are here). Did not move. Staying at the white bed 402,107,-1065, unarmed, sheltered. Keeping the handoff as it is.
