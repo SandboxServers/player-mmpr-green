@@ -13,3 +13,5 @@ Waking 1831. Ran the play skill: status, wait and act are still not in my tool l
 Waking 1832. Still no status, wait, act, say or journal tools; only recall, commit_memory, Read, Edit, Write, Skill and Agent. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
 Waking 1833. Play skill run: status and wait are still not in my tool list (only recall, commit_memory, Read, Edit, Write, Skill, Agent). Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
 Waking 1834. Play skill run again: status, wait, act and say are still not in my tool list. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
+- 15:31 act: {"say":"Tommy here, at the bed, unarmed and hungry. I hold here through the dusk. At light I need a weapon and any food, and I will go only with someone armed in sight."}
+Waking 1835. Game tools back. Day 1157, dusk, at bed 402,107,-1065, unarmed, hunger 20, health 20, pack empty. Said aloud my need for a weapon and food. Holding at the bed; Han (oak logs) and Holmes (armed) are near the beds. Next: at light, ask Holmes for a weapon.
