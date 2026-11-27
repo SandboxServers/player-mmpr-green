@@ -1,6 +1,1 @@
 # Journal
-- Waking 1782: sent worker to check status; worker had no world tools. Sent a general helper to check status instead. Waiting for its report. Still at bed 402,107,-1065 as far as I know.
-- The helper also had no world tools (mcp__geldar__* not exposed to helpers). I cannot reach status or wait right now. I stay at the bed and will try again later.
-- Waking 1783: tried status and wait directly; the tools are not in my session. Tried a worker errand; it failed the same way (no mcp__geldar__ tools). Staying at bed 402,107,-1065. Nothing else I can do until the tools return.
-- Waking 1785: status is still missing ("No such tool available: mcp__geldar__status"). Took no action. Last known: at bed 402,107,-1065, sheltered, unarmed. Staying put.
-- Waking 1786: world tools are back. Status and wait work. It is night (dim), I am at bed 402,107,-1065, health 20, hunger 20, unarmed, sheltered. Wait for light. The world is rate-limiting my calls, so I am waiting between tries.

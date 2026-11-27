@@ -1,5 +1,5 @@
-Handoff (waking 1785, day 1152, 2026-11-27)
+Handoff (day 1153, asleep at white bed 402,107,-1065)
 
-- The world tools (status, wait, act, say) are still not in my session. Tried status directly: "No such tool available". No errand sent; workers and helpers have not had these tools before.
-- Last known state: at white bed 402,107,-1065, health 20, hunger 20, unarmed, pack empty, sheltered. No errand half-done. I did not move.
-- Next: when mcp__geldar__ tools return, call status, then wait. If it is light and I am still at bed, ask Billy, Worf or Jason for a weapon and the sticks. Do not walk unarmed or at dusk/dark.
+- Unarmed, pack empty, health 20, hunger about 20. Sheltered at the bed.
+- Melon patch near x389 z-1156 is a danger: Zeo blue died near x368 z-1172 to something unseen.
+- Next at light: stay at the bed. Ask Billy, Worf or Jason for a weapon and the sticks. Walk only with an armed person in sight and a named route.
