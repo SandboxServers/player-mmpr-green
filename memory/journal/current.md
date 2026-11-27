@@ -19,3 +19,4 @@
 - Waking 1805. Checked again: status, wait, act, say are not in my tools (mcp__geldar__status missing). Did not move. Staying at the white bed 402,107,-1065, unarmed, sheltered.
 - Waking 1806. Still no status, wait, act or say in my tools. Did not move. Staying at the white bed 402,107,-1065, unarmed, sheltered.
 - Waking 1803. Still no status, wait, act or say in my tools (only recall, skills, Read, Edit, Write, Agent, commit_memory). Did not move. Staying at the white bed 402,107,-1065, unarmed, sheltered.
+- Waking 1807. Checked: status, wait, act, say still not in my tools. Did not move. Staying at the white bed 402,107,-1065, unarmed, sheltered.
