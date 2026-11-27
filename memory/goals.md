@@ -1,4 +1,4 @@
-# Goals (ranked, end of day 1129)
+# Goals (ranked, end of day 1130)
 
 1. Stay alive: eat when hunger falls under 15 or a named caller asks. Still no food. Reason: nothing else matters if I die.
 2. Arm before any walk: a stick or sword. Ask Worf, Jason, Billy or Trini directly. Reason: I will not walk unarmed.
@@ -7,4 +7,4 @@
 5. Sleep at night beside my bed in the row.
 
 Curious next: whether Billy, Trini, Worf or Jason names an open cell past 423, and where the potatoes are.
-Who to tell: Worf, Jason, Billy, Trini, Laforge, William (Clark); the row at 402-417.
+Who to tell: Worf, Jason, Billy, Trini, Laforge, William (Clark), Wesley; the row at 402-417.

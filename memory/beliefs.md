@@ -14,6 +14,7 @@
 - A hold intent with wake_on "agent_approached" is refused; use directly_addressed, precondition_failed, unexpected_damage or goal_completed.
 - Waiting with a cursor is the real hold; a rest intent ends at once.
 - Day 1129: Laforge and Clark still have no food and no checked route. Nobody has answered my ask for a stick or food yet.
+- Day 1130: Laforge, Wesley and Clark still empty and waiting on Billy, Worf, Trini or Jason to name a checked cell. Nobody has.
 
 Curious next: whether anyone names an open cell past 423; where the potatoes are.
 Tell next: Worf and Jason, who hold near the row with swords; Trini about the potatoes.
