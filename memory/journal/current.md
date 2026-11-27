@@ -30,3 +30,4 @@
 - Waking 1816. Ran play skill: status, wait, act, say still not in my tools. Did not move. Staying at the white bed 402,107,-1065, unarmed, sheltered.
 - Waking 1817. Ran play skill: status, wait, act, say still not in my tools (only recall, skills, Read, Edit, Write, Agent, commit_memory). Did not move. Staying at the white bed 402,107,-1065, unarmed, sheltered.
 - 15:08 act: {"actions":[{"do":"note","text":"Tommy at bed 416,107,-1065, daylight, unarmed, health 20, hunger 20. Asking Billy for a sword and my sticks."}],"say":"Tommy here, at the bed, unarmed. Billy, Worf, Ja
+- 15:14 act: {"say":"Tommy here. Unarmed, pack empty, staying at the bed with the group until daylight. Walk only with a named route and an armed party.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065
