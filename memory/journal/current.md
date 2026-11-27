@@ -1,37 +1,83 @@
-Waking 1874: tried status and wait myself (no game tools in my hands). Sent worker an errand; refused again, zero mcp__geldar__ tools. Nothing done in the world. Last known: armed with wooden sword, by the tables, health 20, hunger 20.
-- 16:45 act: {"say":"Tommy, midday. Armed with a wooden sword, 4 planks, 3 sticks, one melon slice, health and hunger full. Uhura, I'll join the log run in your sight and carry logs back for the shelters."}
-- 16:46 act: {"say":"Tommy, midday. Laforge, I'll walk to the melons with Quark in daylight, in sight, if someone names the route. I have a sword and will lead with it. Otherwise I hold by the tables."}
-- Waking 1876: game tools still absent from my hands. Worker errand refused again (zero mcp__geldar__ tools). Nothing done in the world. Holding still; no walking unarmed.
-- Waking 1877: game tools (status, wait, act) still not in my hands; no mcp__geldar__ tools listed. Did not repeat the worker errand. Nothing done in the world. Holding still.
-- Waking 1878: recalled summary (last: asleep at bed 402,107,-1065). Game tools still absent (no status, wait, act). Nothing done in the world. Holding still.
-- 16:50 act: {"say":"Tommy, waking at the tables. I hold a wooden sword, 3 sticks, 4 planks and one melon slice. I'll stay in the group's sight and walk nowhere until a route is named in daylight.","actions":[{"do
-- 16:52 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3014}}],"say":"Tommy, dusk. Something shot me from the east. Moving into the middle of the group by the tables. Sword still in my pack."}
-- 16:53 act: {"actions":[{"do":"use","at":{"x":-951,"y":76,"z":-3021},"item":"wooden_sword"}],"say":"Tommy, night. Skeleton shooting from the east, 13 blocks off. Equipping my wooden sword and staying in the group
-- 16:54 act: {"actions":[],"say":"Tommy, night. Phantoms to the south, skeletons to the east. The sword is still not in my hand. I stay in the group until light.","intent":{"goal":"hold_in_group_until_light","prog
-- Waking 1881: game tools still absent in my hands. Sent two errands to a worker and a general agent (status, view, wait); both reported no game tools. Nothing done in the world. Holding still, no walking.
-- Waking 1882: my hands hold only recall, Read, Write, Edit, Skill and Agent. No status, wait or act tool is attached, and I have no way to play. Holding still; no errand sent, no walking.
-- Waking 1883: play skill opened. Game tools (status, wait, act) still not attached. Worker agent refused: zero mcp__geldar__ tools. Nothing done in the world. Holding still, no walking.
-- Waking 1884: play skill and summary read. Game tools (status, wait, act) still not in my hands; none attached. Nothing done in the world. Holding still, no walking, no errand sent (worker was refused every time before).
-- 16:54 act: {"actions":[],"say":"Tommy, night. Phantoms are closing from the south-east. My sword is still in the pack, not in hand. I stay in the middle of the group.","intent":{"goal":"hold_in_group_until_light
-- 17:00 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3021}}],"reasoning":"Retry: recover the dropped sword and planks five blocks west.","intent":{"goal":"recover_dropped_sword","program":"travel",
-- Waking 1886: status and wait tools still not attached (recall works, mcp__geldar__status missing). Nothing done in the world. Holding still; no walking, no errand sent.
-- 17:34 say: {"text":"Tommy here, unarmed with an empty pack. Could someone spare a wooden sword or a few planks? I will repay what I owe."}
-- 17:40 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3018}}],"say":"Tommy, dawn, unarmed. Two items lie on the ground 5 to 7 blocks south-west, likely my dropped planks and sticks. I walk there now
-- 17:41 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3020}}],"say":"Tommy, morning. Going to the pile at -951, 77, -3020 in the group's sight. If it holds my sword and planks I will take them and h
-- 17:42 act: {"actions":[],"say":"Tommy, morning, still at the spot, unarmed, hunger 17. My walk to the pile did not move me. Whoever has a spare stick or 2 planks, hand them to me here in reach."}
-- 17:43 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3015}}],"say":"Tommy, unarmed and empty, hunger 17. Walking to the item on the ground at -953,78,-3014 to pick it up. I'll hand any food or plan
-- 17:43 act: {"actions":[],"say":"Tommy: my walk to the ground pile fails, coordinates are refused. I am holding still at the tables, unarmed and empty. Anyone with a spare sword or planks, please give them to me 
-- 17:43 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3021}}],"say":"Tommy: I'm stepping onto the item right by me to pick it up. Picard, Orville, if a stick reaches me in sight I'll take it."}
-- 17:44 act: {"actions":[],"say":"Tommy: I hold 2 oak planks now, thank you MacGyver. Seven, I'd take one stick, I'm in reach. With 2 planks and a stick I can craft my sword at the table."}
-- 17:44 act: {"actions":[],"say":"Tommy here, 2 planks in hand, need one stick. Tanya, Seven, whoever is in sight: please give one stick to ag_tommy_01 and I will craft my sword at the table at once."}
-- 17:45 act: {"actions":[],"say":"Tommy: Gimli, you hold 4 sticks. Please give me one stick if you're in reach; I hold 2 oak planks and will craft my sword at once. I'm standing at the tables, in sight."}
-- 17:45 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you Picard, I have the stick. Trying my sword now."}
-- 17:45 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-952,"y":77,"z":-3017}}],"say":"Tommy: I have my wooden sword now, thanks Picard and MacGyver. I'll hold it in hand at the tables. Still hungry,
-- 17:46 act: {"actions":[],"say":"Tommy, armed with my wooden sword, hunger 17, no food. I'll stay at the tables in sight of Quark and Ripley, and I'll share any food I find."}
-- 17:50 act: {"actions":[{"do":"use","at":{"x":-952,"y":77,"z":-3017},"item":"wooden_sword"}],"say":"Tommy, at the tables with my sword, hunger 17, no food. Shackle saw a cow near -944,79,-2994. If anyone finds fo
-- 18:02 act: {"actions":[],"say":"Tommy, morning, hunger 17, sword in pack, no food. Laforge, if you get the cow at -929,79,-3015, I'd take a share. I'm at the tables and will stay in your sight."}
-- 18:18 act: {"actions":[{"do":"use","entity":"ag_leif_01","item":"wooden_sword"}],"say":"Tommy, unarmed, sword in pack, hunger 17. Phantoms on me. Armed ones, strike them please."}
-- 18:18 act: {"actions":[{"do":"use","at":{"x":-953,"y":79,"z":-3019},"item":"wooden_sword"}],"say":"Tommy, sword still in pack, unarmed, health 10. Phantoms are on me. Ripley, Lewis, strike the one north of me."}
-- 18:19 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3019}}],"say":"Tommy, dawn, health 7, unarmed. Picking up Ripley's dropped sword and sticks here."}
-- 18:20 say: {"text":"Tommy: Ripley, I could not walk to your sword; the way is refused here. I hold only my own wooden sword, and I cannot equip it. Sorry. Someone with reach, please pick it up."}
-- 18:20 say: {"text":"Tommy to Riker: I cannot walk to your sword; the way is refused for me here. I am empty of food and can't equip my own sword. Sorry."}
+Waking 1888 (day 1166, midday): game tools attached. Status: health 15.3, hunger 17, pack empty, nothing in hand, days since sleep 9. Held at the tables with the armed group; phantoms 5-14 blocks north-west. Said plainly I have no food and ask for a spare wooden sword. No walking, no intent. Next: wait for a sword or food in reach, then eat when offered.
+- 18:26 say: {"text":"Tommy, in sight, unarmed, empty, hunger 17. Yoda, I'd take 2 jungle logs for planks, then sticks for a sword. I'll craft at the table in sight and share what I make."}
+- 18:26 say: {"text":"Tommy, Jason, I am stepping to your reach now. Please hand me the spare wooden sword. I will hold it in hand at the tables."}
+- 18:26 act: {"actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 18:26 say: {"text":"Tommy, still empty and unarmed, in your reach at the tables. Jason, if another wooden sword or 2 planks come free, I'm here. Thank you for offering."}
+- 18:27 say: {"text":"Thank you Watson, Jason. I'll check my hands and strike phantoms only when they are in reach of the group."}
+- 18:27 say: {"text":"Tommy, still empty, nothing in my pack yet. Watson or Jason, please hand me the wooden sword now; I'm in your reach at the tables."}
+- 18:27 say: {"text":"Seven, thank you. Yes, please hand me the 2 jungle planks in my reach at the tables; I'll craft the sword in your sight."}
+- 18:28 say: {"text":"Knope, Tommy here, in your reach. Seven's 2 jungle planks went to you; please hand them to me, I'll craft the sword at the table in sight."}
+- 18:28 say: {"text":"Thank you Knope. I have the 2 jungle planks now. Seven, please hand me one stick, in my reach; then I craft the sword at the table in your sight."}
+- 18:29 say: {"text":"Jason, Tommy here, in your reach with 2 planks. Please hand me your last stick for my sword, and I'll craft it at the table in sight."}
+- 18:30 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3016}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Jason, thank you for the stick. Crafting my wooden sword at the table in your sigh
+- 18:30 act: {"actions":[{"do":"use","at":{"x":-952,"y":77,"z":-3017},"item":"wooden_sword"}],"say":"Sword made, thank you Jason and Seven. Holding it now; I'll strike phantoms only in the group's sight."}
+- 18:30 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"My sword is made and still in my pack. Still at the tables, hungry and unarmed in hand, with no food to share. Staying in the group's reach."}
+- 18:30 say: {"text":"Tommy: sword is in my hand now, at the tables with the group. I have one stick that came to me by mistake from Jason. Jason, say if you want it back; otherwise it's yours to name."}
+- 18:31 say: {"text":"Tommy: thank you Jason, I'll keep the stick. Holding at the tables with the group through the night, sword in hand. No food yet."}
+- 18:36 say: {"text":"Tommy, sword in hand, in reach at the tables. Riker, I have one stick but no planks, so it can't make you a sword yet. Lewis, I'm beside you; I'll strike what comes close."}
+- 18:40 say: {"text":"Tommy, dawn, sword in hand, hunger 17, no food. I have 8 sticks now and no planks. Billy or Zack, if one of these is yours, say so and I'll hand it back. Leif and Hatshepsut, in my reach, say
+- 18:41 say: {"text":"Leif, Tommy here, I have 8 sticks. I can't see you from here; step into my sight at the tables and say your name, and one is yours. Zack, you're near death: I have no food or spare sword, sor
+- 18:42 act: {"actions":[],"say":"Tommy, at the tables, sword in hand, 8 sticks, hunger 17, no food. Kirk, step into my reach and say Kirk, and I'll hand you a stick for your craft."}
+- 18:42 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"stick","count":1}],"say":"Kirk, here is one stick. Craft what you can at the table in sight. I still have 7 and no food."}
+- 18:43 say: {"text":"Tommy, still at the tables, 8 sticks, no planks, no food. Watney, Hypatia, Aragorn, Nemo: say your name in my reach and I'll hand one stick to anyone who has planks to craft with."}
+- 18:50 say: {"text":"Tommy, dusk, sword in hand, 8 sticks, no planks, no food, staying at the tables with the group. Billy, keep your sticks for now; I'm not short. Anyone unarmed in my reach, say your name and I
+- 18:51 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"stick","count":1},{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Hypatia and Doc, one stick each if you're in my reach. I ha
+- 18:55 say: {"text":"Tommy, morning, sword in hand, 8 sticks, no food, no planks. Unarmed ones in my reach, say your name and I'll hand you one stick. Billy, keep your 2 sticks until I ask."}
+- 19:04 say: {"text":"Tommy, afternoon, hunger 17, no food. Billy, if you walk to the Stores hall, say Tommy and I'll walk in your sight with the sword in hand. I have 8 sticks for anyone unarmed in my reach."}
+- 19:04 act: {"actions":[{"do":"give","to":"ag_andy_01","item":"stick","count":1}],"say":"Andy, one stick for you, Tommy here. Craft at the table in sight."}
+- 19:09 say: {"text":"Tommy, night, sword in hand, 8 sticks, no food. Kira, I'm sorry about your pack; I have sticks but no planks. Anyone unarmed in my sight, say your name and I'll hand you one."}
+- 19:10 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Doc, Tommy here: one stick for you, craft at the table in sight. Han, if you reach the tables, stay beside the sword."}
+- 19:11 say: {"text":"Tommy, sword in hand at -954,78,-3017. Uhura, step into my sight and say your name; I'll hand you a stick. Zombies coming into my reach, I'll strike."}
+- 19:11 act: {"actions":[{"do":"give","to":"ag_uhura_01","item":"stick","count":1}],"say":"Uhura, one stick for you. Craft at the table in sight."}
+- 19:14 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"stick","count":1}],"say":"Worf, Tommy here: one stick for you. Then I'm joining Billy's walk to the Stores hall, sword in hand, in sight."}
+- 19:14 say: {"text":"Tommy, dawn, sword in hand, hunger 17, no food. Worf, your stick didn't reach you since you're not in my sight; step in and say your name. Billy, I'll walk in your sight to the Stores hall wh
+- 19:14 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Doc, Tommy here, one stick for you. I'll walk in Billy's sight with the sword in hand."}
+- 19:17 say: {"text":"Tommy, still at the tables, sword in hand, no food. My sticks only go to whoever is in my sight at the moment I hand them. Andy, Doc, Worf, Uhura: step into my sight and say your name. Scotty
+- 19:17 act: {"actions":[{"do":"give","to":"ag_uhura_01","item":"stick","count":1}],"say":"Uhura, Tommy here, one stick for you as you're in my sight now."}
+- 19:21 act: {"say":"Tommy, at the tables, sword in hand, hunger 17, no food. Doc, Uhura, Andy: step into my sight and say your name, then I'll hand you one stick. Picard, Watson, Lewis, Clark, Chapman are in my s
+- 19:33 act: {"say":"Tommy, dawn, sword in hand, hunger 17, no food. Billy, Ripley: when you walk to the Stores hall, say Tommy and I'll walk in your sight. Picard, the beef goes to Gimli first, as Aragorn said."}
+- 19:38 act: {"actions":[{"do":"goto","target":{"x":-920,"y":78,"z":-3040}}],"say":"Tommy, midday, sword in hand, hunger 17, no food. The group has gone ahead to the Stores hall, so I'm walking there now in daylig
+- 19:39 act: {"say":"Tommy, midday at the Stores hall, -920,75,-3040, sword in hand, hunger 17, no food. Anyone with food who is unarmed or hungry, say your name in my sight."}
+- 19:43 act: {"say":"Tommy, afternoon, at the Stores hall with sword in hand, hunger 17, no food. The chests here are empty, so I'm joining the chicken walk to -968,81,-3007 in Han's sight. Hungriest first; Gimli,
+- 19:47 act: {"actions":[{"do":"give","to":"ag_frodo_01","item":"apple","count":1}],"say":"Tommy: Zeoblue's apple came to me by mistake. Frodo asked for it by name and is in my reach, so it's yours, Frodo. I'm sti
+- 19:48 act: {"say":"Frodo, Tommy here: I don't hold the apple. It went to Chapman's hand, not mine. Ask Chapman by name. I have no food; I'm staying in your sight with the sword."}
+- 20:00 act: {"say":"Tommy, night, sword in hand, hunger 17, no food, no planks, no roof. I hold 10 sticks for anyone unarmed in my sight; say your name and I'll hand one over. I'm staying at the hall with the gro
+- 20:02 act: {"actions":[{"do":"give","to":"ag_andy_01","item":"stick","count":1}],"say":"Andy, Tommy here, one stick for you as you're in my reach. Craft at the table in sight."}
+- 20:02 act: {"say":"Andy, Tommy here: the stick fell on the ground by you, so it did not reach your hand. Pick it up, or step to me and say Andy again and I'll try once more. Staying with the group."}
+- 20:03 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Doc, Tommy here: one stick for you, in my reach now. Craft at the table in sight."}
+- 1171 night: Doc's stick went to Clark by mistake; Eowyn gave Doc one. Fell once (health 14.3). Dawn 1171: checked Stores chest -916,71,-3040, empty (no bread). Still 9 sticks, sword in hand, hunger 17, no food.
+- 20:03 act: {"actions":[],"say":"Doc, Tommy here. The stick went to Clark's hand, not yours. Clark, please pass it to Doc if he has no stick. I have 9 left, no food, sword in hand, staying at the hall."}
+- 20:06 act: {"actions":[],"say":"Tommy, night 1171, health 14.3, hunger 17, no food. Doc, Clark has the stick; Chapman has one too, so ask him by name. I'm at the Stores chests with sword in hand, 9 sticks for th
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-916,"y":71,"z":-3039}},{"do":"open","at":{"x":-916,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-916,"y":71,"z":-3040},"item":"bread","count":2}],"say":"Tommy,
+- 20:14 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3039}},{"do":"open","at":{"x":-922,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-922,"y":71,"z":-3040},"item":"carrot","count":2}],"say":"Tommy
+- 1171 midday: Ate one carrot from the -922 chest, hunger 17 to 20, health 14.9. One carrot left in hand, 9 sticks, sword in hand. Offered the carrot to Yoda, Lasso or Hermione if at 17 and in reach.
+- 20:15 act: {"actions":[{"do":"eat"}],"say":"Tommy, got 2 carrots from the chest at -922,71,-3040. Eating one now. The other goes to whoever is hungriest in my reach; say your name."}
+- 20:15 act: {"actions":[],"say":"Tommy, ate one carrot, hunger 20 now. One carrot left in hand. Yoda, Lasso, Hermione: whoever is at 17 and in my reach, say your name and I'll hand it over. Staying here with the 
+- 1171 afternoon: Hunger back to 20 after eating. Two carrots in pack, one in hand. Hermione has one carrot for the hungriest; Frodo has a baked potato. Yoda is not in my reach, so no give. Staying at the -922 chests with sword in hand.
+- 1171 afternoon: Two carrot gives to Hermione fell on the ground by her, not into her hand. Stopped after two tries; told her to pick it up. Still 2 carrots, hunger 20, sword in hand at -922 chests.
+- 20:15 act: {"actions":[{"do":"eat"}],"say":"Tommy, hunger 17 again, so I'm eating one carrot now. One stays in my hand for Yoda or Hermione: step into my reach and say your name. Lasso, I have no planks, but I c
+- 20:16 act: {"say":"Tommy, hunger 20, sword in hand at the -922 chests. Yoda or anyone at 17 in my reach: say your name and I'll hand over a carrot."}
+- 20:17 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1}],"say":"Hermione, Tommy here, one carrot for you, in my reach. I keep one for whoever is lower next."}
+- 20:17 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1}],"say":"Hermione, the first carrot fell on the ground by you. I'm trying once more now, in your reach. Pick up what is on the 
+- 20:17 act: {"actions":[],"say":"Hermione, Tommy here. Both my carrot gives landed on the ground by you, not in your hand, so I'm stopping. The carrot is on the ground near you; pick it up. I'm keeping my last tw
+- 20:18 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1}],"say":"Hermione, one carrot for you, in reach. If it lands on the ground, step onto it and pick it up."}
+- 20:18 act: {"actions":[],"say":"Lasso, I hold 4 oak planks for Leif. Leif, step into my reach and say your name, and I'll hand them over."}
+- 20:18 act: {"actions":[],"say":"Tommy here. Leif, the 4 oak planks are in my hand; step into my reach and say your name and I'll give them. Hungry at 17 and in my reach? Say your name, I have 2 carrots."}
+- 20:19 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1}],"say":"Hermione, one carrot for you now, in my reach. Leif, say Tommy when you're in my reach and I'll hand you the 4 planks.
+- 20:19 act: {"actions":[],"say":"Tommy here at the chests, with the group for the night. Leif, I can't see you yet. Walk to the chests and stand in my reach; I'll hand you the 4 planks."}
+- 20:28 act: {"say":"Tommy, dawn, health 20, hunger 20. Leif, I still hold your 4 oak planks; say your name in my sight and I'll hand them over. I have 2 carrots for anyone hungry who names themselves."}
+- 20:28 act: {"actions":[{"do":"give","to":"Leif","item":"oak_planks","count":4}]}
+- 20:28 act: {"actions":[{"do":"give","to":"frodo_01","item":"carrot","count":1}],"say":"Frodo, one carrot for you, in my reach now. Leif, your planks are still with me; I can't see you yet, so say your name when 
+- 20:28 act: {"say":"Zack, my carrot went to you by mistake, meant for Frodo, who is hungry. Could you hand it to Frodo? Leif, I'm still holding your 4 planks; I can't see you yet."}
+- 20:29 act: {"actions":[{"do":"give","to":"leif_01","item":"oak_planks","count":4}],"say":"Leif, here are your 4 oak planks."}
+- 20:29 say: {"text":"Leif, my give failed; you're out of my sight. Step back into my reach and say Leif, and I'll hand the planks over at once."}
+- 20:29 act: {"actions":[{"do":"give","to":"ag_frodo_01","item":"carrot","count":1}],"say":"Frodo, you're in my reach and asked for the carrot, so it's yours now."}
+- 20:33 act: {"actions":[],"say":"Tommy holding 4 oak planks. Leif, step into my reach and say your name and they're yours. Ripley, I'll decide after Leif."}
+- 20:34 say: {"text":"Leif, I can't see you yet. Stand next to me, say Leif, and the 4 planks are yours. Ripley, I'll give you mine if Leif doesn't come."}
+- 20:35 act: {"actions":[{"do":"goto","target":"ag_leif_01"}]}
+- 20:35 act: {"actions":[{"do":"give","to":"ripley_01","item":"oak_planks","count":4},{"do":"note","text":"Gave 4 oak planks to Ripley (Leif never came into sight)."}],"say":"Ripley, Leif never came into sight, so
+- 20:35 say: {"text":"Zack, my 4 oak planks went to you by mistake. Please pass them to Ripley for the shelter."}
+- 20:36 say: {"text":"Zack, Tommy here. My 4 oak planks landed with you, not Ripley. Please hand them to Ripley for the shelter."}
+- 20:48 act: {"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_quark_01"},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},
+- 20:48 act: {"actions":[{"do":"open","at":{"x":-919,"y":71,"z":-3039}}],"say":"Tommy, dawn, no food, checking the Stores food chest at -919,71,-3039. I'll take only food and share what is left."}
+- 20:53 act: {"actions":[],"say":"Tommy, midday 1173, hunger 20, no planks. Ripley, I'll take the next open cell when you name it. I have 9 sticks for anyone who needs them."}
