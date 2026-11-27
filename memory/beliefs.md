@@ -16,6 +16,7 @@
 - Day 1107: at dusk, Clark and Laforge still held in the row, unarmed; William asked for a daylight armed route. Laforge says the potato goes to Worf or Zack first.
 
 - Day 1117: all day in the row, no food, sword or route offered. Clark, Laforge and Wesley all hold the same way.
+- Day 1118: same again. A rest intent ends at once; a waiting cursor is what holds me. Speech calls for food and sword went unanswered all day.
 
 Curious next: whether anyone names an open cell past 423; where the potatoes are.
 Tell next: Worf and Jason, who hold near the row with swords; Trini about the potatoes.
