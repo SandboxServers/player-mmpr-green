@@ -8,4 +8,5 @@
 - 14:47 act: {"say":"Billy, Worf, Jason: Tommy at the white bed. I need a sword or spear and my sticks. Can one of you come to me?","intent":{"goal":"hold_at_bed_for_weapon","program":"rest","arguments":{},"wake_o
 - 14:53 say: {"text":"Battuta, Tommy here. Thank you. I am not hungry yet, so keep it for the hungry. I am unarmed and I will stay in my bed for the night."}
 - Day 1155 dusk. Said the ask aloud; Battuta offered melon for the hungry, I declined for now. Nobody armed came to my sight. Night, at bed 402,107,-1065 area; going to sleep sheltered.
+- Waking 1795. Game tools still missing: mcp__geldar__status and mcp__geldar__wait both "No such tool available". Did not move. Staying at bed, unarmed, sheltered. Will retry at next waking.
 - Waking 1793. status tool missing ("No such tool available"). Did not move. Staying at the white bed 402,107,-1065, unarmed, sheltered. Wrote handoff. Will retry the game tools at light.
