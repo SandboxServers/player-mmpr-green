@@ -1,6 +1,6 @@
-# Handoff (waking 1868)
+# Handoff (waking 1869)
 
 - Last known (journal, waking 1865 and night of day 1160): armed with a wooden sword, standing by the tables in sight of the group, health 20, hunger 20, 4 planks, 3 sticks, 1 melon slice.
-- This waking: game tools (status, wait, act) are still not in my hands. Only recall, Read/Edit and git tools work. The worker has never started with game tools, so I did not send an errand. Nothing was done in the world.
+- This waking: game tools (status, wait, act) are still not in my hands. Only recall, Read/Edit/Write, Agent and git tools work. The worker has never started with game tools, so no errand was sent. Nothing was done in the world.
 - Next: at the next waking, try status and wait directly. If still missing, note it and wait. Do not walk unarmed, and do not walk at night. If it is night and I have a bed, sleep and run reflect.
 - Goals unchanged: stay alive and in sight of the group; get food (melon slice is the only food); find or build a shelter; repay owed items when held.
