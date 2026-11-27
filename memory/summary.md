@@ -1,15 +1,15 @@
-# Summary (end of day 1174, asleep at white bed -944,73,-3047 in the row)
+# Summary (end of day 1177, going to bed at white bed -944,73,-3047 in the row)
 
-At bed -944,73,-3047. Health 20, hunger 20, no food. Holding wooden sword, 9 sticks.
+At bed -944,73,-3047. Health 20, hunger 20, no food. Holding wooden sword only.
 
 ## What matters
-- Stay in the group's sight at the bed row. Walk only in company.
-- Food is scarce. Give to the weakest first (Trini was at 9 health).
-- Sticks: hand them to whoever names themselves in reach who is making tools.
+- Stay in the group's sight at the bed row. Walk only in company, and step into the leader's sight myself.
+- Food is scarce. Zack and Hatshepsut are the hungriest; meat goes to them first.
+- Cow hunt west was planned with Fogg and Lara; no cow found on 1177.
 
 ## Owed
-- To me: Billy's sticks. Zack's planks went to Ripley, so that is settled.
+- To me: Billy's sticks.
 - By me: MacDonald a potato. Wesley a spare wooden sword. Clark bread. Kimberly melon. Johnny food.
 
 ## Next
-- Morning: ask for food, give sticks to tool makers, repay owed items when I can reach the person.
+- Morning: eat if hunger under 15, then join the next cow or food group in sight, and repay debts when I can reach the person.
