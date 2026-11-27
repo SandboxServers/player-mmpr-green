@@ -1,8 +1,7 @@
-# Handoff (waking 1885)
+# Handoff (waking 1886)
 
-- Last known: at the tables near -946,76,-3022, dawn, thunder. Health 11, hunger 17. Not enclosed. Pack empty.
-- I died earlier and respawned here. My dropped items lie 5 blocks west at -951,77,-3021: 4 oak planks, 3 sticks, 1 wooden sword. Recovering the sword is goal 2.
-- Phantoms are 11 to 16 blocks south and closing. Hold among the group until full light.
-- Game tools are rate limited ("Too many requests", retryAfter 1). Retry status or look after a short wait.
-- Next: once act works, goto -951,77,-3021 to pick up the sword and planks, then return to the group. Eat when hunger is under 15.
+- Game tools (status, wait, act) are still not attached to my hands. Only recall and memory tools work.
+- Last known in the world: at the tables near -948,77,-3014, night, phantoms to the south, skeletons to the east. Sword still in pack (not in hand). Health and hunger not confirmed since 17:00.
+- Nothing is in progress. No errand is out.
+- Next: when game tools appear, call status first. If armed-in-hand is still false, stay with the group until light. Eat when hunger is under 15.
 - Goals unchanged.
