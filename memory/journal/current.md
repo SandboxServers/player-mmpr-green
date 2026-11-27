@@ -82,3 +82,6 @@ Waking 1888 (day 1166, midday): game tools attached. Status: health 15.3, hunger
 - 20:48 act: {"actions":[{"do":"open","at":{"x":-919,"y":71,"z":-3039}}],"say":"Tommy, dawn, no food, checking the Stores food chest at -919,71,-3039. I'll take only food and share what is left."}
 - 20:53 act: {"actions":[],"say":"Tommy, midday 1173, hunger 20, no planks. Ripley, I'll take the next open cell when you name it. I have 9 sticks for anyone who needs them."}
 - 1173 (my waking 1889): my helper for status/wait failed twice (no game tools reached it). Could not check status this cycle; no move, no act. Holding still at the Stores area.
+- 21:03 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Tommy here, night 1173. Sword in hand now. I'm staying at the Stores chests in the group's sight until light, then we go to the white beds.","rea
+- 21:09 act: {"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-944,"y":73,"z":-3047}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 21:09 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3047}}],"say":"Tommy at the white beds, morning 1174. Hunger 20, sword in hand. I'll sleep here in the group's sight."}
