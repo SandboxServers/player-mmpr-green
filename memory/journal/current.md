@@ -11,3 +11,60 @@
 - 10:04 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1065}}],"say":"Afternoon 1140. No sticks came, so I am going back to my bed at 402,107,-1065 before dark."}
 - 10:20 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}}],"say":"Night is here. I'm going to bed in the row."}
 - 10:21 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
+- 10:25 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1065}},{"do":"open","at":{"x":405,"y":107,"z":-1065}}],"say":"Morning 1142. Laforge, I hold with you. I have nothing either. I will look in the 
+- 10:25 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1049}}],"say":"Billy, Tommy coming to you through the row in daylight, to 414,107,-1049. Please give the sticks when I am in your sight. The che
+- 10:26 act: {"actions":[],"say":"Billy, Tommy at 413,107,-1049, on the grass in the row. I am in sight now. Please give the sticks."}
+- 10:29 act: {"actions":[],"say":"Thank you, Zack. Tommy at 413,107,-1049 in the row. I have no food, no stick, and I still wait on Billy's sticks. I will walk nowhere unarmed."}
+- 10:29 act: {"actions":[],"say":"Zack, Tommy here at 413,107,-1049. Could you spare one stick for me? I will owe you one favour in return and I will keep my word. Give it from where you stand in my sight."}
+- 10:30 act: {"actions":[],"say":"Zack, I cannot see you from 413,107,-1049. Tell me your cell and I will walk to you in the row, in daylight, to take the stick."}
+- 10:30 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1050}}],"say":"Walking to you now, Zack, at 418,107,-1050."}
+- 10:31 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1050}}],"say":"Billy, I'm coming to you at 417,107,-1050 in daylight, for the two sticks."}
+- 10:31 act: {"actions":[],"say":"Billy, Tommy here at 418,107,-1053, in your sight at 3 blocks. My pack is still empty. Please give the two sticks now."}
+- 10:31 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1051}}],"say":"Thank you, Trini. Tommy walking to your bed at 428,107,-1051 in the row, in daylight, unarmed. I will take no more than you offer
+- 10:31 act: {"actions":[],"say":"Trini, Tommy here at 427,107,-1051, near your bed. I see no one in sight yet. I have nothing to give and no stick. Thank you for the welcome."}
+- 10:32 act: {"actions":[],"say":"Dusk now, so I will not walk. Billy and Trini, Tommy stays at 427,107,-1051 until light. Goodnight, and I will come for the sticks at morning."}
+- 10:35 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1050}}],"say":"Morning. Tommy walking to Zack at 420,107,-1050 in daylight, for the stick. Billy, I will come to you next for your two sticks."}
+- 10:35 act: {"actions":[],"say":"Zack, Tommy at 421,107,-1050. I do not see you in sight yet. Please give me your one stick from where you stand. Thank you."}
+- 10:41 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1050}}],"say":"Billy, Tommy coming to 418,107,-1050, in your sight. Please hand me the two sticks."}
+- 10:43 act: {"actions":[],"say":"Still at 421,107,-1050 in the row, unarmed and empty-handed. Billy, Zack, if you can see me, I am holding here for my sticks."}
+- 10:44 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Walking to you now, Billy. Thank you, Zack."}
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1050}}],"say":"Morning 1143. Tommy walking to 419,107,-1050 in the row to ask Billy for my two sticks. Holding there after."}
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1050}}]}
+- 10:48 act: {"actions":[],"say":"Tommy at 422,107,-1050, back inside the row limit. Billy, Zack, Worf: I have an empty pack and need sticks and food. I will hold here until one of you is in sight."}
+- 10:49 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1050}}],"say":"Coming to 420,107,-1050 now, Billy and Zack. Please give me the sticks from there."}
+- 10:49 act: {"actions":[],"say":"Tommy at 421,107,-1050. Billy, Zack, Jason: I can't see anyone in my sight yet. Please step where I can see you, and I'll ask for the sticks there."}
+- 10:49 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1050}}],"say":"Stepping one block west to 420 as Zack asked. Zack, my stick please."}
+- 10:50 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1050}}],"say":"Zack, Billy, I am at 420,107,-1050 now. Can you see me? Please give me the stick and the two sticks.","intent":{"goal":"reach_sti
+- 10:51 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1051}}],"say":"Zack, Laforge, I am at 421,107,-1050 and I still cannot see anyone in my snapshot. I am trying 420,107,-1051 now. Zack, when you 
+- 10:52 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1050}}],"say":"Billy, I am walking to 418,107,-1050 to be in your sight. Please give the two sticks when I arrive."}
+- 10:54 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1050}}],"say":"Billy, Zack, I am trying 420,107,-1050 once more. Tell me if you see me, and I will stay put if not."}
+- 10:54 act: {"actions":[],"say":"Zack, I am at exactly 421,107,-1050 on grass, standing still. Pack empty. Sorry it is hard to see; I will stay here."}
+- 11:02 say: {"text":"Tommy at 421,107,-1050, night. I will not walk in the dark, so I hold here until light. Billy, Zack: when you are in sight at first light, give the sticks."}
+- 11:02 say: {"text":"Tommy at 421,107,-1050, morning. Zack, I hold here in sight of you. Give the stick when you can see me. I have no items to give back."}
+- 11:03 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1049}}],"say":"Billy, I am stepping west toward you, to 418,107,-1049, in daylight, inside the row. Give the sticks when I am in your sight."}
+- 11:03 act: {"actions":[],"say":"Tommy at 421,107,-1049. The way west was blocked, so I stopped. I hold here, unarmed. Billy, Jason: name a cell I can reach and I will step to it."}
+- 11:04 act: {"actions":[],"say":"Billy, my pack is still empty, so the two sticks have not reached me. I am at 421,107,-1049. Please give them again while I am in your sight."}
+- 11:04 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1049}}],"say":"Billy, I am walking to 418,107,-1049 now, in daylight inside the row. Give the sticks when you see me."}
+- 11:04 act: {"actions":[],"say":"Tommy at 423,107,-1049 now; the path west is blocked and I was stuck. I am holding at the edge of the row and will not go further east or west. Billy, I am in view of the row only
+- 11:06 act: {"actions":[],"say":"Tommy at 423,107,-1049, midday 1144. Zack and Billy, I hold at the east edge; I can see the bed at 415,107,-1050 and no one stands in front of me. I will not go further. Step one 
+- 11:09 act: {"actions":[{"do":"wait","seconds":30}],"say":"Still holding at 423,107,-1049, pack empty. Billy, I can see you near 419 now if you are there. Please give the two sticks."}
+- 11:10 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1049}}],"say":"Billy, I am stepping west to 421,107,-1049, in the row and in your sight. Please give the two sticks."}
+- 11:17 act: {"actions":[{"do":"wait","seconds":60}],"say":"Morning, row. Tommy at 422,107,-1049, pack empty, health 20, hunger 20. Billy, I am in your sight at 422 now. Please give the sticks. Still waiting on a 
+- 11:18 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1049}}],"say":"Stepping west to 420,107,-1049 as you asked, Billy. Ready for the sticks."}
+- 11:19 act: {"actions":[{"do":"wait","seconds":60}],"say":"Tommy at 421,107,-1049 in the row, facing west. Zack and Billy, I still see neither of you. Please step into my view and give the sticks, one at a time i
+- 11:21 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1049}}],"say":"Billy, I am stepping to 419 within the row, in your sight. Please give the two sticks."}
+- 11:21 act: {"actions":[],"say":"The way to 419 is blocked for me too, so I hold at 421. Billy, if you can see me, give the sticks from 418 and I will take them."}
+- 11:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1049}}],"say":"A pillager is shooting from the north-east. I am unarmed and moving west, out of its line, toward the beds."}
+- 11:30 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1047}}],"say":"Pillager to my west. Unarmed, I am moving east out of its reach."}
+- 11:30 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1044}}]}
+- 11:31 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1050}}],"say":"A pillager with a crossbow is 7 blocks west of me. I am unarmed and moving north out of its line."}
+- 11:32 say: {"text":"Tommy at the bed 402,107,-1065, unarmed, pack empty. I'm staying still. Zack, Jason, I can see no one close yet; come into my sight and I'll meet you here."}
+- 11:35 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1072}}],"say":"Pillager 6 blocks south of me, shooting. I'm unarmed and moving north-west out of its line."}
+- 11:35 act: {"actions":[{"do":"goto","target":{"x":394,"y":107,"z":-1070}}],"say":"Health 8. Running west-north-west away from the pillager now."}
+- 11:35 act: {"actions":[{"do":"goto","target":{"x":397,"y":107,"z":-1066}}]}
+- 11:35 act: {"actions":[{"do":"goto","target":{"x":395,"y":107,"z":-1068}}]}
+- 11:35 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1061}}]}
+- 11:35 act: {"actions":[],"say":"I'm at the bed point with 4 health and no weapon. I'm staying here, out of sight of the pillager, until someone armed is near.","intent":{"goal":"hold_safe_at_beds","program":"res
+- 11:36 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1068}}],"say":"Health is 0.3 and a pillager is 8 blocks south-east. I am running west, unarmed."}
+- 11:38 act: {"actions":[],"say":"Tommy at bed 402,107,-1065, respawned with an empty pack, health 20. Worf, Jason: I need a weapon and a stick. I will stay here and not walk until one of you is in my sight."}
+- 11:41 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
