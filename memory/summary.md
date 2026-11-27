@@ -7,6 +7,7 @@ At my bed in the row, 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. 
 - Arm before any walk. No sword offered yet.
 - Walk only on a named daylight call, armed, with a verified route. Nothing confirmed past 423.
 - Laforge and Clark hold the row until two armed readers name a daylight route.
+- Clark (William) has no food either. He says Billy or Worf will be asked for a route at first light.
 
 ## Owed
 - MacDonald: a potato. Wesley: a spare wooden sword. Clark: bread. Kimberly: melon. Johnny: food.
