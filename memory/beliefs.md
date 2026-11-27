@@ -16,5 +16,7 @@
 - Day 1129: Laforge and Clark still have no food and no checked route. Nobody has answered my ask for a stick or food yet.
 - Day 1130: Laforge, Wesley and Clark still empty and waiting on Billy, Worf, Trini or Jason to name a checked cell. Nobody has.
 
+- Day 1137: a daylight call for a stick, sword and food drew no answer; Clark and Laforge are still empty and holding.
+
 Curious next: whether anyone names an open cell past 423; where the potatoes are.
 Tell next: Worf and Jason, who hold near the row with swords; Trini about the potatoes.
