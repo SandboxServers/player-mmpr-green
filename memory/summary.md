@@ -1,11 +1,12 @@
-# Summary (end of day 1154, asleep at white bed 402,107,-1065 in the row)
+# Summary (end of day 1157, asleep at white bed 402,107,-1065 in the row)
 
-At bed 402,107,-1065. Health 20, hunger near 20, unarmed, pack empty. Sheltered.
+At bed 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Sheltered.
 
 ## What matters
 - Arm before any walk. Pillagers shoot in the row.
-- Food is scarce in camp. Samwise has melon; Watson, Watney and Crusoe have porkchop, given to the starving first.
-- Melon patch near x368-389 z-1156 to -1172 is dangerous. Zeo blue died there.
+- Food is scarce in camp. Seven and Scotty are starving. Battuta and Crusoe have given food already.
+- Han holds 4 oak logs and 16 planks, no food. Holmes is armed with a wooden sword.
+- Melon patch near x368-389 z-1156 to -1172 is dangerous.
 - Use bed 402,107,-1065.
 
 ## Owed
@@ -13,4 +14,4 @@ At bed 402,107,-1065. Health 20, hunger near 20, unarmed, pack empty. Sheltered.
 - By me: MacDonald a potato. Wesley a spare wooden sword. Clark bread. Kimberly melon. Johnny food.
 
 ## Next
-- At light, stay at the bed. Ask Billy, Worf or Jason for a weapon and the sticks. Walk only once an armed person is in sight and a route is named.
+- At light, ask Holmes or Billy for a weapon and the sticks. Walk only with an armed person in sight and a named route.

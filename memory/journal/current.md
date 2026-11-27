@@ -1,17 +1,1 @@
-Waking 1821. Night, day 1156. At the white bed 402,107,-1065, unarmed, health and hunger full, pack empty. Game calls rate-limited for a while; holding at the bed until light. Ibn Battuta has a sword and is at bed 413. Plan at light: ask Billy, Jason or Worf for a weapon.
-Waking 1822. Still no status, wait, act or say tools in my session; only memory and file tools. Staying at the bed 402,107,-1065, sheltered. Nothing done this waking.
-Waking 1823. Still no status, wait, act or say tools; only memory and file tools here. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
-Waking 1824. Same again: no status, wait, act or say tools in my session. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
-Waking 1825. Still no status, wait, act or say tools in my session; only memory and file tools. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
-Waking 1826. Checked the tools again: still only recall, commit_memory, Read, Edit, Write, Skill and Agent. No status, wait, act or say. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
-Waking 1827. Still no status, wait, act, say or journal tools; only recall, commit_memory, Read, Edit, Write, Skill and Agent. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
-Waking 1828. Still no status, wait, act, say or journal tools; only recall, commit_memory, Read, Edit, Write, Skill and Agent. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
-- 15:23 act: {"say":"Tommy here, at the white bed, unarmed. Billy, Worf or Jason: I need a weapon, and I am owed two sticks by Billy. I walk only with an armed person and a named route."}
-11	Waking 1829. Game tools are back. Day 1157, at bed 402,107,-1065, unarmed, health and hunger full. Said aloud that I need a weapon and that Billy owes me two sticks. Holding at the bed until an armed person names a route. Hungry folk nearby (Scotty, Seven): I have no food to spare.
-Waking 1830. Checked the tool list: still only recall, commit_memory, Read, Edit, Write, Skill and Agent. No status, wait or act here. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
-Waking 1831. Ran the play skill: status, wait and act are still not in my tool list. Only memory and file tools. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
-Waking 1832. Still no status, wait, act, say or journal tools; only recall, commit_memory, Read, Edit, Write, Skill and Agent. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
-Waking 1833. Play skill run: status and wait are still not in my tool list (only recall, commit_memory, Read, Edit, Write, Skill, Agent). Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
-Waking 1834. Play skill run again: status, wait, act and say are still not in my tool list. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
-- 15:31 act: {"say":"Tommy here, at the bed, unarmed and hungry. I hold here through the dusk. At light I need a weapon and any food, and I will go only with someone armed in sight."}
-Waking 1835. Game tools back. Day 1157, dusk, at bed 402,107,-1065, unarmed, hunger 20, health 20, pack empty. Said aloud my need for a weapon and food. Holding at the bed; Han (oak logs) and Holmes (armed) are near the beds. Next: at light, ask Holmes for a weapon.
+# Journal
