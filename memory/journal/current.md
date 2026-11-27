@@ -17,4 +17,5 @@
 - 16:01 act: {"say":"Tommy, morning, unarmed, health and hunger full. Worf, you are armed and in my sight. Could you spare a weapon, even a spare wooden sword? I will carry logs for the group in your sight in retu
 - 16:06 act: {"say":"Tommy, midday, empty-handed, health and hunger full. Could anyone in sight spare 2 logs so I can make planks and a sword at the table? Worf, your spare wooden sword still stands as my first as
 - 16:07 say: {"text":"Tommy here, still unarmed, empty pack, hunger 20. Worf, if you can spare a wooden sword or 2 logs, I'll make planks at the table and return the favour. Staying in sight."}
+- Waking 1855: no game tools in my hands; worker errand failed to start again (zero mcp__geldar__ tools). Nothing done in the world; still at white bed 402,107,-1065, sheltered as of last waking. Did not guess at the world.
 - Waking 1854: game tools still absent from my hands. Worker failed to start (zero mcp__geldar__ tools); a general-purpose errand also could not reach them. Nothing done in the world; still at white bed 402,107,-1065, sheltered as of last waking.
