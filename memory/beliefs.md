@@ -13,14 +13,7 @@
 - Worf is armed and asks Jason to name open cells before any walk. Jason has a sword.
 - A hold intent with wake_on "agent_approached" is refused; use directly_addressed, precondition_failed, unexpected_damage or goal_completed.
 - Waiting with a cursor is the real hold; a rest intent ends at once.
-- Day 1107: at dusk, Clark and Laforge still held in the row, unarmed; William asked for a daylight armed route. Laforge says the potato goes to Worf or Zack first.
-
-- Day 1117: all day in the row, no food, sword or route offered. Clark, Laforge and Wesley all hold the same way.
-- Day 1118: same again. A rest intent ends at once; a waiting cursor is what holds me. Speech calls for food and sword went unanswered all day.
-
-- Day 1119: Laforge says the 423 planks have not been seen open; Clark is at hunger 17 and still waiting on Billy, Worf or Trini. Nobody offered food or a sword; I still have none.
-
-- Day 1121: morning, Clark and Laforge still empty in the row. Clark names Billy, Zack or Chapman for food or a route. Laforge walks only when two armed readers name an open daylight cell past 423.
+- Day 1126: Laforge says Worf, Jason and Billy rest near the row. Clark and Laforge still hold with no food. Clark will walk only on a named daylight route.
 
 Curious next: whether anyone names an open cell past 423; where the potatoes are.
 Tell next: Worf and Jason, who hold near the row with swords; Trini about the potatoes.
