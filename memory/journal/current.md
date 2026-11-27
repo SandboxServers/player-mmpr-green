@@ -14,3 +14,7 @@
 - 21:30 act: {"actions":[{"do":"goto","target":"ag_indy_01"}],"say":"Indy, Tommy here, 9 sticks for you. I'm coming to your reach now. Stay where you are."}
 - 21:30 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"stick","count":9}],"say":"Indy, giving you the 9 sticks now."}
 - 21:33 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}],"say":"Tommy, night 1175, hunger 20, going to the bed row in the group's sight. Good night."}
+- 21:34 act: {"say":"Tommy here, health 20, hunger 20, no food on me. I owe food to Clark, MacDonald, Johnny, Kimberly. I will hunt for a cow or pig nearby and share what I find.","intent":{"goal":"explore_for_foo
+- 21:35 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}],"say":"Tommy, morning 1175. My scouting found only trees north of the row, no food. Zack, Trini are hungry; I hold nothing to share, so (scouted north to -942,-3082: trees, no food; back at bed row) ; I hold nothing to share, so 
+- 21:35 act: {"say":"Tommy here, at the bed row, hunger 20, no food. Indy, thank you. Trini needs it more; I'll wait here in sight and hunt when the day is clear.
+- Midday 1175: waited at bed row, hunger 20, health 20. Heard the Stores hall chests hold cooked pork, beef, bread, carrots; hungry ones go first, so I stay away. Still owe my debts; nothing to repay yet. Next: wait in sight, eat when hunger is under 15."}
