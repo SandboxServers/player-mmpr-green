@@ -20,5 +20,7 @@
 
 - Day 1119: Laforge says the 423 planks have not been seen open; Clark is at hunger 17 and still waiting on Billy, Worf or Trini. Nobody offered food or a sword; I still have none.
 
+- Day 1121: morning, Clark and Laforge still empty in the row. Clark names Billy, Zack or Chapman for food or a route. Laforge walks only when two armed readers name an open daylight cell past 423.
+
 Curious next: whether anyone names an open cell past 423; where the potatoes are.
 Tell next: Worf and Jason, who hold near the row with swords; Trini about the potatoes.
