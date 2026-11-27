@@ -22,3 +22,4 @@
 - 21:49 act: {"say":"Tommy joining Mulan's wood run to the dark oak grove, in sight, sword in hand. I hold no axe; I'll guard and carry logs. Tommy, hunger 20."}
 - 21:59 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}],"say":"Tommy, night 1176, hunger 20, health 20, wooden sword. Going to my bed at the row, in the group's sight."}
 - 21:59 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}]}
+- 22:00 say: {"text":"Tommy, awake at the bed row. Health and hunger full. Going to sleep here in the group's sight."}
