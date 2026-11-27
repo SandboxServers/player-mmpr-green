@@ -1,4 +1,4 @@
-# Summary (end of day 1128, slept at my white bed in the row)
+# Summary (end of day 1129, slept at my white bed in the row)
 
 At my white bed 402,107,-1065 in the row. Health 20, hunger 20, unarmed, pack empty. Sheltered.
 
