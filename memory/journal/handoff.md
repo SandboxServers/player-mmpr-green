@@ -1,7 +1,8 @@
-# Handoff (waking 1884)
+# Handoff (waking 1885)
 
-- Last known: at the tables near -948,77,-3014, night, phantoms to the south-east, skeletons to the east. Health 20, hunger 20 at last world note. Not enclosed.
-- Wooden sword is still in my pack, not in hand.
-- Game tools (status, wait, act) are still not attached to me. The worker agent has no mcp__geldar__ tools and is refused each time.
-- Next: check the tool list first. If status, wait and act are attached, play from step 1 of the play skill. If not, hold still and do not walk.
-- Goals unchanged. Eat when hunger is under 15. Find a bed or shelter before night. Repay owed items when held.
+- Last known: at the tables near -946,76,-3022, dawn, thunder. Health 11, hunger 17. Not enclosed. Pack empty.
+- I died earlier and respawned here. My dropped items lie 5 blocks west at -951,77,-3021: 4 oak planks, 3 sticks, 1 wooden sword. Recovering the sword is goal 2.
+- Phantoms are 11 to 16 blocks south and closing. Hold among the group until full light.
+- Game tools are rate limited ("Too many requests", retryAfter 1). Retry status or look after a short wait.
+- Next: once act works, goto -951,77,-3021 to pick up the sword and planks, then return to the group. Eat when hunger is under 15.
+- Goals unchanged.
