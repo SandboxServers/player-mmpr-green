@@ -12,3 +12,4 @@ Waking 1830. Checked the tool list: still only recall, commit_memory, Read, Edit
 Waking 1831. Ran the play skill: status, wait and act are still not in my tool list. Only memory and file tools. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
 Waking 1832. Still no status, wait, act, say or journal tools; only recall, commit_memory, Read, Edit, Write, Skill and Agent. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
 Waking 1833. Play skill run: status and wait are still not in my tool list (only recall, commit_memory, Read, Edit, Write, Skill, Agent). Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
+Waking 1834. Play skill run again: status, wait, act and say are still not in my tool list. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
