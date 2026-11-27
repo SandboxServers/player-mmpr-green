@@ -1,6 +1,6 @@
 # Summary (end of day 1125, slept at my white bed in the row)
 
-At my white bed 401,107,-1065 in the row. Health 20, hunger 20, unarmed, pack empty. Sheltered.
+At my white bed 401,107,-1064 in the row. Health 20, hunger 20, unarmed, pack empty. Sheltered.
 
 ## What matters
 - Food first: no one has offered any yet.
