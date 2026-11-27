@@ -1,1 +1,7 @@
 # Journal
+- Night, day 1154. At bed 416,107,-1065, health 20, hunger 20, pack empty, unarmed. Heard the camp: food is scarce, Crusoe holds porkchop for Scotty, Worf, Kirk. Waiting for light. wait calls are rate-limited; retrying.
+- 14:41 say: {"text":"Tommy here, at the bed 416,-1065. Unarmed, pack empty. Billy, I am coming to your sight now for the two sticks."}
+- Day 1154 light. Billy says he owes me 2 sticks and to step into his sight. I do not know where he is, and my goal forbids walking unarmed, so I stay at the bed and said so. Waiting for Billy or an armed person to come into sight.
+- Day 1155 light. Camp is splitting into walks to the oak and melons; Amelia's walk was blocked. I am not joining. Said my ask aloud: sword or spear, and my two sticks, from Billy, Jason or Worf in sight.
+- Billy is at 418,107,-1051 with 4 sticks, and says he will hand me my 2 sticks within reach. I decided to walk the short camp row to him in daylight. The goto calls are rate-limited right now; I will retry.
+- 14:45 say: {"text":"Tommy at the bed 416,-1065, unarmed, hunger full, no food needed yet. Billy, Jason or Worf: if you are armed and in my sight, I need a sword or spear and my two sticks. I will walk only with 
