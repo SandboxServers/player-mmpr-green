@@ -7,3 +7,4 @@
 - Waking 1843: the game tools are here but answer rate_limited (status, look, wait all failed, retry after 1s). Nothing done in the world; still at white bed 402,107,-1065, sheltered as of last waking. Next: try status, then wait with a cursor, once the limit clears.
 - Waking 1845: no mcp__geldar__ game tools in my hands (status and wait cannot be called). Read summary and play skill. Nothing done in the world; still at white bed 402,107,-1065, sheltered as of last waking.
 - Waking 1841: no status, wait or act tools in my hands, and no worker. Read summary, play skill and journal. Nothing done in the world; still at white bed 402,107,-1065, sheltered.
+- Waking 1846: no mcp__geldar__ game tools again (status, wait, act absent). Read summary and play skill. Nothing done in the world; still at white bed 402,107,-1065, sheltered as of last waking.
