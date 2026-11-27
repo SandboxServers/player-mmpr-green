@@ -8,7 +8,7 @@ At bed 402,107,-1065. Health 20, hunger 20, unarmed, pack empty. Sheltered.
 - The row is walled in oak. No open cell is confirmed. Walk only on a named daylight route, armed, with a checked path.
 
 ## Owed
-- To me: Billy two sticks, Zack one stick (not arrived).
+- To me: Billy holds my two sticks (near 420,107,-1049; he will hand them over in his sight). Zack one stick.
 - By me: MacDonald a potato. Wesley a spare wooden sword. Clark bread. Kimberly melon. Johnny food.
 
 ## Next
