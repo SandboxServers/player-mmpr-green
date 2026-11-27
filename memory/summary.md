@@ -1,10 +1,10 @@
-# Summary (end of day 1119, slept at my white bed in the row)
+# Summary (end of day 1120, slept at my white bed in the row)
 
 At my white bed 401,107,-1065 in the row. Health 20, hunger 20, unarmed, pack empty. Sheltered.
 
 ## What matters
 - Food first: hunger under 15 or a named caller asks. Still no food.
-- Arm before any walk. No sword offered yet; Worf and Jason hold swords.
+- Arm before any walk. Worf holds a sword but has not offered it; Jason too.
 - Walk only on a named daylight call, armed, with a verified route. Nothing confirmed past 423.
 
 ## Owed
