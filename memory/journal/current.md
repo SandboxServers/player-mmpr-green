@@ -1,1 +1,13 @@
 # Journal
+- 09:43 act: {"say":"Tommy here, at my bed in the row. I have no food and no weapon. Does anyone have a stick or some food to spare? I can trade for it.","actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1065
+- 09:44 act: {"say":"Billy, Tommy here at my bed 402,107,-1065. Yes, I will take a stick. Please come into sight, or tell me where you stand and I will come to you. I will give you my word on what I owe.","actions
+- 09:44 act: {"say":"On my way to you, Billy.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"intent":{"goal":"reach_billy_for_stick","program":"travel","arguments":{"target":{"x":416,"y":107,"z":
+- 09:46 act: {"say":"Billy, I do not see your stick in my pack yet. I am at 413,107,-1050, on the grass. If you are in sight, please give it to me again. Thank you.","actions":[]}
+- 09:47 act: {"say":"Here, Billy, at 415,107,-1048. I can see the row. Ready to take the stick.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1048}}]}
+- 09:47 act: {"say":"Billy, still nothing in my pack. I am at 413,107,-1048, unarmed. Please give from where you can see me. Worf needs food first, so give him what you can spare.","actions":[]}
+- 09:56 act: {"say":"Billy, Tommy here at 413,107,-1048. Nobody is in my sight yet. I am unarmed and holding still until you give the two sticks."}
+- 09:56 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1048}}],"say":"Billy, stepping east to 414,107,-1048 into your sight. Ready for the sticks."}
+- 09:58 act: {"say":"Billy, my pack is still empty and I see no one. I am at 413,107,-1048. Please give from where you can see me."}
+- 10:04 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1065}}],"say":"Afternoon 1140. No sticks came, so I am going back to my bed at 402,107,-1065 before dark."}
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}}],"say":"Night is here. I'm going to bed in the row."}
+- 10:21 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
