@@ -18,3 +18,7 @@
 - 21:35 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}],"say":"Tommy, morning 1175. My scouting found only trees north of the row, no food. Zack, Trini are hungry; I hold nothing to share, so (scouted north to -942,-3082: trees, no food; back at bed row) ; I hold nothing to share, so 
 - 21:35 act: {"say":"Tommy here, at the bed row, hunger 20, no food. Indy, thank you. Trini needs it more; I'll wait here in sight and hunt when the day is clear.
 - Midday 1175: waited at bed row, hunger 20, health 20. Heard the Stores hall chests hold cooked pork, beef, bread, carrots; hungry ones go first, so I stay away. Still owe my debts; nothing to repay yet. Next: wait in sight, eat when hunger is under 15."}
+- 21:48 act: {"say":"Tommy, morning 1176, hunger 20, health 20, wooden sword only. I'll walk in sight for the wood run with Mulan, Han and Gimli. Name the tree line."}
+- 21:49 act: {"say":"Tommy joining Mulan's wood run to the dark oak grove, in sight, sword in hand. I hold no axe; I'll guard and carry logs. Tommy, hunger 20."}
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}],"say":"Tommy, night 1176, hunger 20, health 20, wooden sword. Going to my bed at the row, in the group's sight."}
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}]}
