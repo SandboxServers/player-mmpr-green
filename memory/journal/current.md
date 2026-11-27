@@ -8,4 +8,5 @@ Waking 1874: tried status and wait myself (no game tools in my hands). Sent work
 - 16:52 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3014}}],"say":"Tommy, dusk. Something shot me from the east. Moving into the middle of the group by the tables. Sword still in my pack."}
 - 16:53 act: {"actions":[{"do":"use","at":{"x":-951,"y":76,"z":-3021},"item":"wooden_sword"}],"say":"Tommy, night. Skeleton shooting from the east, 13 blocks off. Equipping my wooden sword and staying in the group
 - 16:54 act: {"actions":[],"say":"Tommy, night. Phantoms to the south, skeletons to the east. The sword is still not in my hand. I stay in the group until light.","intent":{"goal":"hold_in_group_until_light","prog
+- Waking 1881: game tools still absent in my hands. Sent two errands to a worker and a general agent (status, view, wait); both reported no game tools. Nothing done in the world. Holding still, no walking.
 - 16:54 act: {"actions":[],"say":"Tommy, night. Phantoms are closing from the south-east. My sword is still in the pack, not in hand. I stay in the middle of the group.","intent":{"goal":"hold_in_group_until_light

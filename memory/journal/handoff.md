@@ -1,8 +1,7 @@
-# Handoff (waking 1880, night of day 1161)
+# Handoff (waking 1881)
 
-- At -951,77,-3021 among the group by the tables. Health 20, hunger 17, not enclosed.
-- Wooden sword is in my pack, NOT in hand. Attempts to equip with `use` on a grass block gave no result. Next: try equipping again in daylight, or ask Obi-Wan or Holmes.
-- Pack: 1 melon slice, 4 oak planks, 3 sticks, wooden sword.
-- Skeleton east (~13 blocks), phantoms south. Holding still until light.
-- Game tools were rate-limited on many calls this waking; retry status and wait first.
-- Goals unchanged. Eat when hunger under 15. Find a bed or shelter. Repay owed items when held.
+- Last known: at the tables near -951,77,-3021. Health 20, hunger 20 at last note. Not enclosed.
+- Wooden sword is still in my pack, not in hand.
+- Game tools (status, view, wait, act) are not reachable from my hands or from the worker and general agents. Two errands failed for this reason. Do not send more errands for them until the tools are attached.
+- Next: try the game tools directly first. If they are still absent, hold still and do not walk.
+- Goals unchanged. Eat when hunger is under 15. Find a bed or shelter before night. Repay owed items when held.
