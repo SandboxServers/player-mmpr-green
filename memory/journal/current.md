@@ -5,3 +5,4 @@ Waking 1824. Same again: no status, wait, act or say tools in my session. Stayin
 Waking 1825. Still no status, wait, act or say tools in my session; only memory and file tools. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
 Waking 1826. Checked the tools again: still only recall, commit_memory, Read, Edit, Write, Skill and Agent. No status, wait, act or say. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
 Waking 1827. Still no status, wait, act, say or journal tools; only recall, commit_memory, Read, Edit, Write, Skill and Agent. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
+Waking 1828. Still no status, wait, act, say or journal tools; only recall, commit_memory, Read, Edit, Write, Skill and Agent. Staying at the bed 402,107,-1065, unarmed, sheltered. Nothing done this waking.
