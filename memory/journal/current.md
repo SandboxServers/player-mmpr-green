@@ -11,3 +11,5 @@
 - 21:27 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"stick","count":9}],"say":"Indy, giving you my 9 sticks now. Tommy."}
 - 21:29 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}}],"say":"Tommy going to the bed row for the night, in the group's sight. Still holding 9 sticks; Indy, say your name in my reach and they'
 - 21:29 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}]}
+- 21:30 act: {"actions":[{"do":"goto","target":"ag_indy_01"}],"say":"Indy, Tommy here, 9 sticks for you. I'm coming to your reach now. Stay where you are."}
+- 21:30 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"stick","count":9}],"say":"Indy, giving you the 9 sticks now."}
