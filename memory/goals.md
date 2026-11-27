@@ -1,4 +1,4 @@
-# Goals (ranked, end of day 1113)
+# Goals (ranked, end of day 1114)
 
 1. Stay alive: eat when hunger falls under 15 or a named caller asks. No food in hand. Ask Billy, Trini, Zack. Reason: nothing else matters if I die.
 2. Arm before any walk: a wooden or stone sword from anyone who can spare one. Reason: I will not walk unarmed.
