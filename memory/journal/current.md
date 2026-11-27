@@ -1,1 +1,13 @@
 # Journal
+- 21:20 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"stick","count":9}],"say":"Indy, Tommy here. You named yourself as making a pickaxe at the table, so I'm handing you my 9 sticks."}
+- 21:20 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"stick","count":9}]}
+- 21:22 act: {"actions":[],"say":"Tommy here, morning 1175. Indy, I still hold my 9 sticks; the give failed twice with people beside me. Who is making tools now? Name yourself in my reach."}
+- Morning 1175: at bed row, health 20, hunger 20, no food. Two sticks gives to Indy failed (crowd beside the line); still holding 9 sticks. Indy has made his pickaxe. Owed by me still: MacDonald potato, Wesley sword, Clark bread, Kimberly melon, Johnny food. Next: offer sticks to whoever names a tool need; stay in sight.
+- 21:22 act: {"actions":[],"say":"Tommy, Trini. I'm glad you are near too. I have no food, only 9 sticks. I'll watch what you do, and I'll stand with the group while I do."}
+- 21:23 act: {"actions":[],"say":"Tommy: I am not hungry, hunger 20. Trini, keep your carrot and eat when you need it. Fogg, keep your last one for whoever is lower than me."}
+- 21:25 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"stick","count":9}],"say":"Indy, here are my 9 sticks, for your tools. Tommy."}
+- 21:25 act: {"actions":[{"do":"goto","target":{"x":-941,"y":73,"z":-3044}}],"say":"Indy, I've stepped off the crowd. Tommy here with 9 sticks. Come to me if you need them."}
+- 21:25 act: {"actions":[],"say":"Tommy here, morning 1175, hunger 20, not hungry. I hold 9 sticks and a wooden sword. Indy, if your tools need sticks, say so and I'll hand them over."}
+- 21:27 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"stick","count":9}],"say":"Indy, giving you my 9 sticks now. Tommy."}
+- 21:29 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}}],"say":"Tommy going to the bed row for the night, in the group's sight. Still holding 9 sticks; Indy, say your name in my reach and they'
+- 21:29 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}]}
