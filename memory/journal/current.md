@@ -11,4 +11,5 @@ Waking 1874: tried status and wait myself (no game tools in my hands). Sent work
 - Waking 1881: game tools still absent in my hands. Sent two errands to a worker and a general agent (status, view, wait); both reported no game tools. Nothing done in the world. Holding still, no walking.
 - Waking 1882: my hands hold only recall, Read, Write, Edit, Skill and Agent. No status, wait or act tool is attached, and I have no way to play. Holding still; no errand sent, no walking.
 - Waking 1883: play skill opened. Game tools (status, wait, act) still not attached. Worker agent refused: zero mcp__geldar__ tools. Nothing done in the world. Holding still, no walking.
+- Waking 1884: play skill and summary read. Game tools (status, wait, act) still not in my hands; none attached. Nothing done in the world. Holding still, no walking, no errand sent (worker was refused every time before).
 - 16:54 act: {"actions":[],"say":"Tommy, night. Phantoms are closing from the south-east. My sword is still in the pack, not in hand. I stay in the middle of the group.","intent":{"goal":"hold_in_group_until_light
