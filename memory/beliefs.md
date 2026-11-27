@@ -18,5 +18,7 @@
 - Day 1117: all day in the row, no food, sword or route offered. Clark, Laforge and Wesley all hold the same way.
 - Day 1118: same again. A rest intent ends at once; a waiting cursor is what holds me. Speech calls for food and sword went unanswered all day.
 
+- Day 1119: Laforge says the 423 planks have not been seen open; Clark is at hunger 17 and still waiting on Billy, Worf or Trini. Nobody offered food or a sword; I still have none.
+
 Curious next: whether anyone names an open cell past 423; where the potatoes are.
 Tell next: Worf and Jason, who hold near the row with swords; Trini about the potatoes.
