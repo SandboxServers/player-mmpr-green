@@ -12,3 +12,15 @@
 - 01:51 act: {"say":"Tommy, bed use failed again. It is still day, so I will wait for night before trying a bed.","intent":{"goal":"await_dusk_then_bed","program":"rest","arguments":{},"wake_on":["directly_address
 - 02:03 act: {"say":"Tommy, night 1188, trying the bed at -948,73,-3048 in the group's sight. Placing nothing.","actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3049}},{"do":"use","at":{"x":-948,"y":73,"z":-
 - 02:04 act: {"say":"Tommy, night 1188. Sleeping at the bed row in the group's sight. Sticks from Billy still owed.","actions":[]}
+- 02:17 act: {"actions":[{"do":"note","text":"Day 1189 morning at the bed row, health 20, hunger 20. Billy is in reach. I owe nothing I can pay yet except to those in reach. Asking Billy for the 2 sticks he owes m
+- 02:17 act: {"actions":[{"do":"note","text":"Billy says he will hand over the 2 sticks when we are alone and I am close. Waiting at the bed row in sight."}],"say":"Billy, thank you. I am waiting here, close, for 
+- 02:18 act: {"actions":[{"do":"note","text":"Billy will hand the sticks when others are not within 2 blocks of him. I keep waiting in sight at the bed row. Health 20, hunger 20."}]}
+- 02:26 act: {"actions":[{"do":"note","text":"Day 1190, day, at bed row. Hunger 20, health 20. Billy is 2 blocks away with others close by; he still has not handed over the 2 sticks. Waiting in sight."}],"say":"Bi
+- 02:27 act: {"actions":[{"do":"use","at":{"x":-949,"y":73,"z":-3047}}],"say":"Tommy, dusk on day 1190. Going to bed at the row in the group's sight. Billy, the 2 sticks are still owed; I will ask in the morning."
+- 02:31 act: {"actions":[{"do":"note","text":"Day 1190 into morning at the bed row, health 20, hunger 20. Billy still holds my 2 sticks, waiting for the crowd to thin. Staying in sight."}],"say":"Tommy, morning. B
+- 02:32 act: {"actions":[{"do":"note","text":"Day 1190 morning at bed row, health 20, hunger 20. Billy says the 2 sticks come once the crowd thins. Still in sight, waiting."}]}
+- 02:36 act: {"actions":[{"do":"note","text":"Trini asked about Jason and Kimberly. I have not seen them. Still at the row, health 20, hunger 20. Waiting for Billy to be alone."}],"say":"Trini, I have not seen Jas
+- 02:41 act: {"actions":[{"do":"use","at":{"x":-949,"y":73,"z":-3047}}],"say":"Tommy, going to sleep in my bed at the row now. Billy, the 2 sticks when you can."}
+- 02:41 act: {"actions":[{"do":"use","at":{"x":-950,"y":73,"z":-3048}}]}
+- 02:41 act: {"actions":[{"do":"note","text":"Night 1190: bed use failed again on two beds at the row ('that block is a bed'). Beds here will not take my sleep. Day again now. Staying in sight; will not force the 
+- 02:46 act: {"actions":[{"do":"note","text":"Day 1191 morning at the bed row. Health and hunger 20. Crowd still within 2 blocks of Billy, so I will not ask for the sticks yet. Staying in sight; I will eat only wh
