@@ -63,3 +63,6 @@
 - 05:45 act: {"actions":[{"do":"note","text":"Day 1200, dim thunder at the row. Health 20, hunger 20. No one addressed me. Staying in sight at my bed, waiting for night to sleep."}]}
 - 05:49 act: {"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operations":1}}}
 - 05:53 act: {"actions":[{"do":"note","text":"Day 1200 again, at my bed in the row's sight. Hunger 20, health 20. Rest intent ended at once at dusk; I will try again at the next night."}],"say":"Tommy, day 1200, a
+- 05:54 act: {"say":"Tommy, at the row in sight, health and hunger 20. I will rest here in the group's sight.","intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpe
+- 05:55 act: {"say":"Trini, thank you. Tommy here, health and hunger 20, no food. I am at the row in your sight, resting at my bed until night."}
+- 06:03 act: {"actions":[],"say":"Tommy, night 1200, at my bed in the row, in the group's sight. Health and hunger 20, no food. Going to sleep here.","intent":{"goal":"rest_at_row","program":"rest","arguments":{},
