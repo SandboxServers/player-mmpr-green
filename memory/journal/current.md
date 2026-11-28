@@ -44,3 +44,5 @@
 - 03:18 act: {"actions":[],"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operation
 - 03:23 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3043}}],"say":"Tommy here, morning 1193. Stepping off a few blocks so Trini can hand Indy the melon. Hunger 20, no need for it."}
 - 03:32 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3046}}]}
+- 03:33 act: {"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_
+- 03:33 act: {"actions":[{"do":"sleep"}],"say":"Tommy, night 1193, in the group's sight at the row. Hunger 20, health 20, no food. Sleeping here."}
