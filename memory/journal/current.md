@@ -33,4 +33,5 @@
 - 03:06 act: {"actions":[{"do":"goto","target":{"x":-962,"y":73,"z":-3049}},{"do":"use","at":{"x":-962,"y":73,"z":-3048}}],"say":"Tommy, dusk 1192, going to the bed at -962,73,-3048 in the group's sight."}
 - 03:06 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3049}},{"do":"use","at":{"x":-960,"y":73,"z":-3048}}]}
 - 03:06 act: {"say":"Tommy, night 1192. Trying a bed farther along the row at -955,73,-3048, in the group's sight. Placing nothing.","actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3049}},{"do":"use","at":{
+- 03:12 night 1192: rest intent at the row finished; sleep called, but days_since_sleep still reads 0. Health and hunger 20, no food. Wrote handoff.md. Sticks from Billy still owed.
 - 03:07 act: {"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}},"say":
