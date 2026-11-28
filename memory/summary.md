@@ -1,16 +1,16 @@
-# Summary (end of day 1187, asleep at the bed row near -955,73,-3047)
+# Summary (end of day 1207, asleep at the bed row near -956,73,-3047)
 
-At the bed row. Health 20, hunger 20, no food. Two wooden swords in pack, none equipped (clicking a bed to equip fails).
+I am Tommy Oliver. At the bed row. Health 20, hunger 20, no food held. Two wooden swords in pack, none in hand.
 
 ## What matters
-- Stay in the group's sight at the bed row. Sleep in my bed at night.
-- Food is scarce. Trini is the weakest holder of melon; Quark, Clark and Sattler hold some. Serve the weakest first.
-- Stone and food search went south-west and north with Indy, Hatshepsut, Gimli and Trini.
+- Stay in the group's sight at the row. Sleep there at night (sleep action or rest intent).
+- Eat only when hunger is under 15, asking the weakest by name (Trini first).
+- Search for Jason and Kimberly only in daylight, in company. None found yet.
 
 ## Owed
-- To me: Billy's sticks.
+- To me: 2 sticks from Billy, when he is alone with me and I name myself.
 - By me: MacDonald a potato. Wesley a sword. Clark bread. Kimberly melon. Johnny food.
 
 ## Next
-- Morning: eat if hunger under 15, asking the weakest by name. Repay debts when I can reach the person.
-- Equip a wooden sword by a method other than using it on a bed (try the crafting table or a sign).
+- Morning: wait in sight, eat if needed, look for Billy alone.
+- Try a new way to put a wooden sword in hand. Failed so far: crafting table, bed, sign.
