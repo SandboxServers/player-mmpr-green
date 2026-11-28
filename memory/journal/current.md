@@ -1,11 +1,1 @@
 # Journal
-- 10:22 act: {"say":"Tommy, morning 1213. Health 20, hunger 20. I hold at the row in sight of the group and walk nothing alone. Trini, call me when you name a leg.","intent":{"goal":"hold_in_sight","program":"rest"}}
-- 10:22 say: {"text":"Thank you, Trini. I will rest here in sight and wait for your leg."}
-- 10:31 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3047}}],"intent":{"goal":"rest_at_row","program":"rest"}}
-- 10:31 say: {"text":"Tommy here, at the bed row with the group. Hunger 20, health 20. I will stay in sight and walk only on a leg Trini names."}
-- Dusk 1214: woke at the row, health 20, hunger 20, in sight of Trini, Zack, Lara, Atticus, Beverly. Beverly reports no water or cows. Said where I stand. Holding; no walk without Trini's named leg.
-- 10:35 say: {"text":"Tommy, morning. Holding at the row in sight, health and hunger full. Trini, I am ready for your next named leg. I will walk only with the group."}
-- 10:36 say: {"text":"Tommy walking the north leg with Trini and Zack, in your sight. Stopping if anyone falls behind."}
-- 10:36 act: {"intent":{"goal":"north_leg_with_trini","program":"travel","arguments":{"target":{"x":-960,"y":73,"z":-3068}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
-- 10:36 say: {"text":"Trini, my walk did not start; I am still at the row, -955,73,-3049. I will not go out alone. Next named leg, I will go in your sight."}
-- Midday 1214: Trini's north leg (Zack alone) found no water or cows. Trini now holds at the row, eats at hunger 10, names the next leg when decided. I am at the row, health 20, hunger 20, no food. Waiting.
