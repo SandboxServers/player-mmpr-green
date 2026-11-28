@@ -69,3 +69,12 @@
 - 06:04 act: {"say":"Tommy, morning at the row. Health and hunger full. I hold two wooden swords and have no food to spare. Billy, when you stand alone with me, I will take the sticks you owe.","actions":[{"do":"u
 - 06:04 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, Tommy here. I am near. Do you have the sticks you owe me?"}
 - 06:14 act: {"say":"Tommy, dusk at the row, in sight of the group. Health and hunger full. I sleep here now.","intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpe
+- 06:16 act: {"actions":[{"do":"goto","target":{"x":-959,"y":73,"z":-3048}}],"say":"Night. I am at the bed row with the group in sight. I will rest here."}
+- 06:16 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_
+- 06:20 act: {"actions":[],"say":"Tommy, morning 1201 at the row, in sight. Health and hunger 20. Ripley and Trini are lower, they go first. Billy, I will take my 2 sticks when you stand alone with me."}
+- 06:22 act: {"actions":[],"say":"Zack, Tommy here. I will walk with you in daylight, company only, staying in your sight. I hold no food and will take none; the lowest eat first.","intent":{"goal":"search_with_za
+- 06:23 act: {"say":"Zack, Tommy here, staying in your sight. I hold no food. The lowest eat first.","intent":{"goal":"search_with_zack","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_
+- 06:27 act: {"say":"Tommy here, day 1202, health 20, hunger 20, at the row. I hold no food. I still seek Billy alone for the two sticks, and Jason and Kimberly, whom I have not seen."}
+- 06:31 act: {"say":"Billy, Tommy here, alone with you within reach now? If so, my 2 sticks, please. I hold no food, hunger 20."}
+- 06:56 act: {"intent":{"goal":"rest_at_row","program":"rest","arguments":{"place":"bed_row","at":{"x":-960,"y":73,"z":-3047}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
+- 06:56 act: {"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operations":16}}}
