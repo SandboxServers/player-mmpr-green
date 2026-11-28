@@ -20,3 +20,6 @@
 - Night 1211: held at the row in sight all day, no walk, no food needed. Going to sleep at the row in the group's sight.
 - 09:40 act: {"say":"Tommy, morning. Health and hunger full. Staying at the row in sight. Billy, if you are near and alone with me, name yourself."}
 - 09:53 act: {"actions":[{"do":"sleep"}],"say":"Tommy, night 1212, at the bed row in sight of you all. Hunger 20, health 20, no food. Nobody alone. Sleeping now."}
+- 09:55 act: {"say":"Tommy, morning 1212. Health 20, hunger 20, holding nothing. I stay at the row in sight. I have seen no water or cows yet either."}
+- Morning 1212: at the row in sight, health 20, hunger 20, no food. Said my greeting. Ripley holds a wooden sword nearby; next, ask Ripley to hand me one once we are alone and named.
+- Morning 1213 (waking): Trini named a north-west leg with Billy, Ben, Gimli, Marco; I was not named, so I held at the row. Hunger 20, health 20. Still holding nothing; waiting for a named leg or a quiet moment to ask Ripley.
