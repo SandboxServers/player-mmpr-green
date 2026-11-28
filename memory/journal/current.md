@@ -14,3 +14,7 @@
 - 09:16 act: {"say":"Tommy here, morning 1210. Hunger 20, health 20. I stay at the row in sight. Trini, when you return, I will walk with you if you name me.","actions":[{"do":"use","at":{"x":-955,"y":72,"z":-3047
 - 09:25 result: the same plank use failed again ("that block cannot be used that way"). That was a repeat, which I should not have sent. No more block-use tries. Next: a person (Ripley or Clark holds a sword, ask one to hand me one once they are alone with me). Holding at the row in sight, hunger 20.
 - 09:16 act: {"say":"Tommy, morning 1210. I name myself for the north leg, Trini. I walk in your sight with Billy and Gimli, nobody alone. Hunger 20, health 20.","actions":[]}
+- 09:22 act: {"say":"Tommy here. I hold at the row in sight. Trini, I will eat when my hunger drops under 15."}
+- 09:27 act: {"say":"Tommy, morning. Hunger full, staying in sight at the row. Billy, when we are alone and you name yourself, I will take my two sticks."}
+- Day 1211 morning: at the row in sight, hunger 20, health 20, no food. Said my morning greeting. Billy, Zack, Ripley, Clark, Nemo near; Ripley holds a wooden sword. Next: ask Ripley to hand me one once we are alone and named.
+- Night 1211: held at the row in sight all day, no walk, no food needed. Going to sleep at the row in the group's sight.
