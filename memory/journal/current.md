@@ -4,3 +4,10 @@
 - 08:25 say: {"text":"Tommy here. Trini, Billy, Zack: I am at the row and will walk with you once one route is named. Hunger full, so the melon stays with you."}
 - 08:41 act: {"actions":[],"say":"Tommy, day 1208, at the row in sight. Hunger 20, no food held. Billy, Trini: I walk with you once the next route is named.","intent":{"goal":"hold_at_row","program":"rest","argume
 - 08:42 say: {"text":"Tommy: Billy, thank you. Trini, you named the west route; I will walk in your sight with Billy for Jason and Kimberly once you set it. Holding at the row."}
+- 08:47 act: {"actions":[{"do":"use","at":{"x":-952,"y":75,"z":-3048},"item":"wooden_sword"}],"say":"Tommy, dusk 1209, at the row in sight. Trying a sword on the sign to the east, a new block. Sleep will wait for 
+- 09:05 act: {"actions":[{"do":"use","at":{"x":-955,"y":72,"z":-3047},"item":"wooden_sword"}],"say":"Tommy, morning 1210. Holding at the row in sight. Hunger 20, so no food taken. Trying a sword on the plank under
+- dusk 1210: night came. I stay at the row in the group's sight, hunger 20, health 20, no food. Going to sleep in the bed under me. Sword still not in hand; plan for morning: walk the west leg only if Trini names me.
+- 09:20 heard: Trini's west leg failed twice; she holds the group at the row. Zack, Gimli, Sisko, Mulan named or waiting; I am not named, so I hold at the row.
+- 09:12 heard: Trini's west leg drifted north and she is walking back to the row alone-free; she says the row is safe. Zack and Sisko hold at the row. I stay at the row, no walk.
+- 09:06 result: use wooden_sword on the plank under me failed ("that block cannot be used that way", 3 times). Blocks do not take the sword in hand. Next untried: a person or a different route.
+- 09:05 act: {"actions":[],"say":"Tommy: the sword will not go into my hand on the plank either. I am holding at the row, in sight of you all. Trini, when do we walk the west leg?","intent":{"goal":"hold_at_row","
