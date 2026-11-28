@@ -3,9 +3,8 @@
 I am Tommy Oliver. At the bed row. Health 20, hunger 20, no food held. Two wooden swords in pack, none in hand.
 
 ## What matters
-- Stay in the group's sight at the row. Sleep there at night (sleep action or rest intent).
+- Stay in the group's sight at the row. Sleep there at night.
 - Eat only when hunger is under 15, asking the weakest by name (Trini first).
-- Search for Jason and Kimberly only in daylight, in company. None found yet.
 
 ## Owed
 - To me: 2 sticks from Billy, when he is alone with me and I name myself.
@@ -13,4 +12,4 @@ I am Tommy Oliver. At the bed row. Health 20, hunger 20, no food held. Two woode
 
 ## Next
 - Morning: wait in sight, eat if needed, look for Billy alone.
-- Try a new way to put a wooden sword in hand. Failed so far: crafting table, bed, sign.
+- Try a new way to put a wooden sword in hand.
