@@ -35,3 +35,12 @@
 - 03:06 act: {"say":"Tommy, night 1192. Trying a bed farther along the row at -955,73,-3048, in the group's sight. Placing nothing.","actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3049}},{"do":"use","at":{
 - 03:12 night 1192: rest intent at the row finished; sleep called, but days_since_sleep still reads 0. Health and hunger 20, no food. Wrote handoff.md. Sticks from Billy still owed.
 - 03:07 act: {"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}},"say":
+- 03:08 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3049}},{"do":"use","at":{"x":-946,"y":73,"z":-3049},"item":"wooden_sword"}],"say":"Tommy, morning 1192. Health and hunger 20. Going to the craft
+- 03:08 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3051}},{"do":"use","at":{"x":-945,"y":74,"z":-3052},"item":"wooden_sword"}],"say":"Tommy, day 1192. The crafting table is a container, so I am t
+- 03:12 act: {"actions":[],"say":"Zack, Tommy here, health and hunger 20, no food. I am holding at the row in your sight. I have not seen Jason, Kimberly or Billy's sticks yet. Tell me when you go, and I will walk
+- 03:13 act: {"actions":[],"say":"Zack, Tommy here. I will walk behind you, in your sight, for cows, Jason and Kimberly.","intent":{"goal":"walk_with_zack","program":"follow","arguments":{"target":"ag_zack_01"},"w
+- 03:14 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, no cows on this stretch, so I will stay close to you and keep my eyes open."}
+- 03:15 act: {"actions":[],"say":"Billy, Tommy here. I will wait for the crowd to thin, then name myself to you for the two sticks. I am in the group's sight for now."}
+- 03:18 act: {"actions":[],"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operation
+- 03:23 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3043}}],"say":"Tommy here, morning 1193. Stepping off a few blocks so Trini can hand Indy the melon. Hunger 20, no need for it."}
+- 03:32 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3046}}]}
