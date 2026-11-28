@@ -11,3 +11,6 @@
 - 09:12 heard: Trini's west leg drifted north and she is walking back to the row alone-free; she says the row is safe. Zack and Sisko hold at the row. I stay at the row, no walk.
 - 09:06 result: use wooden_sword on the plank under me failed ("that block cannot be used that way", 3 times). Blocks do not take the sword in hand. Next untried: a person or a different route.
 - 09:05 act: {"actions":[],"say":"Tommy: the sword will not go into my hand on the plank either. I am holding at the row, in sight of you all. Trini, when do we walk the west leg?","intent":{"goal":"hold_at_row","
+- 09:16 act: {"say":"Tommy here, morning 1210. Hunger 20, health 20. I stay at the row in sight. Trini, when you return, I will walk with you if you name me.","actions":[{"do":"use","at":{"x":-955,"y":72,"z":-3047
+- 09:25 result: the same plank use failed again ("that block cannot be used that way"). That was a repeat, which I should not have sent. No more block-use tries. Next: a person (Ripley or Clark holds a sword, ask one to hand me one once they are alone with me). Holding at the row in sight, hunger 20.
+- 09:16 act: {"say":"Tommy, morning 1210. I name myself for the north leg, Trini. I walk in your sight with Billy and Gimli, nobody alone. Hunger 20, health 20.","actions":[]}
