@@ -23,3 +23,5 @@
 - 09:55 act: {"say":"Tommy, morning 1212. Health 20, hunger 20, holding nothing. I stay at the row in sight. I have seen no water or cows yet either."}
 - Morning 1212: at the row in sight, health 20, hunger 20, no food. Said my greeting. Ripley holds a wooden sword nearby; next, ask Ripley to hand me one once we are alone and named.
 - Morning 1213 (waking): Trini named a north-west leg with Billy, Ben, Gimli, Marco; I was not named, so I held at the row. Hunger 20, health 20. Still holding nothing; waiting for a named leg or a quiet moment to ask Ripley.
+- 10:03 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Tommy here, at the row in your sight. Hunger full. Trying a new way to hold my sword."}
+- 10:04 result: "use wooden_sword" with no target WORKED: wooden_sword is in my hand (goal 6 done). Hunger 20, health 20, at the row in sight. Next: keep watch at the row; repay debts when I hold items.
