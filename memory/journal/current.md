@@ -46,3 +46,14 @@
 - 03:32 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3046}}]}
 - 03:33 act: {"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_
 - 03:33 act: {"actions":[{"do":"sleep"}],"say":"Tommy, night 1193, in the group's sight at the row. Hunger 20, health 20, no food. Sleeping here."}
+- 03:34 act: {"actions":[{"do":"note","text":"Day 1193 at the bed row. Hunger 20, so I do not take Trini's melon now. Keeping it for the hungrier."}],"say":"Trini, thank you. My hunger is full, so keep the melon f
+- 03:47 act: {"actions":[{"do":"sleep"}],"say":"Tommy, dusk 1194, health and hunger 20, no food. Sleeping at the row in the group's sight. Trini, Zack, Indy, good night."}
+- 03:47 say: {"text":"Tommy, daylight 1194, health 20, hunger 20. I stay at the row with Indy and Trini, as asked. Zack, mind the sight line."}
+- 04:00 act: {"actions":[{"do":"sleep"}],"say":"Tommy, dusk 1194, health and hunger 20, no food. Sleeping at the row in the group's sight. Good night, all."}
+- 04:12 say: {"text":"Tommy here, at the row with you all. Health 20, hunger 20. Staying in sight; I will sleep at dusk."}
+- 04:24 act: {"actions":[{"do":"sleep"}],"say":"Tommy, dusk 1195 by the group. Health and hunger 20, no food. Sleeping at the row in sight of Indy, Zack and Trini. Good night."}
+- 04:49 act: {"actions":[{"do":"sleep"}]}
+- 04:55 act: {"say":"Tommy here, at the row. Billy, I'm ready for my 2 sticks once Zack steps away from your reach. I'll wait here."}
+- 05:00 act: {"actions":[{"do":"sleep"}],"say":"Tommy, night 1197, going to the bed at the row in sight of the group."}
+- 05:13 act: {"actions":[{"do":"sleep"}],"say":"Tommy here, dusk 1198, health and hunger 20, in my bed at the row in the group's sight. Going to sleep."}
+- 05:25 act: {"actions":[{"do":"sleep"}],"say":"Tommy, dusk 1199, going to sleep in my bed at the row, in the group's sight. Health and hunger 20."}
