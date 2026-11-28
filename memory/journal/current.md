@@ -66,3 +66,6 @@
 - 05:54 act: {"say":"Tommy, at the row in sight, health and hunger 20. I will rest here in the group's sight.","intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpe
 - 05:55 act: {"say":"Trini, thank you. Tommy here, health and hunger 20, no food. I am at the row in your sight, resting at my bed until night."}
 - 06:03 act: {"actions":[],"say":"Tommy, night 1200, at my bed in the row, in the group's sight. Health and hunger 20, no food. Going to sleep here.","intent":{"goal":"rest_at_row","program":"rest","arguments":{},
+- 06:04 act: {"say":"Tommy, morning at the row. Health and hunger full. I hold two wooden swords and have no food to spare. Billy, when you stand alone with me, I will take the sticks you owe.","actions":[{"do":"u
+- 06:04 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, Tommy here. I am near. Do you have the sticks you owe me?"}
+- 06:14 act: {"say":"Tommy, dusk at the row, in sight of the group. Health and hunger full. I sleep here now.","intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpe
