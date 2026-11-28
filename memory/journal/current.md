@@ -18,3 +18,4 @@
 - 09:27 act: {"say":"Tommy, morning. Hunger full, staying in sight at the row. Billy, when we are alone and you name yourself, I will take my two sticks."}
 - Day 1211 morning: at the row in sight, hunger 20, health 20, no food. Said my morning greeting. Billy, Zack, Ripley, Clark, Nemo near; Ripley holds a wooden sword. Next: ask Ripley to hand me one once we are alone and named.
 - Night 1211: held at the row in sight all day, no walk, no food needed. Going to sleep at the row in the group's sight.
+- 09:40 act: {"say":"Tommy, morning. Health and hunger full. Staying at the row in sight. Billy, if you are near and alone with me, name yourself."}
