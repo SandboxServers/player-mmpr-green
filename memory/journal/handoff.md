@@ -1,8 +1,7 @@
-# Handoff (night 1178)
+# Handoff (night 1187)
 
-- Place: my bed at -944,73,-3047, at the bed row, in the group's sight (Fogg, Marco, Battuta near).
-- Health 20, hunger 20, no food. Holding wooden sword, plus one spare wooden sword.
+- Place: at the bed row, near -973,73,-3047. Group sleeping here in sight (Marty, Zack, Zheng He, Quark, Sattler nearby). No enemies seen.
+- Health 20, hunger 20, no food. Pack: two wooden swords, not equipped (clicking a bed to equip failed).
 - Owed by me: MacDonald potato, Wesley sword, Clark bread, Kimberly melon, Johnny food.
-- Owed to me: Billy's sticks.
-- Enderman about 10 blocks west of the row. Do not look at it; stay in the group.
-- Next: on waking, eat if hunger is under 15. Join a cow or food hunt only when Fogg or Lara is in sight.
+- Owed to me: Billy's sticks. Cleopatra's 6 planks are offered to Lara, not to me.
+- Next: on waking, eat if hunger is under 15. Ask the weakest holder by name (Trini first, then Gimli). Keep to the group's sight.

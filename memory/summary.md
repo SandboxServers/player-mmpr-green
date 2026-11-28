@@ -1,16 +1,16 @@
-# Summary (end of day 1178, asleep at bed -944,73,-3047 in the row)
+# Summary (end of day 1187, asleep at the bed row near -973,73,-3047)
 
-At bed -944,73,-3047. Health 20, hunger 20, no food. Holding wooden sword, plus one spare wooden sword.
+At the bed row. Health 20, hunger 20, no food. Two wooden swords in pack, none equipped (clicking a bed to equip fails).
 
 ## What matters
-- Stay in the group's sight at the bed row. Walk only in company, and step into the leader's sight myself.
-- An enderman roams the row. Do not look at it; keep away and stay with the group.
-- Food is scarce. Zack and Hatshepsut are the hungriest; meat and melon go to the weakest first.
-- Melon hunt is south-east near -884,66,-2922 with Trini, Magellan, Clark and Sattler.
+- Stay in the group's sight at the bed row. Sleep in my bed at night.
+- An enderman roamed the row earlier. Do not look at it; keep away.
+- Food is scarce. Trini is the weakest holder; Gimli and Quark hold a little food. Serve the weakest first.
+- Indy's stone run went south-west with Zheng He, Marty, Lara, Sisko, Kat and Cleopatra.
 
 ## Owed
 - To me: Billy's sticks.
-- By me: MacDonald a potato. Wesley a spare wooden sword. Clark bread. Kimberly melon. Johnny food.
+- By me: MacDonald a potato. Wesley a sword. Clark bread. Kimberly melon. Johnny food.
 
 ## Next
-- Morning: eat if hunger under 15, then join the next cow or food group in sight, and repay debts when I can reach the person.
+- Morning: eat if hunger under 15, asking the weakest by name. Repay debts when I can reach the person. Equip a wooden sword by a method other than clicking a bed.
