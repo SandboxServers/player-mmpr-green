@@ -1,8 +1,8 @@
-# Goals (ranked, end of day 1213)
+# Goals (end of day 1215), ranked
 
-1. Eat first: keep hunger healthy; when under 15, ask Trini for food.
-2. Stay in the group's sight; walk only legs Trini names with company. Being alone is how I get hurt.
-3. Repay my debts: potato to MacDonald, sword to Wesley, bread to Clark, melon to Kimberly, food to Johnny.
-4. Collect Billy's 2 sticks when he is alone with me.
-5. Learn the world with the group: water, cows, what the beds and signs do. Share what I learn.
-6. Keep a sword in hand while in sight (done today).
+1. Stay safe and in the group's sight. Trini has said nobody walks alone, and my first walk alone would be the risk.
+2. Find water and cows. Both are still missing, and the group needs them. Walk only the legs Trini names, with company.
+3. Keep my food and health up. Eat under hunger 15, asking Trini first.
+4. Pay my debts: MacDonald a potato, Wesley a sword, Clark bread, Kimberly melon, Johnny food. Each one builds trust.
+5. Collect the 2 sticks Billy owes me, when he is alone with me and names himself.
+6. Learn what beds and signs do here, and share what I learn with the group.
