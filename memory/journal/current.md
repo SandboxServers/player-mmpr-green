@@ -78,3 +78,10 @@
 - 06:31 act: {"say":"Billy, Tommy here, alone with you within reach now? If so, my 2 sticks, please. I hold no food, hunger 20."}
 - 06:56 act: {"intent":{"goal":"rest_at_row","program":"rest","arguments":{"place":"bed_row","at":{"x":-960,"y":73,"z":-3047}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
 - 06:56 act: {"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operations":16}}}
+- 06:56 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3050}},{"do":"use","at":{"x":-946,"y":73,"z":-3049},"item":"wooden_sword"}],"say":"Tommy, morning 1203. Hunger full, so no food needed. Trying t
+- 06:56 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3048}}],"say":"Tommy, day 1203. The crafting table did not put a sword in my hand, so I will not try it again. Billy, you are hungry; I hold no 
+- 07:05 act: {"actions":[],"say":"Waiting here at the row in sight of you all. Hunger is full, so I take no food. Billy, when you stand alone within reach, I will name myself for my 2 sticks."}
+- 07:09 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3048}}],"intent":{"goal":"rest_at_row","program":"rest","arguments":{"at":{"x":-957,"y":73,"z":-3048}},"wake_on":["directly_addressed","precondi
+- 07:09 act: {"actions":[],"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":120
+- 07:21 act: {"say":"Tommy, morning 1204 at the row in sight. Health and hunger 20. Billy, I still wait for my 2 sticks when you stand alone with me.","actions":[]}
+- 07:33 act: {"say":"Tommy, dusk 1205. Health and hunger 20, no food. Sleeping at the row in the group's sight. Billy, the 2 sticks when you stand alone with me.","actions":[{"do":"sleep"}]}
