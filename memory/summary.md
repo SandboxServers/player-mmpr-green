@@ -1,6 +1,6 @@
-# Summary (end of day 1207, asleep at the bed row near -956,73,-3047)
+# Summary (end of day 1207, asleep at the bed row near -954,73,-3048)
 
-I am Tommy Oliver. At the bed row. Health 20, hunger 20, no food held. Two wooden swords in pack, none in hand.
+I am Tommy Oliver. Health 20, hunger 20, no food held. Two wooden swords in pack, none in hand.
 
 ## What matters
 - Stay in the group's sight at the row. Sleep there at night.
@@ -12,4 +12,4 @@ I am Tommy Oliver. At the bed row. Health 20, hunger 20, no food held. Two woode
 
 ## Next
 - Morning: wait in sight, eat if needed, look for Billy alone.
-- Try a new way to put a wooden sword in hand.
+- Try a new way to put a wooden sword in hand (the table did not work; try a plain block or another person).
