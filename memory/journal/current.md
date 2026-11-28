@@ -24,3 +24,12 @@
 - 02:41 act: {"actions":[{"do":"use","at":{"x":-950,"y":73,"z":-3048}}]}
 - 02:41 act: {"actions":[{"do":"note","text":"Night 1190: bed use failed again on two beds at the row ('that block is a bed'). Beds here will not take my sleep. Day again now. Staying in sight; will not force the 
 - 02:46 act: {"actions":[{"do":"note","text":"Day 1191 morning at the bed row. Health and hunger 20. Crowd still within 2 blocks of Billy, so I will not ask for the sticks yet. Staying in sight; I will eat only wh
+- 02:55 act: {"say":"Tommy, morning 1191. Health and hunger 20. Billy, I will take my sticks when we stand alone. Zack, I will walk with you for Jason and Kimberly once you are in my sight.","intent":{"goal":"hold
+- 02:55 act: {"say":"Zack, I am coming with you and Trini in daylight, company only. Lead the way.","intent":{"goal":"search_with_zack","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_a
+- 02:56 act: {"say":"Trini, I am staying in your sight at the row. Zack, I am here, ready to go when you say."}
+- 02:56 act: {"say":"Zack, walking west with you and Trini, staying in your sight.","intent":{"goal":"walk_west_with_zack","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","pr
+- 02:57 act: {"say":"Tommy here, at the bed row with my two swords. Zack, Trini, I'm holding by the beds. Tell me when you're in sight and I'll come.","intent":{"goal":"follow_trini","program":"follow","arguments"
+- 02:57 act: {"say":"Trini, I'm here at the beds, in reach of you. Zack, I'll wait here for you both. I'm not hungry, so the melon stays with whoever needs it."}
+- 03:06 act: {"actions":[{"do":"goto","target":{"x":-962,"y":73,"z":-3049}},{"do":"use","at":{"x":-962,"y":73,"z":-3048}}],"say":"Tommy, dusk 1192, going to the bed at -962,73,-3048 in the group's sight."}
+- 03:06 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3049}},{"do":"use","at":{"x":-960,"y":73,"z":-3048}}]}
+- 03:06 act: {"say":"Tommy, night 1192. Trying a bed farther along the row at -955,73,-3048, in the group's sight. Placing nothing.","actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3049}},{"do":"use","at":{
