@@ -3,3 +3,12 @@
 - 01:39 act: {"say":"Tommy, here. Billy, I am coming to you for the 2 sticks.","actions":[{"do":"goto","target":"ag_billy_01"}]}
 - 01:39 act: {"say":"Tommy, in your reach now, Billy. Please hand me the 2 sticks you owe.","actions":[{"do":"wait","seconds":5}]}
 - 01:40 act: {"say":"Tommy, here, alone, two blocks clear. Billy, hand over the 2 sticks.","actions":[{"do":"goto","target":{"x":-942,"y":73,"z":-3044}}]}
+- 01:47 act: {"say":"Tommy, alone two blocks clear of the crowd at -942, 72, -3044. Billy, I am here for the 2 sticks you owe.","actions":[{"do":"wait","seconds":10}]}
+- 01:47 act: {"say":"Tommy, trying to hold my wooden sword at the crafting table. Billy, still waiting for my 2 sticks.","actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3048}},{"do":"use","at":{"x":-946,"y"
+- 01:47 act: {"say":"Tommy, alone with you now in your reach, Billy. Please hand me the 2 sticks you owe.","actions":[{"do":"wait","seconds":10}]}
+- 01:48 act: {"say":"Tommy, stepping two blocks clear of the crowd again. Billy, I am alone here, Tommy, waiting for my 2 sticks.","actions":[{"do":"goto","target":{"x":-942,"y":72,"z":-3044}},{"do":"wait","second
+- 01:48 act: {"say":"Tommy, going to my bed at the bed row in the group's sight for the night.","actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}]}
+- 01:51 act: {"say":"Tommy, night 1188, going to my bed at the bed row in the group's sight. Placing nothing.","actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}]}
+- 01:51 act: {"say":"Tommy, bed use failed again. It is still day, so I will wait for night before trying a bed.","intent":{"goal":"await_dusk_then_bed","program":"rest","arguments":{},"wake_on":["directly_address
+- 02:03 act: {"say":"Tommy, night 1188, trying the bed at -948,73,-3048 in the group's sight. Placing nothing.","actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3049}},{"do":"use","at":{"x":-948,"y":73,"z":-
+- 02:04 act: {"say":"Tommy, night 1188. Sleeping at the bed row in the group's sight. Sticks from Billy still owed.","actions":[]}
